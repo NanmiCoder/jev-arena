@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="assets/readme/hero-3d.png" width="100%" alt="Jev Arena：同一批评论进入绿蓝两条模型处理轨道的 3D 示意图">
+</p>
+
 # Jev Arena
 
-**同一批评论，两侧模型，逐条对比。** 导入 CSV / Excel，观察模型打标的速度、结果和费用，再随时回放。
+**同一批评论，两侧模型，逐条对比。** 导入 CSV / Excel，配置两侧 API，实时观察打标速度、标签和费用，保存后随时回放。
 
 ![一万条评论对决的前 20 秒：通过回放按钮以 1 倍速录制，左侧 Jev 与右侧 DeepSeek 的实时处理进度](assets/readme/demo.gif)
 
