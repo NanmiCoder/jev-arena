@@ -147,4 +147,4 @@ npm test
 
 欢迎通过 [Issues](https://github.com/NanmiCoder/jev-arena/issues) 反馈兼容性问题，注明协议、模型 ID 和脱敏报错；请勿粘贴 API Key 或私人评论。
 
-仓库公开提供代码、演示样本和报告，**尚未指定开源许可证**。评论内容归原作者与原平台；模板来源及许可状态见 [模板说明](report/vendor/voxagent/README.md)。
+项目代码、文档及内置报告模板采用 [MIT License](LICENSE)。演示中的第三方评论内容归原作者与原平台，不包含在本项目的 MIT 授权范围内；模板来源及第三方依赖说明见 [模板说明](report/vendor/voxagent/README.md)。

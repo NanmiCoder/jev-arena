@@ -24,4 +24,4 @@ node report/vendor/voxagent/rebuild.mjs
 
 ## 许可说明
 
-模板由本项目所有者授权从其 VoxAgent 项目纳入。本次提取未发现上游仓库 LICENSE 文件，因此此目录**不擅自添加 MIT 或其他开源授权声明**；正式公开发布时应由权利人统一明确许可。React、React DOM、Zod 为独立 npm 依赖，其各自 LICENSE 随 npm 安装包保留。
+模板由本项目所有者授权从其 VoxAgent 项目纳入，并以本仓库的 [MIT License](../../../LICENSE) 发布。此说明适用于本仓库中的模板副本，不改变外部 VoxAgent 仓库的许可状态。React、React DOM、Zod 为独立 npm 依赖，其各自 LICENSE 随 npm 安装包保留。
