@@ -1,0 +1,23 @@
+{
+  "name": "jev-arena",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Jev vs DeepSeek 全量评论打标对决场",
+  "dependencies": {
+    "dotenv": "^18.0.1",
+    "exceljs": "^4.4.0"
+  },
+  "scripts": {
+    "start": "node src/server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "overrides": {
+    "exceljs": {
+      "uuid": "11.1.1"
+    }
+  }
+}

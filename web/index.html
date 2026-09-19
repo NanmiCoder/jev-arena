@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jev Arena · 评论模型对比</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div class="app">
+
+  <!-- ── 顶栏 ─────────────────────────────────────────────── -->
+  <header class="topbar">
+    <div class="topbar-side">
+      <div class="brand">JEV<span class="brand-sep">·</span>ARENA</div>
+      <div class="brand-sub">中文评论打标 · 左右对决</div>
+    </div>
+
+    <div class="topbar-center">
+      <label class="run-limit">本次条数 <input id="runLimit" type="number" value="20" min="1" step="1"></label>
+      <button id="startBtn" class="btn" type="button">开始对决</button>
+      <div class="dataset" id="dataset">
+        <div class="dataset-row">
+          <span class="dataset-total"><b id="dsTotal">—</b> 条评论</span>
+          <span class="dataset-sep"></span>
+          <span class="dataset-src" id="dsSource">数据集读取中…</span>
+        </div>
+        <div class="dataset-row dataset-platforms" id="dsPlatforms"></div>
+      </div>
+    </div>
+
+    <div class="topbar-side topbar-side--right">
+      <div class="conn" id="conn" data-state="connecting">
+        <span class="conn-dot"></span><span class="conn-text" id="connText">连接中…</span>
+      </div>
+      <div class="runid" id="runId">run —</div>
+    </div>
+  </header>
+
+  <!-- ── 回放控制条（录屏用；embed=1 时整条隐藏）──────────────
+       回放只读 runs/<runId>/events.jsonl，不会发起任何模型调用。 -->
+  <div class="replaybar" id="replayBar">
+    <span class="replaybar-title">回放</span>
+    <select class="replay-select" id="replayRun" aria-label="选择录像" title="选择要回放的录像">
+      <option value="">录像列表加载中…</option>
+    </select>
+    <button class="btn btn--replay" id="replayBtn" type="button">播放</button>
+    <label class="replaybar-speed">倍速
+      <select class="replay-select" id="replaySpeed" aria-label="回放倍速" title="回放中途也可切换">
+        <option value="1">1×</option>
+        <option value="5">5×</option>
+        <option value="10">10×</option>
+        <option value="20">20×</option>
+        <option value="50">50×</option>
+        <option value="100">100×</option>
+      </select>
+    </label>
+    <span class="replaybar-status" id="replayStatus"></span>
+  </div>
+
+  <!-- 回放角标：fixed 定位，embed=1 时也保留 —— 画面必须对观众诚实 -->
+  <div class="replay-badge" id="replayBadge" hidden>
+    <span class="replay-badge-dot"></span>
+    <span id="replayBadgeText">回放</span>
+    <b id="replayBadgeSpeed"></b>
+  </div>
+
+  <!-- ── 完成横幅（覆盖层，出现时不挤动布局）──────────────── -->
+  <div class="banner" id="banner" role="status">
+    <div class="banner-main">
+      <span class="banner-side banner-side--jev">
+        <span class="banner-who">左道 <b id="bannerJevName">Jev</b></span>
+        <span class="banner-val" id="bannerJevVal">—</span>
+      </span>
+      <span class="banner-dash">——</span>
+      <span class="banner-side banner-side--deepseek">
+        <span class="banner-who">右道 <b id="bannerDsName">DeepSeek</b></span>
+        <span class="banner-val" id="bannerDsVal">—</span>
+      </span>
+    </div>
+    <div class="banner-foot">
+      <span class="banner-sub" id="bannerSub"></span>
+      <a class="banner-link" id="bannerLink" href="/api/report" target="_blank" rel="noopener">查看报告 →</a>
+    </div>
+    <button class="banner-close" id="bannerClose" type="button" aria-label="关闭横幅">×</button>
+  </div>
+
+  <!-- ── 分屏竞技场 ───────────────────────────────────────── -->
+  <main class="arena">
+    <section class="lane" data-lane="jev" id="lane-jev"></section>
+    <div class="divider" aria-hidden="true"></div>
+    <section class="lane" data-lane="deepseek" id="lane-deepseek"></section>
+  </main>
+
+  <!-- ── 底部提示（错误事件）──────────────────────────────── -->
+  <div class="toast" id="toast" role="alert"></div>
+</div>
+
+<!-- 单侧泳道模板：两条道结构完全一致，保证左右对称 -->
+<template id="laneTemplate">
+  <div class="lane-head">
+    <span class="status-dot"></span>
+    <h2 class="lane-name"></h2>
+    <span class="lane-model"></span>
+    <span class="lane-state">未开始</span>
+  </div>
+
+  <div class="metrics">
+    <div class="metric metric--done">
+      <div class="metric-label">已处理</div>
+      <div class="metric-value"><span class="num">0</span></div>
+    </div>
+    <div class="metric metric--time">
+      <div class="metric-label">已用时</div>
+      <div class="metric-value"><span class="num">00:00</span></div>
+    </div>
+    <div class="metric metric--cost">
+      <div class="metric-label">已花费 USD</div>
+      <div class="metric-value"><span class="num">$0.000000</span></div>
+    </div>
+    <div class="metric metric--cps">
+      <div class="metric-label">每秒条数</div>
+      <div class="metric-value"><span class="num">0.0</span></div>
+    </div>
+  </div>
+
+  <div class="progress-row">
+    <div class="progress"><div class="progress-fill"></div></div>
+    <span class="progress-pct">0.0%</span>
+  </div>
+
+  <div class="feed" role="log" aria-live="off"></div>
+
+  <div class="lane-foot">
+    <span class="foot-stat foot-stat--err">失败 0</span>
+    <span class="foot-dot">·</span>
+    <span class="foot-stat foot-stat--retry">重试 0</span>
+    <span class="foot-dot">·</span>
+    <span class="foot-stat foot-stat--norm">归一 0</span>
+    <span class="foot-dot">·</span>
+    <span class="foot-stat foot-stat--tokens">tokens 0 / 0</span>
+    <span class="foot-msg"></span>
+  </div>
+</template>
+
+<script type="module" src="./app.js"></script>
+<script type="module" src="./setup.js"></script>
+</body>
+</html>
