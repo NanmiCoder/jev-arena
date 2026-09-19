@@ -836,17 +836,19 @@ function showBanner(stopped) {
   const jc = j.stats.costUsd;
   const dc = d.stats.costUsd;
   const parts = [];
-  if (jm > 0 && dm > 0) {
+  const complete = [j, d].every(lane => lane.total > 0 && lane.stats.done + lane.stats.failed >= lane.total);
+  if (complete && jm > 0 && dm > 0) {
     const diffS = Math.abs(jm - dm) / 1000;
     if (diffS >= 0.1) parts.push(`${jm <= dm ? j.name : d.name} 快 ${diffS.toFixed(1)} 秒`);
   }
-  if (jc > 0 || dc > 0) {
+  if (complete && (jc > 0 || dc > 0)) {
     const diffC = Math.abs(jc - dc);
     if (diffC > 0) parts.push(`${jc <= dc ? j.name : d.name} 便宜 ${fmtUsd(diffC)}`);
   }
+  if (!complete) parts.push('当前为部分进度，最终对比请查看完整报告');
   if (stopped) parts.unshift('已手动停止');
   el.bannerSub.textContent = parts.join(' · ');
-  el.bannerLink.href = '/api/report';
+  el.bannerLink.href = '/report?runId=' + encodeURIComponent((replayIntent ? replayState.runId || REPLAY_PARAM : run.runId) || '');
   el.banner.classList.add('is-on');
 }
 
@@ -1066,6 +1068,7 @@ async function loadRuns() {
     }
     const want = REPLAY_PARAM || prev;
     if (want && runs.some((r) => r.runId === want)) el.replayRun.value = want;
+    updateReplayReportLink();
   } catch {
     toast('录像列表加载失败');
   }
@@ -1187,3 +1190,12 @@ connectSSE();
 refreshState();
 setInterval(tick, TICK_MS);
 setInterval(() => { if (!sseOpen) refreshState(); }, STATE_POLL_MS);
+
+function updateReplayReportLink() {
+  const link = document.querySelector('#replayReportLink');
+  if (!link) return;
+  const id = el.replayRun.value;
+  link.hidden = !id;
+  link.href = '/report?runId=' + encodeURIComponent(id);
+}
+el.replayRun.addEventListener('change', updateReplayReportLink);

@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtemp, readFile, rm } from 'node:fs/promises';
+import { mkdtemp, mkdir, readFile, writeFile, rm } from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 import http from 'node:http';
@@ -72,6 +72,36 @@ test('20 条双侧运行、上传、费用、录像回放均使用本地模拟�
     assert.equal(state.lanes[0].failed, 0); assert.equal(state.lanes[0].model, 'left-model');
     const events = await readFile(path.join(root, started.data.runId, 'events.jsonl'), 'utf8');
     assert.ok(!events.includes('test-secret')); assert.ok(events.includes('left-model'));
+    const callsBeforeReport = calls;
+    const demo = await api('/api/report?runId=0919-124001');
+    assert.equal(demo.status, 200);
+    assert.equal(demo.data.analysis.paired, 10000);
+    assert.deepEqual(demo.data.artifacts, { jev: true, deepseek: true });
+    for (const lane of ['jev', 'deepseek']) {
+      const saved = await fetch(base + '/api/report/artifact?runId=0919-124001&lane=' + lane);
+      assert.equal(saved.status, 200);
+      assert.match(saved.headers.get('content-type'), /text\/html/);
+      assert.match(await saved.text(), /<!doctype html/i);
+    }
+    assert.equal(calls, callsBeforeReport);
+    const reportResult = await api('/api/report?runId=' + started.data.runId);
+    assert.equal(reportResult.status, 200);
+    assert.equal(reportResult.data.analysis.paired, 20);
+    assert.equal(reportResult.data.analysis.lanes[0].sentiment.positive, 20);
+    assert.equal((await api('/api/report?runId=..%2F..')).status, 400);
+    assert.equal((await api('/api/report?runId=0101-000000')).status, 404);
+    await mkdir(path.join(root,'0101-000000'));
+    await writeFile(path.join(root,'0101-000000','report.json'),JSON.stringify({runId:'0101-000000',lanes:[],marker:'specific-old-run'}));
+    assert.equal((await api('/api/report?runId=0101-000000')).data.marker,'specific-old-run');
+    const reportPage=await fetch(base+'/report?runId='+started.data.runId);
+    assert.match(reportPage.headers.get('content-type'),/text\/html/);
+    assert.match(await reportPage.text(),/report.js/);
+
+    assert.equal((await api('/api/report/artifact?runId='+started.data.runId+'&lane=other')).status, 400);
+    await writeFile(path.join(root,started.data.runId,'report.jev.html'), '<h1>Saved VoxAgent report</h1>');
+    const artifact=await fetch(base+'/api/report/artifact?runId='+started.data.runId+'&lane=jev');
+    assert.equal(artifact.status,200);assert.match(artifact.headers.get('content-type'),/text\/html/);
+    assert.match(await artifact.text(),/Saved VoxAgent/);
     const callsBefore = calls; assert.equal(callsBefore, 4);
     assert.equal((await api('/api/replay', { runId: started.data.runId, speed: 1000 })).status, 200);
     for (let i = 0; i < 100; i++) { if (!(await api('/api/state')).data.replaying) break; await new Promise(r => setTimeout(r, 20)); }

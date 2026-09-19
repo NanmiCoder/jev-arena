@@ -1,0 +1,920 @@
+{
+  "runId": "0919-124001",
+  "runDir": "runs/0919-124001",
+  "generatedAt": "2026-09-19T05:45:32.967Z",
+  "status": "finished",
+  "stopped": null,
+  "dataset": {
+    "path": "examples/demo/0919-124001/comments.csv",
+    "total": 10000,
+    "rowsInRun": 10000,
+    "fingerprint": "3c1e7621e3d78a4f",
+    "platforms": {
+      "bili": 5783,
+      "dy": 1691,
+      "xhs": 1321,
+      "reddit": 755,
+      "twitter": 399,
+      "v2ex": 51
+    },
+    "platformText": "bili=5783 dy=1691 xhs=1321 reddit=755 twitter=399 v2ex=51",
+    "loaded": true
+  },
+  "lanes": {
+    "jev": {
+      "id": "jev",
+      "label": "Jev",
+      "model": "typesafe/jev-1.13",
+      "summary": {
+        "id": "jev",
+        "label": "Jev",
+        "model": "typesafe/jev-1.13",
+        "total": 10000,
+        "done": 10000,
+        "failed": 0,
+        "resumed": 0,
+        "elapsedMs": 203207,
+        "costUsd": 0.83880615,
+        "tokensIn": 19971575,
+        "tokensOut": 6421719,
+        "reasoningTokens": 0,
+        "cps": 49.21,
+        "avgMs": 2139,
+        "p95Ms": 5610
+      }
+    },
+    "deepseek": {
+      "id": "deepseek",
+      "label": "DeepSeek Flash",
+      "model": "deepseek-flash",
+      "summary": {
+        "id": "deepseek",
+        "label": "DeepSeek Flash",
+        "model": "deepseek-flash",
+        "total": 10000,
+        "done": 10000,
+        "failed": 0,
+        "resumed": 0,
+        "elapsedMs": 823503,
+        "costUsd": 1.5004424,
+        "tokensIn": 1227074,
+        "tokensOut": 2274125,
+        "reasoningTokens": 1552313,
+        "cps": 12.14,
+        "avgMs": 9447,
+        "p95Ms": 14199
+      }
+    }
+  },
+  "coverage": {
+    "total": 10000,
+    "lanes": {
+      "jev": {
+        "success": 10000,
+        "failed": 0,
+        "failureEvents": 0,
+        "repeatedFailureIds": 0,
+        "notRun": 0,
+        "accounted": 10000,
+        "successRate": 100,
+        "failedRate": 0
+      },
+      "deepseek": {
+        "success": 10000,
+        "failed": 0,
+        "failureEvents": 0,
+        "repeatedFailureIds": 0,
+        "notRun": 0,
+        "accounted": 10000,
+        "successRate": 100,
+        "failedRate": 0
+      }
+    },
+    "paired": 10000,
+    "pairedOfTotalRate": 100,
+    "pairedOfSuccessRate": {
+      "jev": 100,
+      "deepseek": 100
+    },
+    "denominatorWarning": null,
+    "note": "failureEvents 含二分重试后逐条记账的失败；repeatedFailureIds = 失败事件数 − 失败条数，是「重试后仍失败」的下界。"
+  },
+  "time": {
+    "startedAt": "2026-09-19T04:40:01.577Z",
+    "finishedAt": "2026-09-19T04:53:45.152Z",
+    "wallMs": 823575,
+    "wallSec": 823.575,
+    "lanes": {
+      "jev": {
+        "startedAt": "2026-09-19T04:40:01.577Z",
+        "finishedAt": "2026-09-19T04:43:24.784Z",
+        "durationMs": 203207,
+        "durationSec": 203.207,
+        "eventCount": 10485
+      },
+      "deepseek": {
+        "startedAt": "2026-09-19T04:40:01.594Z",
+        "finishedAt": "2026-09-19T04:53:45.080Z",
+        "durationMs": 823486,
+        "durationSec": 823.486,
+        "eventCount": 10868
+      }
+    },
+    "firstFinished": "jev",
+    "fasterLane": "jev",
+    "fasterRatio": 4.052,
+    "note": "每道的起止取 events.jsonl 中该道首/末事件的 t；两道并行跑，各自墙钟独立计时。"
+  },
+  "money": {
+    "fx": {
+      "usdToCny": 7.1,
+      "note": "人民币金额仅用于展示，汇率写死为 7.1。"
+    },
+    "lanes": {
+      "jev": {
+        "costUsd": 0.8388047,
+        "costCny": 5.95551337,
+        "success": 10000,
+        "avgUsd": 0.00008388,
+        "avgCny": 0.00059555,
+        "costSourceCounts": {
+          "openrouter-usage": 10000
+        },
+        "missingCostSource": 0
+      },
+      "deepseek": {
+        "costUsd": 1.50044911,
+        "costCny": 10.65318868,
+        "success": 10000,
+        "avgUsd": 0.00015004,
+        "avgCny": 0.00106532,
+        "costSourceCounts": {
+          "local-pricing": 10000
+        },
+        "missingCostSource": 0,
+        "rateCounts": {
+          "off-peak（高峰价的一半）": 10000
+        }
+      }
+    },
+    "reconcile": {
+      "jev": {
+        "eventCostUsd": 0.8388047,
+        "labelCostUsd": 0.8388047,
+        "diffUsd": 0,
+        "consistent": true
+      },
+      "deepseek": {
+        "eventCostUsd": 1.50044911,
+        "labelCostUsd": 1.50044911,
+        "diffUsd": 0,
+        "consistent": true
+      }
+    },
+    "cheaperLane": "jev",
+    "cheaperRatioByAvg": 1.789,
+    "basis": {
+      "jev": "OpenRouter 响应里的 usage.cost（真实账单），逐条累加 label.meta.costUsd；不用单价表。",
+      "deepseek": "接口不返回费用，按 pricing.mjs 的官方单价本地计算（cache hit/miss 分开计价），逐条累加 label.meta.costUsd。"
+    },
+    "peak": {
+      "atRunStart": false,
+      "labelAtRunStart": "off-peak（高峰价的一半）",
+      "observedRateCounts": {
+        "off-peak（高峰价的一半）": 10000
+      }
+    },
+    "note": "对比用单条均价，分母分别为两道各自成功条数；比率 = 贵的一方均价 ÷ 便宜的一方均价。"
+  },
+  "speed": {
+    "lanes": {
+      "jev": {
+        "success": 10000,
+        "durationMs": 203207,
+        "durationSec": 203.207,
+        "cps": 49.211,
+        "avgLatencyMs": 2139,
+        "p50Ms": 1550,
+        "p95Ms": 5610,
+        "latencySamples": 10000,
+        "failed": 0,
+        "failureEvents": 0,
+        "retriedThenFailed": 0
+      },
+      "deepseek": {
+        "success": 10000,
+        "durationMs": 823486,
+        "durationSec": 823.486,
+        "cps": 12.143,
+        "avgLatencyMs": 9447,
+        "p50Ms": 8859,
+        "p95Ms": 14199,
+        "latencySamples": 10000,
+        "failed": 0,
+        "failureEvents": 0,
+        "retriedThenFailed": 0
+      }
+    },
+    "fasterThroughputLane": "jev",
+    "throughputRatio": 4.053,
+    "note": "延迟口径：label.meta.latencyMs 是「该条所在批次的往返耗时」，同一批内的条目共享同一个值；P50/P95 的分母是该道成功条数。重试次数未单独记账（二分会重发请求但不发事件），只能给出重试后仍失败条数。"
+  },
+  "effect": {
+    "paired": 10000,
+    "pairedDenominator": "两道都成功且 comment_id 相同的 10000 条",
+    "fields": {
+      "is_relevant": {
+        "label": "相关性判断",
+        "agree": 8939,
+        "total": 10000,
+        "rate": 89.39
+      },
+      "sentiment": {
+        "label": "情感极性",
+        "agree": 7359,
+        "total": 10000,
+        "rate": 73.59
+      },
+      "intent": {
+        "label": "意图",
+        "agree": 6785,
+        "total": 10000,
+        "rate": 67.85
+      },
+      "sentiment_score": {
+        "label": "情感分数（容差内一致）",
+        "tolerance": 0.25,
+        "agree": 7851,
+        "total": 10000,
+        "rate": 78.51,
+        "looseTolerance": 0.5,
+        "looseAgree": 9580,
+        "looseRate": 95.8,
+        "meanAbsDiff": 0.1613,
+        "maxAbsDiff": 1.41
+      },
+      "aspects": {
+        "label": "维度标签（aspects）",
+        "comparable": false,
+        "mechanismNote": "两边列举机制不同（固定维度集合逐个判定 vs 自由列举），此数字是仪器差异而非准确度。",
+        "meanJaccard": 0.347,
+        "exactMatch": 1605,
+        "total": 10000,
+        "exactRate": 16.05
+      },
+      "emotion": {
+        "label": "情绪标签（emotion）",
+        "comparable": false,
+        "mechanismNote": "两边列举机制不同（固定维度集合逐个判定 vs 自由列举），此数字是仪器差异而非准确度。",
+        "meanJaccard": 0.6235,
+        "exactMatch": 5058,
+        "total": 10000,
+        "exactRate": 50.58
+      }
+    },
+    "conditionalBothRelevant": {
+      "bothRelevant": 7846,
+      "sentiment": {
+        "label": "情感极性（双方都判相关）",
+        "agree": 6024,
+        "total": 7846,
+        "rate": 76.78
+      },
+      "intent": {
+        "label": "意图（双方都判相关）",
+        "agree": 5598,
+        "total": 7846,
+        "rate": 71.35
+      },
+      "sentiment_score": {
+        "label": "情感分数容差内（双方都判相关）",
+        "tolerance": 0.25,
+        "agree": 6347,
+        "total": 7846,
+        "rate": 80.89
+      }
+    },
+    "distributions": {
+      "sentiment": {
+        "jev": {
+          "neutral": 4233,
+          "positive": 2659,
+          "negative": 2612,
+          "mixed": 496
+        },
+        "deepseek": {
+          "neutral": 5302,
+          "positive": 2223,
+          "negative": 1785,
+          "mixed": 690
+        }
+      },
+      "relevance": {
+        "jev": {
+          "true": 8204,
+          "false": 1796,
+          "total": 10000
+        },
+        "deepseek": {
+          "true": 8549,
+          "false": 1451,
+          "total": 10000
+        }
+      }
+    },
+    "quote": {
+      "jev": {
+        "present": 10000,
+        "verified": 10000,
+        "total": 10000,
+        "sourceCounts": {
+          "host": 10000
+        }
+      },
+      "deepseek": {
+        "present": 9841,
+        "verified": 9841,
+        "total": 10000,
+        "sourceCounts": {
+          "model": 10000
+        }
+      }
+    },
+    "note": "所有 rate 的分母都是 paired；conditionalBothRelevant 的分母是其中双方都判 is_relevant=true 的条数。aspects/emotion 的 Jaccard 因两边产出机制不同源，标为 comparable:false，只作仪器差异展示，不是准确度指标。"
+  },
+  "platformCross": [
+    {
+      "platform": "bili",
+      "paired": 5783,
+      "jevSentiment": {
+        "positive": 1393,
+        "negative": 1467,
+        "neutral": 2625,
+        "mixed": 298,
+        "other": 0
+      },
+      "deepseekSentiment": {
+        "positive": 1108,
+        "negative": 1042,
+        "neutral": 3219,
+        "mixed": 414,
+        "other": 0
+      },
+      "sentimentAgreement": {
+        "agree": 4229,
+        "total": 5783,
+        "rate": 73.13
+      }
+    },
+    {
+      "platform": "dy",
+      "paired": 1691,
+      "jevSentiment": {
+        "positive": 458,
+        "negative": 502,
+        "neutral": 677,
+        "mixed": 54,
+        "other": 0
+      },
+      "deepseekSentiment": {
+        "positive": 382,
+        "negative": 295,
+        "neutral": 912,
+        "mixed": 102,
+        "other": 0
+      },
+      "sentimentAgreement": {
+        "agree": 1217,
+        "total": 1691,
+        "rate": 71.97
+      }
+    },
+    {
+      "platform": "xhs",
+      "paired": 1321,
+      "jevSentiment": {
+        "positive": 346,
+        "negative": 403,
+        "neutral": 522,
+        "mixed": 50,
+        "other": 0
+      },
+      "deepseekSentiment": {
+        "positive": 285,
+        "negative": 275,
+        "neutral": 684,
+        "mixed": 77,
+        "other": 0
+      },
+      "sentimentAgreement": {
+        "agree": 972,
+        "total": 1321,
+        "rate": 73.58
+      }
+    },
+    {
+      "platform": "reddit",
+      "paired": 755,
+      "jevSentiment": {
+        "positive": 242,
+        "negative": 176,
+        "neutral": 277,
+        "mixed": 60,
+        "other": 0
+      },
+      "deepseekSentiment": {
+        "positive": 227,
+        "negative": 137,
+        "neutral": 326,
+        "mixed": 65,
+        "other": 0
+      },
+      "sentimentAgreement": {
+        "agree": 591,
+        "total": 755,
+        "rate": 78.28
+      }
+    },
+    {
+      "platform": "twitter",
+      "paired": 399,
+      "jevSentiment": {
+        "positive": 195,
+        "negative": 54,
+        "neutral": 122,
+        "mixed": 28,
+        "other": 0
+      },
+      "deepseekSentiment": {
+        "positive": 196,
+        "negative": 29,
+        "neutral": 150,
+        "mixed": 24,
+        "other": 0
+      },
+      "sentimentAgreement": {
+        "agree": 308,
+        "total": 399,
+        "rate": 77.19
+      }
+    },
+    {
+      "platform": "v2ex",
+      "paired": 51,
+      "jevSentiment": {
+        "positive": 25,
+        "negative": 10,
+        "neutral": 10,
+        "mixed": 6,
+        "other": 0
+      },
+      "deepseekSentiment": {
+        "positive": 25,
+        "negative": 7,
+        "neutral": 11,
+        "mixed": 8,
+        "other": 0
+      },
+      "sentimentAgreement": {
+        "agree": 42,
+        "total": 51,
+        "rate": 82.35
+      }
+    }
+  ],
+  "divergences": [
+    {
+      "comment_id": "6a6d8817000000000b038534",
+      "platform": "xhs",
+      "topic_title": "刚刚，DeepSeek-V4-Flash正式公测",
+      "content": "豪完了...",
+      "divergenceScore": 12,
+      "reasons": [
+        "相关性判断相反（Jev false / DeepSeek true）",
+        "情感不同（negative vs positive）",
+        "意图不同（joke vs praise）",
+        "情感分差 1.075",
+        "维度 Jaccard 0",
+        "情绪 Jaccard 0"
+      ],
+      "jev": {
+        "is_relevant": false,
+        "sentiment": "negative",
+        "sentiment_score": -0.575,
+        "intent": "joke",
+        "aspects": [],
+        "emotion": [
+          "担忧",
+          "失望"
+        ],
+        "evidence_quote": "豪完了...",
+        "evidenceSource": "host",
+        "quoteVerified": true
+      },
+      "deepseek": {
+        "is_relevant": true,
+        "sentiment": "positive",
+        "sentiment_score": 0.5,
+        "intent": "praise",
+        "aspects": [
+          "other"
+        ],
+        "emotion": [
+          "认可"
+        ],
+        "evidence_quote": "豪完了...",
+        "evidenceSource": "model",
+        "quoteVerified": true
+      }
+    },
+    {
+      "comment_id": "7669241511071122225",
+      "platform": "dy",
+      "topic_title": "这条视频里的人是我，但我根本没拍，也没剪。 DeepseekV4Flash正式版自主做视频能力实测。我只输入了一段提示词，DeepSeek V4 Flash 就自己找案例、写内容，再用 AI 数字人做完了整条视频。现在的 AI 做视频，这已经是基础操作了。#AI新星计划  #AI做视频 #DeepSeekV4 #AI数字人",
+      "content": "[比心][比心][赞][赞][赞]",
+      "divergenceScore": 11.55,
+      "reasons": [
+        "相关性判断相反（Jev true / DeepSeek false）",
+        "情感不同（positive vs neutral）",
+        "意图不同（praise vs other）",
+        "情感分差 0.775",
+        "维度 Jaccard 0",
+        "情绪 Jaccard 0"
+      ],
+      "jev": {
+        "is_relevant": true,
+        "sentiment": "positive",
+        "sentiment_score": 0.775,
+        "intent": "praise",
+        "aspects": [
+          "capability",
+          "usability"
+        ],
+        "emotion": [
+          "认可"
+        ],
+        "evidence_quote": "[比心][比心][赞][赞][赞]",
+        "evidenceSource": "host",
+        "quoteVerified": true
+      },
+      "deepseek": {
+        "is_relevant": false,
+        "sentiment": "neutral",
+        "sentiment_score": 0,
+        "intent": "other",
+        "aspects": [],
+        "emotion": [],
+        "evidence_quote": "[比心][比心][赞][赞][赞]",
+        "evidenceSource": "model",
+        "quoteVerified": true
+      }
+    },
+    {
+      "comment_id": "308415045521",
+      "platform": "bili",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "content": "幻方没钱？别逗你梁叔叔笑了",
+      "divergenceScore": 11.5,
+      "reasons": [
+        "相关性判断相反（Jev false / DeepSeek true）",
+        "情感不同（negative vs positive）",
+        "意图不同（joke vs disagreement）",
+        "情感分差 1.09",
+        "维度 Jaccard 0",
+        "情绪 Jaccard 0.5"
+      ],
+      "jev": {
+        "is_relevant": false,
+        "sentiment": "negative",
+        "sentiment_score": -0.69,
+        "intent": "joke",
+        "aspects": [],
+        "emotion": [
+          "调侃",
+          "质疑"
+        ],
+        "evidence_quote": "别逗你梁叔叔笑了",
+        "evidenceSource": "host",
+        "quoteVerified": true
+      },
+      "deepseek": {
+        "is_relevant": true,
+        "sentiment": "positive",
+        "sentiment_score": 0.4,
+        "intent": "disagreement",
+        "aspects": [
+          "trust"
+        ],
+        "emotion": [
+          "调侃"
+        ],
+        "evidence_quote": "幻方没钱？别逗你梁叔叔笑了",
+        "evidenceSource": "model",
+        "quoteVerified": true
+      }
+    },
+    {
+      "comment_id": "311892596080",
+      "platform": "bili",
+      "topic_title": "屎山论剑｜DeepSeekV4Flash：下一位！",
+      "content": "luna真区啊",
+      "divergenceScore": 11.5,
+      "reasons": [
+        "相关性判断相反（Jev false / DeepSeek true）",
+        "情感不同（positive vs negative）",
+        "意图不同（joke vs complaint）",
+        "情感分差 0.75",
+        "维度 Jaccard 0",
+        "情绪 Jaccard 0"
+      ],
+      "jev": {
+        "is_relevant": false,
+        "sentiment": "positive",
+        "sentiment_score": 0.15,
+        "intent": "joke",
+        "aspects": [],
+        "emotion": [
+          "调侃",
+          "认可"
+        ],
+        "evidence_quote": "luna真区啊",
+        "evidenceSource": "host",
+        "quoteVerified": true
+      },
+      "deepseek": {
+        "is_relevant": true,
+        "sentiment": "negative",
+        "sentiment_score": -0.6,
+        "intent": "complaint",
+        "aspects": [
+          "capability"
+        ],
+        "emotion": [
+          "失望"
+        ],
+        "evidence_quote": "luna真区啊",
+        "evidenceSource": "model",
+        "quoteVerified": true
+      }
+    },
+    {
+      "comment_id": "6a6cbdaa000000002b028df2",
+      "platform": "xhs",
+      "topic_title": "刚刚，DeepSeek-V4-Flash正式公测",
+      "content": "喷字儿像拉稀一样快",
+      "divergenceScore": 11.5,
+      "reasons": [
+        "相关性判断相反（Jev false / DeepSeek true）",
+        "情感不同（negative vs positive）",
+        "意图不同（joke vs praise）",
+        "情感分差 1.335",
+        "维度 Jaccard 0",
+        "情绪 Jaccard 0.5"
+      ],
+      "jev": {
+        "is_relevant": false,
+        "sentiment": "negative",
+        "sentiment_score": -0.535,
+        "intent": "joke",
+        "aspects": [],
+        "emotion": [
+          "调侃"
+        ],
+        "evidence_quote": "喷字儿像拉稀一样快",
+        "evidenceSource": "host",
+        "quoteVerified": true
+      },
+      "deepseek": {
+        "is_relevant": true,
+        "sentiment": "positive",
+        "sentiment_score": 0.8,
+        "intent": "praise",
+        "aspects": [
+          "performance"
+        ],
+        "emotion": [
+          "认可",
+          "调侃"
+        ],
+        "evidence_quote": "喷字儿像拉稀一样快",
+        "evidenceSource": "model",
+        "quoteVerified": true
+      }
+    },
+    {
+      "comment_id": "6a6d848a0000000015008357",
+      "platform": "xhs",
+      "topic_title": "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+      "content": "@程序猿方方",
+      "divergenceScore": 11.46,
+      "reasons": [
+        "相关性判断相反（Jev true / DeepSeek false）",
+        "情感不同（positive vs neutral）",
+        "意图不同（praise vs other）",
+        "情感分差 0.73",
+        "维度 Jaccard 0",
+        "情绪 Jaccard 0"
+      ],
+      "jev": {
+        "is_relevant": true,
+        "sentiment": "positive",
+        "sentiment_score": 0.73,
+        "intent": "praise",
+        "aspects": [
+          "performance",
+          "capability",
+          "service",
+          "content"
+        ],
+        "emotion": [
+          "惊喜",
+          "认可"
+        ],
+        "evidence_quote": "@程序猿方方",
+        "evidenceSource": "host",
+        "quoteVerified": true
+      },
+      "deepseek": {
+        "is_relevant": false,
+        "sentiment": "neutral",
+        "sentiment_score": 0,
+        "intent": "other",
+        "aspects": [
+          "other"
+        ],
+        "emotion": [],
+        "evidence_quote": "",
+        "evidenceSource": "model",
+        "quoteVerified": false
+      }
+    },
+    {
+      "comment_id": "7668913256529986304",
+      "platform": "dy",
+      "topic_title": "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+      "content": "[流泪]我好像确实落后于时代了 看评论区我都看不懂也没有使用的需求 只知道应该挺厉害的",
+      "divergenceScore": 11.3,
+      "reasons": [
+        "相关性判断相反（Jev false / DeepSeek true）",
+        "情感不同（negative vs neutral）",
+        "意图不同（complaint vs other）",
+        "情感分差 0.65",
+        "维度 Jaccard 0",
+        "情绪 Jaccard 0"
+      ],
+      "jev": {
+        "is_relevant": false,
+        "sentiment": "negative",
+        "sentiment_score": -0.5,
+        "intent": "complaint",
+        "aspects": [],
+        "emotion": [],
+        "evidence_quote": "[流泪]我好像确实落后于时代了   看评论区我都看不懂也没有使用的需求  只知道应该挺厉害的",
+        "evidenceSource": "host",
+        "quoteVerified": true
+      },
+      "deepseek": {
+        "is_relevant": true,
+        "sentiment": "neutral",
+        "sentiment_score": 0.15,
+        "intent": "other",
+        "aspects": [
+          "other"
+        ],
+        "emotion": [
+          "认可"
+        ],
+        "evidence_quote": "只知道应该挺厉害的",
+        "evidenceSource": "model",
+        "quoteVerified": true
+      }
+    },
+    {
+      "comment_id": "311829666176",
+      "platform": "bili",
+      "topic_title": "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+      "content": "哟西，这就是早起的鸟儿有虫吃吗？大家早上好呀[千恋万花表情包_丛雨Ciallo]",
+      "divergenceScore": 11.19,
+      "reasons": [
+        "相关性判断相反（Jev true / DeepSeek false）",
+        "情感不同（positive vs neutral）",
+        "意图不同（joke vs other）",
+        "情感分差 0.595",
+        "维度 Jaccard 0",
+        "情绪 Jaccard 0"
+      ],
+      "jev": {
+        "is_relevant": true,
+        "sentiment": "positive",
+        "sentiment_score": 0.595,
+        "intent": "joke",
+        "aspects": [],
+        "emotion": [
+          "调侃"
+        ],
+        "evidence_quote": "大家早上好呀[千恋万花表情包_丛雨Ciallo]",
+        "evidenceSource": "host",
+        "quoteVerified": true
+      },
+      "deepseek": {
+        "is_relevant": false,
+        "sentiment": "neutral",
+        "sentiment_score": 0,
+        "intent": "other",
+        "aspects": [
+          "other"
+        ],
+        "emotion": [],
+        "evidence_quote": "大家早上好呀",
+        "evidenceSource": "model",
+        "quoteVerified": true
+      }
+    },
+    {
+      "comment_id": "p0v323q",
+      "platform": "reddit",
+      "topic_title": "Weights of Deepseek v4 flash 0731 have been released!!!",
+      "content": "https://preview.redd.it/k7voh0ui7kgh1.jpeg?width=1073&format=pjpg&auto=webp&s=cff721322b76234f577fe73d3b4c281bf1dc9d34",
+      "divergenceScore": 11.11,
+      "reasons": [
+        "相关性判断相反（Jev true / DeepSeek false）",
+        "情感不同（positive vs neutral）",
+        "意图不同（information vs other）",
+        "情感分差 0.555",
+        "维度 Jaccard 0",
+        "情绪 Jaccard 0"
+      ],
+      "jev": {
+        "is_relevant": true,
+        "sentiment": "positive",
+        "sentiment_score": 0.555,
+        "intent": "information",
+        "aspects": [],
+        "emotion": [
+          "惊喜"
+        ],
+        "evidence_quote": "width=1073&format=pjpg&auto=webp&s=cff721322b76234f577fe73d3b4c281bf1dc9d34",
+        "evidenceSource": "host",
+        "quoteVerified": true
+      },
+      "deepseek": {
+        "is_relevant": false,
+        "sentiment": "neutral",
+        "sentiment_score": 0,
+        "intent": "other",
+        "aspects": [
+          "other"
+        ],
+        "emotion": [],
+        "evidence_quote": "",
+        "evidenceSource": "model",
+        "quoteVerified": false
+      }
+    },
+    {
+      "comment_id": "2083465973190053948",
+      "platform": "twitter",
+      "topic_title": "DeepSeek V4 Flash 0731 completed 100 deep research tasks for just $0.49! Around 1/120 the cost of Kimi K3 and 1/25 the cost of GLM 5.2.\n\nWe tested all three on DRACO by Perplexity, with Fable as the j",
+      "content": "@gmi_cloud wow",
+      "divergenceScore": 11.1,
+      "reasons": [
+        "相关性判断相反（Jev true / DeepSeek false）",
+        "情感不同（positive vs neutral）",
+        "意图不同（praise vs other）",
+        "情感分差 0.55",
+        "维度 Jaccard 0",
+        "情绪 Jaccard 0"
+      ],
+      "jev": {
+        "is_relevant": true,
+        "sentiment": "positive",
+        "sentiment_score": 0.55,
+        "intent": "praise",
+        "aspects": [
+          "price",
+          "comparison"
+        ],
+        "emotion": [
+          "惊喜",
+          "认可"
+        ],
+        "evidence_quote": "@gmi_cloud wow",
+        "evidenceSource": "host",
+        "quoteVerified": true
+      },
+      "deepseek": {
+        "is_relevant": false,
+        "sentiment": "neutral",
+        "sentiment_score": 0,
+        "intent": "other",
+        "aspects": [
+          "other"
+        ],
+        "emotion": [],
+        "evidence_quote": "wow",
+        "evidenceSource": "model",
+        "quoteVerified": true
+      }
+    }
+  ]
+}

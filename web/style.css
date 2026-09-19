@@ -549,3 +549,5 @@ body.embed .toast { display: none !important; }
   .replaybar { height: auto; flex-wrap: wrap; padding: 12px; }
   .metrics { grid-template-columns: 1fr 1fr; }
 }
+
+.replay-report-link { color: #e4c16b; font-size: 13px; white-space: nowrap; text-underline-offset: 4px; }

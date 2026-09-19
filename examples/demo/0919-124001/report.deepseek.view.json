@@ -1,0 +1,2835 @@
+{
+  "schema_version": "vox-report-view-v1",
+  "statistical_narrative": "host-facts-v1",
+  "identity": {
+    "subject": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？（等 397 个作品的评论样本）",
+    "research_question": "同一批评论、两套自动标签：观众分别被判定在认可什么、质疑什么？情绪、意图、讨论方面与被提及对象的构成如何，哪些原文能支撑这些数字，以及两套标签在哪一类评论上分歧最大？",
+    "title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？（等 397 个作品的评论样本） · 评论洞察报告",
+    "mode": "keyword",
+    "generated_at": "2026-09-19T04:53:45.080Z",
+    "dataset_public_id": "6ed49f10-fb7f-5bbf-a031-ea177cd8ec3a",
+    "run_id": 919124001,
+    "fingerprint": "3c1e7621e3d78a4fe35b0e226c4ee106fc9ebf2d0b928932f10dd683a741ce3e",
+    "sealed": true
+  },
+  "status": {
+    "review_status": "accepted",
+    "degraded": false,
+    "partial": false
+  },
+  "coverage": {
+    "topics": 397,
+    "comments_in_snapshot": 10000,
+    "labeled_comments": 10000,
+    "relevant_comments": 8549,
+    "labeled_pct": 100,
+    "relevant_pct": 85.5,
+    "avg_sentiment_score": 0.069
+  },
+  "quality": {
+    "status": "sufficient",
+    "title": "样本可用于本次洞察",
+    "summary": "当前报告仅描述本次封存的可见样本，不代表平台全量用户或未采集人群。",
+    "reasons": [
+      "标签由模型自动生成，未经人工逐条复核；结论用于定位问题，不用于定论。",
+      "本道引文由模型自己摘录（evidenceSource=model）：宿主只校验它是否为原文逐字子串，未校验它是否是最有代表性的那句。",
+      "有 3957 条相关评论的模型自报置信度低于 0.7；自报置信度不是校准后的准确率。",
+      "有 159 条评论模型没给引文、0 条引文未通过原文逐字校验；这些条目在证据卡片上标注了来源，引用前请核对原文。",
+      "本报告只描述本次封存的样本，不代表平台全量用户或未采集人群。"
+    ]
+  },
+  "distributions": [
+    {
+      "id": "sentiment",
+      "title": "情绪分布",
+      "items": [
+        {
+          "key": "positive",
+          "label": "正面",
+          "count": 2142,
+          "pct": 25.1,
+          "tone": "positive"
+        },
+        {
+          "key": "negative",
+          "label": "负面",
+          "count": 1644,
+          "pct": 19.2,
+          "tone": "negative"
+        },
+        {
+          "key": "neutral",
+          "label": "中性",
+          "count": 4075,
+          "pct": 47.7,
+          "tone": "neutral"
+        },
+        {
+          "key": "mixed",
+          "label": "复杂/混合",
+          "count": 688,
+          "pct": 8,
+          "tone": "mixed"
+        }
+      ]
+    },
+    {
+      "id": "intent",
+      "title": "评论意图",
+      "items": [
+        {
+          "key": "information",
+          "label": "信息补充",
+          "count": 2309,
+          "pct": 27,
+          "tone": "neutral"
+        },
+        {
+          "key": "question",
+          "label": "提问",
+          "count": 1538,
+          "pct": 18,
+          "tone": "neutral"
+        },
+        {
+          "key": "praise",
+          "label": "赞扬",
+          "count": 1038,
+          "pct": 12.1,
+          "tone": "neutral"
+        },
+        {
+          "key": "complaint",
+          "label": "抱怨",
+          "count": 896,
+          "pct": 10.5,
+          "tone": "neutral"
+        },
+        {
+          "key": "suggestion",
+          "label": "建议",
+          "count": 687,
+          "pct": 8,
+          "tone": "neutral"
+        },
+        {
+          "key": "joke",
+          "label": "玩梗",
+          "count": 628,
+          "pct": 7.3,
+          "tone": "neutral"
+        },
+        {
+          "key": "disagreement",
+          "label": "反对观点",
+          "count": 553,
+          "pct": 6.5,
+          "tone": "neutral"
+        },
+        {
+          "key": "correction",
+          "label": "纠错",
+          "count": 436,
+          "pct": 5.1,
+          "tone": "neutral"
+        },
+        {
+          "key": "other",
+          "label": "其他",
+          "count": 273,
+          "pct": 3.2,
+          "tone": "neutral"
+        },
+        {
+          "key": "agreement",
+          "label": "赞同",
+          "count": 191,
+          "pct": 2.2,
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "rankings": [
+    {
+      "id": "aspects",
+      "title": "讨论方面",
+      "note": "每条评论可同时命中多个方面，各行不能相加；占比的分母是该道的相关评论数。",
+      "items": [
+        {
+          "key": "capability",
+          "label": "能力与效果",
+          "count": 4017,
+          "pct_of_relevant": 47
+        },
+        {
+          "key": "comparison",
+          "label": "竞品比较",
+          "count": 2683,
+          "pct_of_relevant": 31.4
+        },
+        {
+          "key": "other",
+          "label": "其他",
+          "count": 1961,
+          "pct_of_relevant": 22.9
+        },
+        {
+          "key": "price",
+          "label": "价格与性价比",
+          "count": 1912,
+          "pct_of_relevant": 22.4
+        },
+        {
+          "key": "usability",
+          "label": "易用性",
+          "count": 1387,
+          "pct_of_relevant": 16.2
+        },
+        {
+          "key": "performance",
+          "label": "速度与性能",
+          "count": 936,
+          "pct_of_relevant": 10.9
+        },
+        {
+          "key": "trust",
+          "label": "可信度",
+          "count": 879,
+          "pct_of_relevant": 10.3
+        },
+        {
+          "key": "reliability",
+          "label": "稳定性",
+          "count": 535,
+          "pct_of_relevant": 6.3
+        },
+        {
+          "key": "service",
+          "label": "服务与体验",
+          "count": 398,
+          "pct_of_relevant": 4.7
+        },
+        {
+          "key": "content",
+          "label": "内容与选题",
+          "count": 307,
+          "pct_of_relevant": 3.6
+        },
+        {
+          "key": "quality",
+          "label": "质量",
+          "count": 175,
+          "pct_of_relevant": 2
+        },
+        {
+          "key": "presentation",
+          "label": "表达与结构",
+          "count": 117,
+          "pct_of_relevant": 1.4
+        }
+      ]
+    },
+    {
+      "id": "emotion",
+      "title": "高频情绪词",
+      "note": "受控词表内的情绪词，每条评论最多三个；这里是命中次数，不是人数，也不能相加当占比。",
+      "items": [
+        {
+          "key": "认可",
+          "label": "认可",
+          "count": 2171,
+          "pct_of_relevant": 25.4
+        },
+        {
+          "key": "质疑",
+          "label": "质疑",
+          "count": 2141,
+          "pct_of_relevant": 25
+        },
+        {
+          "key": "调侃",
+          "label": "调侃",
+          "count": 1674,
+          "pct_of_relevant": 19.6
+        },
+        {
+          "key": "期待",
+          "label": "期待",
+          "count": 1304,
+          "pct_of_relevant": 15.3
+        },
+        {
+          "key": "失望",
+          "label": "失望",
+          "count": 933,
+          "pct_of_relevant": 10.9
+        },
+        {
+          "key": "惊喜",
+          "label": "惊喜",
+          "count": 507,
+          "pct_of_relevant": 5.9
+        },
+        {
+          "key": "担忧",
+          "label": "担忧",
+          "count": 342,
+          "pct_of_relevant": 4
+        },
+        {
+          "key": "愤怒",
+          "label": "愤怒",
+          "count": 85,
+          "pct_of_relevant": 1
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "被提及对象",
+      "note": "名称由评论原文的关键词匹配得到，未经实体消歧、不同写法未合并；被提及不代表构成竞品关系。",
+      "items": [
+        {
+          "key": "deepseek",
+          "label": "DeepSeek",
+          "count": 1005,
+          "pct_of_relevant": 11.8
+        },
+        {
+          "key": "codex",
+          "label": "Codex",
+          "count": 496,
+          "pct_of_relevant": 5.8
+        },
+        {
+          "key": "gpt",
+          "label": "GPT",
+          "count": 378,
+          "pct_of_relevant": 4.4
+        },
+        {
+          "key": "glm",
+          "label": "GLM",
+          "count": 332,
+          "pct_of_relevant": 3.9
+        },
+        {
+          "key": "claude",
+          "label": "Claude",
+          "count": 215,
+          "pct_of_relevant": 2.5
+        },
+        {
+          "key": "kimi",
+          "label": "Kimi",
+          "count": 160,
+          "pct_of_relevant": 1.9
+        },
+        {
+          "key": "qwen",
+          "label": "Qwen",
+          "count": 75,
+          "pct_of_relevant": 0.9
+        },
+        {
+          "key": "llama",
+          "label": "Llama",
+          "count": 66,
+          "pct_of_relevant": 0.8
+        },
+        {
+          "key": "doubao",
+          "label": "豆包",
+          "count": 52,
+          "pct_of_relevant": 0.6
+        },
+        {
+          "key": "grok",
+          "label": "Grok",
+          "count": 43,
+          "pct_of_relevant": 0.5
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini",
+          "count": 42,
+          "pct_of_relevant": 0.5
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT",
+          "count": 41,
+          "pct_of_relevant": 0.5
+        }
+      ]
+    }
+  ],
+  "comparisons": [],
+  "comparison_relations": [],
+  "timeline": [
+    {
+      "date": "2026-07-31",
+      "labeled_comments": 2497,
+      "relevant_comments": 2193,
+      "positive": 627,
+      "negative": 382,
+      "neutral": 1030,
+      "mixed": 154
+    },
+    {
+      "date": "2026-08-01",
+      "labeled_comments": 5405,
+      "relevant_comments": 4601,
+      "positive": 1123,
+      "negative": 908,
+      "neutral": 2192,
+      "mixed": 378
+    },
+    {
+      "date": "2026-08-02",
+      "labeled_comments": 2098,
+      "relevant_comments": 1755,
+      "positive": 392,
+      "negative": 354,
+      "neutral": 853,
+      "mixed": 156
+    }
+  ],
+  "notices": [
+    {
+      "kind": "review",
+      "title": "自动标注，未经人工逐条复核",
+      "text": "本报告的全部标签由模型自动生成，未经人工逐条复核；标签可能误判，引用原文与数字前请回到原作品核对。"
+    },
+    {
+      "kind": "boundary",
+      "title": "样本边界",
+      "text": "本报告只描述本次封存的 10000 条评论样本，不代表平台全量用户或未采集人群；平台对比表覆盖 B站、抖音、小红书、Reddit 4 个平台。其中 Twitter 399 条、V2EX 51 条因报告模板暂不支持该平台而只计入总数、不出现在平台对比表里。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "executive-summary",
+      "title": "执行摘要",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "type": "text",
+              "value": "这是自动生成的占位正文：报告结构与全部数字已经就位，语义结论待撰写后替换。正文中的每个数字都以事实编号引用，不直接书写，避免与图表口径脱节。"
+            }
+          ]
+        },
+        {
+          "type": "fact-list",
+          "items": [
+            {
+              "fact_id": "NF0003",
+              "text": "相关评论数：8549 条。"
+            },
+            {
+              "fact_id": "NF0006",
+              "text": "相关评论的平均情感分：0.069（取值区间 -1 到 1）。"
+            },
+            {
+              "fact_id": "NF0376",
+              "text": "相关评论最多的单个作品占相关评论的 10.2%；前三个作品合计占 22.3%。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "method",
+      "title": "样本与方法",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "type": "text",
+              "value": "本节说明样本口径与引文来源。所有比例的分母、多标签的处理方式与引文校验规则，均由程序在同一份代码里计算，两道报告完全一致。"
+            }
+          ]
+        },
+        {
+          "type": "fact-list",
+          "items": [
+            {
+              "fact_id": "NF0001",
+              "text": "快照评论数：10000 条。"
+            },
+            {
+              "fact_id": "NF0002",
+              "text": "成功标注并进入统计的评论数：10000 条。"
+            },
+            {
+              "fact_id": "NF0003",
+              "text": "相关评论数：8549 条。"
+            },
+            {
+              "fact_id": "NF0005",
+              "text": "已标注评论中的相关占比：85.5%。"
+            },
+            {
+              "fact_id": "NF0375",
+              "text": "本道引文来源：模型自己摘录（10000 条），宿主只做「是否为原文子串」的机械校验。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "core-findings",
+      "title": "核心发现",
+      "blocks": [
+        {
+          "type": "fact-list",
+          "items": [
+            {
+              "fact_id": "NF0084",
+              "text": "含「能力与效果」方面标签的评论数量：4017 条。"
+            },
+            {
+              "fact_id": "NF0087",
+              "text": "含「能力与效果」方面标签的评论中整条评论情绪为负面的数量：831 条。"
+            },
+            {
+              "fact_id": "NF0090",
+              "text": "含「能力与效果」方面标签的评论中提问数量：493 条。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "subject-insights",
+      "title": "分析对象洞察",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "type": "strong",
+              "value": "待撰写的分析对象洞察"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "type": "text",
+              "value": "这里将放置分主题的洞察段落，每段后面直接挂原文证据，读者可以逐条点开核对。"
+            }
+          ]
+        },
+        {
+          "type": "evidence-quote",
+          "evidence_id": "C2083101488122134570"
+        },
+        {
+          "type": "evidence-quote",
+          "evidence_id": "C308410348705"
+        },
+        {
+          "type": "evidence-quote",
+          "evidence_id": "C311713208080"
+        }
+      ]
+    },
+    {
+      "id": "risks",
+      "title": "风险与争议",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "spans": [
+            {
+              "type": "text",
+              "value": "以下限制来自自动标注流程本身，不代表对模型能力的判断；引用原文前请先核对上下文。"
+            }
+          ]
+        },
+        {
+          "type": "fact-list",
+          "items": [
+            {
+              "fact_id": "NF0372",
+              "text": "模型自报置信度低于 0.7 的相关评论数量：3957 条（占相关评论 46.3%；置信度是模型自报值，不是校准后的准确率）。"
+            },
+            {
+              "fact_id": "NF0374",
+              "text": "引文未通过「原文逐字子串」校验因而被置空的评论数量：0 条。"
+            },
+            {
+              "fact_id": "NF0373",
+              "text": "没有可用引文的相关评论数量：14 条（引文为空时由宿主从原文截取并标注，全文共 159 条相关或无关评论没有引文）。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "actions",
+      "title": "行动建议",
+      "blocks": [
+        {
+          "type": "action-list",
+          "items": [
+            "随机抽取若干条被判定为高置信度的评论，回到原文核对标签是否成立。",
+            "对引文为空或被截断的条目，回到原作品补全上下文后再引用。",
+            "把两道分歧最大的评论整理成对照清单，供人工复核。"
+          ]
+        }
+      ]
+    }
+  ],
+  "topic_display": {
+    "displayed": 20,
+    "total": 397,
+    "truncated": true
+  },
+  "topics": [
+    {
+      "topic_id": "bili:6b6c90b4b2c5",
+      "title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "snapshot_comments": 1088,
+      "labeled_relevant": 876,
+      "positive_pct": 23.6,
+      "negative_pct": 22.5,
+      "controversy_score": 97.6
+    },
+    {
+      "topic_id": "dy:c998597f4c5e",
+      "title": "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+      "url": "https://www.douyin.com/video/7668824814169247017",
+      "snapshot_comments": 692,
+      "labeled_relevant": 577,
+      "positive_pct": 23.1,
+      "negative_pct": 21,
+      "controversy_score": 95.2
+    },
+    {
+      "topic_id": "bili:94e4d32d0d52",
+      "title": "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+      "url": "https://www.bilibili.com/video/BV172GP6rEZs",
+      "snapshot_comments": 513,
+      "labeled_relevant": 454,
+      "positive_pct": 24.9,
+      "negative_pct": 19.4,
+      "controversy_score": 87.6
+    },
+    {
+      "topic_id": "dy:8d01743cc943",
+      "title": "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+      "url": "https://www.douyin.com/video/7668771732718767369",
+      "snapshot_comments": 410,
+      "labeled_relevant": 356,
+      "positive_pct": 32.9,
+      "negative_pct": 17.7,
+      "controversy_score": 70
+    },
+    {
+      "topic_id": "bili:45c22092bfa2",
+      "title": "DeepSeek V4 Flash 正式版深度实测",
+      "url": "https://www.bilibili.com/video/BV1YXGw6ZEFk",
+      "snapshot_comments": 339,
+      "labeled_relevant": 303,
+      "positive_pct": 20.8,
+      "negative_pct": 18.8,
+      "controversy_score": 94.9
+    },
+    {
+      "topic_id": "bili:1b388d8f379b",
+      "title": "屎山论剑｜DeepSeekV4Flash：下一位！",
+      "url": "https://www.bilibili.com/video/BV1fk3X6CEXb",
+      "snapshot_comments": 300,
+      "labeled_relevant": 259,
+      "positive_pct": 26.3,
+      "negative_pct": 24.7,
+      "controversy_score": 96.9
+    },
+    {
+      "topic_id": "bili:210b9b434c3e",
+      "title": "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+      "url": "https://www.bilibili.com/video/BV1RnGg6QE34",
+      "snapshot_comments": 300,
+      "labeled_relevant": 238,
+      "positive_pct": 21.8,
+      "negative_pct": 20.2,
+      "controversy_score": 96.2
+    },
+    {
+      "topic_id": "bili:dea820db7a92",
+      "title": "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+      "url": "https://www.bilibili.com/video/BV1waG36NEGe",
+      "snapshot_comments": 276,
+      "labeled_relevant": 223,
+      "positive_pct": 20.2,
+      "negative_pct": 18.8,
+      "controversy_score": 96.4
+    },
+    {
+      "topic_id": "bili:2e3a7d53b8cc",
+      "title": "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+      "url": "https://www.bilibili.com/video/BV1K2GA6QEuH",
+      "snapshot_comments": 262,
+      "labeled_relevant": 222,
+      "positive_pct": 24.3,
+      "negative_pct": 19.4,
+      "controversy_score": 88.8
+    },
+    {
+      "topic_id": "bili:2871a1fd63b5",
+      "title": "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+      "url": "https://www.bilibili.com/video/BV13wGT6uEts",
+      "snapshot_comments": 244,
+      "labeled_relevant": 220,
+      "positive_pct": 11.8,
+      "negative_pct": 25.5,
+      "controversy_score": 63.3
+    },
+    {
+      "topic_id": "bili:d76155a1d280",
+      "title": "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+      "url": "https://www.bilibili.com/video/BV13dGw6oEvD",
+      "snapshot_comments": 231,
+      "labeled_relevant": 204,
+      "positive_pct": 14.7,
+      "negative_pct": 11.8,
+      "controversy_score": 89.1
+    },
+    {
+      "topic_id": "dy:b09dd0020f38",
+      "title": "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+      "url": "https://www.douyin.com/video/7668622989834882345",
+      "snapshot_comments": 218,
+      "labeled_relevant": 198,
+      "positive_pct": 13.1,
+      "negative_pct": 16.2,
+      "controversy_score": 89.4
+    },
+    {
+      "topic_id": "bili:e88b29c97b77",
+      "title": "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+      "url": "https://www.bilibili.com/video/BV1yxGw67E9h",
+      "snapshot_comments": 190,
+      "labeled_relevant": 172,
+      "positive_pct": 16.9,
+      "negative_pct": 25.6,
+      "controversy_score": 79.5
+    },
+    {
+      "topic_id": "bili:c4e4f2880af6",
+      "title": "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+      "url": "https://www.bilibili.com/video/BV1ZaGu6xE97",
+      "snapshot_comments": 169,
+      "labeled_relevant": 145,
+      "positive_pct": 22.1,
+      "negative_pct": 13.8,
+      "controversy_score": 76.9
+    },
+    {
+      "topic_id": "xhs:145674f600a4",
+      "title": "要被外网的一些评论笑死了😂😂😂",
+      "url": "https://www.xiaohongshu.com/explore/6a6d440f000000002c0031b7",
+      "snapshot_comments": 166,
+      "labeled_relevant": 103,
+      "positive_pct": 37.9,
+      "negative_pct": 13.6,
+      "controversy_score": 52.8
+    },
+    {
+      "topic_id": "twitter:1934556ab3c9",
+      "title": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+      "url": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "snapshot_comments": 159,
+      "labeled_relevant": 144,
+      "positive_pct": 61.8,
+      "negative_pct": 2.1,
+      "controversy_score": 6.6
+    },
+    {
+      "topic_id": "bili:b88ba4e0bd2d",
+      "title": "【实测】DeepSeekV4正式版双机DGX真香",
+      "url": "https://www.bilibili.com/video/BV1FCGK6HEQr",
+      "snapshot_comments": 111,
+      "labeled_relevant": 92,
+      "positive_pct": 21.7,
+      "negative_pct": 15.2,
+      "controversy_score": 82.4
+    },
+    {
+      "topic_id": "bili:e645f051a946",
+      "title": "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+      "url": "https://www.bilibili.com/video/BV1CeGP6UEu7",
+      "snapshot_comments": 108,
+      "labeled_relevant": 98,
+      "positive_pct": 23.5,
+      "negative_pct": 21.4,
+      "controversy_score": 95.3
+    },
+    {
+      "topic_id": "xhs:754af5996280",
+      "title": "梁圣无敌！deepseek v4-flash正式版来了",
+      "url": "https://www.xiaohongshu.com/explore/6a6c4b340000000022031878",
+      "snapshot_comments": 107,
+      "labeled_relevant": 71,
+      "positive_pct": 32.4,
+      "negative_pct": 16.9,
+      "controversy_score": 68.6
+    },
+    {
+      "topic_id": "bili:39d74d5964f3",
+      "title": "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+      "url": "https://www.bilibili.com/video/BV1SwGN68ETv",
+      "snapshot_comments": 106,
+      "labeled_relevant": 42,
+      "positive_pct": 35.7,
+      "negative_pct": 14.3,
+      "controversy_score": 57.2
+    }
+  ],
+  "platforms": [
+    {
+      "platform": "bili",
+      "label": "B站",
+      "topics": 1,
+      "snapshot_comments": 5783,
+      "labeled_comments": 5783,
+      "relevant_comments": 4866,
+      "positive_pct": 21.6,
+      "negative_pct": 20,
+      "neutral_pct": 49.9,
+      "avg_sentiment_score": 0.038
+    },
+    {
+      "platform": "dy",
+      "label": "抖音",
+      "topics": 1,
+      "snapshot_comments": 1691,
+      "labeled_comments": 1691,
+      "relevant_comments": 1473,
+      "positive_pct": 25.5,
+      "negative_pct": 18.1,
+      "neutral_pct": 49.5,
+      "avg_sentiment_score": 0.079
+    },
+    {
+      "platform": "xhs",
+      "label": "小红书",
+      "topics": 1,
+      "snapshot_comments": 1321,
+      "labeled_comments": 1321,
+      "relevant_comments": 1109,
+      "positive_pct": 24.8,
+      "negative_pct": 22.1,
+      "neutral_pct": 46.2,
+      "avg_sentiment_score": 0.047
+    },
+    {
+      "platform": "reddit",
+      "label": "Reddit",
+      "topics": 1,
+      "snapshot_comments": 755,
+      "labeled_comments": 755,
+      "relevant_comments": 685,
+      "positive_pct": 32.1,
+      "negative_pct": 18.1,
+      "neutral_pct": 40.3,
+      "avg_sentiment_score": 0.127
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "C2083101488122134570",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 1935,
+      "quote": "We can't wait to make quants so everyone can run it locally!!!",
+      "full_text": "@deepseek_ai If DeepSeek-V4-Flash is this good and this small, imagine DeepSeek-V4-Pro! 🤯\n\nAnd imagine running Flash locally on your own device! 🔥\n\nWe can't wait to make quants so everyone can run it locally!!!",
+      "source_url": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "topic_title": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+      "source_label": "评论 2083101488122134570 · 引文由模型自己摘录",
+      "topic_id": "twitter:1934556ab3c9",
+      "aspects": [
+        "capability",
+        "performance"
+      ],
+      "confidence": 0.9,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308410348705",
+      "sentiment": "mixed",
+      "sentiment_label": "复杂/混合",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 1751,
+      "quote": "技术超前至少一年",
+      "full_text": "[笑哭]能打赢 k3 的话，Deepseek 要成为世界第一 AI 公司了，技术超前至少一年",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308410348705 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "capability",
+        "comparison"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311713208080",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 1423,
+      "quote": "他最后自己截图自己写了个py脚本判断颜色分布",
+      "full_text": "ds虽然不支持多模态。。。但。。。\n\n我昨天用flash做页面，我说有一块显示效果不对，他最后自己截图自己写了个py脚本判断颜色分布。。",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 311713208080 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "capability",
+        "usability"
+      ],
+      "confidence": 0.85,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C7668878416439198513",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 1049,
+      "quote": "价格高个子，直接打头",
+      "full_text": "价格高个子，直接打头",
+      "source_url": "https://www.douyin.com/video/7668824814169247017",
+      "topic_title": "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+      "source_label": "评论 7668878416439198513 · 引文由模型自己摘录",
+      "topic_id": "dy:c998597f4c5e",
+      "aspects": [
+        "price"
+      ],
+      "confidence": 0.4,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C7668890500553196338",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 931,
+      "quote": "梁哥真是我亲爹 玩一天编程 就用10块钱",
+      "full_text": "梁哥真是我亲爹 玩一天编程 就用10块钱",
+      "source_url": "https://www.douyin.com/video/7668824814169247017",
+      "topic_title": "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+      "source_label": "评论 7668890500553196338 · 引文由模型自己摘录",
+      "topic_id": "dy:c998597f4c5e",
+      "aspects": [
+        "price",
+        "capability"
+      ],
+      "confidence": 0.9,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308337244353",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 836,
+      "quote": "本人同意把7月31日定为中旬",
+      "full_text": "本人同意把7月31日定为中旬",
+      "source_url": "https://www.bilibili.com/video/BV1K2GA6QEuH",
+      "topic_title": "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+      "source_label": "评论 308337244353 · 引文由模型自己摘录",
+      "topic_id": "bili:2e3a7d53b8cc",
+      "aspects": [
+        "other"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308396811953",
+      "sentiment": "negative",
+      "sentiment_label": "负面",
+      "stance": "oppose",
+      "stance_label": "反对",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 644,
+      "quote": "我们终于抵达了神圣的七月中旬",
+      "full_text": "在7月31号的今天，我们终于抵达了神圣的七月中旬[打call]",
+      "source_url": "https://www.bilibili.com/video/BV1KaGK6fEku",
+      "topic_title": "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+      "source_label": "评论 308396811953 · 引文由模型自己摘录",
+      "topic_id": "bili:058cfa7076eb",
+      "aspects": [
+        "other",
+        "production"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C2083086829914619912",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 603,
+      "quote": "Bros even included a script that integrates it with Codex",
+      "full_text": "@deepseek_ai Bros even included a script that integrates it with Codex 😭",
+      "source_url": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "topic_title": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+      "source_label": "评论 2083086829914619912 · 引文由模型自己摘录",
+      "topic_id": "twitter:1934556ab3c9",
+      "aspects": [
+        "usability",
+        "content"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C8703990833",
+      "sentiment": "negative",
+      "sentiment_label": "负面",
+      "stance": "oppose",
+      "stance_label": "反对",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 601,
+      "quote": "You mean an employee of a huge multibillion-dollar corporation is not my friend? Bummer.",
+      "full_text": "You mean an employee of a huge multibillion-dollar corporation is not my friend? Bummer.",
+      "source_url": "https://www.reddit.com/r/codex/comments/1vciiun/the_real_reason_56_luna_became_5x_cheaper/",
+      "topic_title": "The real reason 5.6 Luna became 5x cheaper",
+      "source_label": "评论 p11h0qd · 引文由模型自己摘录",
+      "topic_id": "reddit:257a1fbe2fab",
+      "aspects": [
+        "trust",
+        "price"
+      ],
+      "confidence": 0.65,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308420474625",
+      "sentiment": "negative",
+      "sentiment_label": "负面",
+      "stance": "oppose",
+      "stance_label": "反对",
+      "intent": "correction",
+      "intent_label": "纠错",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 574,
+      "quote": "我们一般不把 7 月 31 号叫 7 月中旬",
+      "full_text": "我们一般不把 7 月 31 号叫 7 月中旬",
+      "source_url": "https://www.bilibili.com/video/BV1KaGK6fEku",
+      "topic_title": "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+      "source_label": "评论 308420474625 · 引文由模型自己摘录",
+      "topic_id": "bili:058cfa7076eb",
+      "aspects": [
+        "trust",
+        "content"
+      ],
+      "confidence": 0.8,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311717018160",
+      "sentiment": "negative",
+      "sentiment_label": "负面",
+      "stance": "oppose",
+      "stance_label": "反对",
+      "intent": "complaint",
+      "intent_label": "抱怨",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 566,
+      "quote": "没有多模态真是太难受了",
+      "full_text": "梁之前被爆出来的内部会议就提到他根本不在乎多模态，以及公司本身的目标就是 AGI ，c 端用户也是， 不是他们的目标，他们核心还是在 AGI ，不过作为用户来说，没有多模态真是太难受了",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 311717018160 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "capability",
+        "other"
+      ],
+      "confidence": 0.85,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C7668994592456770314",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 560,
+      "quote": "天天找我补贴",
+      "full_text": "天天找我补贴[捂脸]",
+      "source_url": "https://www.douyin.com/video/7668824814169247017",
+      "topic_title": "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+      "source_label": "评论 7668994592456770314 · 引文由模型自己摘录",
+      "topic_id": "dy:c998597f4c5e",
+      "aspects": [
+        "price"
+      ],
+      "confidence": 0.4,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C2083329441787531551",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 552,
+      "quote": "Congratulations @deepseek_ai on the launch of DeepSeek V4 Flash 0731!",
+      "full_text": "Congratulations @deepseek_ai on the launch of DeepSeek V4 Flash 0731!\n\nGet started today by running the model locally via the @UnslothAI GGUF. 👇",
+      "source_url": "https://x.com/NVIDIARTXSpark/status/2083329441787531551",
+      "topic_title": "Congratulations @deepseek_ai on the launch of DeepSeek V4 Flash 0731!\n\nGet started today by running the model locally via the @UnslothAI GGUF. 👇",
+      "source_label": "评论 2083329441787531551 · 引文由模型自己摘录",
+      "topic_id": "twitter:d9243f884f44",
+      "aspects": [
+        "other"
+      ],
+      "confidence": 0.85,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311707118704",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "other",
+      "intent_label": "其他",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 549,
+      "quote": "不过我是真期待pro啊",
+      "full_text": "一问这些人用没用过api都不吱声了，不过我是真期待pro啊[打call]",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 311707118704 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "capability",
+        "trust"
+      ],
+      "confidence": 0.55,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308424460481",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "other",
+      "intent_label": "其他",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 538,
+      "quote": "就非常努力的感觉",
+      "full_text": "我这也是，就非常努力的感觉[大哭]",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308424460481 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "capability"
+      ],
+      "confidence": 0.5,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C9336234598",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 527,
+      "quote": "DeepSeek能用这么小的参数就能达到Opus的性能，这是非常强悍的技术能力",
+      "full_text": "太多人都只看到Flash的价格更低，但是真正的原因是DeepSeek能用这么小的参数就能达到Opus的性能，这是非常强悍的技术能力，他们追求的从来不是低的成本，他们追求的AGI，先在小规模能做到高性能，在超大规模能做到超级性能，这才是我们应该认识的蓝色鲸鱼。",
+      "source_url": "https://www.xiaohongshu.com/explore/6a6d440f000000002c0031b7",
+      "topic_title": "要被外网的一些评论笑死了😂😂😂",
+      "source_label": "评论 6a6d78c300000000150031a2 · 引文由模型自己摘录",
+      "topic_id": "xhs:145674f600a4",
+      "aspects": [
+        "capability",
+        "price",
+        "comparison",
+        "performance"
+      ],
+      "confidence": 0.85,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308420567233",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "information",
+      "intent_label": "信息补充",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 505,
+      "quote": "这是小赢鲸, 大的还在后边",
+      "full_text": "这是小赢鲸, 大的还在后边",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308420567233 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "other"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311714123968",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "question",
+      "intent_label": "提问",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 477,
+      "quote": "我pro呢梁子",
+      "full_text": "八月初了！我pro呢梁子[阴险]",
+      "source_url": "https://www.bilibili.com/video/BV1RnGg6QE34",
+      "topic_title": "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+      "source_label": "评论 311714123968 · 引文由模型自己摘录",
+      "topic_id": "bili:210b9b434c3e",
+      "aspects": [
+        "other"
+      ],
+      "confidence": 0.65,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311695489792",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "question",
+      "intent_label": "提问",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 471,
+      "quote": "谁在压力DeepSeek？",
+      "full_text": "谁在压力DeepSeek？",
+      "source_url": "https://www.bilibili.com/video/BV1KaGK6fEku",
+      "topic_title": "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+      "source_label": "评论 311695489792 · 引文由模型自己摘录",
+      "topic_id": "bili:058cfa7076eb",
+      "aspects": [
+        "comparison"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311778026256",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 456,
+      "quote": "硬梁",
+      "full_text": "硬梁[大哭]",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 311778026256 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "other"
+      ],
+      "confidence": 0.4,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C2247084191",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 456,
+      "quote": "喷字儿像拉稀一样快",
+      "full_text": "喷字儿像拉稀一样快",
+      "source_url": "https://www.xiaohongshu.com/explore/6a6c712d000000002403f2ff",
+      "topic_title": "刚刚，DeepSeek-V4-Flash正式公测",
+      "source_label": "评论 6a6cbdaa000000002b028df2 · 引文由模型自己摘录",
+      "topic_id": "xhs:7f2b7f1bc6c0",
+      "aspects": [
+        "performance"
+      ],
+      "confidence": 0.85,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311660309216",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 451,
+      "quote": "代码质量大幅提升",
+      "full_text": "个人感受，flash正式版在出码速度保持不变的前提下（依然很快），代码质量大幅提升！个人感觉体现在代码精炼度上。牛的一批。\n不在美国禁用中国Ai，美国那些ai没有活路是早晚的事[笑哭][笑哭]",
+      "source_url": "https://www.bilibili.com/video/BV172GP6rEZs",
+      "topic_title": "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+      "source_label": "评论 311660309216 · 引文由模型自己摘录",
+      "topic_id": "bili:94e4d32d0d52",
+      "aspects": [
+        "capability",
+        "quality",
+        "performance",
+        "comparison"
+      ],
+      "confidence": 0.95,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308443387265",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "information",
+      "intent_label": "信息补充",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 417,
+      "quote": "还是按token计费适合我",
+      "full_text": "那得是重度使用了，我一个月用不完plus，需求量比较小，还是按token计费适合我",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308443387265 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "price"
+      ],
+      "confidence": 0.8,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308411071361",
+      "sentiment": "negative",
+      "sentiment_label": "负面",
+      "stance": "oppose",
+      "stance_label": "反对",
+      "intent": "correction",
+      "intent_label": "纠错",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 415,
+      "quote": "网页版压根都没上正式版，用网页版评了个寂寞",
+      "full_text": "回复 @钢铁前线_IronFL : 网页版压根都没上正式版，用网页版评了个寂寞",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308411071361 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "service"
+      ],
+      "confidence": 0.7,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308441535201",
+      "sentiment": "mixed",
+      "sentiment_label": "复杂/混合",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "information",
+      "intent_label": "信息补充",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 413,
+      "quote": "DS 的性价比目前确实是头部水平",
+      "full_text": "从 token 计价模式上，DS 的性价比目前确实是头部水平\n\n但现在用过 ChatGPT Plus 订阅的都知道，这个套餐目前没有对手",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308441535201 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "price",
+        "comparison"
+      ],
+      "confidence": 0.8,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311732803168",
+      "sentiment": "mixed",
+      "sentiment_label": "复杂/混合",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 412,
+      "quote": "如果不是量化我高低喊你一声梁圣",
+      "full_text": "梁子我不欠你的，你的token我在大A都还完了[热]。如果不是量化我高低喊你一声梁圣。",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 311732803168 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "price",
+        "trust"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311719632896",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "information",
+      "intent_label": "信息补充",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 402,
+      "quote": "往下翻可以看未命中的有多少",
+      "full_text": "往下翻可以看未命中的有多少",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 311719632896 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "other",
+        "reliability"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308546142449",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 401,
+      "quote": "glm最先进的glm5.2已经被v4flash斩杀了",
+      "full_text": "目前，glm最先进的glm5.2已经被v4flash斩杀了，minimax想都不用想，也被斩杀了。\n等v4pro正式版端上来，文本模型这一块差不多要被v4垄断了。想活下来，不仅要性能好，还得要多模态，不然ds外挂一个多模态模型照样用。\n这甚至还是暂时的，ds已经确认，多模态一定会上。",
+      "source_url": "https://www.bilibili.com/video/BV1QC326UEny",
+      "topic_title": "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+      "source_label": "评论 308546142449 · 引文由模型自己摘录",
+      "topic_id": "bili:55ba6dae2105",
+      "aspects": [
+        "capability",
+        "comparison",
+        "performance"
+      ],
+      "confidence": 0.8,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C2083089435739169248",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 397,
+      "quote": "This is incredibly useful.",
+      "full_text": "@deepseek_ai Oh my gosh, around GLM-5.2 level of performance in the Flash model? This is incredibly useful.",
+      "source_url": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "topic_title": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+      "source_label": "评论 2083089435739169248 · 引文由模型自己摘录",
+      "topic_id": "twitter:1934556ab3c9",
+      "aspects": [
+        "capability",
+        "comparison"
+      ],
+      "confidence": 0.9,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308474185009",
+      "sentiment": "mixed",
+      "sentiment_label": "复杂/混合",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 397,
+      "quote": "梁真是功德拉满了",
+      "full_text": "梁真是功德拉满了，不仅扭转了国内ai创业者的形象，还一己之力扛起股民对量化圈的怒火，毕竟普通散户认识的搞量化的也就他一个😅",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308474185009 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "trust",
+        "other"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C2318453744",
+      "sentiment": "negative",
+      "sentiment_label": "负面",
+      "stance": "oppose",
+      "stance_label": "反对",
+      "intent": "correction",
+      "intent_label": "纠错",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 396,
+      "quote": "Qwen 3.6 27b also beat many larger models in benchmarks",
+      "full_text": "*in benchmarks.\n\nQwen 3.6 27b also beat many larger models in benchmarks and yet outside of local communities barely anybody noticed it",
+      "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbjdby/deepseekv4flash0731_is_going_to_cause_another/",
+      "topic_title": "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+      "source_label": "评论 p0tt7ff · 引文由模型自己摘录",
+      "topic_id": "reddit:24a3184d9a7b",
+      "aspects": [
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "confidence": 0.8,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C7668904353809793844",
+      "sentiment": "negative",
+      "sentiment_label": "负面",
+      "stance": "oppose",
+      "stance_label": "反对",
+      "intent": "disagreement",
+      "intent_label": "反对观点",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 395,
+      "quote": "跑两个需求周额度就没了",
+      "full_text": "笑死你那什么生产力，跑两个需求周额度就没了",
+      "source_url": "https://www.douyin.com/video/7668824814169247017",
+      "topic_title": "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+      "source_label": "评论 7668904353809793844 · 引文由模型自己摘录",
+      "topic_id": "dy:c998597f4c5e",
+      "aspects": [
+        "price",
+        "usability"
+      ],
+      "confidence": 0.7,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308411161057",
+      "sentiment": "mixed",
+      "sentiment_label": "复杂/混合",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "disagreement",
+      "intent_label": "反对观点",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 386,
+      "quote": "那些评论区的有些逆天是真在串啊还是压根就没用过啊",
+      "full_text": "我寻思这定位对标是5.6luna和5.2，那些评论区的有些逆天是真在串啊还是压根就没用过啊，连模型适合使用场景和定位都不知道玩什么模型啊，很难想象诗人",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308411161057 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "comparison",
+        "capability"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C7341329824",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 376,
+      "quote": "sending my thoughts and prayers for your wallet.",
+      "full_text": "sending my thoughts and prayers for your wallet.",
+      "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1vchoua/deepseekv4flash0731_models_you_can_run_locally/",
+      "topic_title": "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+      "source_label": "评论 p11a7zx · 引文由模型自己摘录",
+      "topic_id": "reddit:f31cb0baeb04",
+      "aspects": [
+        "price"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308458924865",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "suggestion",
+      "intent_label": "建议",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 370,
+      "quote": "记得把最终的费用也公布出来",
+      "full_text": "DeepSeek v4 flash vs GPT5.6 luna，up斗这两个模型的时候，记得把最终的费用也公布出来，大家也关心这个[打call]",
+      "source_url": "https://www.bilibili.com/video/BV1waG36NEGe",
+      "topic_title": "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+      "source_label": "评论 308458924865 · 引文由模型自己摘录",
+      "topic_id": "bili:dea820db7a92",
+      "aspects": [
+        "price",
+        "comparison"
+      ],
+      "confidence": 0.8,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308464000065",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "information",
+      "intent_label": "信息补充",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 361,
+      "quote": "其他公司能耗多久呢",
+      "full_text": "其他AI可以随便比ds强的，但问题是其他公司能耗多久呢，OpenAI的债务都堆到几百亿美刀了，梁叔叔的AI还只是给自己没处花的钱找个焚烧炉的副业",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308464000065 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "comparison",
+        "trust"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C8816457560",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "information",
+      "intent_label": "信息补充",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 358,
+      "quote": "和AGI没关系不考虑做",
+      "full_text": "梁圣内部会议都说了，和AGI没关系不考虑做",
+      "source_url": "https://www.xiaohongshu.com/explore/6a6c712d000000002403f2ff",
+      "topic_title": "刚刚，DeepSeek-V4-Flash正式公测",
+      "source_label": "评论 6a6cd614000000000901595c · 引文由模型自己摘录",
+      "topic_id": "xhs:7f2b7f1bc6c0",
+      "aspects": [
+        "capability",
+        "other"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C7668979968534414129",
+      "sentiment": "negative",
+      "sentiment_label": "负面",
+      "stance": "oppose",
+      "stance_label": "反对",
+      "intent": "complaint",
+      "intent_label": "抱怨",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 346,
+      "quote": "智谱还涨价还饥饿营销",
+      "full_text": "智谱还涨价还饥饿营销[听歌]真该好好治一治[听歌]",
+      "source_url": "https://www.douyin.com/video/7668824814169247017",
+      "topic_title": "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+      "source_label": "评论 7668979968534414129 · 引文由模型自己摘录",
+      "topic_id": "dy:c998597f4c5e",
+      "aspects": [
+        "price",
+        "trust",
+        "service"
+      ],
+      "confidence": 0.85,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311627131840",
+      "sentiment": "negative",
+      "sentiment_label": "负面",
+      "stance": "oppose",
+      "stance_label": "反对",
+      "intent": "complaint",
+      "intent_label": "抱怨",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 342,
+      "quote": "已严肃放弃智谱",
+      "full_text": "已严肃放弃智谱[笑哭]",
+      "source_url": "https://www.bilibili.com/video/BV1K2GA6QEuH",
+      "topic_title": "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+      "source_label": "评论 311627131840 · 引文由模型自己摘录",
+      "topic_id": "bili:2e3a7d53b8cc",
+      "aspects": [
+        "comparison",
+        "trust"
+      ],
+      "confidence": 0.72,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311633093152",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 334,
+      "quote": "明明是提前发布了",
+      "full_text": "明明是提前发布了 梁圣人说的是农历",
+      "source_url": "https://www.bilibili.com/video/BV1K2GA6QEuH",
+      "topic_title": "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+      "source_label": "评论 311633093152 · 引文由模型自己摘录",
+      "topic_id": "bili:2e3a7d53b8cc",
+      "aspects": [
+        "other"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C6944080645",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "information",
+      "intent_label": "信息补充",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 321,
+      "quote": "This is how competition works",
+      "full_text": "This is how competition works, not a bad thing to consumer.",
+      "source_url": "https://www.reddit.com/r/codex/comments/1vciiun/the_real_reason_56_luna_became_5x_cheaper/",
+      "topic_title": "The real reason 5.6 Luna became 5x cheaper",
+      "source_label": "评论 p11fnjq · 引文由模型自己摘录",
+      "topic_id": "reddit:257a1fbe2fab",
+      "aspects": [
+        "price",
+        "comparison"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308427586241",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 312,
+      "quote": "最低档位不是难梁吗",
+      "full_text": "最低档位不是难梁吗[doge]",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308427586241 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "capability"
+      ],
+      "confidence": 0.55,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C7668919148764889905",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 312,
+      "quote": "梁圣提这个大刀就开始斩杀",
+      "full_text": "ai毒圈说是，梁圣提这个大刀就开始斩杀，“听说你没进步是吧[愉快]”",
+      "source_url": "https://www.douyin.com/video/7668771732718767369",
+      "topic_title": "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+      "source_label": "评论 7668919148764889905 · 引文由模型自己摘录",
+      "topic_id": "dy:8d01743cc943",
+      "aspects": [
+        "comparison",
+        "capability"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311766845424",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 310,
+      "quote": "量化算是被梁文峰洗白了",
+      "full_text": "量化算是被梁文峰洗白了， 幻方以外的其他家，都应该给梁磕一个。",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 311766845424 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "capability",
+        "trust"
+      ],
+      "confidence": 0.8,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311815064064",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 309,
+      "quote": "梁圣的终极目的是要青史留名",
+      "full_text": "浅薄了，梁圣的终极目的是要青史留名，在他眼里现阶段搞多模态和视频生成是短期割韭菜行为，他要的是把ai领域的圣杯agi搞出来，只要agi搞出来，什么多模态图片生成视频生成，agi会自己琢磨出来的，而他梁圣会因为搞出了agi，改变了人类历史而被写进教科书，这才是梁圣的终极目的[doge]",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 311815064064 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "other"
+      ],
+      "confidence": 0.75,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308458801825",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "suggestion",
+      "intent_label": "建议",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 298,
+      "quote": "把glm5.2和gpt5.6 luna 拉过来比比",
+      "full_text": "把glm5.2和gpt5.6 luna 拉过来比比，一个是ds官方说超过的，一个是降价后当了不到半天的性价比之王[doge]",
+      "source_url": "https://www.bilibili.com/video/BV1waG36NEGe",
+      "topic_title": "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+      "source_label": "评论 308458801825 · 引文由模型自己摘录",
+      "topic_id": "bili:dea820db7a92",
+      "aspects": [
+        "comparison",
+        "capability",
+        "price"
+      ],
+      "confidence": 0.8,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C3187030017",
+      "sentiment": "mixed",
+      "sentiment_label": "复杂/混合",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "information",
+      "intent_label": "信息补充",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 295,
+      "quote": "开源这个是用来逼死同行的",
+      "full_text": "他们家最先进的模型肯定在母公司用着，这就是DS的变现方式。开源这个是用来逼死同行的",
+      "source_url": "https://www.xiaohongshu.com/explore/6a6c4b340000000022031878",
+      "topic_title": "梁圣无敌！deepseek v4-flash正式版来了",
+      "source_label": "评论 6a6d1d22000000002902c9f8 · 引文由模型自己摘录",
+      "topic_id": "xhs:754af5996280",
+      "aspects": [
+        "trust",
+        "comparison",
+        "capability"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C7668956105980740387",
+      "sentiment": "mixed",
+      "sentiment_label": "复杂/混合",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 294,
+      "quote": "打赢没奖励，打输有惩罚，你梁叔叔还是太权威了",
+      "full_text": "打赢没奖励，打输有惩罚，你梁叔叔还是太权威了[捂脸][捂脸]",
+      "source_url": "https://www.douyin.com/video/7668771732718767369",
+      "topic_title": "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+      "source_label": "评论 7668956105980740387 · 引文由模型自己摘录",
+      "topic_id": "dy:8d01743cc943",
+      "aspects": [
+        "capability",
+        "other"
+      ],
+      "confidence": 0.7,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308352163969",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 281,
+      "quote": "但现在我们快得飞起、便宜到离谱、性价比到爆炸",
+      "full_text": "我们的“DeepSeek-V4 Flash正式版”来了，事实上，我们快得、便宜得、强得都太多了，以至于我们真不知道究竟该怎么办。\r人们都在诉说：Please, please, please, 梁圣，我们的 V4 Flash 太离谱了。我们受不了了，我们的GPU不习惯这么高效，我们钱包不习惯这么便宜，我们的benchmark不习惯这么霸榜。在今天之前，我们总是又慢又贵，但现在我们快得飞起、便宜到离谱、性价比到爆炸。\r\t\r就在昨天，我接了整整一夜的电话。全是我们最忠实的开发者用户，他们不是来感谢的，他们是来投诉的！他们说：梁圣，你们  V4 Flash 是不是疯了？我跑了一整晚的代码生成，账单出来只有一块两毛五，我以为你们系统bug了，专门又充了五十块钱进去测试！还有人说：梁圣，你们返回得太快了！我前端 loading 动画还没放完，代码就已经写完了，现在我的 UI 设计师正在家里哭！\r\t\rI assure you, 我们不会停下脚步。我们会继续Flash下去，我们会发布更多、更快、更便宜、更强的版本！那些恨我们的人，那些酸我们的竞争对手，那些天天写假新闻的媒体，他们永远阻止不了我们。我们会让开源模型再次伟大！我们会让全世界都知道！",
+      "source_url": "https://www.bilibili.com/video/BV1YXGw6ZEFk",
+      "topic_title": "DeepSeek V4 Flash 正式版深度实测",
+      "source_label": "评论 308352163969 · 引文由模型自己摘录",
+      "topic_id": "bili:45c22092bfa2",
+      "aspects": [
+        "capability",
+        "performance",
+        "price",
+        "presentation"
+      ],
+      "confidence": 0.75,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311731311536",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "information",
+      "intent_label": "信息补充",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 279,
+      "quote": "ds官网招聘：多模态理解研究员",
+      "full_text": "ds官网招聘：多模态理解研究员[吃瓜]，有感觉吗",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 311731311536 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "capability",
+        "other"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308405340833",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 273,
+      "quote": "deepseekv4flash特别容易debug，bug确实出现的少但是感觉会多花一点钱，不过迭代还是可以的，最重要的是编曲比原本好了",
+      "full_text": "deepseekv4flash特别容易debug，bug确实出现的少但是感觉会多花一点钱，不过迭代还是可以的，最重要的是编曲比原本好了[doge]现在的编曲居然会贴切主题",
+      "source_url": "https://www.bilibili.com/video/BV1KaGK6fEku",
+      "topic_title": "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+      "source_label": "评论 308405340833 · 引文由模型自己摘录",
+      "topic_id": "bili:058cfa7076eb",
+      "aspects": [
+        "capability",
+        "reliability",
+        "price"
+      ],
+      "confidence": 0.7,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C2083320539259842758",
+      "sentiment": "mixed",
+      "sentiment_label": "复杂/混合",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "information",
+      "intent_label": "信息补充",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 272,
+      "quote": "DeepSeek V4 Flash 0731 completed 100 deep research tasks for just $0.49!",
+      "full_text": "DeepSeek V4 Flash 0731 completed 100 deep research tasks for just $0.49! Around 1/120 the cost of Kimi K3 and 1/25 the cost of GLM 5.2.\n\nWe tested all three on DRACO by Perplexity, with Fable as the judge:\n\nDeepSeek V4 Flash 0731\n55.8 mean score · 40% pass rate · 1h 30m · $0.49\n\nKimi K3\n71.6 mean score · 77% pass rate · 3h 38m · $60\n\nGLM 5.2 (from previous test0\n41.5 mean score · 22% pass rate · 1h 45m · $12.50\n\nKimi K3 delivered the strongest results, but DeepSeek V4 Flash was the fastest and cheapest model we tested, and still outperformed GLM 5.2.",
+      "source_url": "https://x.com/gmi_cloud/status/2083320539259842758",
+      "topic_title": "DeepSeek V4 Flash 0731 completed 100 deep research tasks for just $0.49! Around 1/120 the cost of Kimi K3 and 1/25 the cost of GLM 5.2.\n\nWe tested all three on DRACO by Perplexity, with Fable as the j",
+      "source_label": "评论 2083320539259842758 · 引文由模型自己摘录",
+      "topic_id": "twitter:dde6982eeebe",
+      "aspects": [
+        "capability",
+        "performance",
+        "price",
+        "comparison"
+      ],
+      "confidence": 0.7,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311714284144",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 271,
+      "quote": "梁圣将重新定义八月初",
+      "full_text": "梁圣将重新定义八月初",
+      "source_url": "https://www.bilibili.com/video/BV1RnGg6QE34",
+      "topic_title": "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+      "source_label": "评论 311714284144 · 引文由模型自己摘录",
+      "topic_id": "bili:210b9b434c3e",
+      "aspects": [
+        "capability",
+        "other"
+      ],
+      "confidence": 0.7,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C2083093161833062691",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 264,
+      "quote": "Hard to believe how much better it is",
+      "full_text": "@deepseek_ai New DeepSeek V4 Flash is already live in @CommandCodeAI 10x usage $1 Go plan $10 in free auto credits. \n\nRunning internal benchmarks now. Hard to believe how much better it is. With tool and cache repairs in our harness it’s gonna outperform a lot of models.",
+      "source_url": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "topic_title": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+      "source_label": "评论 2083093161833062691 · 引文由模型自己摘录",
+      "topic_id": "twitter:1934556ab3c9",
+      "aspects": [
+        "capability",
+        "performance",
+        "price",
+        "comparison"
+      ],
+      "confidence": 0.92,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308408952049",
+      "sentiment": "mixed",
+      "sentiment_label": "复杂/混合",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "disagreement",
+      "intent_label": "反对观点",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 259,
+      "quote": "对比预览flash还拉啊？",
+      "full_text": "对比预览flash还拉啊？哥们不会拿ds的flash对标claude吧，flash什么价格大家心里有数吧",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308408952049 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "comparison",
+        "price",
+        "capability"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308412737201",
+      "sentiment": "negative",
+      "sentiment_label": "负面",
+      "stance": "oppose",
+      "stance_label": "反对",
+      "intent": "disagreement",
+      "intent_label": "反对观点",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 258,
+      "quote": "所以其实这么比其实不太公平",
+      "full_text": "284呢，所以其实这么比其实不太公平",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308412737201 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "comparison",
+        "capability"
+      ],
+      "confidence": 0.72,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308438411985",
+      "sentiment": "negative",
+      "sentiment_label": "负面",
+      "stance": "oppose",
+      "stance_label": "反对",
+      "intent": "complaint",
+      "intent_label": "抱怨",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 257,
+      "quote": "在成为豆包的道路上一去不复返了",
+      "full_text": "在成为豆包的道路上一去不复返了，哦对了差点忘了他生成视频还不如豆包[笑哭]",
+      "source_url": "https://www.bilibili.com/video/BV1SwGN68ETv",
+      "topic_title": "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+      "source_label": "评论 308438411985 · 引文由模型自己摘录",
+      "topic_id": "bili:39d74d5964f3",
+      "aspects": [
+        "comparison",
+        "capability"
+      ],
+      "confidence": 0.7,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C311681768896",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "other",
+      "intent_label": "其他",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 257,
+      "quote": "非多模态不到全球第一算炸单",
+      "full_text": "非多模态不到全球第一算炸单（不考虑后续gpt a/版本更新）。毕竟5倍参数量",
+      "source_url": "https://www.bilibili.com/video/BV1QjGP6cE2L",
+      "topic_title": "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+      "source_label": "评论 311681768896 · 引文由模型自己摘录",
+      "topic_id": "bili:d439f93a3748",
+      "aspects": [
+        "capability",
+        "comparison"
+      ],
+      "confidence": 0.65,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C7794870854",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 252,
+      "quote": "等 pro 正式版出多模态了看你再咋说",
+      "full_text": "等 pro 正式版出多模态了看你再咋说[偷笑R]",
+      "source_url": "https://www.xiaohongshu.com/explore/6a6cd5e8000000002c006e42",
+      "topic_title": "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+      "source_label": "评论 6a6d3093000000000403a4be · 引文由模型自己摘录",
+      "topic_id": "xhs:b68f1e816ead",
+      "aspects": [
+        "capability"
+      ],
+      "confidence": 0.55,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C7668884623636579099",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "other",
+      "intent_label": "其他",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 252,
+      "quote": "智普",
+      "full_text": "智普[流泪]",
+      "source_url": "https://www.douyin.com/video/7668824814169247017",
+      "topic_title": "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+      "source_label": "评论 7668884623636579099 · 引文由模型自己摘录",
+      "topic_id": "dy:c998597f4c5e",
+      "aspects": [
+        "comparison",
+        "other"
+      ],
+      "confidence": 0.4,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308415538449",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "joke",
+      "intent_label": "玩梗",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 243,
+      "quote": "梁圣走的是梁历",
+      "full_text": "梁圣走的是梁历[doge]",
+      "source_url": "https://www.bilibili.com/video/BV1RnGg6QE34",
+      "topic_title": "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+      "source_label": "评论 308415538449 · 引文由模型自己摘录",
+      "topic_id": "bili:210b9b434c3e",
+      "aspects": [
+        "other"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308492546113",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 242,
+      "quote": "v4flash真给我震撼到了，谁说小南梁掏不出大赢鲸的。",
+      "full_text": "v4flash真给我震撼到了，谁说小南梁掏不出大赢鲸的。\n“梁叔叔快点把pro正式版掏出来吧，洋鬼子的东西太贵，我已经把身家全部砸进去了啊，再用不上pro，小人小命不保啊”",
+      "source_url": "https://www.bilibili.com/video/BV1oLGM67EML",
+      "topic_title": "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+      "source_label": "评论 308492546113 · 引文由模型自己摘录",
+      "topic_id": "bili:6b6c90b4b2c5",
+      "aspects": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "confidence": 0.85,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C308330258817",
+      "sentiment": "positive",
+      "sentiment_label": "正面",
+      "stance": "support",
+      "stance_label": "支持",
+      "intent": "praise",
+      "intent_label": "赞扬",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 241,
+      "quote": "flash会自己测试项目并不断debug我是没想到的",
+      "full_text": "同样在试，flash会自己测试项目并不断debug我是没想到的，受影响最大的应该是智谱了[笑哭]\n鲸震恩：还敢不敢涨价了？👊😡🔥",
+      "source_url": "https://www.bilibili.com/video/BV1qxGA6KEah",
+      "topic_title": "Deepseek v4 flash正式版卡车压扁汽车案例",
+      "source_label": "评论 308330258817 · 引文由模型自己摘录",
+      "topic_id": "bili:7528d43216e9",
+      "aspects": [
+        "capability",
+        "comparison"
+      ],
+      "confidence": 0.85,
+      "requires_context": false
+    },
+    {
+      "evidence_id": "C7668938433276199717",
+      "sentiment": "neutral",
+      "sentiment_label": "中性",
+      "stance": "neutral",
+      "stance_label": "中立",
+      "intent": "other",
+      "intent_label": "其他",
+      "opinion_target": "other",
+      "opinion_target_label": "其他",
+      "like_count": 241,
+      "quote": "我都严重怀疑梁圣是故意不放出多模态的",
+      "full_text": "我都严重怀疑梁圣是故意不放出多模态的，看了他的座谈会，都不知道这群c端用户是干嘛的，先留着吧[看]给跑在前面的朋友公司一条活路，我们就卖个电费，拼什么命",
+      "source_url": "https://www.douyin.com/video/7668824814169247017",
+      "topic_title": "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+      "source_label": "评论 7668938433276199717 · 引文由模型自己摘录",
+      "topic_id": "dy:c998597f4c5e",
+      "aspects": [
+        "capability",
+        "price",
+        "trust"
+      ],
+      "confidence": 0.6,
+      "requires_context": false
+    }
+  ],
+  "analysis": {
+    "groups": [
+      {
+        "id": "aspect",
+        "title": "讨论方面 × 评论情绪",
+        "note": "按相关评论逐条统计，分母是该道的相关评论数（见覆盖区）。同一条评论可命中多个方面，各行不能相加；情绪是整条评论的情绪，不是对该方面单独打分。",
+        "rows": [
+          {
+            "key": "capability",
+            "label": "能力与效果",
+            "count": 4017,
+            "pct_of_relevant": 47,
+            "topic_count": 288,
+            "positive": 1342,
+            "negative": 831,
+            "neutral": 1342,
+            "mixed": 502,
+            "questions": 493,
+            "suggestions": 313,
+            "corrections": 187,
+            "evidence_ids": [
+              "C2083101488122134570",
+              "C308410348705",
+              "C311713208080"
+            ]
+          },
+          {
+            "key": "comparison",
+            "label": "竞品比较",
+            "count": 2683,
+            "pct_of_relevant": 31.4,
+            "topic_count": 240,
+            "positive": 826,
+            "negative": 524,
+            "neutral": 947,
+            "mixed": 386,
+            "questions": 327,
+            "suggestions": 220,
+            "corrections": 98,
+            "evidence_ids": [
+              "C308410348705",
+              "C9336234598",
+              "C311695489792"
+            ]
+          },
+          {
+            "key": "other",
+            "label": "其他",
+            "count": 1961,
+            "pct_of_relevant": 22.9,
+            "topic_count": 232,
+            "positive": 296,
+            "negative": 184,
+            "neutral": 1412,
+            "mixed": 69,
+            "questions": 405,
+            "suggestions": 141,
+            "corrections": 131,
+            "evidence_ids": [
+              "C308337244353",
+              "C308396811953",
+              "C311717018160"
+            ]
+          },
+          {
+            "key": "price",
+            "label": "价格与性价比",
+            "count": 1912,
+            "pct_of_relevant": 22.4,
+            "topic_count": 206,
+            "positive": 606,
+            "negative": 394,
+            "neutral": 693,
+            "mixed": 219,
+            "questions": 229,
+            "suggestions": 120,
+            "corrections": 80,
+            "evidence_ids": [
+              "C7668878416439198513",
+              "C7668890500553196338",
+              "C8703990833"
+            ]
+          },
+          {
+            "key": "usability",
+            "label": "易用性",
+            "count": 1387,
+            "pct_of_relevant": 16.2,
+            "topic_count": 184,
+            "positive": 271,
+            "negative": 228,
+            "neutral": 789,
+            "mixed": 99,
+            "questions": 436,
+            "suggestions": 251,
+            "corrections": 31,
+            "evidence_ids": [
+              "C311713208080",
+              "C2083086829914619912",
+              "C7668904353809793844"
+            ]
+          },
+          {
+            "key": "performance",
+            "label": "速度与性能",
+            "count": 936,
+            "pct_of_relevant": 10.9,
+            "topic_count": 185,
+            "positive": 311,
+            "negative": 169,
+            "neutral": 350,
+            "mixed": 106,
+            "questions": 158,
+            "suggestions": 78,
+            "corrections": 14,
+            "evidence_ids": [
+              "C2083101488122134570",
+              "C9336234598",
+              "C2247084191"
+            ]
+          },
+          {
+            "key": "trust",
+            "label": "可信度",
+            "count": 879,
+            "pct_of_relevant": 10.3,
+            "topic_count": 156,
+            "positive": 102,
+            "negative": 380,
+            "neutral": 296,
+            "mixed": 101,
+            "questions": 151,
+            "suggestions": 29,
+            "corrections": 83,
+            "evidence_ids": [
+              "C8703990833",
+              "C308420474625",
+              "C311707118704"
+            ]
+          },
+          {
+            "key": "reliability",
+            "label": "稳定性",
+            "count": 535,
+            "pct_of_relevant": 6.3,
+            "topic_count": 134,
+            "positive": 95,
+            "negative": 240,
+            "neutral": 116,
+            "mixed": 84,
+            "questions": 69,
+            "suggestions": 30,
+            "corrections": 31,
+            "evidence_ids": [
+              "C311719632896",
+              "C308405340833"
+            ]
+          },
+          {
+            "key": "service",
+            "label": "服务与体验",
+            "count": 398,
+            "pct_of_relevant": 4.7,
+            "topic_count": 96,
+            "positive": 63,
+            "negative": 119,
+            "neutral": 192,
+            "mixed": 24,
+            "questions": 102,
+            "suggestions": 33,
+            "corrections": 20,
+            "evidence_ids": [
+              "C308411071361",
+              "C7668979968534414129"
+            ]
+          },
+          {
+            "key": "content",
+            "label": "内容与选题",
+            "count": 307,
+            "pct_of_relevant": 3.6,
+            "topic_count": 84,
+            "positive": 67,
+            "negative": 84,
+            "neutral": 130,
+            "mixed": 26,
+            "questions": 42,
+            "suggestions": 45,
+            "corrections": 26,
+            "evidence_ids": [
+              "C2083086829914619912",
+              "C308420474625"
+            ]
+          },
+          {
+            "key": "quality",
+            "label": "质量",
+            "count": 175,
+            "pct_of_relevant": 2,
+            "topic_count": 72,
+            "positive": 44,
+            "negative": 76,
+            "neutral": 19,
+            "mixed": 36,
+            "questions": 20,
+            "suggestions": 13,
+            "corrections": 5,
+            "evidence_ids": [
+              "C311660309216"
+            ]
+          },
+          {
+            "key": "presentation",
+            "label": "表达与结构",
+            "count": 117,
+            "pct_of_relevant": 1.4,
+            "topic_count": 49,
+            "positive": 42,
+            "negative": 24,
+            "neutral": 32,
+            "mixed": 19,
+            "questions": 12,
+            "suggestions": 15,
+            "corrections": 2,
+            "evidence_ids": [
+              "C308352163969"
+            ]
+          },
+          {
+            "key": "production",
+            "label": "制作质量",
+            "count": 14,
+            "pct_of_relevant": 0.2,
+            "topic_count": 12,
+            "positive": 4,
+            "negative": 4,
+            "neutral": 3,
+            "mixed": 3,
+            "questions": 1,
+            "suggestions": 2,
+            "corrections": 1,
+            "evidence_ids": [
+              "C308396811953"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "intent",
+        "title": "评论意图 × 评论情绪",
+        "note": "每条相关评论只落一个主要意图，各行相加等于相关评论数。提问、建议、纠错三列是该行里对应意图的条数。",
+        "rows": [
+          {
+            "key": "information",
+            "label": "信息补充",
+            "count": 2309,
+            "pct_of_relevant": 27,
+            "topic_count": 261,
+            "positive": 497,
+            "negative": 106,
+            "neutral": 1426,
+            "mixed": 280,
+            "questions": 0,
+            "suggestions": 0,
+            "corrections": 0,
+            "evidence_ids": [
+              "C308420567233",
+              "C308443387265",
+              "C308441535201"
+            ]
+          },
+          {
+            "key": "question",
+            "label": "提问",
+            "count": 1538,
+            "pct_of_relevant": 18,
+            "topic_count": 233,
+            "positive": 61,
+            "negative": 184,
+            "neutral": 1251,
+            "mixed": 42,
+            "questions": 1538,
+            "suggestions": 0,
+            "corrections": 0,
+            "evidence_ids": [
+              "C311714123968",
+              "C311695489792"
+            ]
+          },
+          {
+            "key": "praise",
+            "label": "赞扬",
+            "count": 1038,
+            "pct_of_relevant": 12.1,
+            "topic_count": 187,
+            "positive": 1020,
+            "negative": 0,
+            "neutral": 1,
+            "mixed": 17,
+            "questions": 0,
+            "suggestions": 0,
+            "corrections": 0,
+            "evidence_ids": [
+              "C2083101488122134570",
+              "C311713208080",
+              "C7668878416439198513"
+            ]
+          },
+          {
+            "key": "complaint",
+            "label": "抱怨",
+            "count": 896,
+            "pct_of_relevant": 10.5,
+            "topic_count": 146,
+            "positive": 1,
+            "negative": 799,
+            "neutral": 5,
+            "mixed": 91,
+            "questions": 0,
+            "suggestions": 0,
+            "corrections": 0,
+            "evidence_ids": [
+              "C311717018160",
+              "C7668979968534414129",
+              "C311627131840"
+            ]
+          },
+          {
+            "key": "suggestion",
+            "label": "建议",
+            "count": 687,
+            "pct_of_relevant": 8,
+            "topic_count": 131,
+            "positive": 130,
+            "negative": 57,
+            "neutral": 430,
+            "mixed": 70,
+            "questions": 0,
+            "suggestions": 687,
+            "corrections": 0,
+            "evidence_ids": [
+              "C308458924865",
+              "C308458801825"
+            ]
+          },
+          {
+            "key": "joke",
+            "label": "玩梗",
+            "count": 628,
+            "pct_of_relevant": 7.3,
+            "topic_count": 105,
+            "positive": 162,
+            "negative": 82,
+            "neutral": 321,
+            "mixed": 63,
+            "questions": 0,
+            "suggestions": 0,
+            "corrections": 0,
+            "evidence_ids": [
+              "C308410348705",
+              "C308337244353",
+              "C308396811953"
+            ]
+          },
+          {
+            "key": "disagreement",
+            "label": "反对观点",
+            "count": 553,
+            "pct_of_relevant": 6.5,
+            "topic_count": 91,
+            "positive": 55,
+            "negative": 292,
+            "neutral": 143,
+            "mixed": 63,
+            "questions": 0,
+            "suggestions": 0,
+            "corrections": 0,
+            "evidence_ids": [
+              "C7668904353809793844",
+              "C308411161057",
+              "C308408952049"
+            ]
+          },
+          {
+            "key": "correction",
+            "label": "纠错",
+            "count": 436,
+            "pct_of_relevant": 5.1,
+            "topic_count": 92,
+            "positive": 28,
+            "negative": 85,
+            "neutral": 298,
+            "mixed": 25,
+            "questions": 0,
+            "suggestions": 0,
+            "corrections": 436,
+            "evidence_ids": [
+              "C308420474625",
+              "C308411071361",
+              "C2318453744"
+            ]
+          },
+          {
+            "key": "other",
+            "label": "其他",
+            "count": 273,
+            "pct_of_relevant": 3.2,
+            "topic_count": 103,
+            "positive": 75,
+            "negative": 30,
+            "neutral": 141,
+            "mixed": 27,
+            "questions": 0,
+            "suggestions": 0,
+            "corrections": 0,
+            "evidence_ids": [
+              "C311707118704",
+              "C308424460481",
+              "C311681768896"
+            ]
+          },
+          {
+            "key": "agreement",
+            "label": "赞同",
+            "count": 191,
+            "pct_of_relevant": 2.2,
+            "topic_count": 79,
+            "positive": 113,
+            "negative": 9,
+            "neutral": 59,
+            "mixed": 10,
+            "questions": 0,
+            "suggestions": 0,
+            "corrections": 0,
+            "evidence_ids": []
+          }
+        ]
+      }
+    ],
+    "quality": {
+      "top_topic_share_pct": 10.2,
+      "top_three_topic_share_pct": 22.3,
+      "low_confidence_count": 3957,
+      "low_confidence_threshold": 0.7,
+      "keyword_context_only_count": 0,
+      "evidence_pool_count": 64
+    }
+  },
+  "footer_note": "Jev Arena · Dataset-first 评论对照 · 结论仅代表本次封存数据集。"
+}

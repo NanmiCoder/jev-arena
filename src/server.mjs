@@ -25,6 +25,7 @@ import { fileURLToPath } from "node:url";
 
 import { initialConfig, publicConfig, validateConfig, configuredLanes } from "./config.mjs";
 import { datasetFromFile } from "./dataset.mjs";
+import { enrichReport } from "./report-view.mjs";
 import { RunStore, listRuns } from "./store.mjs";
 import { createRunner } from "./runner.mjs";
 import { createReplay, clampSpeed } from "./replay.mjs";
@@ -277,6 +278,15 @@ function handleStop(req, res) {
   sendJson(res, 200, { stopped, runId: current?.runId ?? null });
 }
 
+async function reportDirectory(runId) {
+  for (const root of [RUNS_DIR, path.join(ROOT, 'examples', 'demo')]) {
+    const dir = path.join(root, runId);
+    try { await stat(path.join(dir, 'report.json')); return dir; }
+    catch (err) { if (err.code !== 'ENOENT') throw err; }
+  }
+  return path.join(RUNS_DIR, runId);
+}
+
 async function loadLatestReport() {
   if (lastReport) return lastReport;
   for (const runId of await listRuns(RUNS_DIR)) {
@@ -284,13 +294,35 @@ async function loadLatestReport() {
       return JSON.parse(await readFile(path.join(RUNS_DIR, runId, "report.json"), "utf8"));
     } catch { /* 该次运行没有报告，继续找 */ }
   }
-  return null;
+  try { return JSON.parse(await readFile(path.join(ROOT, 'examples', 'demo', '0919-124001', 'report.json'), 'utf8')); }
+  catch (err) { if (err.code !== 'ENOENT') throw err; return null; }
 }
 
 async function handleReport(req, res) {
-  const report = await loadLatestReport();
-  if (!report) return sendJson(res, 404, { error: "还没有可用的报告，先跑一轮" });
-  sendJson(res, 200, report);
+  const url = new URL(req.url, 'http://localhost');
+  const requested = url.searchParams.get('runId');
+  if (requested !== null && !/^\d{4}-\d{6}$/.test(requested)) return sendJson(res, 400, { error: '非法 runId' });
+  const selected = requested ?? replayRunId ?? current?.runId;
+  let report;
+  if (selected) {
+    try { report = JSON.parse(await readFile(path.join(await reportDirectory(selected), 'report.json'), 'utf8')); }
+    catch (err) { if (err.code !== 'ENOENT') throw err; }
+  } else report = await loadLatestReport();
+  if (!report) return sendJson(res, 404, { error: '这次运行还没有报告；请等待运行完成，或选择已完成的录像。' });
+  const id = selected ?? report.runId;
+  if (!/^\d{4}-\d{6}$/.test(id ?? '')) return sendJson(res, 422, { error: '报告缺少有效的运行编号' });
+  sendJson(res, 200, await enrichReport({ ...report, runId: id }, await reportDirectory(id), dataset));
+}
+
+async function handleReportArtifact(req,res) {
+  const url = new URL(req.url, 'http://localhost');
+  const runId = url.searchParams.get('runId'); const lane=url.searchParams.get('lane');
+  if (!/^\d{4}-\d{6}$/.test(runId ?? '') || !['jev','deepseek'].includes(lane)) return sendJson(res,400,{error:'非法运行编号或模型侧'});
+  try {
+    const body=await readFile(path.join(await reportDirectory(runId),`report.${lane}.html`));
+    res.writeHead(200,{'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-store','Content-Security-Policy':"default-src 'none'; style-src 'unsafe-inline'; img-src data:; font-src data:; base-uri 'none'; form-action 'none'; frame-ancestors 'self'"});
+    res.end(body);
+  } catch(err) { if(err.code!=='ENOENT') throw err; sendJson(res,404,{error:'这次运行没有保存该侧的完整模板报告，请查看双侧对比页。'}); }
 }
 
 // ---------------------------------------------------------------------------
@@ -547,6 +579,8 @@ const server = http.createServer(async (req, res) => {
     if (pathname === "/api/start" && req.method === "POST") return await handleStart(req, res);
     if (pathname === "/api/stop" && req.method === "POST") return handleStop(req, res);
     if (pathname === "/api/stream" && req.method === "GET") return handleStream(req, res);
+    if (pathname === "/api/report/artifact" && req.method === "GET") return await handleReportArtifact(req,res);
+    if (pathname === "/report" && req.method === "GET") return await serveStatic(req,res,"/report.html");
     if (pathname === "/api/report" && req.method === "GET") return await handleReport(req, res);
     if (pathname === "/api/runs" && req.method === "GET") return await handleRuns(req, res);
     if (pathname === "/api/replay" && req.method === "POST") return await handleReplayStart(req, res);
