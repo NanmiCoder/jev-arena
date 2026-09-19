@@ -34,10 +34,28 @@ npm start
 1. 填写两侧的协议、API Base URL、模型 ID 和 API Key，点击「保存模型配置」。
 2. 使用内置示例，或选择自己的 `.csv` / `.xlsx` 评论文件。
 3. 保持「本次条数」为 **20**，点击「开始对决」。两侧处理相同的前 20 条评论。
-4. 有已保存的 VoxAgent 完整报告时，点击「查看双侧报告」，在页面顶部切换阅读两侧的研究结论与原文证据。
+4. 完成后按下方「生成两份报告」运行离线命令，再点击「查看双侧报告」，在页面顶部切换阅读。
 5. 完成后在回放栏选择本次录像，播放或调整倍速。**回放不调用模型。**
 
 网页配置保存在服务端内存，重启后需重新填写。API Key 不写入录像，也不保存在浏览器 localStorage。如需持久配置，把 [.env.example](.env.example) 复制为 `.env` 后填写，再重启服务。
+
+## 用 Docker 启动
+
+克隆后在项目目录执行（不需要本机安装 Node.js）：
+
+```bash
+docker run --name jev-arena --rm -it \
+  -p 127.0.0.1:5173:5173 \
+  -e HOST=0.0.0.0 \
+  -v "$PWD:/app" \
+  -v jev-arena-node-modules:/app/node_modules \
+  -w /app node:22-bookworm-slim \
+  sh -c "npm ci && npm start"
+```
+
+打开 http://localhost:5173，在网页中填写两侧 Key 并保存。使用默认 Jev / DeepSeek 配置时，协议、URL 和模型已填好；其他供应商需修改对应设置。容器内监听 `0.0.0.0`，宿主端口仅绑定本机。结果保留在项目的 `runs/` 中；删除容器不会删除录像。按 Ctrl+C 停止，下次执行同一命令即可启动。
+
+内置样本只有 20 条。要测 100 条，可上传 [一万条演示 CSV](examples/demo/0919-124001/comments.csv)，将「本次条数」设为 `100` 并确认；程序只处理前 100 条，不会自动运行整个文件。
 
 ## 接入哪些接口？
 
@@ -81,11 +99,29 @@ comment_id,content,platform,like_count,topic_title
 - 默认每侧 20 条；超过 30 条需要明确确认。停止会取消在途请求，但供应商已处理的请求可能仍收费。
 - 两侧各自并发、按批处理。解析失败可能拆批重试，实际请求次数和费用可能增加。
 - API 返回 `usage.cost` 时使用其值；否则使用设置中的输入 / 输出美元单价估算。**未配置单价的 $0 表示费用未知，不是免费。** 估算不包含供应商折扣、缓存分档或失败请求账单。
-- 结果保存在 `runs/<runId>/`：`manifest.json`（模型和运行信息）、`events.jsonl`（录像）、`labels.*.jsonl`（逐条结果）、`report.json`（比较报告）。
+- 结果保存在 `runs/<runId>/`：`comments.csv`（本次实际处理的评论快照）、`manifest.json`（模型和运行信息）、`events.jsonl`（录像）、`labels.*.jsonl`（逐条结果）、`report.json`（比较报告）。
 - 回放只读取事件文件，不需要 Key；重启服务后仍可从录像列表播放。原有录像格式保持兼容。
 - 新网页流程每次新建运行，不续写旧任务，避免切换数据或模型后混用结果。
 
 Jev 的引文由程序从原文机械摘取，聊天模型的引文由模型输出后逐字校验；每条结果通过 `meta.evidenceSource` 区分。两侧标签的一致率不是准确率，速度和费用也不能替代人工质量评估。
+
+## 生成两份报告
+
+运行完成后，用实际运行 ID 替换下方占位符：
+
+```bash
+npm run report -- --run runs/<运行ID>
+```
+
+Docker 启动的用户可在另一个终端执行：
+
+```bash
+docker exec jev-arena npm run report -- --run runs/<运行ID>
+```
+
+无需 Key、无需安装 VoxAgent；读取本次保存的评论快照与两侧标签，生成相同模板的两份 HTML、事实清单及结构化视图。默认正文是明确标注的**事实草稿**。要让自己的 Agent 撰写研究分析，请让它阅读 [报告生成指南](docs/report-generation.md)，按事实和证据写入两侧 narrative JSON 后再次渲染。根目录 [AGENTS.md](AGENTS.md) 也提供操作入口。
+
+生成后刷新「查看双侧报告」即可阅读；HTML 也可下载后直接打开。旧运行没有评论快照时，需要用 `--dataset` 指定原始 CSV。报告模板的来源与维护说明见 [vendor 说明](report/vendor/voxagent/README.md)。
 
 ## 开发与验证
 
@@ -97,7 +133,7 @@ npm test
 
 服务默认仅监听 `127.0.0.1`，适合个人本地使用，没有多用户认证。不要直接部署到公网。`.env`、`data/`、`runs/` 与上传目录已加入 [.gitignore](.gitignore)；一万条演示样本与报告单独整理在 `examples/demo/`；本地完整录像不随仓库上传。
 
-`report/` 和 `src/review.mjs` 等历史演示脚本保留供研究参考，含原 Jev / DeepSeek 演示假设，不属于通用网页快速启动流程。
+`report/` 包含独立可用的报告流水线与内置模板；`src/review.mjs` 是历史复核脚本，不属于通用网页启动流程。
 
 ## 开源发布状态
 

@@ -515,6 +515,7 @@ function onLaneStats(ev) {
   lane.stats.cps = num(ev.cps, lane.stats.cps);
   lane.stats.tokensIn = num(ev.tokensIn, lane.stats.tokensIn);
   lane.stats.tokensOut = num(ev.tokensOut, lane.stats.tokensOut);
+  lane.status = lane.total > 0 && lane.stats.done + lane.stats.failed >= lane.total ? 'done' : 'running';
   lane.statsAt = performance.now();
   lane.liveAtStats = { ...lane.live };
   renderLane(lane);
@@ -730,7 +731,10 @@ function applyLaneState(lanesRaw, running) {
     if (s.cps !== undefined) lane.stats.cps = s.cps;
     if (s.tokensIn !== undefined) lane.stats.tokensIn = s.tokensIn;
     if (s.tokensOut !== undefined) lane.stats.tokensOut = s.tokensOut;
-    if (running) {
+    if (lane.total > 0 && lane.stats.done + lane.stats.failed >= lane.total) {
+      lane.status = 'done';
+      lane.statsAt = 0;
+    } else if (running) {
       if (lane.status === 'idle') lane.status = 'running';
       lane.statsAt = performance.now();      // 重置插值基准，否则 elapsed 会跳
     } else if (lane.status === 'running') {

@@ -19,7 +19,7 @@
 import "dotenv/config";
 import http from "node:http";
 import { createReadStream } from "node:fs";
-import { open, readFile, stat } from "node:fs/promises";
+import { open, readFile, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -234,6 +234,11 @@ async function handleStart(req, res) {
         },
       },
     });
+    const columns = [...new Set(rows.flatMap(row => Object.keys(row)))];
+    const csvCell = value => '"' + String(value ?? '').replace(/"/g, '""') + '"';
+    const snapshot = [columns, ...rows.map(row => columns.map(key => row[key]))]
+      .map(cells => cells.map(csvCell).join(',')).join('\n') + '\n';
+    await writeFile(store.pathFor('comments.csv'), snapshot, 'utf8');
   } catch (err) {
     return sendJson(res, 500, { error: `创建运行目录失败：${err.message}` });
   }

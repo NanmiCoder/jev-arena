@@ -6,11 +6,15 @@
   "description": "Jev vs DeepSeek 全量评论打标对决场",
   "dependencies": {
     "dotenv": "^18.0.1",
-    "exceljs": "^4.4.0"
+    "exceljs": "^4.4.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "zod": "4.4.3"
   },
   "scripts": {
     "start": "node src/server.mjs",
-    "test": "node --test tests/*.test.mjs"
+    "test": "node --test tests/*.test.mjs",
+    "report": "node report/cli.mjs"
   },
   "engines": {
     "node": ">=22"

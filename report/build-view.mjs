@@ -660,7 +660,7 @@ export function buildView({ facts, narrative, lane }) {
     identity: {
       subject,
       research_question: text(narrative?.identity?.research_question ?? defaultResearchQuestion(), 1000),
-      title: text(narrative?.identity?.title ?? `${subject} · 评论洞察报告`, 320, "评论洞察报告"),
+      title: text(narrative?.identity?.title ?? `${facts.run?.label || lane} · 评论洞察报告`, 320, "评论洞察报告"),
       mode: "keyword",
       generated_at: generatedAt(facts.run?.finishedAt),
       dataset_public_id: datasetPublicId(fingerprint),

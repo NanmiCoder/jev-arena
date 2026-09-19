@@ -1,119 +1,54 @@
 #!/usr/bin/env node
-/**
- * 报告生成入口。
- *
- *   node report/cli.mjs --lane jev --run runs/0919-124001 --out runs/0919-124001/report.jev.html
- *   node report/cli.mjs --lane deepseek --run runs/0919-124001 --out runs/0919-124001/report.deepseek.html
- *
- * 两条命令走的是同一条流水线（buildFacts → buildView → renderReport），唯一的变量是
- * --lane 决定的那份 labels.<lane>.jsonl。这样两份 HTML 的每个区块、每句口径提示都一样，
- * 并排看的时候差异只可能来自标签本身。
- *
- * 常用可选参数：
- *   --dataset <csv>     评论快照，默认 data/comments.csv
- *   --narrative <json>  正文（六节 blocks）；不传则用占位正文，保证结构完整
- *   --view <json>       顺手把 view JSON 落盘，便于排查渲染失败
- *   --voxagent <dir>    VoxAgent 检出根目录，默认读环境变量 VOXAGENT_ROOT
- */
+import { readFile, writeFile, mkdir, access } from 'node:fs/promises';
+import path from 'node:path';
+import { buildFacts, LANES } from './facts.mjs';
+import { buildView, placeholderNarrative } from './build-view.mjs';
+import { renderReport } from './render.mjs';
 
-import { createHash } from "node:crypto";
-import { readFile, stat, writeFile } from "node:fs/promises";
-import path from "node:path";
-import process from "node:process";
-
-import { buildFacts, LANES } from "./facts.mjs";
-import { buildView, placeholderNarrative } from "./build-view.mjs";
-import { renderReport, VOXAGENT_ROOT } from "./render.mjs";
-
-const USAGE = `用法：node report/cli.mjs --lane <jev|deepseek> --run <runDir> [--out <html>] [选项]
-
-必填：
-  --lane <id>          jev | deepseek（决定读哪份 labels.<lane>.jsonl）
-  --run <dir>          run 目录，例如 runs/0919-124001
-
-可选：
-  --out <html>         HTML 输出路径，默认 <runDir>/report.<lane>.html
-  --dataset <csv>      评论快照，默认 data/comments.csv
-  --narrative <json>   正文定义；不传用占位正文（六节结构与数字仍然完整）
-  --view <json>        额外把 view JSON 写到这里
-  --voxagent <dir>     VoxAgent 检出根目录（默认 ${VOXAGENT_ROOT}）
-  -h, --help           显示本帮助
-`;
-
-function parseArgs(argv) {
-  const args = {};
-  for (let i = 0; i < argv.length; i++) {
-    const token = argv[i];
-    if (token === "-h" || token === "--help") { args.help = true; continue; }
-    if (!token.startsWith("--")) throw new Error(`无法识别的参数：${token}`);
-    const key = token.slice(2);
-    const value = argv[i + 1];
-    if (value === undefined || value.startsWith("--")) throw new Error(`参数 ${token} 缺少数值`);
-    args[key] = value;
-    i += 1;
-  }
-  return args;
-}
-
+const help = `npm run report -- --run runs/<runId> [options]
+默认离线生成左右两份 HTML，不调用模型。
+--lane jev|deepseek       仅生成一侧
+--dataset <csv>          原评论 CSV，默认 <run>/comments.csv
+--prepare-only           只输出事实、正文示例和视图，供 Agent 撰写
+--narrative-dir <dir>     读取 narrative.jev.json / narrative.deepseek.json（必须存在）
+--narrative <json>        单侧正文（需要 --lane）
+--out <html> --view <json> 单侧输出路径（需要 --lane）
+缺少正文时使用明确标注的事实草稿。详见 docs/report-generation.md。`;
 async function main() {
-  const args = parseArgs(process.argv.slice(2));
-  if (args.help) { process.stdout.write(USAGE); return; }
-
-  if (!args.lane) throw new Error(`缺少 --lane\n\n${USAGE}`);
-  if (!args.run) throw new Error(`缺少 --run\n\n${USAGE}`);
-  const config = LANES[args.lane];
-  if (!config) throw new Error(`未知 lane "${args.lane}"，可选：${Object.keys(LANES).join(" / ")}`);
-
-  const runDir = path.resolve(process.cwd(), args.run);
-  const datasetPath = path.resolve(process.cwd(), args.dataset ?? "data/comments.csv");
-  const outPath = path.resolve(process.cwd(), args.out ?? path.join(args.run, `report.${args.lane}.html`));
-  const voxagentRoot = args.voxagent ? path.resolve(process.cwd(), args.voxagent) : VOXAGENT_ROOT;
-
-  const { facts, factCatalog } = buildFacts(args.lane, { runDir, datasetPath });
-
-  // 没有正文也要能出报告：占位正文把事实清单前几条塞进 fact-list，
-  // 保证六节结构、图表、数字全部就位，等正文写好直接替换 narrative 即可。
-  let narrative = null;
-  if (args.narrative) {
-    narrative = JSON.parse(await readFile(path.resolve(process.cwd(), args.narrative), "utf8"));
+  const args = {};
+  for (let i=2; i<process.argv.length; i++) {
+    const key=process.argv[i];
+    if (['--help','-h'].includes(key)) { console.log(help); return; }
+    if (key==='--prepare-only') { args.prepare=true; continue; }
+    if (!['--run','--lane','--dataset','--narrative-dir','--narrative','--out','--view'].includes(key)) throw new Error(`未知参数 ${key}`);
+    const value=process.argv[++i];
+    if (!value || value.startsWith('--')) throw new Error(`${key} 缺少值`);
+    args[key.slice(2)]=value;
   }
-  const usingPlaceholder = !narrative;
-  if (!narrative) narrative = placeholderNarrative(facts);
-
-  const view = buildView({ facts, narrative, lane: args.lane });
-  if (args.view) {
-    await writeFile(path.resolve(process.cwd(), args.view), `${JSON.stringify(view, null, 2)}\n`, "utf8");
+  if (!args.run) throw new Error(help);
+  if (args.lane && !LANES[args.lane]) throw new Error('lane 必须为 jev 或 deepseek');
+  if (!args.lane && (args.out || args.view || args.narrative)) throw new Error('--out/--view/--narrative 需要 --lane');
+  const runDir=path.resolve(args.run);
+  const datasetPath=path.resolve(args.dataset || path.join(runDir,'comments.csv'));
+  try { await access(datasetPath); } catch { throw new Error('找不到评论快照；请用 --dataset 指定这次运行的原始 CSV。'); }
+  // Validate both sides before writing reports.
+  const prepared=[];
+  for (const lane of args.lane ? [args.lane] : ['jev','deepseek']) {
+    const {facts}=buildFacts(lane,{runDir,datasetPath});
+    const example=placeholderNarrative(facts);
+    const narrativePath=args.narrative || (args['narrative-dir'] && path.join(args['narrative-dir'],`narrative.${lane}.json`));
+    const narrative=narrativePath ? JSON.parse(await readFile(narrativePath,'utf8')) : example;
+    const view=buildView({facts,narrative,lane});
+    prepared.push({lane,facts,example,view,narrativePath});
   }
-
-  const htmlPath = await renderReport(view, outPath, { voxagentRoot });
-  const html = await readFile(htmlPath);
-  const info = await stat(htmlPath);
-
-  process.stdout.write(`${JSON.stringify({
-    lane: args.lane,
-    lane_label: config.label,
-    model: facts.run.model,
-    evidence_source: facts.quality.evidence_source,
-    run_id: facts.run.id,
-    label_file: path.relative(process.cwd(), facts.run.labelFile),
-    dataset: path.relative(process.cwd(), datasetPath),
-    narrative: usingPlaceholder ? "placeholder" : args.narrative,
-    facts: factCatalog.length,
-    sections: view.sections.map((section) => section.id),
-    evidence_pool: view.evidence.length,
-    coverage: {
-      comments_in_snapshot: view.coverage.comments_in_snapshot,
-      relevant_comments: view.coverage.relevant_comments,
-      relevant_pct: view.coverage.relevant_pct,
-      avg_sentiment_score: view.coverage.avg_sentiment_score,
-    },
-    output: htmlPath,
-    bytes: info.size,
-    sha256: createHash("sha256").update(html).digest("hex"),
-  }, null, 2)}\n`);
+  const save=async(file,value)=>{await mkdir(path.dirname(file),{recursive:true});await writeFile(file,JSON.stringify(value,null,2)+'\n');};
+  for (const {lane,facts,example,view,narrativePath} of prepared) {
+    await save(path.join(runDir,`report.${lane}.facts.json`),facts);
+    await save(path.join(runDir,`narrative.${lane}.example.json`),example);
+    await save(path.resolve(args.view || path.join(runDir,`report.${lane}.view.json`)),view);
+    const output=path.resolve(args.out || path.join(runDir,`report.${lane}.html`));
+    if (!args.prepare) await renderReport(view,output);
+    console.log(JSON.stringify({lane,runId:facts.run.id,comments:facts.dataset.total,narrative:narrativePath || '事实草稿',output:args.prepare?'仅准备上下文':output}));
+  }
 }
-
-main().catch((error) => {
-  process.stderr.write(`报告生成失败：${error instanceof Error ? error.message : String(error)}\n`);
-  process.exitCode = 1;
-});
+main().catch(error=>{console.error(`报告生成失败：${error.message}`);process.exitCode=1;});

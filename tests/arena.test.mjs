@@ -4,7 +4,8 @@ import { mkdtemp, mkdir, readFile, writeFile, rm } from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 import http from 'node:http';
-import { spawn } from 'node:child_process';
+import { spawn, execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 import ExcelJS from 'exceljs';
 import { datasetFromCsv, datasetFromFile } from '../src/dataset.mjs';
 import { initialConfig, validateConfig } from '../src/config.mjs';
@@ -72,6 +73,20 @@ test('20 条双侧运行、上传、费用、录像回放均使用本地模拟�
     assert.equal(state.lanes[0].failed, 0); assert.equal(state.lanes[0].model, 'left-model');
     const events = await readFile(path.join(root, started.data.runId, 'events.jsonl'), 'utf8');
     assert.ok(!events.includes('test-secret')); assert.ok(events.includes('left-model'));
+    const snapshotPath = path.join(root, started.data.runId, 'comments.csv');
+    const snapshot = datasetFromCsv(await readFile(snapshotPath, 'utf8'));
+    assert.equal(snapshot.rows.length, 20);
+    const beforeRender = calls;
+    await promisify(execFile)(process.execPath, ['report/cli.mjs', '--run', path.join(root, started.data.runId)]);
+    for (const lane of ['jev', 'deepseek']) {
+      const html = await readFile(path.join(root, started.data.runId, `report.${lane}.html`), 'utf8');
+      assert.match(html, /<!doctype html/i);
+      assert.ok(!html.includes('test-secret'));
+      const facts = JSON.parse(await readFile(path.join(root, started.data.runId, `report.${lane}.facts.json`), 'utf8'));
+      assert.equal(facts.dataset.total, 20);
+      assert.equal(facts.quality.evidence_source, 'model');
+    }
+    assert.equal(calls, beforeRender);
     const callsBeforeReport = calls;
     const demo = await api('/api/report?runId=0919-124001');
     assert.equal(demo.status, 200);

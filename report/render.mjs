@@ -1,26 +1,17 @@
-/**
- * 渲染适配器：view JSON → 调 VoxAgent 的渲染器 → 自包含 HTML。
- *
- * 为什么是 spawn 而不是 import：渲染器（packages/report-renderer/dist/render-static.js）
- * 是 VoxAgent 仓库的产物，它内部依赖 React / zod / 它自己的 CSS。跨仓库 import 会把
- * jev-arena 的依赖树和 VoxAgent 的构建产物绑死；spawn 一条命令则是稳定的进程边界：
- * 渲染器怎么升级都不用改这边，接口只有「进去 JSON、出来 HTML」。
- *
- * 渲染器要求 cwd 在 VoxAgent 根目录（它按 INIT_CWD/cwd 解析相对路径），所以这里
- * cwd 固定为 VoxAgent 根，输入输出都传绝对路径，不受调用方 cwd 影响。
- */
+/** Render a validated report view with the bundled, offline VoxAgent template. */
 
 import { spawn } from "node:child_process";
 import { existsSync } from "node:fs";
 import { mkdtemp, rm, writeFile } from "node:fs/promises";
 import os from "node:os";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 
-/** 默认指向同级目录下的 VoxAgent 检出；换机器用 VOXAGENT_ROOT 覆盖。 */
+// External renderers remain an explicit development override only.
 export const VOXAGENT_ROOT = process.env.VOXAGENT_ROOT
   ? path.resolve(process.env.VOXAGENT_ROOT)
-  : path.resolve("/Users/nanmi/workspace/myself_code/VoxAgent");
-
+  : null;
+export const BUNDLED_RENDERER = fileURLToPath(new URL("./vendor/voxagent/render-static.js", import.meta.url));
 const RENDERER_CLI = path.join("packages", "report-renderer", "dist", "render-static.js");
 
 function runNode(args, cwd) {
@@ -43,12 +34,12 @@ function runNode(args, cwd) {
  */
 export async function renderReport(view, outPath, options = {}) {
   const root = options.voxagentRoot ? path.resolve(options.voxagentRoot) : VOXAGENT_ROOT;
-  const renderer = path.join(root, RENDERER_CLI);
+  const renderer = root ? path.join(root, RENDERER_CLI) : BUNDLED_RENDERER;
   if (!existsSync(renderer)) {
     throw new Error(
-      `找不到 VoxAgent 渲染器：${renderer}\n`
-      + `请确认 VoxAgent 检出存在（或用 VOXAGENT_ROOT / --voxagent 指定根目录），`
-      + `并在该仓库执行过 npm run build --workspace @voxagent/report-renderer。`,
+      `找不到报告渲染器：${renderer}\n`
+      + `请确认仓库中的 report/vendor/voxagent/render-static.js 存在，并已执行 npm ci。`
+      + (root ? `当前使用显式 VoxAgent 覆盖路径，请检查该项目的构建产物或移除覆盖设置。` : ""),
     );
   }
   const htmlPath = path.resolve(outPath);
@@ -62,7 +53,7 @@ export async function renderReport(view, outPath, options = {}) {
   try {
     const { code, stdout, stderr } = await runNode(
       [renderer, "--input", viewPath, "--output", htmlPath],
-      root,
+      root || path.dirname(BUNDLED_RENDERER),
     );
     if (code !== 0) {
       // 渲染器的报错信息（zod 校验路径 / 堆栈）必须原样抛出：

@@ -253,7 +253,7 @@ function multiValueSummary(items, values, valuesOf, book, idSink, labelOf) {
  * @returns {{facts:object, factCatalog:Array<{id:string,text:string}>}}
  */
 export function buildFacts(lane, { runDir, datasetPath }) {
-  const config = LANES[lane];
+  const config = LANES[lane] ? { ...LANES[lane] } : null;
   if (!config) throw new Error(`未知的 lane "${lane}"，可选：${Object.keys(LANES).join(" / ")}`);
   if (!runDir) throw new Error("buildFacts 缺少 runDir");
   if (!datasetPath) throw new Error("buildFacts 缺少 datasetPath");
@@ -266,6 +266,12 @@ export function buildFacts(lane, { runDir, datasetPath }) {
   const labels = parseJsonl(readFileSync(labelPath, "utf8"));
   if (labels.length === 0) throw new Error(`标签文件为空：${labelPath}`);
   const { rows } = loadDataset(dataPath);
+  const seen = new Set();
+  for (const label of labels) {
+    const id = String(label.comment_id ?? '');
+    if (!id || seen.has(id)) throw new Error(`标签 ID 为空或重复：${id}`);
+    seen.add(id);
+  }
 
   // —— JOIN：两道的 comment_id 集合完全一致，直接按 id 对齐 ——
   const rowById = new Map(rows.map((row) => [String(row.comment_id), row]));
@@ -277,12 +283,24 @@ export function buildFacts(lane, { runDir, datasetPath }) {
     joined.push({ label, row });
   }
 
+  if (unmatched) throw new Error(`${unmatched} 条标签找不到原文，请提供这次运行的 CSV 快照`);
+
   const relevant = joined.filter(({ label }) => label.is_relevant === true);
 
   const book = new FactBook();
   const ids = { sentiment: {}, intent: {}, aspect: {}, emotion: {}, platform: {}, timeline: {} };
 
   const laneMeta = (manifest?.lanes ?? []).find((item) => item?.id === lane) ?? {};
+  config.label = laneMeta.label || config.label;
+  config.backend = labels.find(label => label.meta?.backend)?.meta?.backend || config.backend;
+  const source = labels.find(label => label.evidenceSource || label.meta?.evidenceSource);
+  const evidenceSource = source?.evidenceSource || source?.meta?.evidenceSource;
+  if (evidenceSource === 'host' || evidenceSource === 'model') {
+    config.evidenceSource = evidenceSource;
+    config.evidenceSourceNote = evidenceSource === 'host'
+      ? '引文由宿主程序从原文机械摘取，不是模型自述'
+      : '引文由模型摘录，宿主校验原文子串';
+  }
   const model = String(
     labels.find((label) => label?.meta?.model)?.meta?.model
       ?? laneMeta.model
@@ -809,7 +827,7 @@ function selectEvidence({ relevant, book }) {
   });
 
   const poolSizeId = book.add(
-    `报告选取的原文样本数：${fmtInt(items.length)} 条（按点赞数从高到低排序，并保证每个情绪、方面、意图都有代表）。`,
+    `报告选取的原文样本数：${fmtInt(items.length)} 条（按点赞数优先选取，属于诊断样本，不保证覆盖每个类别或代表总体）。`,
   );
 
   return {
