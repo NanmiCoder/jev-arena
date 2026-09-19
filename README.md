@@ -6,7 +6,9 @@
 
 **给两个模型同一批评论，直观看速度，逐条比结果。** 导入 CSV / Excel，填写两侧 Key，即可实时对比、保存回放，并离线生成两份研究报告。
 
-[快速启动](#快速启动) · [模型配置](#模型配置) · [评论格式](#评论文件格式) · [生成报告](#生成两份报告) · [给 AI Agent 的指南](docs/report-generation.md)
+[Jev 模型介绍与原理](https://nanmicoder.github.io/jev-arena/) · [快速启动](#快速启动) · [模型配置](#模型配置) · [评论格式](#评论文件格式) · [生成报告](#生成两份报告) · [给 AI Agent 的指南](docs/report-generation.md)
+
+想了解 Jev？阅读 **[System One：它不生成文字，它返回判断](https://nanmicoder.github.io/jev-arena/)**，了解 Choice、Score、Noul 三种判断原语、概率与置信度，以及分类、路由和批量打标等应用。介绍页源码位于 [`site/index.html`](site/index.html)，推送到 `main` 后由 GitHub Actions 自动发布。
 
 ![一万条评论对决的前 20 秒：通过回放按钮以 1 倍速录制，左侧 Jev 与右侧 DeepSeek 的实时处理进度](assets/readme/demo.gif)
 
