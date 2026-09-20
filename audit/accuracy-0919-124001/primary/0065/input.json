@@ -1,0 +1,236 @@
+{
+  "topics": [
+    "i don't get the hype - DeepSeek V4 Flash 0731",
+    "Has anyone actually used DeepSeek V4 Flash 0731 to solve complex, real-world problems in medium to large production codebases? I’m looking for honest feedback, not hype or toy-project benchmarks",
+    "Tabbit已升级接入DeepSeek-V4-Flash正式版",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+    "deepseek v4 flash 配上 opencode 送的太多了，非常好用，真爽。",
+    "I don't think Anthropic and OpenAI will survive",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "ローカルAIはDeepseek-V4-Flash のおかげで下限が保証されてよかった",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "如何使用满血DeepSeek v4 flash正式版",
+    "美国小哥实测DeepSeekV4Flash：花不到1美元，AI给他做了个GTA+射击游戏，这Flash怎么比pro还pro？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "Deepseek v4 flash 0731",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Arena榜单：DeepSeek-V4-Flash排名第7",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "130亿干翻490亿，DeepSeek让大力出奇失效了",
+    "【转载MTS 】DeepSeek v4 Flash：本地部署大模型的真•DeepSeek时刻"
+  ],
+  "comments": [
+    {
+      "id": "p13wt47",
+      "t": 0,
+      "content": "The new DS4 checkpoint is running like a charm for me in Hermes. It's running around the clock right now."
+    },
+    {
+      "id": "p11s9si",
+      "t": 1,
+      "content": "this may not be considered a large codebase or anything, but for my job, where it involves minecraft server development, we had alot of custom plugins, which were big memory hogs, and they were almost 9 of them, completely separate, and after some work in making it understand the whole codebase of all of the plugins, it proposed we combine all of it into a single core plugin since almost all of the tools shared alot of the same backend code, and it was able to make its own plan on how it would do it (which was very impresssive) and it combined all of it, at first this core plugin did have bugs and issues but after 2-4 times they were fixed, and it was still abit more of a memory hog, and i told it to optizimize it abit more, and it planed again on how it would do it, and implemented it, and this time no issues all things still worked, and the memory footprint was down by \\~70%, and the physical size of the core plugin reduced quite alot (from 45mb to 12mb), all of this was done in 2 session and in oh-my-pi as a harness with lsps enabled in kotlin, and all of this took about 4 hours to do, and costed about $1.63, (mind you i have a opencode go sub)"
+    },
+    {
+      "id": "6a6dc48e0000000009014642",
+      "t": 2,
+      "content": "apple store是还没接入吗"
+    },
+    {
+      "id": "308431660833",
+      "t": 3,
+      "content": "还行吧别问有歧义的问题并且规定不要过度思考"
+    },
+    {
+      "id": "p0tuq34",
+      "t": 4,
+      "content": "there's new deepseek?"
+    },
+    {
+      "id": "308579524657",
+      "t": 5,
+      "content": "是的不管free还是套餐，都是直接接入官方"
+    },
+    {
+      "id": "p184pjk",
+      "t": 6,
+      "content": "All OS models are not good for vibecoding. If you know what to do then you are right, even dsv4f will be sufficient. But if you write something like \"Make me a beautiful FPS game. Iterate until it is ready for Steam\" only Opus and Fable would produce something playable and visually appealing although months apart from ready game.  \n  \nFor example, I am doing my own game and when I know what I want I ask GLM 5.2 to do it and it excels. When I run out of ideas or it is a very big change to whole codebase I turn to Opus 5."
+    },
+    {
+      "id": "p12i2ch",
+      "t": 7,
+      "content": "How has everyone here missed that it wasn't just a kernel optimization for 20%? It was 20% from one source, 15% from another.\n\n20%+15% = 38%.\n\nYes, that's not 80%, but also $6/mil was never their cost. It wasn't even $3/mil. These smaller non-frontier models have been getting quite cheap. Their cost is likely under $1/mil after the 38% reduction so they can offer it at $1.2/mil fine.\n\nThe OP isn't even correct. The kernel change was the 15%, not the 20%. Lmao.\n\n> OpenAI reduced its end-to-end serving costs by 20% and improved token-generation efficiency by over 15% through production GPU kernel upgrades and advanced speculative decoding"
+    },
+    {
+      "id": "308446138353",
+      "t": 8,
+      "content": "回复 @埃斯沃多 :不是，我的意思是，你是在Claude code里使用Claude的模型贵还是在Claudecode中接别的api会比别的agent贵。"
+    },
+    {
+      "id": "7669065625973326601",
+      "t": 9,
+      "content": "这个模型就不是用来写代码的，纯粹就是用来执行简单工作流任务的。大型的高并发普通任务，而且必须要有严格的约束库"
+    },
+    {
+      "id": "308407286129",
+      "t": 10,
+      "content": "你要说刷分的话，你又敢保证就ds刷分了其他模型没刷分？没有实际证据的话怎么说都行"
+    },
+    {
+      "id": "7668916749933527846",
+      "t": 11,
+      "content": "ds本身没有生图能力，ds输出方面是纯文字（注意部分版本提供的是图片视觉输入处理能力）"
+    },
+    {
+      "id": "2083899659261784334",
+      "t": 12,
+      "content": "ローカルAIはDeepseek-V4-Flash のおかげで下限が保証されてよかった"
+    },
+    {
+      "id": "p137hnq",
+      "t": 7,
+      "content": "Dont' talk about Uncle Turbo like dat"
+    },
+    {
+      "id": "308536483441",
+      "t": 13,
+      "content": "回复 @鴏麚亹䥖纔 :到底codex和claude code哪个接入DeepSeek更好啊"
+    },
+    {
+      "id": "6a6d83ab000000002b027d66",
+      "t": 14,
+      "content": "flash超过pro?第一次听说，不知道博主做了功课没？"
+    },
+    {
+      "id": "308591036177",
+      "t": 15,
+      "content": "回复 @O_Ra :[吃瓜]并不利好，ai硬件的泡沫来自“过量部署”和“快速淘汰”，deepseek 让市场不仅“减少部署”并且旧设备也可以多用几年"
+    },
+    {
+      "id": "311903920192",
+      "t": 5,
+      "content": "codex 上下文限制死了 256，不知道能不能改。"
+    },
+    {
+      "id": "7669254311633437489",
+      "t": 16,
+      "content": "用得上呀，直接写个点菜小程序，省得买。还有新鲜菜的入库时间，保质期什么的都可以做"
+    },
+    {
+      "id": "308561641681",
+      "t": 17,
+      "content": "主要速度慢如果评论速度有个200就不存在问题[吃瓜]"
+    },
+    {
+      "id": "7668916318075126577",
+      "t": 16,
+      "content": "用之前的预览版的API可以直接使用正式版吗，还是说要再申请一次[思考]"
+    },
+    {
+      "id": "311712682816",
+      "t": 18,
+      "content": "这次flash好像是配套了open AI的接口，也可以像Claude code一样直接用"
+    },
+    {
+      "id": "311638441632",
+      "t": 19,
+      "content": "回复 @棍之勇者复仇路 :不用模型改名字，直接用就行了[doge]"
+    },
+    {
+      "id": "311932242624",
+      "t": 20,
+      "content": "workbuddy有时候会无限循环，用cc或者oc"
+    },
+    {
+      "id": "6a6c7799000000002902ee7a",
+      "t": 21,
+      "content": "该评论已丢失"
+    },
+    {
+      "id": "6a6df6bf000000000802da52",
+      "t": 22,
+      "content": "用过5.6，的确比国内的好，但是我们公司只报销或者说允许我们用国内的，我自己用才会用5.6，但是办公主流，我被迫需要用国内的"
+    },
+    {
+      "id": "7669014687324980005",
+      "t": 9,
+      "content": "想多了[捂脸]他们真有别的东西kimi出来的时候他们就不会反应那么大了，你可以理解为他们发出来的都是最新版的"
+    },
+    {
+      "id": "311712306480",
+      "t": 23,
+      "content": "回复 @努力的5 :1.54哪里，有开关，我看别的视频发现的。\n但感觉不配其他的，这个v4也就那样，因为我不搞软件，就聊天之类的。"
+    },
+    {
+      "id": "6a6ecd090000000015000e04",
+      "t": 24,
+      "content": "一直在用[doge] ai的能力，八成取决于使用者本身[坏笑R]"
+    },
+    {
+      "id": "311875404624",
+      "t": 15,
+      "content": "pro还不是正式版，甚至你要去查看思考链英文版是不是letme和im ing的区别才能提前享受到正式版"
+    },
+    {
+      "id": "308505788817",
+      "t": 25,
+      "content": "回复 @顾望怀愁丶 :好的谢谢！"
+    },
+    {
+      "id": "2083443670116974755",
+      "t": 26,
+      "content": "@deepseek_ai @OpenRouter yo bro did u update to this model? quick bro I need to build the next unicorn 1b+ valuation https://t.co/Do6qV0FKMl"
+    },
+    {
+      "id": "308415520465",
+      "t": 27,
+      "content": "回复 @星穷摆烂王 :别把泡沫挂在嘴边，开源越好用，用的人越多，ai的市场才越大，长远看是利好"
+    },
+    {
+      "id": "2083097471719448954",
+      "t": 26,
+      "content": "@deepseek_ai Thank you, 🐋 https://t.co/mSATHggKAT"
+    },
+    {
+      "id": "308512855313",
+      "t": 10,
+      "content": "回复 @忽有狂徒夜起兵 :那我不了解了，学生党没那么多用处，目前学的一些东西ai也不太能很好的接入，我还处于一个半原始人的阶段"
+    },
+    {
+      "id": "7669158522307740453",
+      "t": 16,
+      "content": "美股最后一刀估计要梁圣砍了，直接来一波一骑绝尘，然后高速全世界这都是华为芯片跑的。"
+    },
+    {
+      "id": "311890061840",
+      "t": 20,
+      "content": "我觉得应该把耗时和花费也算进去，比如整场下来耗时最短或者花钱最少的可以加各加1分或者0.5分"
+    },
+    {
+      "id": "6a6e94f4000000002902e5cd",
+      "t": 28,
+      "content": "还是量化赚钱，c端有啥钱可以赚"
+    },
+    {
+      "id": "308465904001",
+      "t": 29,
+      "content": "回复 @UkOfMdbupO :梁文峰的说法是dsv4f卖api9个月回本"
+    },
+    {
+      "id": "311878567632",
+      "t": 10,
+      "content": "回复 @有用的知识增加了嘿 :然后梁文峰表示不需要你们了[doge]"
+    }
+  ]
+}

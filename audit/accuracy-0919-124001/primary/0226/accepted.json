@@ -1,0 +1,790 @@
+{
+  "items": [
+    {
+      "id": "6a6d5b240000000015006293",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "质疑模型自测成绩有水分及利益偏向。"
+    },
+    {
+      "id": "308586771473",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "推测训练效果差源于华为硬件，并比较英伟达；仅属猜测。"
+    },
+    {
+      "id": "p0y37fd",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问新版成本为何高于旧版及Pro，与价格认知不符。"
+    },
+    {
+      "id": "7668896555638784826",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "预测不会有正式多模态，“土法”略带贬义。"
+    },
+    {
+      "id": "p11h2u7",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "高度认可新版智能并分享配置，同时明确贬低旧版。"
+    },
+    {
+      "id": "7668894771898188603",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "仅礼貌回应致谢，未讨论模型或使用。"
+    },
+    {
+      "id": "7668915318769402666",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "亲测认为轻量版比另一模型更好用。"
+    },
+    {
+      "id": "308358650561",
+      "r": [],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅回复“pi”，缺少上下文，无法确定指代或相关性。"
+    },
+    {
+      "id": "308323701313",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "“我也是”表示附和，但“依旧let me”的问题指向不明。"
+    },
+    {
+      "id": "311757942272",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "agreement",
+        "joke"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "表达对谷歌AI观点的信任，狗头也使玩梗解读合理。"
+    },
+    {
+      "id": "311666135952",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "service"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.6,
+      "reason": "新版一句话解决问题并修复漏洞，同时抱怨其他模型失败耗额度。"
+    },
+    {
+      "id": "308491305153",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "有条件赞同量化收益发展产业，未直接讨论AI。"
+    },
+    {
+      "id": "311724847552",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "提醒已是2026年，略带嘲讽；缺失被纠正对象。"
+    },
+    {
+      "id": "311716639568",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "反问测试high的意义，认为应测试max档。"
+    },
+    {
+      "id": "311916183056",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "声称官方以后会推出，但省略对象，相关性有歧义。"
+    },
+    {
+      "id": "308464677217",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问部署后的速度及每秒Token数。"
+    },
+    {
+      "id": "6a6ec0120000000029037453",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "表示可能不用修改且将尝试，但具体修改对象不明。"
+    },
+    {
+      "id": "308534310737",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "price"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "认为用GPT替换其他模型多数不划算，sol除外。"
+    },
+    {
+      "id": "311751340608",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": -0.2,
+      "reason": "纠正前端差的原因，批评GPT设计并肯定GLM配视觉工具。"
+    },
+    {
+      "id": "308510792945",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只陈述某物弹出，结合教程可能指操作结果，但对象不明。"
+    },
+    {
+      "id": "7668953446137643825",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "肯定性能追平，同时指出价格未能做到，比较对象省略。"
+    },
+    {
+      "id": "311779335792",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "information"
+      ],
+      "a": [
+        "reliability",
+        "service"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "描述间隔后缓存命中率骤降，并询问是否服务器清空所致。"
+    },
+    {
+      "id": "308587889185",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "以排名反差调侃两个版本，“忍俊不禁”表达嘲弄。"
+    },
+    {
+      "id": "6a6d2199000000000500adfe",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "用“牛不牛”反讽GLM涨价三倍。"
+    },
+    {
+      "id": "6a6dedb2000000000b038d5c",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "对比DS免费前后的使用门槛，隐含认可但主要陈述经历。"
+    },
+    {
+      "id": "308449356977",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述API利润率及训练、推理成本关系，未明显褒贬。"
+    },
+    {
+      "id": "7669067143468794630",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "production"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问AI视频制作是否使用HeyGen。"
+    },
+    {
+      "id": "308397835329",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "说明预览版与正式版的发布时间及后续预期。"
+    },
+    {
+      "id": "311902846928",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.8,
+      "reason": "称新版实力逆天，并看好Pro以低价挑战其他模型。"
+    },
+    {
+      "id": "6a6d6a5f0000000014038963",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "表示准备升级YouMind最高订阅档，隐含使用期待。"
+    },
+    {
+      "id": "6a6e1237000000002b003fb6",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "陈述Luna降价并推测订阅额度能用更久。"
+    },
+    {
+      "id": "6a6e0540000000002a006450",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅说明保存帖子的来源，未涉及AI内容。"
+    },
+    {
+      "id": "311722864528",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "用红米类比Flash的平价产品定位，无明确褒贬。"
+    },
+    {
+      "id": "308347886513",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以梁圣口吻玩替身梗，是否涉及模型比较无法确定。"
+    },
+    {
+      "id": "7668920220500837169",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "报告单机量化运行速度，“只有”体现对速度不满。"
+    },
+    {
+      "id": "311680625808",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "纠正模型身份为Flash而非Pro。"
+    },
+    {
+      "id": "308366355121",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议切换到Flash版本以使用正式版。"
+    },
+    {
+      "id": "308609846705",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问设备能否运行ComfyUI文生图及图生视频模型。"
+    },
+    {
+      "id": "308441697761",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "质疑不同参数规模模型对比的合理性，并带狗头调侃。"
+    },
+    {
+      "id": "6a6d63a00000000015010bf9",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "调侃国产模型互相吸收成果，暗含对独立能力的质疑。"
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "items": [
+    {
+      "id": "311814721216",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "反问编程需要多模态的理由，亦可能表达否定。"
+    },
+    {
+      "id": "2083717603336536093",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "希望服务进一步提速，未明确抱怨现状。"
+    },
+    {
+      "id": "308553300529",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "解释API与网页版差别，肯定前者并批评后者局限。"
+    },
+    {
+      "id": "2083898950596415777",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "trust",
+        "content"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "澄清调查功劳归属，并认可文章通过AI帮助他人。"
+    },
+    {
+      "id": "p14tl4a",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "performance",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议保留设置并亲自试用，快慢好坏均为假设。"
+    },
+    {
+      "id": "308484338401",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合接入教程，请求提供中转服务。"
+    },
+    {
+      "id": "7669061272075600677",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "陈述项目成功落地且节省数千成本。"
+    },
+    {
+      "id": "308530467761",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "请求抽奖选中自己，没有讨论AI使用。"
+    },
+    {
+      "id": "308586240017",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "否定小规模模型匹敌更大模型的期待。"
+    },
+    {
+      "id": "308429471905",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "认为表现很可以，并强调跑分超过竞品。"
+    },
+    {
+      "id": "308456970609",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅表示到场围观，未评价模型或内容。"
+    },
+    {
+      "id": "p1608im",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "performance",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议监控内存带宽并调整推理工具参数。"
+    },
+    {
+      "id": "6a6c90f8000000000d028801",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "追问跑分是否不及Gemini，带质疑语气。"
+    },
+    {
+      "id": "311919670096",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "介绍套餐价格及调用额度，“也就”暗示便宜。"
+    },
+    {
+      "id": "6a6d77550000000005008f9e",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "说明由Grok翻译，调侃理解大意即可。"
+    },
+    {
+      "id": "308455257409",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "笑着赞同，但缺少被赞同内容，无法关联AI。"
+    },
+    {
+      "id": "311747078512",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "quality",
+        "trust"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "指出语料污染问题，并以笑哭表情调侃。"
+    },
+    {
+      "id": "p13ddy9",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "service",
+        "usability",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "愤怒"
+      ],
+      "score": -0.6,
+      "reason": "反驳模型比较，批评付费服务并要求提供失败细节。"
+    },
+    {
+      "id": "311673774928",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance",
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问中转与直连的性能差异及是否需要切换。"
+    },
+    {
+      "id": "308393846433",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "嘲笑某人急了，指代缺失，不能确定涉及AI。"
+    },
+    {
+      "id": "311755976704",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "称赞猫娘形象可爱，是否算评价AI产品存在歧义。"
+    },
+    {
+      "id": "311714204544",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "担忧"
+      ],
+      "score": 0.1,
+      "reason": "认可AI Studio并反对合并，担心失去调参与无水印。"
+    },
+    {
+      "id": "6a6e1cb6000000000403af47",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "描述Windows界面差异并求助模型选项。"
+    },
+    {
+      "id": "6a6f0054000000002b02899b",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问自身界面为何不同及是否为端游。"
+    },
+    {
+      "id": "308438355601",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "usability",
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "认可梁总目标，同时讽刺雷总只营造便宜好用印象。"
+    },
+    {
+      "id": "308347682833",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.4,
+      "reason": "表示认可并准备从既有模型体验转去试用。"
+    },
+    {
+      "id": "311691476448",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "批评Gemini特别喜欢吹水，否定回答质量。"
+    },
+    {
+      "id": "308457577985",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "失望",
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "虽提到过去尚可，整体强烈不满当前月费。"
+    },
+    {
+      "id": "311791294976",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问API接入Codex后能否直接联网搜索。"
+    },
+    {
+      "id": "311719159584",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待",
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "表示赞同并期待官方配套工具，座驾具体所指不明。"
+    },
+    {
+      "id": "308432796545",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "agreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "将所述情形归于DS性价比，具体比较条件缺失。"
+    },
+    {
+      "id": "308355194369",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问提示词如何编写。"
+    },
+    {
+      "id": "2083173705157398881",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问视觉能力，也可能是简短功能请求。"
+    },
+    {
+      "id": "311725482032",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "认为涉及图像的任务整体表现不佳。"
+    },
+    {
+      "id": "311864169216",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "试探性指出回测模型应为Pro，也可能是在确认。"
+    },
+    {
+      "id": "7668922244882006826",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提到在Workbuddy切换模型，建议与操作陈述两可。"
+    },
+    {
+      "id": "7668988143853667087",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "愤怒",
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "抱怨DS频繁胡说并因而改用体验更好的Kimi。"
+    },
+    {
+      "id": "311816624432",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.2,
+      "reason": "报告修复后基本可玩，但仍有无法通关的关卡问题。"
+    },
+    {
+      "id": "p14n7ff",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.8,
+      "reason": "表示继续支持DeepSeek，幽默称其唯一理解预算。"
+    },
+    {
+      "id": "p0v72mo",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "激动呼唤Antirez，未明确讨论模型或其使用。"
+    }
+  ]
+}

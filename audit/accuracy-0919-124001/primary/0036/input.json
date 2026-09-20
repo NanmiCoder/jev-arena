@@ -1,0 +1,232 @@
+{
+  "topics": [
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash IQ2_M 0731 (92 GB) on a mid range Android mobile with 12 GB of RAM at 1 token/s",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "要被外网的一些评论笑死了😂😂😂",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "Alright, I'm calling today the LLM Rain on your Parade Day.\n\nFirst, OpenAI just squeezed Claude's pressure point...pricing. The new GPT-5.6 price cuts look like a product update, but It's really a com",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "DeepSeek v4 Flash for DS4 (DwarfStar) GGUF w/ DSpark MTP Head",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "卧槽，DSv4-flash初步AA跑分50-51",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DeepSeek V4 Flash 正式版的一些测试",
+    "Deepseek v4 flash 0731",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题"
+  ],
+  "comments": [
+    {
+      "id": "311891422768",
+      "t": 0,
+      "content": "回复 @outlier_nex :如果ds要提供原生多模态，早就给api端用户测试了，先摆到网页端是什么意思呢？"
+    },
+    {
+      "id": "308497073969",
+      "t": 1,
+      "content": "回复 @_理想主义者_ : 另外，哲学类的文本属于知识性内容，可能Gemini是最强的，因为谷歌有着世界上最大的信息收集数据库"
+    },
+    {
+      "id": "311713664016",
+      "t": 2,
+      "content": "之前v4pro预览版花了二十几块钱，现在靠flash正式版只花了几块，效果还更好[点赞][点赞]"
+    },
+    {
+      "id": "p18r6yd",
+      "t": 3,
+      "content": "Storage is not ment for that type of constant reading and streaming of data per token (during decode) it will ruin it. It will cause a constant write of os other functionaries to the storage. It will degrade it over time.  \nAnd the ufs controller is not as strong as the ssd one yet(but improving)…  \nCool project but not practical for those model sizes…"
+    },
+    {
+      "id": "308596679361",
+      "t": 0,
+      "content": "反正被其他模型污染的语料肯定少了不少"
+    },
+    {
+      "id": "7669390002585699121",
+      "t": 4,
+      "content": "破解用起来就是畅快[微笑][微笑][捂脸]"
+    },
+    {
+      "id": "311840328800",
+      "t": 5,
+      "content": "你用ds官方那个脚本都给你自动配好了"
+    },
+    {
+      "id": "308386996193",
+      "t": 6,
+      "content": "半天用10亿，使用的太快了"
+    },
+    {
+      "id": "308620113313",
+      "t": 7,
+      "content": "我用的copilot，有专门的ds插件适配，能自动调用免费有视觉的模型打工开一半眼"
+    },
+    {
+      "id": "6a6d80fb000000002a03278e",
+      "t": 8,
+      "content": "我都用，还有豆包，都是肯花心思取悦朕的[doge]朕雨露均沾。"
+    },
+    {
+      "id": "308593954289",
+      "t": 7,
+      "content": "别用opencode，我昨天单独测了一下mc生成，看看能不能达到站内视频的效果，第一遍测一坨，本来以为是提示词的问题，结果第二遍换了几套提示词然后拉了好几坨出来[笑哭]"
+    },
+    {
+      "id": "311707253456",
+      "t": 9,
+      "content": "计算机科学又不是只有代码，多学点架构"
+    },
+    {
+      "id": "311906849696",
+      "t": 10,
+      "content": "回复 @星光的笔记 :你确定你这套流程几个亿都是flash？\n如果真全程flash 不得不承认也是一种牛b"
+    },
+    {
+      "id": "6a6de5af000000002b0265de",
+      "t": 11,
+      "content": "这下真得叫梁圣了"
+    },
+    {
+      "id": "7669021143421174534",
+      "t": 12,
+      "content": "DeepSeek一直很猛啊兄弟，太便宜了，股市里我骂他，DeepSeek里真的夸他[流泪]"
+    },
+    {
+      "id": "6a6d8c78000000000d023001",
+      "t": 8,
+      "content": "xhs斗争激烈"
+    },
+    {
+      "id": "2083220618267496574",
+      "t": 13,
+      "content": "@deepseek_ai Started testing it, and it's great!\n\nhttps://t.co/ZKEfNKjeaE"
+    },
+    {
+      "id": "17924987",
+      "t": 14,
+      "content": "是很强，但是 V 站上大部分，不都是非 Fable5 或 5.6Sol 不用的高级用户么？\r\nDS V4 Flash 强不强，和他们似乎关系不大吧"
+    },
+    {
+      "id": "308516702417",
+      "t": 1,
+      "content": "实在不知道该怎么办了，暂时只能呆在烂尾楼里，前面找工作被骗了，有好心人可以资助一顿饭吗，已经没有爸爸妈妈了，实在没办法了，谢谢"
+    },
+    {
+      "id": "2083339987341160470",
+      "t": 15,
+      "content": "Alright, I'm calling today the LLM Rain on your Parade Day.\n\nFirst, OpenAI just squeezed Claude's pressure point...pricing. The new GPT-5.6 price cuts look like a product update, but It's really a competitive move. \n\nBut after what seemed like seconds it got bumped off being the pricing leader?\n\nAnthropic also has a very visible weakness: compute and pricing. You've experienced it: rate limits and expensive high-end usage that runs out faster than sugar at a lemonade stand.\n\nSo, the headlines today are hard to ignore: GPT-5.6 Luna is now 80% cheaper. And yes, that sounds huge.\n\nAnd then almost simultaneously, DeepSeek V4 Flash was announced with a Cost per Task comes in at ~60% lower than GPT-5.6 Luna with the much beloved GLM 5.2 performance. \n\nThis is the new workhorse leader, the pricing is ridiculous. That puts it at the same level of intelligence as Gemini Flash and still orders of magnitude cheaper.\n\nWhether you use it depends on your tolerance for Chinese vs American models. GPT 5.6 is already available."
+    },
+    {
+      "id": "7668946590870242063",
+      "t": 16,
+      "content": "你了解一下Ai的实现原理就知道了，本质为概率模型，根本不知道自己是什么"
+    },
+    {
+      "id": "7668889194769974075",
+      "t": 12,
+      "content": "你们怎么买的，我40亿用了400多为什么"
+    },
+    {
+      "id": "308332527793",
+      "t": 9,
+      "content": "好像有个取巧办法，就是把minimax设置成子agent，读完图片再交给ds"
+    },
+    {
+      "id": "311858359216",
+      "t": 1,
+      "content": "我昨天让ds4 flash给我搓了一个全志D1s的busybox版的sdk出来，uboot opensbc 内核 打包工具都是我准备好的，ds哼哧哼哧的干了2个小时，烧录一次成功。我是觉得挺好的，虽然我自己也会弄，但换我自己来，至少一周才能搞得掂，效率提升太多了"
+    },
+    {
+      "id": "308531629409",
+      "t": 17,
+      "content": "现在luna和v4flash就是斩杀线了，价格高于这俩又没这俩聪明的可以基本退出了"
+    },
+    {
+      "id": "p0zgvul",
+      "t": 18,
+      "content": "Is [this](https://huggingface.co/antirez/deepseek-v4-gguf/commit/88e011c80d9ec39458f5493ddacab57364143960) the mixed Q2-Q4 imatrix you made?  If so, antirez just updated this a few hours ago (for comparison)."
+    },
+    {
+      "id": "308577988897",
+      "t": 7,
+      "content": "回复 @nsnnsnnsnnsn :估计是用的人太多了，白天甚至响应速度都变慢了"
+    },
+    {
+      "id": "7669050975961482033",
+      "t": 12,
+      "content": "给我打死华尔街"
+    },
+    {
+      "id": "311659296800",
+      "t": 2,
+      "content": "有识图功能吗？"
+    },
+    {
+      "id": "311735638480",
+      "t": 19,
+      "content": "为什么要让他去GitHub上找代码呀？不是测试模型能力吗？如果去GitHub上找代码，那直接复制一个完整的成品不就可以了吗？"
+    },
+    {
+      "id": "311736372896",
+      "t": 20,
+      "content": "我靠我刚好两台"
+    },
+    {
+      "id": "6a6d02dc000000002902c2ee",
+      "t": 21,
+      "content": "我用了还是不太行，感觉分数虚高了"
+    },
+    {
+      "id": "7669393939090637605",
+      "t": 12,
+      "content": "埋土里了都[微笑]"
+    },
+    {
+      "id": "7668907613535060773",
+      "t": 12,
+      "content": "现在是 v4-7-31"
+    },
+    {
+      "id": "308339509201",
+      "t": 22,
+      "content": "codex特化过的你还用cc啊"
+    },
+    {
+      "id": "6a6c78d90000000029035911",
+      "t": 23,
+      "content": "虽然发新模型了，但是价格还没变呢。现在全天一个价。跟之前一样"
+    },
+    {
+      "id": "6a6eaa250000000014039fa6",
+      "t": 24,
+      "content": "真求你了，能不能不要啥都不学就用啊，就算你啥都不知道要用，起码也先问清楚一些专业名词和需求该如何专业的表达吧，什么叫“黄色的框”改成“蓝色的框”，你这种说法约等于让模型随意发挥，还怪人家不强，分明是你自己完全不想做好。我来告诉你为什么flash正式版会在你的模糊提示词下做不对，因为flash针对用户提示词一致性做了后训练，也就是说，它会非常忠诚地执行你的提示词，而你的提示词极其模糊且不专业且外行，所以flash会崩溃。"
+    },
+    {
+      "id": "311907439616",
+      "t": 0,
+      "content": "回复 @锈化工程师 :或者他将12弄混，这点你认可吗？"
+    },
+    {
+      "id": "308527225377",
+      "t": 25,
+      "content": "hy3 激活参数大，而且没有 dspark ，会比较慢"
+    },
+    {
+      "id": "7668929636528571171",
+      "t": 12,
+      "content": "什么是接口，类似USB，有1.0、2.0、3.0版本。如果官方发布了自己的工具，建议你换deepseek官方工具，大模型服务商可能还有自己的特性能力，这些特殊能力第三方工具，接口是不太可能支持的，支持的都是通用部分。"
+    }
+  ]
+}

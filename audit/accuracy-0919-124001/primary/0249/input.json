@@ -1,0 +1,232 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "美国小哥实测DeepSeekV4Flash：花不到1美元，AI给他做了个GTA+射击游戏，这Flash怎么比pro还pro？",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "With release of Deepseek V4 I wanted see how the model sizes are trending over time. Open source models are constantly getting smaller and better. The trend is that by this time next year, we probably",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "部署正式版DS-V4-Flash-0731成本真的不高!",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "DeepSeek-V4-Flash-0731 on Bosgame M5 with RTX PRO 6000 Max-Q eGPU",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash正式版 VS GPT5.6 luna",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "1块钱，半小时，deepseek-v4flash正式版实测",
+    "Mac 上の DeepSeek-V4-Flash-0731 で ts-bench を回したので結果を共有する\n\n【前提条件】\n・量子化：UD-Q2_K_XL\n・thinkingなし\n\n【メモ】\n・残念ながら満点は取れず→やはり2bit量子化 + thinkingなしという条件では劣化は免れなかったか\n・推論時間がとんでもなく長い→少なくともまだMacには最適化されていない模様\n・トータルトークンが",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "要被外网的一些评论笑死了😂😂😂",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张"
+  ],
+  "comments": [
+    {
+      "id": "7668993978927153920",
+      "t": 0,
+      "content": "梁子瞬间变梁圣"
+    },
+    {
+      "id": "6a6d2ab3000000000d028400",
+      "t": 1,
+      "content": "这些测试不重要，重要的是你怎么去修改这个图。第一版肯定不能全部弄好的。然后你说要，3层，多几级楼梯，很多就直接不会弄了。可能要调一百轮，然后再比较token"
+    },
+    {
+      "id": "308559811985",
+      "t": 2,
+      "content": "还是不太行，等pro正式版吧"
+    },
+    {
+      "id": "311696245216",
+      "t": 3,
+      "content": "回复 @阴阳生死图 :我3700万输入 都22万输出了"
+    },
+    {
+      "id": "p0x34oz",
+      "t": 4,
+      "content": ">Opus 4.5 level models on consumer grade laptops\n\nI really hope so. I literally just want a <14B that can translate Japanese with precise nuance or at least, mixture of expert that can hold up in my modest laptop 3060 gpu :D  \nWhile Gemma 4 12b is nice, it still doesn't pass my translation tests  (only 32B> model come close and 70-100b> succeed)."
+    },
+    {
+      "id": "311733227600",
+      "t": 5,
+      "content": "哪个ai识图不是这样的？只要不是单纯的OCR就行了啊"
+    },
+    {
+      "id": "311925989968",
+      "t": 3,
+      "content": "回复 @来一包薯条 :问题是我肯定要让他走一遍正常开发流程啊，那不就是需求，架构，然后具体的程序，我总不能连这个都不告诉他吧？然后哪一步出了偏差，一目了然了，这样子一套下来肯定是DeepSeek，mimo这种便宜的能够使劲蹬，但凡贵一点都不行"
+    },
+    {
+      "id": "7668939465122399011",
+      "t": 6,
+      "content": "啥啊，智能体姐的模型没有多模态功能做不了吧，我用的cc"
+    },
+    {
+      "id": "311740589824",
+      "t": 7,
+      "content": "你看看UP拿它做的啥，deepseek没视觉本来就不适合做这些工作，全测人家短板上了属于是。这种非专业测评没太多参考价值，不全面"
+    },
+    {
+      "id": "6a6db05d0000000014039407",
+      "t": 1,
+      "content": "那个指的是不会做浑元、seedance那种直接输出3d模型或视频的模型，不代表不会做多模态"
+    },
+    {
+      "id": "311861937024",
+      "t": 7,
+      "content": "变聪明就是变聪明，什么又降价了，不是有的没变，有的涨价吗[思考][思考][思考]"
+    },
+    {
+      "id": "6a6ee1da000000002a027d44",
+      "t": 8,
+      "content": "我操，我刚想说你行我也行[doge]然后一看内存256g，大哥，打扰了[doge]"
+    },
+    {
+      "id": "7668853113885180721",
+      "t": 6,
+      "content": "上线了也读不了啊，API没有识图模式"
+    },
+    {
+      "id": "308518719489",
+      "t": 7,
+      "content": "钱多烧得慌用A/的模型？"
+    },
+    {
+      "id": "308435616721",
+      "t": 9,
+      "content": "去看了原文，确实是huggingface调用了本地部署的glm5.2安全审计，修复漏洞"
+    },
+    {
+      "id": "7668978225762337586",
+      "t": 6,
+      "content": "问下，哪个软件接入DeepSeek api体验感最好？"
+    },
+    {
+      "id": "6a6df8aa000000002a02c060",
+      "t": 10,
+      "content": "[笑哭R]@间歇性芒果露"
+    },
+    {
+      "id": "6a6eae7f000000000500abc9",
+      "t": 11,
+      "content": "Workbuddy 能接v4flash正式版吗"
+    },
+    {
+      "id": "311883011888",
+      "t": 12,
+      "content": "回复 @happybreeze :因为terra就是mini定位的模型"
+    },
+    {
+      "id": "311719191712",
+      "t": 7,
+      "content": "吃了多模态的亏，其次这么小一个模型已经很牛逼了"
+    },
+    {
+      "id": "6a6c6873000000001403a5b2",
+      "t": 13,
+      "content": "怎么雷里雷气的"
+    },
+    {
+      "id": "311756972624",
+      "t": 14,
+      "content": "回复 @优秀的黑羊 : 有max不开，跑什么分呢，怕flash第一名吗？"
+    },
+    {
+      "id": "311720028528",
+      "t": 15,
+      "content": "因为flash便宜而且性能也不错"
+    },
+    {
+      "id": "p17s3f1",
+      "t": 16,
+      "content": "Isn’t this the other way around: \"RTX Pro 6000 with a Strix Halo attached”?"
+    },
+    {
+      "id": "308380142017",
+      "t": 17,
+      "content": "k3 稳定性太差了"
+    },
+    {
+      "id": "311896600432",
+      "t": 12,
+      "content": "这是少数用得起api价格的了"
+    },
+    {
+      "id": "6a6dc9a5000000002b0013a7",
+      "t": 18,
+      "content": "别吹 把你测试贴出来"
+    },
+    {
+      "id": "7668685012049904433",
+      "t": 6,
+      "content": "DeepSeek是不是觉得flash就够打了，pro暂时不开了"
+    },
+    {
+      "id": "311786046656",
+      "t": 19,
+      "content": "回复 @凌霄kiing :厉害了。双卡可以跑的很快，但是上下文长度不太够，一个热还行， 多人并发更别谈了，3 卡 TP3 貌似也不理想，所以基本都是要奔着四卡去的。成本爆炸啊。具体效果你可以去这里看看有模型对应就的跑分信息。https://gengchaogit.github.io/llm_speedtest/LLM_Speed_Test_v3_Leaderboard.html"
+    },
+    {
+      "id": "311678852656",
+      "t": 20,
+      "content": "以后交流学习喵"
+    },
+    {
+      "id": "2083879913300570115",
+      "t": 21,
+      "content": "@gosrum 最適解はDwarfStarではないかと。Macでは出力スピード4倍ちがうのとSSDオフロードあるので。"
+    },
+    {
+      "id": "308546110497",
+      "t": 7,
+      "content": "高中毕业之前，我接触电脑的时间总共不超过10个小时，不也报了计算机专业嘛[doge]"
+    },
+    {
+      "id": "6a6cc5940000000029037c10",
+      "t": 22,
+      "content": "搞笑，codex早就支持各种api"
+    },
+    {
+      "id": "308448986577",
+      "t": 17,
+      "content": "回复 @M0oreY1nn :你玩酒馆用的直接是 DeepSeek 官方的 API 吗？"
+    },
+    {
+      "id": "311848529648",
+      "t": 23,
+      "content": "回复 @Hangnum :因为订阅给的是272k上下文窗口的残疾模型，不是1m。只有付费api才给1m上下文。"
+    },
+    {
+      "id": "308611117585",
+      "t": 12,
+      "content": "OMO的orchestrator，推荐谁？"
+    },
+    {
+      "id": "6a6d6d27000000002901bc4b",
+      "t": 24,
+      "content": "因为DS他们对网页端和App没有商业化压力，所以没有加那些花里胡哨的东西"
+    },
+    {
+      "id": "308383226913",
+      "t": 25,
+      "content": "然鹅opencodego提供plan，flash价格更低"
+    },
+    {
+      "id": "308475395137",
+      "t": 23,
+      "content": "实际花不到十块钱"
+    },
+    {
+      "id": "7669088709861901115",
+      "t": 0,
+      "content": "美股最近科技天天跌跟这个关系挺大的，成本太低了把科技股市价格都打下来了"
+    }
+  ]
+}

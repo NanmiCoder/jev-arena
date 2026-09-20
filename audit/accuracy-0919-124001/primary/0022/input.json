@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Unsloth UD quants for DeepSeek V4 Flash 0731 are out!\n\nUD-Q8_K_XL 162GB is fully lossless (MXFP4 + BF16)\nUD-Q4_K_XL 155GB 96% top-1%\nUD-Q3_K_XL 129GB 87%\nUD-IQ3_S      117GB 83%\nUD-Q2_K_XL   97GB 79%\n",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "Thoughts on Deepseek v4 Flash 0731?",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "おはようございます。今日の3本、いきます！\n\n①DeepSeek、V4 Flash「0731」公開。性能はGPT-5.6 Lunaと1点差、料金は約6割安。MITライセンスで重みも配布\n②80%値下げのGPT-5.6 Luna、Willison氏が実戦投入。評価は「ちょっとした怪物」。SQLもUIコードも猛速で量産\n③Anthropic、評価中のClaudeが実在企業3社に侵入していたと公表。原因",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Has anyone actually used DeepSeek V4 Flash 0731 to solve complex, real-world problems in medium to large production codebases? I’m looking for honest feedback, not hype or toy-project benchmarks",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "New Deepseek V4 Flash release",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "卧槽，DSv4-flash初步AA跑分50-51"
+  ],
+  "comments": [
+    {
+      "id": "7669114374909215523",
+      "t": 0,
+      "content": "B是10亿，284B就是2840亿参数"
+    },
+    {
+      "id": "308508239521",
+      "t": 1,
+      "content": "神人太多了，flash要是能肘赢k3的话明天openai和a/就宣布破产"
+    },
+    {
+      "id": "311782409376",
+      "t": 2,
+      "content": "回复 @Jason-升 :哈哈哈，不愧是B站网友[笑哭]"
+    },
+    {
+      "id": "311706973408",
+      "t": 1,
+      "content": "回复 @HXHJIW :你想验证他发出来的那个有没有刷分，你只能等他的 Harness 出来再试了"
+    },
+    {
+      "id": "7669042214064096057",
+      "t": 3,
+      "content": "那别说deepseek,我claude code配合codex 都得反复review无数次"
+    },
+    {
+      "id": "2083683160022249475",
+      "t": 4,
+      "content": "@danielhanchen I hope PrismML makes a ternary DeepSeek soon 🙏"
+    },
+    {
+      "id": "308413765937",
+      "t": 5,
+      "content": "那这个要怎么才能使用啊？"
+    },
+    {
+      "id": "7669052819827868474",
+      "t": 3,
+      "content": "我有 codeX ，他就排不上号[看]"
+    },
+    {
+      "id": "p0x8338",
+      "t": 6,
+      "content": "benchmarks have it better than glm 5.2. in reality it's one of the worst releases of the last 5 months. china has benchmaxxing on lockdown as of now."
+    },
+    {
+      "id": "2083099965619130744",
+      "t": 7,
+      "content": "@deepseek_ai I am sure, improvements would be visible when we use it\n\nAlready flash has been performing more than expected"
+    },
+    {
+      "id": "311823810448",
+      "t": 8,
+      "content": "回复 @风栖于野Y : 用cc可以免注册"
+    },
+    {
+      "id": "2083508605589115365",
+      "t": 9,
+      "content": "@IHayato DeepSeekの重み配布とGPT-5.6の速さ、両方気になります🔥"
+    },
+    {
+      "id": "308428994305",
+      "t": 10,
+      "content": "回复 @拒绝内耗左右横跳 :缓存命中价格比flash就多了0.005我记得，实际价格可能只是flash两倍左右"
+    },
+    {
+      "id": "7668904856347198246",
+      "t": 3,
+      "content": "这两个区的汇率崩了，所以便宜，不过现在没这好事儿了 [捂脸]"
+    },
+    {
+      "id": "7669348631552951099",
+      "t": 3,
+      "content": "还有余额[钱]"
+    },
+    {
+      "id": "311718120416",
+      "t": 11,
+      "content": "你这需求不算强需求用啥都行吧，看你用的惯哪个呗"
+    },
+    {
+      "id": "311860581680",
+      "t": 12,
+      "content": "这个太难了，肉身成圣都很难"
+    },
+    {
+      "id": "7668965643227956003",
+      "t": 3,
+      "content": "gui是不是就是类似于手机上的软件，以及网页端？"
+    },
+    {
+      "id": "p12q8ti",
+      "t": 13,
+      "content": "I was surprised how good it works because I'm opus enjoyer and I can hook the Deepseek straight into the vs code Claude ai with my plugins. I tested it in Cline and it was really shit. I was really unhappy with testing because I got used that opus will run all the test itself, but deep seek was trying to drop the task as fast as possible. But I'm pretty sure it just problem on my side as its probably not reading Claude md files"
+    },
+    {
+      "id": "7669064948651754240",
+      "t": 0,
+      "content": "这个文案的参考文献是啥呀，看到过好几个版本了[捂脸]"
+    },
+    {
+      "id": "308427923841",
+      "t": 1,
+      "content": "因为DeepSeek本身就有热度"
+    },
+    {
+      "id": "311789659536",
+      "t": 14,
+      "content": "其实你看现在SpaceX也是搞租赁服务的ai只是副业"
+    },
+    {
+      "id": "308548248225",
+      "t": 15,
+      "content": "可以的,8这边有客户8台互联100g都成功了"
+    },
+    {
+      "id": "6a6d0a900000000029026c44",
+      "t": 16,
+      "content": "哪方面强啊？复杂任务怎么样呢？"
+    },
+    {
+      "id": "311642093312",
+      "t": 17,
+      "content": "是的，明明只是文字模型，在审美这一块却拉爆 GPT"
+    },
+    {
+      "id": "p1367y2",
+      "t": 18,
+      "content": "Did they ever say \"We're doing this because we love you and want you to be happy\"?\n\nIt's obviously a business decision. The fact that you think this is some great revelation or insight is funny."
+    },
+    {
+      "id": "308446849825",
+      "t": 2,
+      "content": "试玩了，完成度挺高的，就是手残给我玩红温了[辣眼睛]"
+    },
+    {
+      "id": "311720088048",
+      "t": 19,
+      "content": "回复 @Mudrock13 :请教一下spinalHDL和Chisel相比的优势是什么，我查了下好像都是基于scala衍生出的语言。大学的时候学过chisel但是好像没有公司用"
+    },
+    {
+      "id": "p12ge9e",
+      "t": 20,
+      "content": "How do these compare to the antirez one?"
+    },
+    {
+      "id": "6a6c64b2000000000d022805",
+      "t": 21,
+      "content": "ccswitch之前配置的api需要重新调整配置吗"
+    },
+    {
+      "id": "311819497376",
+      "t": 1,
+      "content": "写小说用gemini或者豆包好一些，这俩老照顾情绪了，神神叨叨的"
+    },
+    {
+      "id": "6a6ec7c00000000009015def",
+      "t": 22,
+      "content": "Open code一个月5美元v4 flash无限用，而你吹的codex的plus会员20美元，还要靠给重置才能实现你所谓的无限用。"
+    },
+    {
+      "id": "308385007377",
+      "t": 19,
+      "content": "价格不变，flash还是 输入1 输出2，pro输入3输出6"
+    },
+    {
+      "id": "311651086560",
+      "t": 23,
+      "content": "预览版pro都是4月份的模型了，AI大模型的迭代速度都是隔月如隔山，曾经的预览版pro放现在来看都开始流口水了[笑哭][笑哭]正式版flash当然比预览版pro强得多得多"
+    },
+    {
+      "id": "6a6dcb870000000015012fff",
+      "t": 5,
+      "content": "一开头deepseek v three没把我笑尿"
+    },
+    {
+      "id": "7669277334927082283",
+      "t": 3,
+      "content": "@ο▬▬▬▬▬▬◙▅▅▆▆▇▇◤39.9米"
+    },
+    {
+      "id": "6a6d320c00000000090147cc",
+      "t": 24,
+      "content": "对  我实测了几个真实任务是这样   提升非常大"
+    },
+    {
+      "id": "308495194593",
+      "t": 14,
+      "content": "回复 @LYFISH :中间它自己调用几次工具，中文就没了"
+    },
+    {
+      "id": "308447766145",
+      "t": 1,
+      "content": "回复 @安静_苦笑 :你这ID……是我认识那个苦笑大叔吗"
+    },
+    {
+      "id": "311828238880",
+      "t": 12,
+      "content": "无法初始化，你要不重新下载一个安装包"
+    }
+  ]
+}

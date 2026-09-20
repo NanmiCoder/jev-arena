@@ -1,0 +1,816 @@
+{
+  "items": [
+    {
+      "id": "311771601472",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "强烈反对用中转价格对比官方价格，质疑比较公平性。"
+    },
+    {
+      "id": "308406791793",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "认可达到可用水平，但认为未达预期，褒贬程度较轻。"
+    },
+    {
+      "id": "308535584929",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "充值后仍提示密钥无效，表达使用受阻。"
+    },
+    {
+      "id": "p0yz84i",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以不能逃离沙箱攻击世界为差评理由，明显玩反讽。"
+    },
+    {
+      "id": "308417649297",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "认为能够实现但仍需等待原生多模态，具体任务不明。"
+    },
+    {
+      "id": "2083324854640824619",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述模型已被越狱，未明确表达褒贬。"
+    },
+    {
+      "id": "311802253024",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认为官方渠道下Luna性价比更强，反驳对象未完整呈现。"
+    },
+    {
+      "id": "311811107664",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "愤怒",
+        "质疑"
+      ],
+      "score": -0.8,
+      "reason": "反对以模型选择展示优越感，强调个人使用限制。"
+    },
+    {
+      "id": "311888540752",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述他人测得的预填充速度，无明确评价。"
+    },
+    {
+      "id": "308599986193",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.5,
+      "reason": "以AI编程效率高及就业冲击为由劝退计算机专业。"
+    },
+    {
+      "id": "308509728625",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "拟人化中转站发问，可能涉及模型渠道但缺少上文。"
+    },
+    {
+      "id": "7669341202948326163",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "感叹模型榜单更新频繁，未明确赞扬或批评。"
+    },
+    {
+      "id": "7669079426156479232",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "讽刺赢亏归因双标，未明确涉及AI使用。"
+    },
+    {
+      "id": "6a6d826c000000000403a136",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认为实测速度足够高强度使用，并提供机器价格。"
+    },
+    {
+      "id": "311925989968",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "usability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "为完整开发流程辩护，认可低价模型可反复使用。"
+    },
+    {
+      "id": "6a6d9e1d000000002a02eb9d",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃竞品害怕DeepSeek沉寂，具体隐含判断不明。"
+    },
+    {
+      "id": "2083863920427532777",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "依据近期使用体验称其令人惊叹，未指明具体优势。"
+    },
+    {
+      "id": "308477150449",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述实际用量及花费，没有明确情绪。"
+    },
+    {
+      "id": "311724015792",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "指出没有视觉能力，是否带不满语气存在歧义。"
+    },
+    {
+      "id": "7669234888793834276",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合视频制作标题，通常指每分钟十元的费用。"
+    },
+    {
+      "id": "311765855904",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问是否属于Harness，具体所指仍缺少上下文。"
+    },
+    {
+      "id": "311899834112",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "纠正对其适用场景的理解，并批评长任务与修错表现。"
+    },
+    {
+      "id": "7669108978014323505",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "向豆包表态从未说过DeepSeek坏话，主要是玩梗。"
+    },
+    {
+      "id": "308374592065",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "转述比较档位可能不一致，同时明确尚未查证。"
+    },
+    {
+      "id": "311916690832",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "否定一天一元的费用说法，认为十元才正常。"
+    },
+    {
+      "id": "p17awix",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "担忧"
+      ],
+      "score": -0.7,
+      "reason": "指责成本比较挑选证据，并批评DeepSeek任务能力。"
+    },
+    {
+      "id": "311725307424",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "quality",
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "批评Flash修错多导致成本更高，认为仅能处理杂活。"
+    },
+    {
+      "id": "7669014037879112467",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "other",
+        "trust"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨发布时机预期误导相关股票投资，持续亏损。"
+    },
+    {
+      "id": "2083689676586828262",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "称赞模型能以几美元实现类似人海战术的工作。"
+    },
+    {
+      "id": "311716347952",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释后训练优化不代表基模新增多模态能力。"
+    },
+    {
+      "id": "311734195920",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以“月之●版本”发问，疑似名称玩梗但含义不明。"
+    },
+    {
+      "id": "6a6dd9040000000021010b1a",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "complaint"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "接入成功但模型名称与列表显示异常，隐含求助。"
+    },
+    {
+      "id": "308572850273",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测问题源于max思考模式，未提供具体故障信息。"
+    },
+    {
+      "id": "p17lpmt",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享本地运行参数、硬件配置及生成速度。"
+    },
+    {
+      "id": "6a6d9a3f00000000290255d5",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "以开源免费为由贬斥购买高价产品的选择。"
+    },
+    {
+      "id": "7669025129180037937",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问两个模型差距大小，没有预设优劣。"
+    },
+    {
+      "id": "7669214223344190223",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.5,
+      "reason": "赞叹公司资金时间充裕及不加班，涉及AI公司经营。"
+    },
+    {
+      "id": "7669373819467957018",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "推荐Codex官方套餐，同时明确指出价格贵很多。"
+    },
+    {
+      "id": "7669011008312722230",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "price"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "批评智普能力差、循环输出并造成大量Token消耗。"
+    },
+    {
+      "id": "311654813952",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问为何缺少思维链长度按钮，未明确表达不满。"
+    }
+  ]
+}

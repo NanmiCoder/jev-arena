@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "deepseek-v4-flash so cheap it feels like child labor lol 😂",
+    "DeepSeek V4 Flash GA ranks the same as Sonnet 5 and Grok 4.5 on DeepSWE",
+    "这条视频里的人是我，但我根本没拍，也没剪。 DeepseekV4Flash正式版自主做视频能力实测。我只输入了一段提示词，DeepSeek V4 Flash 就自己找案例、写内容，再用 AI 数字人做完了整条视频。现在的 AI 做视频，这已经是基础操作了。#AI新星计划  #AI做视频 #DeepSeekV4 #AI数字人",
+    "spent today getting deepseek-v4-flash-0731 running on 2x rtx pro 6000 blackwell (sm_120)\n\n~230-250 tok/s single stream with dspark, 131k context, 94/98 gb on each card\n\nstock vllm and stock sglang bot",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "Deepseek-v4-Flash 0731 GGUF",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "deepseek v4flash正式版在手机上本地运行",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "Deepseek v4 flash 0731",
+    "DeepSeek V4 Flash 0731 dropped with weights on HuggingFace",
+    "Deepseek v4 flash 0731 real experience. It is definitely shocking the world, But do they have enough capacity?",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！"
+  ],
+  "comments": [
+    {
+      "id": "7668682834627052345",
+      "t": 0,
+      "content": "毕竟总参相差非常大[九转大肠]"
+    },
+    {
+      "id": "308419004673",
+      "t": 1,
+      "content": "回复 @龍ONE :没降价，只是闲鱼2.8收一台还是不难的"
+    },
+    {
+      "id": "7669064196793041718",
+      "t": 2,
+      "content": "比如我在电网，数据绝对不能外流，我只能跑qwen3.6-27b，再往上，llama70，dsv370，个人硬件也就这个水平了，现在好了，我只要加点内存就能跑dsv4flash0731 q3动态量化，8000块能有glm5.2 90%的水平，这是什么雷霆大提升，直接让ai去排产了"
+    },
+    {
+      "id": "308492546113",
+      "t": 3,
+      "content": "v4flash真给我震撼到了，谁说小南梁掏不出大赢鲸的。\n“梁叔叔快点把pro正式版掏出来吧，洋鬼子的东西太贵，我已经把身家全部砸进去了啊，再用不上pro，小人小命不保啊”"
+    },
+    {
+      "id": "311834055776",
+      "t": 3,
+      "content": "回复 @-呱呱呱-呱呱呱- : 会输出的，只要它的思维链有正常思考，没有直出正文的话，基本不会缺格式缺渲染。"
+    },
+    {
+      "id": "308494449537",
+      "t": 4,
+      "content": "我用DeepSeek的API密钥登录就不需要账号手机号登录了"
+    },
+    {
+      "id": "311732375872",
+      "t": 5,
+      "content": "早晚一句话就能生成一个短视频，然后就生成一个电影"
+    },
+    {
+      "id": "311667311216",
+      "t": 6,
+      "content": "趁着ai训练的风口赶紧参与其中啊"
+    },
+    {
+      "id": "311907101984",
+      "t": 7,
+      "content": "用过评价一下真的超过glm5.2了吗，平时主用5.2，体感一样吗"
+    },
+    {
+      "id": "311694940384",
+      "t": 6,
+      "content": "回复 @是赫不是赤赤吗 :我也说的硬件，flash30w以内预算就能搞fp8"
+    },
+    {
+      "id": "2083340565760921980",
+      "t": 8,
+      "content": "deepseek-v4-flash so cheap it feels like child labor lol 😂"
+    },
+    {
+      "id": "p0zm61v",
+      "t": 9,
+      "content": "Honestly, I'm impressed with gpt-5.6-luna... at $1.20 output.... damn..."
+    },
+    {
+      "id": "7669239357329949478",
+      "t": 10,
+      "content": "卧槽[石化]"
+    },
+    {
+      "id": "308528901457",
+      "t": 3,
+      "content": "回复 @伟大的哈基米 :你敢相信修复一个表格显示问题需要花70wtoken吗"
+    },
+    {
+      "id": "2083549373649039737",
+      "t": 11,
+      "content": "@dzeeksa Quantization of gguf using llamacpp and unsloth. Can the corresponding 169GB version be used in the RTX pro6000D with a single card of 84GB?\n\nThe 6000d is such a special model that it just might not run the full ds4 version"
+    },
+    {
+      "id": "308591896737",
+      "t": 12,
+      "content": "回复 @我想我的静一静 :[笑哭]真有耐心，能和一个小孩子说这么多"
+    },
+    {
+      "id": "308513132593",
+      "t": 13,
+      "content": "现在内存价格翻了几倍，显卡也爆涨，我就不清楚了[doge_金箍]"
+    },
+    {
+      "id": "311682362352",
+      "t": 6,
+      "content": "回复 @Dou---i :耿魔丸也就是后来打假之后给自己洗白了"
+    },
+    {
+      "id": "6a6dbe82000000002a02447b",
+      "t": 14,
+      "content": "golden stanley tmt group[doge]"
+    },
+    {
+      "id": "308428226465",
+      "t": 3,
+      "content": "跟fable5差远了，不拉在哪儿[生气]"
+    },
+    {
+      "id": "p14bn42",
+      "t": 15,
+      "content": "I tried UD-IQ4\\_NL on a dual 3090 + 128gb DDR4 Ubuntu node. It produces around 14 TPS one slot with f16 KV and 128k context. Is there a way to squeeze out more speed from the model on the given server with this quant?"
+    },
+    {
+      "id": "308467464545",
+      "t": 16,
+      "content": "为什么我这样弄了还一直是登陆界面，有人能帮帮我吗"
+    },
+    {
+      "id": "7669072700505768763",
+      "t": 2,
+      "content": "v4 不是早就上了吗？"
+    },
+    {
+      "id": "311803958576",
+      "t": 17,
+      "content": "我说怎么DeepSeek能放手机上跑了[笑哭]"
+    },
+    {
+      "id": "7668914789074322225",
+      "t": 2,
+      "content": "答案是等他们官方的harness[捂脸]"
+    },
+    {
+      "id": "308393422241",
+      "t": 18,
+      "content": "回复 @私生饭-- :那是opencode的问题，v4flash接到claudecode或者codex一句话生成mc没问题，还能带几个生物，我用v4pro连开始游戏都点不动"
+    },
+    {
+      "id": "7668995565318292251",
+      "t": 2,
+      "content": "现在战绩已经很夸张了，deepseek才出来，直接让老美的股市来了个深V，当时那架势差点以为美股要崩盘了。马圣自信满满地要来AI搞一波，那夸张的资金，结果还不是灰溜溜地撤火了！"
+    },
+    {
+      "id": "308457357345",
+      "t": 19,
+      "content": "可爱[支持]"
+    },
+    {
+      "id": "311846277328",
+      "t": 20,
+      "content": "回复 @学习好啊学习好 :具体记不清了，好像千问那边有免费额度，你选一个便宜的带识图的给deepseek用，配置识图的skill就行了"
+    },
+    {
+      "id": "308556931553",
+      "t": 19,
+      "content": "不对啊，猫不是吃鱼吗[doge_金箍]"
+    },
+    {
+      "id": "p0xcwap",
+      "t": 9,
+      "content": "Me waiting for deepseek/deepseek-v4-flash-0731:free"
+    },
+    {
+      "id": "308508291489",
+      "t": 3,
+      "content": "回复 @陆寻花 :笔记本二手也就七百能买到编程可用的，压根不是问题，工地搬砖一天都200"
+    },
+    {
+      "id": "311898033568",
+      "t": 3,
+      "content": "你至少得有个计算机，现在越来越贵了"
+    },
+    {
+      "id": "311677509424",
+      "t": 21,
+      "content": "因为干这种活的团队用的是GPT和claude"
+    },
+    {
+      "id": "2083103649849565238",
+      "t": 22,
+      "content": "@deepseek_ai Deepseek is cooking 🔥🔥😋\n\nhttps://t.co/WwZb3HKe3s"
+    },
+    {
+      "id": "6a6dc9520000000015016295",
+      "t": 23,
+      "content": "其实deepseek能力就是能用那个级别的，绝对算不上好用，这两天用下来感觉他确实能很快完成任务了，但完成的质量不高[笑哭R]"
+    },
+    {
+      "id": "p0y0yum",
+      "t": 24,
+      "content": "So on Mac, basically 192gb if you want to do anything else.  Ideally 256. Am I understanding right?"
+    },
+    {
+      "id": "p1151v4",
+      "t": 25,
+      "content": "You assume china is the USA, china would always come together to help, even if it's for some kind of return"
+    },
+    {
+      "id": "308631110369",
+      "t": 26,
+      "content": "up，误点了Finish Windows setup to continue\n怎么处理"
+    },
+    {
+      "id": "311937024384",
+      "t": 7,
+      "content": "luna这种东西，你让他快一点的话，就和豆包坐一桌了。而且，很多时候时间成本比token成本更贵"
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "items": [
+    {
+      "id": "7669286536487863089",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "纠正时间，但缺失所指事件，AI相关性不明。"
+    },
+    {
+      "id": "311875169392",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享用免费模型补充视觉和多模态的方案。"
+    },
+    {
+      "id": "308429944577",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "表示接受，但缺失父评论，无法确定赞同对象。"
+    },
+    {
+      "id": "6a6ec384000000000802f201",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问本地运行模型所用设备。"
+    },
+    {
+      "id": "311776897536",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "说明链接发送及可能被屏蔽，未讨论AI使用。"
+    },
+    {
+      "id": "311730871168",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述官方似乎对Codex做过专门适配。"
+    },
+    {
+      "id": "308457960897",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "报告更高数值并调侃，指标及对象未明确。"
+    },
+    {
+      "id": "308577613809",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述免费服务使用正式版模型的信息。"
+    },
+    {
+      "id": "311789348384",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "嘲讽对方用到假版本，并质疑其体验来源。"
+    },
+    {
+      "id": "6a6d4411000000002902de4a",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "肯定GLM编程能力，同时评价其他能力一般。"
+    },
+    {
+      "id": "311813839120",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "抱怨官方API变笨，换千问后恢复正常。"
+    },
+    {
+      "id": "308528640529",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "赞赏低成本接入视觉并成功搭建场景的体验。"
+    },
+    {
+      "id": "7668682496004047616",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "拟人玩梗，肯定模型能力与价格的竞争优势。"
+    },
+    {
+      "id": "311745256576",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "抱怨API接入CC后仍无法理解编程任务。"
+    },
+    {
+      "id": "7669031701231108902",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明模型名称会自动映射到新版。"
+    },
+    {
+      "id": "17926282",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "以苹果安卓比喻模型用户，讽刺优越感。"
+    },
+    {
+      "id": "308359745841",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清正则用于发送时附加指令而非替换输出。"
+    },
+    {
+      "id": "311932237888",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Flash能否用于酒馆。"
+    },
+    {
+      "id": "308504661521",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "指出仍缺少多模态，略显失望，也可视作陈述。"
+    },
+    {
+      "id": "7669089979737752378",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "明确称赞模型提升幅度很大。"
+    },
+    {
+      "id": "308431811425",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "为试用行为辩护，并反对灰度仅限Pro的说法。"
+    },
+    {
+      "id": "311894780128",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "分享外挂本地视觉模型的经验，指出幻觉严重。"
+    },
+    {
+      "id": "308428902321",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "performance",
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "集中抱怨不稳定且慢，便宜只是让步性承认。"
+    },
+    {
+      "id": "308394927985",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "抱怨模型偏重软件工程而忽略写作能力。"
+    },
+    {
+      "id": "p133duh",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "断言企业不会使用DeepSeek，表达商业前景看淡。"
+    },
+    {
+      "id": "7669023123341312802",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "反问质疑Luna优于Flash的判断。"
+    },
+    {
+      "id": "2083902247495209390",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "认可DeepSeek部分指标，批评效率并赞MiMo成本。"
+    },
+    {
+      "id": "308407817681",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "简要说明开源的是语言模型。"
+    },
+    {
+      "id": "311884937744",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "转述版本提示，并反问质疑非本地部署降价逻辑。"
+    },
+    {
+      "id": "311883456768",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "分享卸载重装GPT后解决问题的经验。"
+    },
+    {
+      "id": "7668988825100141361",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问DeepSeek是否适合需实时数据的报告写作。"
+    },
+    {
+      "id": "p10mt50",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "社区机器人规则提醒，与AI模型使用无关。"
+    },
+    {
+      "id": "6a6dc57f000000002a004ae5",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "评价模型仍落后于GPT和Claude。"
+    },
+    {
+      "id": "308382829809",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "明确赞赏，但可能指视频也可能指产品。"
+    },
+    {
+      "id": "308555872913",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "表示初测后就不用，并以贬称否定模型。"
+    },
+    {
+      "id": "6a6ddfbe0000000015013898",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "认为与Luna水平相近，质疑除降价外的吸引力。"
+    },
+    {
+      "id": "308415538449",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以“梁历”玩发布时间梗，AI关联较间接。"
+    },
+    {
+      "id": "7669101927594672930",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型是否支持多模态。"
+    },
+    {
+      "id": "6a6deeba0000000015014351",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "performance",
+        "capability"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.6,
+      "reason": "分享百灵多Agent模型试用，惊叹其速度快。"
+    },
+    {
+      "id": "308611987553",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合接入教程，求助GitHub访问和配置问题。"
+    }
+  ]
+}

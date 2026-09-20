@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "500tok/s 的 DeepSeek-V4-Flash",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "使用deepseek v4 flash正式版还原一个EU4网页版，效果如何？",
+    "I don't think Anthropic and OpenAI will survive",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "It absolutely does. To show why, I will compare MiMo V2.5 with DeepSeek V4 Flash (the preview). Same price per token, almost the same model size, same release day.\n\nAA Intelligence Index: 40 vs 37\nTok",
+    "Deepseek V4 Flash最新测评！Claude Code版！",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek-V4-Flash Update 0731",
+    "deepseekV4Flash正式版上线并针对适配Codex",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "Deepseek V4-flash正式版实测"
+  ],
+  "comments": [
+    {
+      "id": "7669286536487863089",
+      "t": 0,
+      "content": "那是前年了吧[宕机]"
+    },
+    {
+      "id": "311875169392",
+      "t": 1,
+      "content": "我给Codex整了个阿里百炼的免费模型充当多模态部分了，Hermes Agent里我用的Agnes AI的Agnes 2.0 flash做为视觉模型，这个目前也是免费的。"
+    },
+    {
+      "id": "308429944577",
+      "t": 2,
+      "content": "回复 @听风语焉 :也行[笑哭]"
+    },
+    {
+      "id": "6a6ec384000000000802f201",
+      "t": 3,
+      "content": "用的什么设备跑本地"
+    },
+    {
+      "id": "311776897536",
+      "t": 4,
+      "content": "回复 @没有子目 : 链接我单独发,如果你没看到就是被b站吃了"
+    },
+    {
+      "id": "311730871168",
+      "t": 5,
+      "content": "回复 @几度风华A :并且官方说过好像专门适配过CodeX"
+    },
+    {
+      "id": "308457960897",
+      "t": 5,
+      "content": "还是低了[doge]我跑到99.58"
+    },
+    {
+      "id": "308577613809",
+      "t": 6,
+      "content": "回复 @VR控 :Opencode的b站官号说过免费版上也的是v4flash正式版"
+    },
+    {
+      "id": "311789348384",
+      "t": 4,
+      "content": "回复 @超负荷V型发 :用到假的了吧[呲牙]，连正版的都用不上[偷笑]"
+    },
+    {
+      "id": "6a6d4411000000002902de4a",
+      "t": 7,
+      "content": "不尴尬啊，glm强的是写代码，别的能力比较一般，但是程序员这个群体还是比较有钱的，所以付费意愿还是很高的"
+    },
+    {
+      "id": "311813839120",
+      "t": 4,
+      "content": "今天官方的api用着很怪，感觉还没之前聪明。换了千问的api后就好了"
+    },
+    {
+      "id": "308528640529",
+      "t": 4,
+      "content": "刚刚给flash接入了阿里的视觉花了不到一毛钱就随便在虚幻引擎里搭建了场景，这波我宣布梁就是神[doge][doge][doge]，公司用claude（因为可以报销)，家里用deepseek[doge][doge][doge]，今天爽玩一天flash"
+    },
+    {
+      "id": "7668682496004047616",
+      "t": 8,
+      "content": "比我弱的直接被我斩杀，比我强的我价格比你低[阴险]"
+    },
+    {
+      "id": "311745256576",
+      "t": 4,
+      "content": "回复 @轮回的星空 : 用了api接入cc还是一坨啊写代码完全理解不了"
+    },
+    {
+      "id": "7669031701231108902",
+      "t": 9,
+      "content": "模型名“deepseek-v4-flash”自动重映射到新模型"
+    },
+    {
+      "id": "17926282",
+      "t": 10,
+      "content": "@ota 苹果用户的高贵怎么可以被国产安卓模型玷污？（ CodeX 用户只能算是半苹果半安卓）"
+    },
+    {
+      "id": "308359745841",
+      "t": 11,
+      "content": "回复 @yuzhow :我不是说正则替换输出啊，我是正则每次发送带上指令"
+    },
+    {
+      "id": "311932237888",
+      "t": 4,
+      "content": "那我能用flash玩酒馆吗"
+    },
+    {
+      "id": "308504661521",
+      "t": 12,
+      "content": "依然是没有多模态"
+    },
+    {
+      "id": "7669089979737752378",
+      "t": 9,
+      "content": "这提升了不是一个级别"
+    },
+    {
+      "id": "308431811425",
+      "t": 13,
+      "content": "回复 @朝比奈大西瓜 :我不试一下怎么知道效果，再说了灰度测试不可能只在pro上用"
+    },
+    {
+      "id": "311894780128",
+      "t": 14,
+      "content": "回复 @繁华之夜丶 :我也在想这个多模态的事情，我搞了个本地的识图小模型外挂着让 deepseek 自己调用，但本地部署的识图小模型太小，还是不太行，幻觉太严重了，只能看个大概"
+    },
+    {
+      "id": "308428902321",
+      "t": 4,
+      "content": "回复 @山茶泡水 :体验真的不太行，不稳定，很慢，除了便宜一无是处"
+    },
+    {
+      "id": "308394927985",
+      "t": 11,
+      "content": "现在都是软件工程特化的ai了[大哭]没人卷写作能力"
+    },
+    {
+      "id": "p133duh",
+      "t": 15,
+      "content": "The real money comes from enterprise and they're not going to be using deepseek"
+    },
+    {
+      "id": "7669023123341312802",
+      "t": 16,
+      "content": "luna知道自己性能 比 flash 好吗"
+    },
+    {
+      "id": "2083902247495209390",
+      "t": 17,
+      "content": "It absolutely does. To show why, I will compare MiMo V2.5 with DeepSeek V4 Flash (the preview). Same price per token, almost the same model size, same release day.\n\nAA Intelligence Index: 40 vs 37\nTokens Per Second: 112 vs 68\nThus far DeepSeek wins. But the kicker is this:\nTotal output tokens: 234M vs 71M\n\nTime per task, minutes: 5.5 vs 4.\n\nHalf the tps, yet still faster. But most importantly, since price is just output tokens times price:\nPrice to run AA II: $74 vs $25!\n\nSo MiMo, despite being the same price and much slower per token, is both faster per task and only a third (!!) of the total cost.\n\nTo clarify, 0731 does not fix this. 12% fewer tokens got the price from $74 to $72. That came out of the model getting smarter with better behaviors, not a true efficiency pass. MiMo showed two months ago that a third of the output tokens is possible."
+    },
+    {
+      "id": "308407817681",
+      "t": 18,
+      "content": "回复 @猪鼻子大葱蘸酱 :开源了语言模型"
+    },
+    {
+      "id": "311884937744",
+      "t": 6,
+      "content": "回复 @露露娜娜米米 :我前天在opencode里选择flash看好像是弹出来说正式版要中国的xxx，不本地部署怎么可能把价格打下来，做慈善吗[笑哭]"
+    },
+    {
+      "id": "311883456768",
+      "t": 19,
+      "content": "回复 @王帅真 :重新卸载然后安装gpt就解决了[喜极而泣]"
+    },
+    {
+      "id": "7668988825100141361",
+      "t": 9,
+      "content": "话说我有时候会写一些报告之类的，需要一些实时的数据。买deepseek行不行？我现在用的是Kimi K3"
+    },
+    {
+      "id": "p10mt50",
+      "t": 20,
+      "content": "Hello /u/humblingman, welcome to /r/indotech. Jangan lupa di cek lagi post nya apakah sudah sesuai dengan rules yang berlaku atau tidak.\n\nBila post tidak sesuai dengan persyaratan subreddit /r/indotech, silahkan manfaatkan thread kami lainnya di /r/indotech yaitu [Monthly General Discussion](https://www.reddit.com/r/indotech/search/?q=Monthly+General+Discussion&type=link&cId=ac052ff6-879d-4f20-9184-284356970b19&iId=6661976e-f6da-414d-96b8-66ab6389bc44&sort=new), [Programming Ask/Answer](https://www.reddit.com/r/indotech/search/?q=Ask+Your+Programming+Question+Here&type=link&cId=aa7bf5c8-eaad-4f5a-915d-038718f2431f&iId=d7fa72e0-dea4-4205-81a3-b5e7a434738e&sort=new), dan [Project Showcase Archive](https://www.reddit.com/r/indotech/search/?q=Project+Showcase+Archive&type=link&cId=f34b023d-80ee-4ea7-a00e-1f0f669a071a&iId=2f42987e-0876-4e79-bacf-f2c0da331868&sort=new)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/indotech) if you have any questions or concerns.*"
+    },
+    {
+      "id": "6a6dc57f000000002a004ae5",
+      "t": 21,
+      "content": "和GPT和claude还是有差距"
+    },
+    {
+      "id": "308382829809",
+      "t": 22,
+      "content": "做得好好！！"
+    },
+    {
+      "id": "308555872913",
+      "t": 23,
+      "content": "回复 @专业防空大尾猫 :除了刚出那会测试了一下发现是区，我本来就不用这坨啊[笑哭]"
+    },
+    {
+      "id": "6a6ddfbe0000000015013898",
+      "t": 24,
+      "content": "[汗颜R]luna和他不是半斤八两？不是降价谁用它"
+    },
+    {
+      "id": "308415538449",
+      "t": 13,
+      "content": "梁圣走的是梁历[doge]"
+    },
+    {
+      "id": "7669101927594672930",
+      "t": 16,
+      "content": "是多模态吗？"
+    },
+    {
+      "id": "6a6deeba0000000015014351",
+      "t": 3,
+      "content": "昨天在 OpenRoot 上试了一下百灵的那个新模型，就是适合多 Agent 的那个。哇，也非常快"
+    },
+    {
+      "id": "308611987553",
+      "t": 19,
+      "content": "进不去GitHub配置有问题怎么办呢"
+    }
+  ]
+}

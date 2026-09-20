@@ -1,0 +1,238 @@
+{
+  "topics": [
+    "DS V4 Flash 0731 agentic performance VS Code Copilot",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "DeepSeek V4 Flash深度评测：实测排名前五，国产大模型的史诗级翻身之作！",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek-V4-Flash-0731 is now over 2x faster than yesterday on Ollama's cloud!",
+    "Deepseek v4 flash 0731",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "【中配】DeepSeek V4 Flash测评 全面测试霸榜前五！这波性能重回巅峰！",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "要被外网的一些评论笑死了😂😂😂",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "130亿干翻490亿，DeepSeek让大力出奇失效了",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "部署正式版DS-V4-Flash-0731成本真的不高!",
+    "如何使用满血DeepSeek v4 flash正式版",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "Thoughts on Deepseek v4 Flash 0731?",
+    "deepseek v4 Flash正式版直接出复杂像素资产图，多轮迭代，未能让deepseek大人尽兴",
+    "Deepseek V4 Flash update on ArtificialAnalysis",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！"
+  ],
+  "comments": [
+    {
+      "id": "p11v6m0",
+      "t": 0,
+      "content": "So is this saying it's better than the current V4 model? If 4 flash is \"better than opus\", then why use the standard v4 model?"
+    },
+    {
+      "id": "308422812481",
+      "t": 1,
+      "content": "梁圣：去，给傻子买瓜子"
+    },
+    {
+      "id": "7669075783134003978",
+      "t": 2,
+      "content": "粱白。。。粱圣。[流泪]  是他们把这个表情包塞我手机里的[流泪]。  我看到他们嘲笑ds是吃大白饭的蓝色大肥鱼的时候也在劝他们。"
+    },
+    {
+      "id": "311885191824",
+      "t": 3,
+      "content": "你说的是对的，我这次给他了特别具体的工作质量，然后他完成的真的还不错。BV1Jq3D6gEM8"
+    },
+    {
+      "id": "311717731440",
+      "t": 4,
+      "content": "回复 @Fzzz28 :调的官方API[妙啊]"
+    },
+    {
+      "id": "311634344048",
+      "t": 5,
+      "content": "好快的教程[哦呼]"
+    },
+    {
+      "id": "6a6ccaf300000000290259e1",
+      "t": 6,
+      "content": "你背一下换算公式不得了吗？1B 不等于 10 亿吗"
+    },
+    {
+      "id": "311701293904",
+      "t": 7,
+      "content": "[罗小黑_嗨]"
+    },
+    {
+      "id": "308344605329",
+      "t": 8,
+      "content": "回复 @久了就旧了-_ :嗯，官方说了直接用就行了"
+    },
+    {
+      "id": "311738929232",
+      "t": 9,
+      "content": "回复 @暮雪劉年 :代码质量到底怎么看。我都是能跑通，没有恶性bug就行了，看不懂他具体质量到底好不好"
+    },
+    {
+      "id": "6a6ee3390000000005008fe2",
+      "t": 10,
+      "content": "让你当皇帝你也只会用金锄头锄地[失望R]"
+    },
+    {
+      "id": "311772701648",
+      "t": 1,
+      "content": "回复 @Gunep :它现在用 API 好像识别不了图片吧？"
+    },
+    {
+      "id": "311734195920",
+      "t": 9,
+      "content": "然后在这个版本之前是月之●版本？"
+    },
+    {
+      "id": "2083777627148726450",
+      "t": 11,
+      "content": "@ollama DeepSeek这波优化可以，速度又快，效果又不会降太多"
+    },
+    {
+      "id": "6a6ee86800000000150046d4",
+      "t": 12,
+      "content": "在 deepseek 官方 harness 里才强"
+    },
+    {
+      "id": "311722318544",
+      "t": 13,
+      "content": "他意思是三个并发"
+    },
+    {
+      "id": "311810151184",
+      "t": 14,
+      "content": "我整了一个skill，让他要识图的时候就用这个里面的脚本调用一个有多模态的模型"
+    },
+    {
+      "id": "311644119312",
+      "t": 15,
+      "content": "回复 @月亮会失约丨 :官方用的自己的"
+    },
+    {
+      "id": "311709899504",
+      "t": 16,
+      "content": "Pro我猜可以斩杀K3"
+    },
+    {
+      "id": "7669234514715886385",
+      "t": 17,
+      "content": "我自己写了一个node脚本，接的是阿里千问和硅基流动的千问的API，可以实现codex+deepseek，在deepseek没有多模态的能力的情况下识图和生图，阿里云新用户都有免费额度，所以花费都低，已经上传到github上了，可以在github上直接搜codex-multimodal，或者让你的codex直接给你装好"
+    },
+    {
+      "id": "6a6d92a80000000029037a56",
+      "t": 18,
+      "content": "还是不能打o4.8的"
+    },
+    {
+      "id": "311909792384",
+      "t": 13,
+      "content": "qwen3.6 的多模态文件并不大大概 1G 不到"
+    },
+    {
+      "id": "308627675729",
+      "t": 19,
+      "content": "回复 @逸酱爱你呦 :我们不报而已，其他领域专用模型强得很。"
+    },
+    {
+      "id": "308444559201",
+      "t": 1,
+      "content": "虽然但是，GPT Luna的大降价似乎打击挺大的"
+    },
+    {
+      "id": "311664424816",
+      "t": 20,
+      "content": "付费测试用户捏"
+    },
+    {
+      "id": "308346568737",
+      "t": 21,
+      "content": "那智力和原生知识还是匮乏？靠agent能力补足了？"
+    },
+    {
+      "id": "2083462533743264149",
+      "t": 22,
+      "content": "@deepseek_ai 准备用一下"
+    },
+    {
+      "id": "6a6e2a26000000002b0020c7",
+      "t": 23,
+      "content": "ai目前是负作用，虽然让一些人工作效率变高了，但ai创造出大量垃圾文字，浪费许多人时间去阅读，比如这一篇"
+    },
+    {
+      "id": "308594004529",
+      "t": 1,
+      "content": "回复 @露露原千草 :这样才好。国外的ai强大不也是这样逼出来的"
+    },
+    {
+      "id": "7669053783113384761",
+      "t": 2,
+      "content": "@用户3756771894868"
+    },
+    {
+      "id": "311886448176",
+      "t": 24,
+      "content": "都拿低成本小模型对比了，还说什么。被打了只有丢脸，赢了也不光彩。"
+    },
+    {
+      "id": "6a6ec6620000000009014b41",
+      "t": 25,
+      "content": "一张 4080s 可以跑吗"
+    },
+    {
+      "id": "308374592065",
+      "t": 15,
+      "content": "回复 @雪域-零落 :我刚刷视频看到好像不是max对max，不过我没有自己去查证，这下看不懂了[笑哭]"
+    },
+    {
+      "id": "6a6e5859000000000b039625",
+      "t": 18,
+      "content": "因为别的资本家也在用[doge]"
+    },
+    {
+      "id": "6a6d652f00000000150124b5",
+      "t": 26,
+      "content": "因为没想到现在还有人用这个[笑哭R]"
+    },
+    {
+      "id": "6a6dfc24000000002b0280d2",
+      "t": 27,
+      "content": "3ds max，免费[偷笑R]"
+    },
+    {
+      "id": "p0wil6k",
+      "t": 28,
+      "content": "Lower temp to 0.7. FF5 is not meant to work well with any of the Deepseek models. It even says so on the reddit post: \"DS4 Hates internal states. Don't use them and expect them to work because the model can't tell it's right hand from it's left and forgets your request 0.4ms later\""
+    },
+    {
+      "id": "311860181248",
+      "t": 29,
+      "content": "它们之间的规模相差接近10倍[笑哭]，用远小于的规模完成同样的任务就是最大的进步"
+    },
+    {
+      "id": "p0ucy8b",
+      "t": 30,
+      "content": "I hope they put vision on v4 Pro"
+    },
+    {
+      "id": "308528537153",
+      "t": 31,
+      "content": "回复 @AI超元域 :够呛，感觉Pro早就好了，梁圣就捏在手里，不知道准备狙击谁呢"
+    }
+  ]
+}

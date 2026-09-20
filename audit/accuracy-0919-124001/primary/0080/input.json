@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版为我生成的体积云",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash 0731 is now on OpenCode",
+    "Has anyone actually used DeepSeek V4 Flash 0731 to solve complex, real-world problems in medium to large production codebases? I’m looking for honest feedback, not hype or toy-project benchmarks",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "Alternative to who wants to use DeepSeek V4 Flash 0731 with ZDR",
+    "要被外网的一些评论笑死了😂😂😂",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)"
+  ],
+  "comments": [
+    {
+      "id": "311869058368",
+      "t": 0,
+      "content": "这聊天栏一看就是Java啊[吃瓜]"
+    },
+    {
+      "id": "7669067564614730545",
+      "t": 1,
+      "content": "这个价格真是非常炸裂。"
+    },
+    {
+      "id": "311899834112",
+      "t": 0,
+      "content": "回复 @hlfdozmeltnin :我说的是特定场景，总有人喜欢漏看然后滑坡[笑哭]长任务和修bug不行，ds的注意力涣散，这样总行了吧"
+    },
+    {
+      "id": "p0z6zt0",
+      "t": 2,
+      "content": "So do I just select regular deepseek v4? Also what’s the usage limit? It shows 132k monthly but that’s for the old one right?"
+    },
+    {
+      "id": "p11yaf2",
+      "t": 3,
+      "content": "It developed a feature for my avalonia app. I saw it didn't struggle with XAML while thinking."
+    },
+    {
+      "id": "308364071569",
+      "t": 4,
+      "content": "考公务员上岸"
+    },
+    {
+      "id": "6a6cb864000000001403b9e5",
+      "t": 5,
+      "content": "诺贝尔都得改姓梁，以后以梁圣的名义发奖"
+    },
+    {
+      "id": "308442983905",
+      "t": 6,
+      "content": "回复 @hlfdozmeltnin :ds都是开effort max用的，基本没有用max以下的，省不了几个子；测试报告中写明了用的自家harness，但还没发布，用别的agent性能必然有退化；非多模态在涉及视觉效果的开发上有明确劣势; 另外参数量只有200多b，能接近glm5.2就很可以了，如果最终搭配自家harness能超过那更是好得很"
+    },
+    {
+      "id": "308477055761",
+      "t": 7,
+      "content": "gemini3.5flash体感很拉胯，不知道各位觉得怎么样[笑哭]"
+    },
+    {
+      "id": "308387855825",
+      "t": 8,
+      "content": "这才刚上线，就干掉十个亿，项目有点大阿，不过缓存命中率是真的高。"
+    },
+    {
+      "id": "7668932388441703226",
+      "t": 9,
+      "content": "性价比最高了现在，厉害的模型规划，flash模型开个go套餐站起蹬[泪奔]"
+    },
+    {
+      "id": "308448975345",
+      "t": 10,
+      "content": "抽奖[打call]"
+    },
+    {
+      "id": "311725307424",
+      "t": 11,
+      "content": "Flash 是要修大量的 bug 所以搞得比 Pro 还贵，许愿机还得看 Pro，小模型只能打杂活"
+    },
+    {
+      "id": "311850832368",
+      "t": 8,
+      "content": "不冲突啊，一个套餐一个根据token计算费用。主GPT 副dp。听说要恢复5小时限制了。到时候肯定不够用的啊"
+    },
+    {
+      "id": "311642382432",
+      "t": 12,
+      "content": "写文本要用老模型，用deepseek R1"
+    },
+    {
+      "id": "2083217162551033922",
+      "t": 13,
+      "content": "@deepseek_ai Fantastic work, about 5 months earlier than even i predicted! \n\nhttps://t.co/exlIm3YQrj"
+    },
+    {
+      "id": "6a6d6e36000000002300f012",
+      "t": 14,
+      "content": "Reasonix 是一个专为 DeepSeek 优化的 AI 编程助手（Agent），可以理解为一个“能帮你写代码、改代码、跑命令的智能终端”。\n它最大的特点不是单纯堆功能，而是 把“省钱”和“长会话稳定”做进了底层设计里 。就像笔记里提到的，配合 DeepSeek V4 Flash，用了很多 token 也只花了十几块钱，核心就是它对 DeepSeek 的前缀缓存（prefix cache）做了极致优化。\n【它到底能干什么？】\n进项目里直接干活：不是在聊天框里给你贴代码，而是能读取你本地的代码文件、搜索代码、修改文件、执行命令，适合长时间在一个项目里协作开发。\n自动修复和验证：让它改 bug 时，它能自己验证、多轮修复，直到找到真正的问题并给出可交付的结果。\n双模型分工：它有个很巧妙的设计，用一个更轻、更便宜的小模型负责“想计划”，再把计划交给更强的大模型去“执行干活”，从而进一步压低成本。\n支持桌面版和命令行：有图形界面的桌面客户端，也有命令行版本，安装后填入 DeepSeek API Key 就能用。\n【为什么说它“省钱”？】\n它的省钱逻辑主要来自对 DeepSeek 前缀缓存机制 的深度优化：\n稳定上下文：它会尽量让每次请求中不变的部分（比如系统提示、工具说明）保持稳定，新产生的内容往后追加，这样前面的上下文更容易被缓存复用。\n高缓存命中率：因为上下文稳定，所以缓存命中率非常高，笔记里提到的会话命中率接近 99.52%，这意味着后续对话的输入 token 成本会大幅降低。\n长会话越用越便宜：你开一个会话干一天活，后面聊得越多，平均每次请求的成本就越低。\n【它是不是 DeepSeek 官方出品？】\n这是一个高频争议点。综合来看：\n不是官方团队直接开发，而是开源社区基于 DeepSeek API 打造的。\n但被 DeepSeek 官方文档推荐过，所以很多人会把它当作“官方推荐工具”或“官方生态工具”来看待。\n简单来说，你可以把它当作目前最适合搭配 DeepSeek 做编程的“省钱利器”，尤其适合需要长时间、低成本跑代码任务的开发者。"
+    },
+    {
+      "id": "7668890500553196338",
+      "t": 9,
+      "content": "梁哥真是我亲爹 玩一天编程 就用10块钱"
+    },
+    {
+      "id": "311658653024",
+      "t": 15,
+      "content": "用这行命令的话是不是接入不了 codex 现有的任务"
+    },
+    {
+      "id": "308407375729",
+      "t": 16,
+      "content": "我不太明白，在codex上用deepseek的意义是什么，为啥不用gpt5.6呢？"
+    },
+    {
+      "id": "308610040625",
+      "t": 17,
+      "content": "沉寂是对比别的模型来说没那么多官方信息，不像A和G的负责人天天在推特高强度冲浪，我倒挺喜欢这种闷头做事的风格，让人觉得比较靠谱"
+    },
+    {
+      "id": "311915859184",
+      "t": 18,
+      "content": "哈哈哈，那不得再从智谱股票提一波研发资金[doge]"
+    },
+    {
+      "id": "311802051024",
+      "t": 19,
+      "content": "文件和提示词---------通过网盘分享的文件：ds城市建设动画.zip\n链接: https://pan.baidu.com/s/1jZbS5MqhUkvBHThYDW7Viw?pwd=gfjs 提取码: gfjs \n--来自百度网盘超级会员v6的分享"
+    },
+    {
+      "id": "308589438833",
+      "t": 20,
+      "content": "回复 @bili77743409145 :真正全套用华为的只有美团和新盘古"
+    },
+    {
+      "id": "7669018809529189157",
+      "t": 9,
+      "content": "那是鞭子吗？那是大砍刀！"
+    },
+    {
+      "id": "311695928896",
+      "t": 21,
+      "content": "哈哈哈，是我"
+    },
+    {
+      "id": "311781230720",
+      "t": 17,
+      "content": "回复 @完熟マンゴー3bm42 :请教下，在网页端使用和api在使用上有什么区别吗"
+    },
+    {
+      "id": "6a6f1f650000000009016c1c",
+      "t": 22,
+      "content": "幻方，国内最知名的量化私募，梁叔叔是创始人[集美R]（其实我觉得有点妖魔化量化了，股票亏钱也不能全怪量化呀，但是玩梗嘛没毛病[集美R]"
+    },
+    {
+      "id": "308351110065",
+      "t": 12,
+      "content": "多模态成本可就不好压缩了吧"
+    },
+    {
+      "id": "p14f3t5",
+      "t": 23,
+      "content": "FP4 quant..."
+    },
+    {
+      "id": "311678728160",
+      "t": 12,
+      "content": "等pro正式版，flash正式版文本提升有限，毕竟只有300b参数不到"
+    },
+    {
+      "id": "311802679328",
+      "t": 19,
+      "content": "还是等pro吧，一个200b的模型没啥内化知识，干干杂活还行"
+    },
+    {
+      "id": "6a6d6409000000002a026725",
+      "t": 24,
+      "content": "ds便宜，kimi性能好，ds可以等等看pro的正式版什么情况"
+    },
+    {
+      "id": "308575241249",
+      "t": 25,
+      "content": "我现在用的最新的版本cpu一样很离谱"
+    },
+    {
+      "id": "308442161025",
+      "t": 17,
+      "content": "200多b模型打Claude？"
+    },
+    {
+      "id": "311763202704",
+      "t": 25,
+      "content": "现在codex消耗ds的token还快吗？之前用codex消耗太快了"
+    },
+    {
+      "id": "308408403233",
+      "t": 26,
+      "content": "它说它是Claude ，哪出错了"
+    },
+    {
+      "id": "7669364917815886641",
+      "t": 1,
+      "content": "不是，主要是拿友商模型对准校正，你当他做奥数竞赛卷提高自己奥数竞赛能力吧，不完全恰当，但大致有这么个意思"
+    },
+    {
+      "id": "311751772800",
+      "t": 17,
+      "content": "笑死我了 你信不信我拿dsv4蒸馏的冒充gpt 你还发现不了"
+    },
+    {
+      "id": "308469428625",
+      "t": 7,
+      "content": "回复 @右双鶸叕 :那是Kimi和glm的主场啊[笑哭]"
+    }
+  ]
+}

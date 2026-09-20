@@ -1,0 +1,810 @@
+{
+  "items": [
+    {
+      "id": "311672722144",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "提议尝试8卡部署，星星眼表达期待。"
+    },
+    {
+      "id": "311785759744",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "预测Pro能力接近K3，并肯定其价格优势。"
+    },
+    {
+      "id": "308349807441",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "补充Luna折扣及与Flash的价格差距。"
+    },
+    {
+      "id": "6a6d7b31000000002a026ebe",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "以“人民的”肯定DeepSeek高性价比路线。"
+    },
+    {
+      "id": "6a6dd426000000000802fff9",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "service",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清自己是Plus用户且目前够用，反驳对象缺失。"
+    },
+    {
+      "id": "6a6f2e6a000000002902d2fe",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用“空单梁太郎”调侃烟雾弹，具体指代不明。"
+    },
+    {
+      "id": "308459328753",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "推测届时Pro已发布，无明显褒贬。"
+    },
+    {
+      "id": "308421538001",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "明确肯定模型开源的价值。"
+    },
+    {
+      "id": "7668967550902256399",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测重点是逆向分析，具体所指略有缺失。"
+    },
+    {
+      "id": "7668849110137160485",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问V4 Flash是否早已存在，疑惑发布时间。"
+    },
+    {
+      "id": "308462036289",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "performance",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "认可两者编码能力，并比较交互、速度和结果。"
+    },
+    {
+      "id": "311791613168",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "补充部分账号测试识图，并肯定Unity开发体验。"
+    },
+    {
+      "id": "308417019953",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "讲述梦中Pro提升有限的失望，非实际测试评价。"
+    },
+    {
+      "id": "6a6d8e21000000000500a927",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问已有API是否需要重新申请配置。"
+    },
+    {
+      "id": "311898361808",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "反问收割与成本说法的矛盾，质疑对方论述。"
+    },
+    {
+      "id": "7668661897965896448",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Claude与DeepSeek哪个写作更强。"
+    },
+    {
+      "id": "6a6daf8e000000002b00322f",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "反问“错得太简单”，缺少被评价对象。"
+    },
+    {
+      "id": "311873507488",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "反驳分差不影响体验的观点，以模型差距举例。"
+    },
+    {
+      "id": "311685228320",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问OpenCode默认思考档位的对应关系。"
+    },
+    {
+      "id": "311725699440",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议自行安装本地OCR引擎。"
+    },
+    {
+      "id": "308367661761",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "转述Codex更好的说法，并肯定Reasonix实测效果。"
+    },
+    {
+      "id": "7669257016708072198",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用投资话术调侃，是否指AI投入无法确定。"
+    },
+    {
+      "id": "308488592289",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "夸张描述Go套餐可大量用Flash，“蹬吐”略含歧义。"
+    },
+    {
+      "id": "311740548688",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议将思考档位设置为Max。"
+    },
+    {
+      "id": "6a6e2155000000000802c64d",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "suggestion",
+        "question"
+      ],
+      "a": [
+        "content",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "疑似建议补测逻辑推理题，也可能表达不应测。"
+    },
+    {
+      "id": "308603219985",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述多模态路线并推测其为外挂实现。"
+    },
+    {
+      "id": "311839661584",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清包括Free在内均是新版且转发官方订阅。"
+    },
+    {
+      "id": "308396091377",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃DeepSeek拟人形象由鱼变猫。"
+    },
+    {
+      "id": "311758447488",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "production"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "仅表达对音乐前奏的受惊反应，可能是夸张玩梗。"
+    },
+    {
+      "id": "311690784432",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "调侃模型拟人形象变化，打call表达支持。"
+    },
+    {
+      "id": "311807520080",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "转述DeepSeek搭配Codex使用效果较好的说法。"
+    },
+    {
+      "id": "7668969936190784306",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "用提刀追赶友商的比喻夸赞DeepSeek竞争力。"
+    },
+    {
+      "id": "6a6d4cdb000000002100e741",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "分享编程及财务分析可替代GLM，并认可能力提升。"
+    },
+    {
+      "id": "311724605632",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": null,
+      "reason": "强调模型等级有差距，但未明确谁优谁劣。"
+    },
+    {
+      "id": "7668668586404299560",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "表示愿再充值100元，体现对模型的支持。"
+    },
+    {
+      "id": "311929183568",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "反问电脑性能能否支撑学计算机，未讨论AI。"
+    },
+    {
+      "id": "6a6d7409000000002a00757d",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "强烈推荐DS文本分析，贬低Gemini以突出优势。"
+    },
+    {
+      "id": "311903696656",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合部署标题询问双线网络设置。"
+    },
+    {
+      "id": "308616029105",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "presentation",
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "请求展示冷启动到推理的完整原速过程。"
+    },
+    {
+      "id": "308464000065",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "disagreement"
+      ],
+      "a": [
+        "comparison",
+        "other"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.4,
+      "reason": "以融资及资金来源比较，表达对DS持续投入的信心。"
+    }
+  ]
+}

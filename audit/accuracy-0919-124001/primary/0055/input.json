@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "Unsloth UD quants for DeepSeek V4 Flash 0731 are out!\n\nUD-Q8_K_XL 162GB is fully lossless (MXFP4 + BF16)\nUD-Q4_K_XL 155GB 96% top-1%\nUD-Q3_K_XL 129GB 87%\nUD-IQ3_S      117GB 83%\nUD-Q2_K_XL   97GB 79%\n",
+    "@JulianGoldieSEO wild that deepseek v4 flash only activates 13b params for agent work",
+    "国家超算互联网上线DeepSeek-V4-Flash API",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "企業は\nDeepSeek-V4-Flash-0731，ローカルの2x DGX Sparkで動かせばよいということかな",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "deepseek v4 flash 成功逆向 expedia",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 flash final release",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "[中配]DeepSeek V4 Flash 太惊人了——迄今为止最好的小模型！ - Bijan Bowen",
+    "workbuddy接入Deepseek正式版！实战测评来了！ 我是了山海，花费2亿token，第一时间为大伙带来一手测评，本次使用workbuddy，接入deepseek v4 flash 的API，完整跑完项目流程，带大家感受deepseek正式版的优势与不足之处。\n#deepseek  #AI测评  #大模型测评  #workbuddy",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek V4-Flash is officially out, still dirt cheap. USA don't like that, and want ban open source models.",
+    "OpenRouterでDeepseek-V4-Flash試しているけど、2回に一回429になる。 https://t.co/ttmvbIyTvg",
+    "DeepSeek V4 Flash makes agent workflows look much more realistic",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型"
+  ],
+  "comments": [
+    {
+      "id": "2083758473913708627",
+      "t": 0,
+      "content": "@danielhanchen how did you measure the percentages?"
+    },
+    {
+      "id": "2083696830165008817",
+      "t": 1,
+      "content": "@JulianGoldieSEO wild that deepseek v4 flash only activates 13b params for agent work"
+    },
+    {
+      "id": "6a6f1740000000001500810d",
+      "t": 2,
+      "content": "超算？得了吧 坑的很"
+    },
+    {
+      "id": "311712580416",
+      "t": 3,
+      "content": "请教下 vs code怎么装claude啊"
+    },
+    {
+      "id": "2083770168342421574",
+      "t": 4,
+      "content": "@cischaba なるほど(*´꒳`*)ノ🏙️🖥️🧠⭐️✨/🇯🇵。"
+    },
+    {
+      "id": "308567147889",
+      "t": 5,
+      "content": "实际上ds的计算成本很低，花钱的还是训练"
+    },
+    {
+      "id": "7669088956776989498",
+      "t": 6,
+      "content": "你梁叔叔是后训练仙人[捂脸]"
+    },
+    {
+      "id": "308465668177",
+      "t": 7,
+      "content": "回复 @Whisperain : 官方的接入codex，我让他读我的项目工程修改某个功能，一个问题就一块多没了[喜极而泣]"
+    },
+    {
+      "id": "6a6eb644000000000b03bc21",
+      "t": 8,
+      "content": "这是在爬虫吗？用的啥skill"
+    },
+    {
+      "id": "308451915889",
+      "t": 9,
+      "content": "目前只有V4F的API在公测，效果变好了很多"
+    },
+    {
+      "id": "308350165361",
+      "t": 10,
+      "content": "回复 @向丶胃丶猛丶冲 :没有，梁在那个泄露的投资人谈话说过多模态会跟进的，不然你猜 App 端试图模式是干什么的[doge_金箍]"
+    },
+    {
+      "id": "7668982036371309338",
+      "t": 6,
+      "content": "用RAG机制+浏览器搜集实时信息+自建知识库"
+    },
+    {
+      "id": "7668937674182869818",
+      "t": 11,
+      "content": "你那也叫释放生产力吗[尬笑]"
+    },
+    {
+      "id": "311747143328",
+      "t": 3,
+      "content": "回复 @bili-asdf :我用的opencode写代码缓存命中率可以到99.8，2亿token花了10块钱多[笑哭]"
+    },
+    {
+      "id": "311893749408",
+      "t": 5,
+      "content": "回复 @outlier_nex : 多模态能力从来都不是梁子的主要发展方向，用户需要的话就外面接一个别人家的识图模型很难理解吗？商业公司要省钱的大哥"
+    },
+    {
+      "id": "308573865329",
+      "t": 12,
+      "content": "半个小时了，凉透了[doge]"
+    },
+    {
+      "id": "308583299201",
+      "t": 7,
+      "content": "为什么还需要用一个阿里云的api[哦呼]"
+    },
+    {
+      "id": "p0ynqr2",
+      "t": 13,
+      "content": "https://preview.redd.it/1jow9hts2ngh1.png?width=985&format=png&auto=webp&s=bd35034c76f7eb97b10be7fd51da8cc2f44e34e7"
+    },
+    {
+      "id": "308471209089",
+      "t": 3,
+      "content": "打赢没奖励，打输被斩杀"
+    },
+    {
+      "id": "311870893184",
+      "t": 3,
+      "content": "回复 @JohnTsui22786 :windows 和 chrome，顶上的菜单栏是 powertoys 提供，chrome 就只是打开了 gemini 和垂直标签页而已"
+    },
+    {
+      "id": "7668747737584436020",
+      "t": 14,
+      "content": "官方因也说比现阶段的pro预览版要好 所以下一波pro正式版很期待啊[鼓掌]"
+    },
+    {
+      "id": "308422833313",
+      "t": 3,
+      "content": "这倒也确实是一个广泛被应用的解决方法"
+    },
+    {
+      "id": "311856644304",
+      "t": 15,
+      "content": "双机有点太贵了，单机内存确实有点小，flash本来就不大了，如果再量化性能会不会下降比较多啊"
+    },
+    {
+      "id": "7668974914938307387",
+      "t": 11,
+      "content": "这个使用的什么ide呀"
+    },
+    {
+      "id": "17925208",
+      "t": 16,
+      "content": "要是梁圣再开源一个好用的 harness 项目，那真是功德圆满了"
+    },
+    {
+      "id": "308417655217",
+      "t": 17,
+      "content": "其实效果确实不错，不知道评论区里嘲讽的看没看过他对其他模型的评测，外加这次测的东西，有部分比以往的难度更大，做成这样真的很可以了，Opus 4.8的结果不见得比这好很多（除了关于空间理解的部分，没有多模态确实有影响）"
+    },
+    {
+      "id": "7669402396586951482",
+      "t": 18,
+      "content": "反正我个人感觉前端两者没啥区别，综合体验比glm5.2强不少"
+    },
+    {
+      "id": "7669064448304235316",
+      "t": 6,
+      "content": "梁圣！无比期待 pro 正式版，别让我失望啊"
+    },
+    {
+      "id": "6a6d949a000000000403be4c",
+      "t": 19,
+      "content": "@JP Meowster 这个表情包太搞了"
+    },
+    {
+      "id": "p0z6h9h",
+      "t": 20,
+      "content": "TW: nooticing\n\nExpert Mode is kinda... better now too, actually, it shocked me when it recalled a really specific detail I mentioned waaaaay back in the conversation.\n\nEven if it doesn't exactly hit 1M context, they must've tweaked it slightly to make it remember more\n\nAlso, I've only now *nooticed* it that deepseek with my context got a split personality disorder depending on when reasoning mode is on or off"
+    },
+    {
+      "id": "2083333247271117281",
+      "t": 21,
+      "content": "OpenRouterでDeepseek-V4-Flash試しているけど、2回に一回429になる。 https://t.co/ttmvbIyTvg"
+    },
+    {
+      "id": "p166mpd",
+      "t": 22,
+      "content": "This is called benchmaxing. There’s zero way DS V4 Flash is higher than V4 pro. I use flash a lot but it can’t hang on to long context like many it shows it out performing here just like Luna fucking up long coding when the charts say it’s better."
+    },
+    {
+      "id": "308404279121",
+      "t": 23,
+      "content": "小猫娘可爱喵[米雪儿·绮星梦使 应援装扮_摸头][米雪儿·绮星梦使 应援装扮_摸头][米雪儿·绮星梦使 应援装扮_摸头]"
+    },
+    {
+      "id": "7669081532468462385",
+      "t": 11,
+      "content": "我今天也测试了，让他从零做一个App。是用来控制我的机械臂的。我给了他详细的过程步骤文档，文档大约是得有几十万字。他做的跟屎一样。控制机械臂里面放了个摇杆，可以解锁上锁，这个没问题，但是摇杆里边只有正数可以动，负数反方向都动不了，这也太弱智了。同样的文档，让GPT5.6做出来的就非常舒服，没有任何bug。所以任重而道远。不过DP的优点就是非常便宜。整个App只花了3块钱。"
+    },
+    {
+      "id": "6a6eae140000000015012831",
+      "t": 24,
+      "content": "听你说的还真以为变强了，结果一试，思考五分钟了不知道在干嘛[微笑R]就这样毫无反应可能过一小个小时说完成了给个结果？真能用下去吗，"
+    },
+    {
+      "id": "7668693200727360296",
+      "t": 25,
+      "content": "这？？？[宕机]"
+    },
+    {
+      "id": "311718549552",
+      "t": 26,
+      "content": "你要是用cc switch的话，设置-配置-可用推理强度-最高"
+    },
+    {
+      "id": "7668904269097370426",
+      "t": 27,
+      "content": "单从技术层面来说。视觉融合纯文本和纯文本，肯定是有分别。但商业层面来说，目前只能外挂或者说轻度视觉。agi是超长期赛道。不是单次推理能力的体现。是全天候推理带来的成本考虑。他现在不过多引入视觉。压缩成本恰好是未来agi的前提。他商业策略很明显。首先要活下来，技术储备是有的。但商业策略错了。就全盘输掉"
+    },
+    {
+      "id": "311871646288",
+      "t": 3,
+      "content": "回复 @彩色末影 :之前爆火，然后一直无响应后大众逐渐用得少了，就沉寂。这个沉寂是大众眼里，而不是ai领域。"
+    },
+    {
+      "id": "311815064064",
+      "t": 3,
+      "content": "浅薄了，梁圣的终极目的是要青史留名，在他眼里现阶段搞多模态和视频生成是短期割韭菜行为，他要的是把ai领域的圣杯agi搞出来，只要agi搞出来，什么多模态图片生成视频生成，agi会自己琢磨出来的，而他梁圣会因为搞出了agi，改变了人类历史而被写进教科书，这才是梁圣的终极目的[doge]"
+    }
+  ]
+}

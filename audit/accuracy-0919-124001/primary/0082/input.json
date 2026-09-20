@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版深度实测",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek v4 Flash for DS4 (DwarfStar) GGUF w/ DSpark MTP Head",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "被接入Codex的DeepSeek V4 Flash正式版惊到了！",
+    "美国小哥实测DeepSeekV4Flash：花不到1美元，AI给他做了个GTA+射击游戏，这Flash怎么比pro还pro？",
+    "【中配】DeepSeek V4 Flash测评 全面测试霸榜前五！这波性能重回巅峰！",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "要被外网的一些评论笑死了😂😂😂",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "DeepSeek V4 Flash正式版实测！Deepseek+codex=王炸！能装skill还能调用插件！这波Deepseek简直神了【B站AI创造公开赛】",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek V4 Flash 0731 is now available on Aizzy, fully private.",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "DeepSeek-V4-Flash-0731 UD-IQ3_S 12.5 tok/s on RTX 3090 +128GB DDR5",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4flash用SVG复刻梵高和画画"
+  ],
+  "comments": [
+    {
+      "id": "311679040656",
+      "t": 0,
+      "content": "GLM从6月份的神一个月秒变小丑，AI更新速度太快了。"
+    },
+    {
+      "id": "308486614193",
+      "t": 1,
+      "content": "能把周一棒子股，晚上的美股打下来吗"
+    },
+    {
+      "id": "308400856049",
+      "t": 2,
+      "content": "回复 @小力视 :完全不一样，这就像给瞎子描述一幅画，跟自己看一幅画，能一样么"
+    },
+    {
+      "id": "311737430688",
+      "t": 3,
+      "content": "中转……我opencode DeepSeekflash 免费 性价比无穷大"
+    },
+    {
+      "id": "7668959012964565796",
+      "t": 4,
+      "content": "Story-Init是哪个技能，找不到能给我一下吗"
+    },
+    {
+      "id": "p0z3c4w",
+      "t": 5,
+      "content": "dude you're fast"
+    },
+    {
+      "id": "7668985546052305721",
+      "t": 6,
+      "content": "看flash这能力，v4pro正式版，估计原价，并且是fable5实力[捂脸]，太牛了，期待v4.1"
+    },
+    {
+      "id": "7668944187669414694",
+      "t": 7,
+      "content": "k3，但这个DeepSeek flash 性能提升很大"
+    },
+    {
+      "id": "7669035641170248486",
+      "t": 8,
+      "content": "峰哥放心干，你的身后是整个大A"
+    },
+    {
+      "id": "308343638801",
+      "t": 9,
+      "content": "Codex 不登录啥插件能用得了啊？"
+    },
+    {
+      "id": "311861424608",
+      "t": 10,
+      "content": "回复 @AI袋鼠帝 :谁播放量高照着他一样就行了"
+    },
+    {
+      "id": "308426235857",
+      "t": 3,
+      "content": "用opencode和trae接api调用试了一遍，几句话直接给我师兄的DT-CWT库总结出一套性能优化方案，分阶段代码修改+基准测试对比，最后速度提升了1.5倍到2倍，这还只是flash，花了两毛钱，比预览版舒服多了[doge]"
+    },
+    {
+      "id": "311858950512",
+      "t": 11,
+      "content": "我怎么一直掉啊[笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭]好难受[笑哭]"
+    },
+    {
+      "id": "308527232353",
+      "t": 12,
+      "content": "？300b都没有跟opus5比，跟这些比的也应该是pro的正式"
+    },
+    {
+      "id": "311632370832",
+      "t": 13,
+      "content": "回复 @Larry-E : luna糖完了，我是真不敢用，我都是中度terra作为最低下手的"
+    },
+    {
+      "id": "7669072880043574053",
+      "t": 8,
+      "content": "9块1.6亿token，跑坨史出来我都夸他通畅[捂脸][OK]@护城河🐟"
+    },
+    {
+      "id": "6a6e7d600000000005015047",
+      "t": 14,
+      "content": "当时也是这么吹glm5.2真用起来才懂。每次改完，都要用gpt擦屁股，后来我基本不用了[doge]"
+    },
+    {
+      "id": "308423621121",
+      "t": 3,
+      "content": "flash是k3的1/10 这能打赢那是天顶星科技了"
+    },
+    {
+      "id": "311925839520",
+      "t": 15,
+      "content": "回复 @芝士德克士 :指条路兄弟"
+    },
+    {
+      "id": "311862949248",
+      "t": 16,
+      "content": "用完这个codex一直闪退是什么原因啊 大佬"
+    },
+    {
+      "id": "p15r5kt",
+      "t": 17,
+      "content": "Oh Tibo isn't giving me free money, and he's not my bff, boo hoo.  You are subscribed to his services, that he doesn't own much of and is bascally an employee trying to maximize profits/goals for his company."
+    },
+    {
+      "id": "308581787585",
+      "t": 18,
+      "content": "各位大佬好奇问一下，假如自己阿里云百炼的千问视觉模型免费额度用完后，该怎么办？是充值还是换别的有识图功能的模型？[思考]"
+    },
+    {
+      "id": "311671767120",
+      "t": 2,
+      "content": "现在不是还没涨价吗，后面会上班时间算高峰期"
+    },
+    {
+      "id": "308477741121",
+      "t": 19,
+      "content": "大模型本来就有随机性的，harness有影响但不会特别大，不可能fable在cc里封神在pi里就拉胯"
+    },
+    {
+      "id": "311691571584",
+      "t": 9,
+      "content": "回复 @阿白2008 :那是在deepseek自己的harness工具上测出来的。你又没得用…"
+    },
+    {
+      "id": "308544060321",
+      "t": 3,
+      "content": "炒股的钱被他赚走了就算了，毕竟他给了一个便宜好用的ai模型"
+    },
+    {
+      "id": "2083319538506940766",
+      "t": 20,
+      "content": "DeepSeek V4 Flash 0731 is now available on Aizzy, fully private."
+    },
+    {
+      "id": "311728868160",
+      "t": 0,
+      "content": "[脱单doge]图片来自 知 h"
+    },
+    {
+      "id": "308517614865",
+      "t": 3,
+      "content": "sillytaver，一个外置的ai连接平台，本身不具有任何功能，但是接入ai后可以利用平台内置的设置或修改设置来更方便地调教ai"
+    },
+    {
+      "id": "7668710652559278899",
+      "t": 4,
+      "content": "GLM WORKBUDDY TRAE今天全涨价了[捂脸]"
+    },
+    {
+      "id": "7669022198095627042",
+      "t": 8,
+      "content": "个人感觉用workbuddy不如直接cc"
+    },
+    {
+      "id": "6a6e304f000000002a00755d",
+      "t": 21,
+      "content": "自己接就好了，我就是接自己买的ds的V4-Flash，不排队，处理速度还比他快一倍[黄金薯R]"
+    },
+    {
+      "id": "2083429848194633952",
+      "t": 22,
+      "content": "@deepseek_ai What a goated team!"
+    },
+    {
+      "id": "6a6ebae10000000005017218",
+      "t": 23,
+      "content": "从股票取钱，发展科技，作用于社会，梁圣也算道德模范了[赞R][偷笑R]"
+    },
+    {
+      "id": "p12zjg3",
+      "t": 24,
+      "content": "I had it solve a 7 part crypto challenge fully offline and unattended using lmstudio biomic. It grabbed a few files (related to english statistics) and crunched away for 2 hours. I had a folder of cipher texts, plaintexts, and 7 python programs it wrote and tested that would use an appropriate cryptanalysis technique for each challenge that when run would generate the corrext plaintext .\n\nI was thoroughly impressed."
+    },
+    {
+      "id": "6a6e9eed00000000050178f9",
+      "t": 14,
+      "content": "孩子们你们快跑啊，不让你梁叔叔就来追你们了[doge]"
+    },
+    {
+      "id": "p153soy",
+      "t": 25,
+      "content": "How big (or small) is your PP?"
+    },
+    {
+      "id": "311642184000",
+      "t": 26,
+      "content": "回复 @loudMore老末哒 :玩酒馆的"
+    },
+    {
+      "id": "6a6d6d900000000021011503",
+      "t": 27,
+      "content": "很好奇放大是什么样子，svg 的体积会有多大？"
+    },
+    {
+      "id": "6a6e12e7000000002a02ec39",
+      "t": 14,
+      "content": "拉着他的盟友一起禁呀   汽车不就是"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "GPT-5.6 Luna vs DeepSeek V4 Flash 0731 — the budget model showdown 🤖\n\nLuna wins on code (SWE-bench Pro 62.7% vs 49.1%), agent tasks, and knowledge. Flash wins on price (65% cheaper) and is open sourc",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "What speeds are everyone getting with deepseek v4 flash 0731?",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek-V4-Flash-0731 is now over 2x faster than yesterday on Ollama's cloud!",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "DeepSeekV4-flash上线 外网的反应 开源免费就没有不香的道理",
+    "⚠️ Note\n\n🔷 DeepSeek-V4-Flash-0731 keeps the exact same model architecture and size as the preview version.\n🔷 Today's upgrade applies ONLY to the DeepSeek-V4-Flash API. The DeepSeek-V4-Pro API and Ap",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "【实测】DeepSeekV4正式版双机DGX真香"
+  ],
+  "comments": [
+    {
+      "id": "7668930896690774833",
+      "t": 0,
+      "content": "说实话 我的 hermes 和 claude code 强到我都以为在用 opus 4.8[舔屏]"
+    },
+    {
+      "id": "311790702064",
+      "t": 1,
+      "content": "回复 @gkd2323b :每月请求量不足v4flash十分之一，这也许就是我们常说的性价比"
+    },
+    {
+      "id": "2083898677555302493",
+      "t": 2,
+      "content": "GPT-5.6 Luna vs DeepSeek V4 Flash 0731 — the budget model showdown 🤖\n\nLuna wins on code (SWE-bench Pro 62.7% vs 49.1%), agent tasks, and knowledge. Flash wins on price (65% cheaper) and is open source.\n\nThe real story: AA Intelligence Index is 51 vs 50. They're basically equal in raw intelligence.\n\nFor most teams, Flash at /usr/bin/bash.06/task is the play. Reserve Luna for heavy coding.\n\n#AI #DeepSeek #GPT56 #LLM"
+    },
+    {
+      "id": "308586182337",
+      "t": 3,
+      "content": "回复 @华立志 :要先开cc  我步骤搞错了"
+    },
+    {
+      "id": "311724071952",
+      "t": 4,
+      "content": "回复 @LOR纷飞 :你先告诉我测试流是个啥雷霆名词？"
+    },
+    {
+      "id": "7669013874960974633",
+      "t": 5,
+      "content": "股东躺下[看]"
+    },
+    {
+      "id": "p0wgcae",
+      "t": 6,
+      "content": "Where is Kimi in this chart?"
+    },
+    {
+      "id": "308459124289",
+      "t": 7,
+      "content": "flash还是不赖"
+    },
+    {
+      "id": "p104m2y",
+      "t": 8,
+      "content": "About 50 t/s decode and 2200 t/s prefill on dual DGX Spark cluster. That's with original quant, k=5 for dspark, tp=2."
+    },
+    {
+      "id": "308358659089",
+      "t": 9,
+      "content": "但是我想要与官方plus无缝切换，能吗？就是不需要退出软件重新改配置，而是可以从gpt模型直接切到deepseek模型。还没试过"
+    },
+    {
+      "id": "311666779184",
+      "t": 10,
+      "content": "不能，LLM不是视频生成"
+    },
+    {
+      "id": "308497181713",
+      "t": 4,
+      "content": "不要碰，因为大部分农村小孩对计算机没有概念，他以为当计算机就是要当程序员，所以他会去报软件工程，而软件工程当程序员之后一出来就被淘汰"
+    },
+    {
+      "id": "308511310849",
+      "t": 4,
+      "content": "回复 @星辰_之子 : 你真用过plus上面的sol吗？几小时就跑完5h了，根本不耐用，跑luna随便你用"
+    },
+    {
+      "id": "6a6cba5b00000000290193c2",
+      "t": 11,
+      "content": "hy3比得过吗？"
+    },
+    {
+      "id": "p17nqhj",
+      "t": 12,
+      "content": "They were selling overpriced tokens from fake demands 😀"
+    },
+    {
+      "id": "7669035520857654016",
+      "t": 5,
+      "content": "我将收回一切对梁圣的诋毁，其实我早就是deepseek的粉丝了，之前本人在互联网上发布的任何和梁圣有关的言论均来自于本人遗失的鹦鹉，另外，本人不同意其一切关于梁圣的观点。"
+    },
+    {
+      "id": "308388315841",
+      "t": 13,
+      "content": "回复 @InFengQwQ :对的。我是误会了"
+    },
+    {
+      "id": "7668939977288876849",
+      "t": 0,
+      "content": "全是中转站，信中转可以被当韭菜割了"
+    },
+    {
+      "id": "311822832256",
+      "t": 4,
+      "content": "这楼干货很多呀，谁能回我一下，我也回你留个记号。"
+    },
+    {
+      "id": "2083773492927893676",
+      "t": 14,
+      "content": "@ollama Noice, avg 150 tok/s"
+    },
+    {
+      "id": "308409685505",
+      "t": 3,
+      "content": "up能不能回复我一下，就是deepseekv4flash不是早就出来了吗，为啥今天才测试，之前不是正式版吗"
+    },
+    {
+      "id": "7669066935829005071",
+      "t": 5,
+      "content": "你把要求给他让他自己想办法，合格的大模型该学会自己处理了哈哈哈哈"
+    },
+    {
+      "id": "308603287697",
+      "t": 4,
+      "content": "回复 @去码头抢点薯条 :嗯，还是那句话: 需要的skill越多，提示词越挑剔，说明模型能力越拉[脱单doge]"
+    },
+    {
+      "id": "17927106",
+      "t": 15,
+      "content": "@wzw #75 是的"
+    },
+    {
+      "id": "308470374497",
+      "t": 16,
+      "content": "我的配置已经加了dspark了，不加是25ts[doge_金箍]"
+    },
+    {
+      "id": "308411071361",
+      "t": 4,
+      "content": "回复 @钢铁前线_IronFL : 网页版压根都没上正式版，用网页版评了个寂寞"
+    },
+    {
+      "id": "p17yec7",
+      "t": 12,
+      "content": "Still don’t understand how there are people that truely believe these companies and their employees are looking out for them and would make it more affordable just because they felt like being nice. At the end of the day it is a business and a business more often then not will do what is in their best interest. In saying this I am a user of both Open AI and other AI companies, however I’m not oblivious of the fact that they want to generate profit as do most businesses."
+    },
+    {
+      "id": "308368162577",
+      "t": 9,
+      "content": "我严重怀疑flash正式版其实就是之前的Pro正式版，然后由于某些原因，他们决定加强，所以继续去深造Pro正式版了[doge]"
+    },
+    {
+      "id": "7669044909920666378",
+      "t": 5,
+      "content": "从此以后，我将坚决拥护梁圣[看]"
+    },
+    {
+      "id": "6a6de11f000000001500a788",
+      "t": 17,
+      "content": "有没有解释一下这个强的地方是什么啊，超长文本处理能力吗？"
+    },
+    {
+      "id": "6a6d2a6b00000000290364d8",
+      "t": 18,
+      "content": "装个skill吧，就用k3的api key"
+    },
+    {
+      "id": "308493773441",
+      "t": 4,
+      "content": "梁叔在股东大会上说过，多模态不是公司主攻方向"
+    },
+    {
+      "id": "311888252368",
+      "t": 19,
+      "content": "垄断资本主义的毒害之处"
+    },
+    {
+      "id": "2083096037959586128",
+      "t": 20,
+      "content": "@deepseek_ai public beta 套下一个 public beta，一个字，绝！🤣"
+    },
+    {
+      "id": "p139ve2",
+      "t": 12,
+      "content": "Most people are using subscriptions not API. So Luna is significantly cheaper than deepseek."
+    },
+    {
+      "id": "308404926689",
+      "t": 21,
+      "content": "这只蓝色大肥鱼怎么这么坏呀！"
+    },
+    {
+      "id": "311637918720",
+      "t": 22,
+      "content": "主播  原生接入codex没有max模式吗？ 我用ccSwitch接入有5个档位 那个档位真有有作用吗？"
+    },
+    {
+      "id": "2083826458833600642",
+      "t": 23,
+      "content": "@deepseek_ai you should have kept opus 4.8 out of this list, so much better picture..."
+    },
+    {
+      "id": "6a6d9a3f00000000290255d5",
+      "t": 17,
+      "content": "有开源免费用，谁还傻蛋去买高价货[失望R]"
+    },
+    {
+      "id": "308465378113",
+      "t": 24,
+      "content": "upup，散热怎么搞啊，听说这个 dgx spark 长时间运行散热扛不住"
+    }
+  ]
+}

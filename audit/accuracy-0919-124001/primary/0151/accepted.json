@@ -1,0 +1,790 @@
+{
+  "items": [
+    {
+      "id": "308396382305",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "质疑只谈输入费用，强调输出才是消费大头。"
+    },
+    {
+      "id": "7668904195152544570",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合自身经历解释切换API后仍显示额度提醒。"
+    },
+    {
+      "id": "311787266800",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合教程标题建议直接使用，具体问题缺失。"
+    },
+    {
+      "id": "311892796784",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅建议翻阅评论区，未说明所解答的具体问题。"
+    },
+    {
+      "id": "6a6caf06000000002b02afc4",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "agreement",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": null,
+      "reason": "“包的”似作肯定回应，但缺失被回应内容。"
+    },
+    {
+      "id": "6a6d8318000000001500acc0",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问图片含义及DS官方发布消息的习惯。"
+    },
+    {
+      "id": "308476474289",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明尚未实现原生多模态。"
+    },
+    {
+      "id": "308421216337",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "usability",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认可本地部署和编程帮助，并比较K3部署门槛。"
+    },
+    {
+      "id": "308449051937",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨更新后理解差且话多，询问是否改善。"
+    },
+    {
+      "id": "311692695568",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "用“心善”玩梗，赞其价格竞争力。"
+    },
+    {
+      "id": "311792953840",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.2,
+      "reason": "仅友好回应“好滴”，无法确定涉及AI。"
+    },
+    {
+      "id": "308422081249",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测所示功能来自skill，带试探性纠正语气。"
+    },
+    {
+      "id": "6a6c6aa500000000140392d0",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问相关图片出处，称API文档中未找到。"
+    },
+    {
+      "id": "6a6da373000000002a031422",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "service"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "列出GPT费用和额度经历，反驳价格仅为零头。"
+    },
+    {
+      "id": "311705417312",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "仅视频编号与哭泣表情，内容和态度难判断。"
+    },
+    {
+      "id": "308492458897",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "仅提苹果礼品卡，无法确定是否涉及AI使用。"
+    },
+    {
+      "id": "2083405118809026706",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "吐槽Claude额度很快耗尽，后悔没买GPT。"
+    },
+    {
+      "id": "308475745857",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "否定良心发现的解释，认为OpenAI意在垄断。"
+    },
+    {
+      "id": "308550033441",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合本地部署标题说明需要一张显卡。"
+    },
+    {
+      "id": "311843268416",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "求推荐两分钱的选项，可能指AI服务但对象缺失。"
+    },
+    {
+      "id": "311730397056",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议买虚拟号完成验证，未明确验证哪项服务。"
+    },
+    {
+      "id": "6a6f0e16000000002300c043",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "question",
+        "other"
+      ],
+      "a": [
+        "price",
+        "performance",
+        "reliability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认可低成本并询问速度稳定性，末尾夹带推销。"
+    },
+    {
+      "id": "7668759877372805942",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正旧版与新版安全审查情况，未明确褒贬。"
+    },
+    {
+      "id": "6a6e4114000000001403a317",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "吐槽消耗比GLM大，费用甚至超过官方API。"
+    },
+    {
+      "id": "311860569248",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "报告复测游戏可玩但有瑕疵，并猜测差异原因。"
+    },
+    {
+      "id": "7669301453651084081",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以先做空再发布模型调侃其市场冲击。"
+    },
+    {
+      "id": "311752745120",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "感谢提醒并说明录制后已清理密钥。"
+    },
+    {
+      "id": "308589436433",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "suggestion"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "“孩子”带揶揄意味，但缺失语境也可能是劝勉。"
+    },
+    {
+      "id": "308336468401",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "结合标题纠正模型发布日期尚未确定。"
+    },
+    {
+      "id": "308628375489",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "感叹写小说者众多，并分享领导用AI写小说。"
+    },
+    {
+      "id": "p16g4x1",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.7,
+      "reason": "维护他人并强硬要求对方闭嘴，未涉及AI。"
+    },
+    {
+      "id": "308428617393",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "建议免费用豆包，认为付费OCR也很便宜。"
+    },
+    {
+      "id": "311911681216",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "根据多处评论怀疑对方经营中转站，语带调侃。"
+    },
+    {
+      "id": "308572601969",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述提示词和skill对模型仍然重要。"
+    },
+    {
+      "id": "311772466048",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正版本状态，并引用官方对Flash与Pro的比较。"
+    },
+    {
+      "id": "6a6df130000000002a005878",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "以“跳得最欢”贬低宣传表现，并与百度类比。"
+    },
+    {
+      "id": "7669358623919031075",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "结合标题以追赶到鞋垫飞出比喻模型竞争力。"
+    },
+    {
+      "id": "311678372512",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "区分网页截图与模型直接生图，纠正能力归因。"
+    },
+    {
+      "id": "308416875649",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": null,
+      "reason": "“全球第一”配吃瓜表情，可能戏称赞美也可能反讽。"
+    },
+    {
+      "id": "311906950592",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "建议添加阿里多模态skill，附带玩笑语气。"
+    }
+  ]
+}

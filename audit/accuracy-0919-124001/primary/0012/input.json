@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash正式版实测！Deepseek+codex=王炸！能装skill还能调用插件！这波Deepseek简直神了【B站AI创造公开赛】",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "要被外网的一些评论笑死了😂😂😂",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "这条视频里的人是我，但我根本没拍，也没剪。 DeepseekV4Flash正式版自主做视频能力实测。我只输入了一段提示词，DeepSeek V4 Flash 就自己找案例、写内容，再用 AI 数字人做完了整条视频。现在的 AI 做视频，这已经是基础操作了。#AI新星计划  #AI做视频 #DeepSeekV4 #AI数字人",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "DeepSeek-V4-Flash-0731: Oneshot evals, surprisingly not token efficient??",
+    "DeepSeek V4 Flash 正式版来了",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "@jun_song for the avg user the cost probably doesn't pencil out, but for a business, owning your intelligence instead of renting it through monthly API bills is a no brainer.\n\nV4 Flash 0731 might be t",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "实测DeepSeek V4 Flash 太强了！比 Grok 4.5 聪明太多了！一起来对比评测 !~DeepSeek Flash正式版强在哪！正式上市！",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "瘫坐冷汗核弹！我在两天内消耗了4亿的Token，利用 DeepSeek V4Flash 正式版做出来了这个......"
+  ],
+  "comments": [
+    {
+      "id": "311915011360",
+      "t": 0,
+      "content": "确实，我记得之前预览版出来的时候就有人分析过这件事，大模型最规划，小模型实操，能进一步降本增效，但是对harness的要求应该挺高的，不然很容易适得其反"
+    },
+    {
+      "id": "311686025296",
+      "t": 1,
+      "content": "cc上用的吗命中率这么高"
+    },
+    {
+      "id": "6a6cf672000000002a02cb4b",
+      "t": 2,
+      "content": "但如果是多方面综合测试的话，会发现很多地方是根本不如的,在单独方面做了一些优化"
+    },
+    {
+      "id": "308387418641",
+      "t": 3,
+      "content": "主要是没有多模态 ui界面已经完成得很不错了"
+    },
+    {
+      "id": "308406662033",
+      "t": 4,
+      "content": "起这么早\n还是没睡[doge_金箍]"
+    },
+    {
+      "id": "311662562544",
+      "t": 5,
+      "content": "卡冈图雅这效果牛逼啊"
+    },
+    {
+      "id": "308414436705",
+      "t": 6,
+      "content": "怪了，我刚刚弄好了就是1m上下文的，你打开Codex显示上下文试试？(在设置常规里面)"
+    },
+    {
+      "id": "7668920055170827044",
+      "t": 7,
+      "content": "昨天刚出的时候不行，今天我试了同一句又可以了"
+    },
+    {
+      "id": "7669307733287879459",
+      "t": 8,
+      "content": "不能，除非量化的但是不建议"
+    },
+    {
+      "id": "7669093443452879662",
+      "t": 9,
+      "content": "教程很多的，deepseek配置教程，因为网页版实际上只能发挥出一点点ai能力，如果用api，他能获取你电脑权限和工具，做很多事，所以所有api都要钱的，不过梁圣这个是真便宜，至少会一点点编程python吧，就能是能能力上一个档次，自己做点小工具还是可以的"
+    },
+    {
+      "id": "2083500064136147131",
+      "t": 10,
+      "content": "@deepseek_ai Wow i missed this yesterday. This is nuts"
+    },
+    {
+      "id": "311670286560",
+      "t": 11,
+      "content": "回复 @豉椒炒白菜 :肯定有的"
+    },
+    {
+      "id": "6a6d93310000000005014260",
+      "t": 12,
+      "content": "这下a÷和glm一众变成小丑了"
+    },
+    {
+      "id": "311765667872",
+      "t": 13,
+      "content": "哈基米是跑分王，纯区"
+    },
+    {
+      "id": "7669294414976877364",
+      "t": 14,
+      "content": "你好，请问怎么进群"
+    },
+    {
+      "id": "7668924345414484762",
+      "t": 8,
+      "content": "[比心]感谢我去试试！"
+    },
+    {
+      "id": "308434196609",
+      "t": 15,
+      "content": "注意到&#39;7月中旬&#39;=&#39;7月31日&#39;，故&#39;8月初&#39;=&#39;8月15日&#39;"
+    },
+    {
+      "id": "308522458321",
+      "t": 4,
+      "content": "不用农村小孩，现在城市小孩也不接触计算机了，电脑哪有手机平板好玩"
+    },
+    {
+      "id": "7668958715639661361",
+      "t": 16,
+      "content": "不支持图片识别"
+    },
+    {
+      "id": "308456837457",
+      "t": 15,
+      "content": "dsv4f写文很不错哦"
+    },
+    {
+      "id": "p13ij7j",
+      "t": 17,
+      "content": "Same here, I noticed it's tokken-inefficient. it just dumps a lot of context to work properly and reads logs and loves running lot of tests and commands for no reason... I mean it's useful but like 5% of the cases...\n\nOne way i found to make use of this model is building a design layer on top of the browser that sends elemnts to opencode... this helped speed things up so badly and made it so good to make UI tweaks instantly.\n\nI would love to see what others came up with tbh..."
+    },
+    {
+      "id": "17924777",
+      "t": 18,
+      "content": "https://api-docs.deepseek.com/zh-cn/guides/responses_api/\r\n\r\n跑分约等于 GLM 5.2"
+    },
+    {
+      "id": "7669045323105780529",
+      "t": 19,
+      "content": "要不是竞争对手的压力太大，你梁叔都不用融资，周一到周五准点取钱[微笑]"
+    },
+    {
+      "id": "308406207313",
+      "t": 5,
+      "content": "我自己觉得还不错 写的自己看还蛮好"
+    },
+    {
+      "id": "311774256720",
+      "t": 13,
+      "content": "zcode里面有glm5.2水平"
+    },
+    {
+      "id": "311806778048",
+      "t": 11,
+      "content": "回复 @专业防空大尾猫 :花六万块买个机器  每秒60tokens  你就24小时全年无休 一年才跑出18.92亿token  \n要是DGX真的好用  深度求索早就大批量采购了 而不是人家选择昇腾   这玩意自己部署玩玩就行  真生产力能把人急死"
+    },
+    {
+      "id": "308414475457",
+      "t": 20,
+      "content": "回复 @Yuki_leeds : codex可以吗[doge_金箍]"
+    },
+    {
+      "id": "308587697921",
+      "t": 21,
+      "content": "或是农历七月，现在六月算是提前发布。"
+    },
+    {
+      "id": "311895158976",
+      "t": 13,
+      "content": "回复 @沉沦者 :七月一号涨价的"
+    },
+    {
+      "id": "2083885324468392031",
+      "t": 22,
+      "content": "@jun_song for the avg user the cost probably doesn't pencil out, but for a business, owning your intelligence instead of renting it through monthly API bills is a no brainer.\n\nV4 Flash 0731 might be the most impressive open weights release I've seen all year"
+    },
+    {
+      "id": "311756516656",
+      "t": 1,
+      "content": "我觉得trea比claude好用点，具体还得看自己使用体验吧"
+    },
+    {
+      "id": "7668953386453320448",
+      "t": 9,
+      "content": "你去问 AI ，他会教你用免费的视觉识别 API 的，"
+    },
+    {
+      "id": "6a6e1af30000000015012a77",
+      "t": 23,
+      "content": "都是股民支付的[笑哭R]"
+    },
+    {
+      "id": "308391279777",
+      "t": 5,
+      "content": "这个和之前没差，提升主要在代码这类"
+    },
+    {
+      "id": "311857495728",
+      "t": 21,
+      "content": "回复 @爆发头 :网页端的功能性和泛用性拿什么和API比[笑哭]，这类up做这种东西又不全是靠网页版对话复制贴的，开发要接入agent"
+    },
+    {
+      "id": "311829956576",
+      "t": 24,
+      "content": "前后左右不需要多模态，其他多模态模型，视觉识别也基本是审核用的，除了那个opus5看起来有点不一样，其它多模态都是古法描述传输，根本不是真正意义的多模态用法。"
+    },
+    {
+      "id": "308393939521",
+      "t": 25,
+      "content": "比GROK4.5不至于吧（"
+    },
+    {
+      "id": "6a6e183a000000000802f725",
+      "t": 26,
+      "content": "你们部门赶紧关门吧，真后悔年初的时候充了海外版一年的pro+，浪费我钱"
+    },
+    {
+      "id": "7668933252917789492",
+      "t": 9,
+      "content": "我测了一下，推理方面还是Pro好一点"
+    },
+    {
+      "id": "308517797249",
+      "t": 27,
+      "content": "那很出生了[保佑]"
+    }
+  ]
+}

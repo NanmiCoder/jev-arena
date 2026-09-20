@@ -1,0 +1,818 @@
+{
+  "items": [
+    {
+      "id": "311915011360",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "mixed"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "担忧"
+      ],
+      "score": 0.1,
+      "reason": "赞同大小模型分工降本，同时提醒框架要求高。"
+    },
+    {
+      "id": "311686025296",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否在CC使用及高命中率情况。"
+    },
+    {
+      "id": "6a6cf672000000002a02cb4b",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "指出综合测试多处不如，质疑单项优化代表整体。"
+    },
+    {
+      "id": "308387418641",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "指出缺少多模态，同时肯定UI完成效果。"
+    },
+    {
+      "id": "308406662033",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃对方早起或没睡，与AI使用无关。"
+    },
+    {
+      "id": "311662562544",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "结合实测标题，强烈称赞展示效果。"
+    },
+    {
+      "id": "308414436705",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享1M上下文结果并建议检查设置。"
+    },
+    {
+      "id": "7668920055170827044",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述同一句输入昨天失败今天成功的变化。"
+    },
+    {
+      "id": "7669307733287879459",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "讨论量化部署可行性，但缺少所回应的具体配置。"
+    },
+    {
+      "id": "7669093443452879662",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "介绍API工具使用并肯定低价及开发小工具能力。"
+    },
+    {
+      "id": "2083500064136147131",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "praise",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.6,
+      "reason": "对发布表达强烈惊讶，偏赞叹但未具体评价能力。"
+    },
+    {
+      "id": "311670286560",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅说肯定有，缺失父评论，相关性及所指不明。"
+    },
+    {
+      "id": "6a6d93310000000005014260",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "用小丑贬低GLM等竞品，语气明显嘲讽。"
+    },
+    {
+      "id": "311765667872",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "trust"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "称模型跑分王后以辱骂收尾，整体为贬低。"
+    },
+    {
+      "id": "7669294414976877364",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅询问入群方式，未讨论AI产品或使用。"
+    },
+    {
+      "id": "7668924345414484762",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other",
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "表达感谢并愿尝试，缺少父评论无法确定尝试对象。"
+    },
+    {
+      "id": "308434196609",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "以日期等式调侃时间承诺，是否指模型发布略有歧义。"
+    },
+    {
+      "id": "308522458321",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正儿童接触电脑的城乡判断，与AI无关。"
+    },
+    {
+      "id": "7668958715639661361",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "直接陈述不支持图片识别，未表达明显不满。"
+    },
+    {
+      "id": "308456837457",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "明确称赞DS模型写作表现。"
+    },
+    {
+      "id": "p13ij7j",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "usability",
+        "performance",
+        "capability"
+      ],
+      "e": [
+        "失望",
+        "认可",
+        "期待"
+      ],
+      "score": 0,
+      "reason": "批评Token浪费，又肯定改造后的UI效率并期待经验。"
+    },
+    {
+      "id": "17924777",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供文档链接并陈述跑分与GLM近似。"
+    },
+    {
+      "id": "7669045323105780529",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.1,
+      "reason": "借竞争和融资调侃DeepSeek负责人收益来源。"
+    },
+    {
+      "id": "308406207313",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "结合模型实测标题，肯定生成文字的个人阅读体验。"
+    },
+    {
+      "id": "311774256720",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述在zcode中达到GLM5.2水平。"
+    },
+    {
+      "id": "311806778048",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "performance",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "以成本及吞吐量反对DGX适合实际生产的观点。"
+    },
+    {
+      "id": "308414475457",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Codex是否可用，表情不足以判为玩梗。"
+    },
+    {
+      "id": "308587697921",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用农历解释发布时间来玩梗，具体发布对象未明。"
+    },
+    {
+      "id": "311895158976",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明七月一号涨价，缺少父评论无法确定产品。"
+    },
+    {
+      "id": "2083885324468392031",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "肯定企业自持模型价值，并高度赞赏开放权重发布。"
+    },
+    {
+      "id": "311756516656",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认为TRAE比Claude好用，同时强调个人体验。"
+    },
+    {
+      "id": "7668953386453320448",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "price",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议询问AI如何使用免费的视觉识别API。"
+    },
+    {
+      "id": "6a6e1af30000000015012a77",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃由股民买单，未明确对应AI产品费用。"
+    },
+    {
+      "id": "308391279777",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出当前项目无变化，提升主要集中在代码。"
+    },
+    {
+      "id": "311857495728",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "反问否定网页端与API等同，并解释开发需接Agent。"
+    },
+    {
+      "id": "311829956576",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "纠正多模态必要性并质疑多数模型的多模态实现。"
+    },
+    {
+      "id": "308393939521",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "对标题声称胜过Grok4.5表示怀疑。"
+    },
+    {
+      "id": "6a6e183a000000000802f725",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "愤怒",
+        "失望"
+      ],
+      "score": -1,
+      "reason": "后悔购买年度订阅并要求部门关门，强烈不满。"
+    },
+    {
+      "id": "7668933252917789492",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "依据个人测试陈述Pro推理略好。"
+    },
+    {
+      "id": "308517797249",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "用出生谐音贬斥对象，缺失上下文无法确定相关性。"
+    }
+  ]
+}

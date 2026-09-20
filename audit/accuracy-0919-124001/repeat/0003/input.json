@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Deepseek v4 flash 0731",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "i don't get the hype - DeepSeek V4 Flash 0731",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek v4 flash 0731 abliterated?",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "Deepseek V4 Flash update on ArtificialAnalysis",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "Newly released Deepseek V4 Flash Official scores close to Claude Opus 4.8.  Price: 0.18$ / 1mil OUTPUT tokens",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "GPT 5.6 Luna最新测评报告！打得过Deepseek V4 Flash吗？",
+    "卧槽，DSv4-flash初步AA跑分50-51",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！"
+  ],
+  "comments": [
+    {
+      "id": "308478619569",
+      "t": 0,
+      "content": "terra缩水最夸张，每次问他就回一句。。"
+    },
+    {
+      "id": "7669101927594672930",
+      "t": 1,
+      "content": "是多模态吗？"
+    },
+    {
+      "id": "6a6dfba2000000000d028c00",
+      "t": 2,
+      "content": "claude code + deepseek 0731，重写了几万行code的小程序。设计架构差点火候比如DB选择，定了架构做执行。跟GLM5.2不分伯仲"
+    },
+    {
+      "id": "311820722336",
+      "t": 3,
+      "content": "视觉层面的工作应该不是强项，测代码"
+    },
+    {
+      "id": "308355194369",
+      "t": 4,
+      "content": "咋写的提示词"
+    },
+    {
+      "id": "7669088776333624101",
+      "t": 5,
+      "content": "餐饮？如果你是摆摊的，豆包还可能更有用，全自动下单收银。配合点agent"
+    },
+    {
+      "id": "p12v60t",
+      "t": 6,
+      "content": "Deepseek is cheap and that's the best point.\n\nBut it needs real precise prompting.\nGive it too much liberty and it will lie, taking shortcuts and basically do everything to finish the task the easiest way possible.\n\nI currently use Claude or glm to prompt and review the answers."
+    },
+    {
+      "id": "311664610544",
+      "t": 7,
+      "content": "因为这些也都是代码实现，用眼睛就能非常直观地看出好坏"
+    },
+    {
+      "id": "p123nnx",
+      "t": 8,
+      "content": "[https://huggingface.co/apetersson/DeepSeek-V4-Flash-0731-Abliterated-FP8](https://huggingface.co/apetersson/DeepSeek-V4-Flash-0731-Abliterated-FP8)"
+    },
+    {
+      "id": "311686988720",
+      "t": 9,
+      "content": "[doge]猫猫哈气，不是我想的"
+    },
+    {
+      "id": "7668943191776969521",
+      "t": 5,
+      "content": "耗时比较长，但是不缺时间[黄脸祈祷][黄脸祈祷]"
+    },
+    {
+      "id": "7668916860864070451",
+      "t": 5,
+      "content": "所以pro还不如这个flash现在？"
+    },
+    {
+      "id": "308446948209",
+      "t": 10,
+      "content": "Codex刚刚重置了"
+    },
+    {
+      "id": "308431868017",
+      "t": 7,
+      "content": "回复 @飞奔二进制 :百万上下文一点不提吗，随充随用不提吗，api接任意应用不提吗"
+    },
+    {
+      "id": "311766699568",
+      "t": 11,
+      "content": "还用问？[吃瓜]"
+    },
+    {
+      "id": "6a6de31b000000000403adfa",
+      "t": 12,
+      "content": "比 grok4.5 还快吗"
+    },
+    {
+      "id": "p12hr8d",
+      "t": 13,
+      "content": "Luna already had very low adoption, the efficiency improvements they made allows them to get higher margins on Sol, keep a bit of extra on Terra and provide Luna to compete better on the cheap models space\n\nOverall their strategy is making a lot of sense compared to whatever the fuck Sonnet 5 or Gemini 3.6 flash are supposed to be"
+    },
+    {
+      "id": "308581039361",
+      "t": 0,
+      "content": "回复 @Empty2021 :思考链里是说读不到图的，应该不是多模态"
+    },
+    {
+      "id": "308490096625",
+      "t": 14,
+      "content": "纯cpu这个不支持[doge_金箍]"
+    },
+    {
+      "id": "308503323009",
+      "t": 15,
+      "content": "回复 @loudMore老末哒 :企业买个二手H100也就7万，一台足够了。"
+    },
+    {
+      "id": "7669296281659147067",
+      "t": 5,
+      "content": "是这样的[捂脸]"
+    },
+    {
+      "id": "6a6d5fe10000000004039259",
+      "t": 16,
+      "content": "个人感觉opencode还行 ？ClaudeCode会故意降低非A/模型的缓存命中率，别用"
+    },
+    {
+      "id": "311687451392",
+      "t": 9,
+      "content": "[doge]热热还能吃"
+    },
+    {
+      "id": "2083085620688413103",
+      "t": 17,
+      "content": "@deepseek_ai 为什么是0731？"
+    },
+    {
+      "id": "308454457361",
+      "t": 7,
+      "content": "有一说一反应确实比其他的聪明多了"
+    },
+    {
+      "id": "p0ucy8b",
+      "t": 18,
+      "content": "I hope they put vision on v4 Pro"
+    },
+    {
+      "id": "311880299936",
+      "t": 19,
+      "content": "把a/的下一代模型打回炉重练[打call]"
+    },
+    {
+      "id": "p14dwkb",
+      "t": 20,
+      "content": "Just installed it, looking forward to testing it"
+    },
+    {
+      "id": "6a6d57a3000000001403a2af",
+      "t": 21,
+      "content": "前端开发效果怎么样"
+    },
+    {
+      "id": "311724059280",
+      "t": 22,
+      "content": "我去，活的up，快去更新"
+    },
+    {
+      "id": "308468449617",
+      "t": 23,
+      "content": "回复 @云初子淼 :日常榜要符合日常使用情况吧，恰好日常里也是大的模型开中档、小的模型开最高"
+    },
+    {
+      "id": "7669000697351013177",
+      "t": 5,
+      "content": "更贵 token更多也是更贵的一种体现 你在说啥"
+    },
+    {
+      "id": "6a6cd8c40000000029026f13",
+      "t": 24,
+      "content": "没有多模态就注定没法一起比[捂脸R]"
+    },
+    {
+      "id": "311806378160",
+      "t": 25,
+      "content": "这对v4flash不公平，这次我用了好几个软件，codex opencode和claude表现最差，pi reasonix表现最好，workbuddy表现一般"
+    },
+    {
+      "id": "311892450160",
+      "t": 19,
+      "content": "回复 @猿来就是尔 :你直接用用看呗，问我干嘛[笑哭]"
+    },
+    {
+      "id": "308420288401",
+      "t": 26,
+      "content": "回复 @畜生点不进我主页 :多模态伪需求不说，长任务luna和傻子一样。中转站luna破甲对我来说就是个多模态备用工具优势只有足够便宜"
+    },
+    {
+      "id": "6a6eca3200000000290250de",
+      "t": 16,
+      "content": "那就是我看错了，反正实际更强是真的"
+    },
+    {
+      "id": "308595121393",
+      "t": 26,
+      "content": "DeepSeek一直很火吧？因为很便宜，效果也还行，相当于一个斩杀线，比他性能弱的不敢收费比他高，碾着其他家往前跑。"
+    },
+    {
+      "id": "308538829169",
+      "t": 27,
+      "content": "回复 @云初子淼 :那个号叫啥？我咋没找到？"
+    },
+    {
+      "id": "311888415888",
+      "t": 26,
+      "content": "为什么我之前用小龙虾🦞随便用一下花了我几百，也是用 v4 flash"
+    }
+  ]
+}

@@ -1,0 +1,793 @@
+{
+  "items": [
+    {
+      "id": "6a6d315d000000000403b620",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "说明医学图像二维与三维关系，未明确涉及AI。"
+    },
+    {
+      "id": "311629600336",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅表示接受，缺少被回复内容，相关性不明。"
+    },
+    {
+      "id": "311714768496",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "performance",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "认可第三方终端并批评原生工具，与AI关联不明确。"
+    },
+    {
+      "id": "311706207616",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "content",
+        "usability"
+      ],
+      "e": [
+        "期待",
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "请求上线实测网页供体验，明确觉得有意思。"
+    },
+    {
+      "id": "6a6c7100000000000403bb7c",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "以Luna价格很低反驳标题中的突出表现。"
+    },
+    {
+      "id": "311730887248",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "quality",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "认为客户端提示词一直不佳，建议更换客户端。"
+    },
+    {
+      "id": "6a6ea423000000000500aed2",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "嘲讽是否愚傻，但所指对象及AI关联不明。"
+    },
+    {
+      "id": "6a6dc227000000002b001b1e",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "quality"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明用DS生成切块识色脚本并还原SVG的流程。"
+    },
+    {
+      "id": "7668672310228091688",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0.4,
+      "reason": "反驳数据无用，认可两模型在权威测试中的能力。"
+    },
+    {
+      "id": "308449377249",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述不同Agent的使用价格理论上差距不大。"
+    },
+    {
+      "id": "7669253006555071247",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用八月三十二日的虚构日期调侃模型发布竞争。"
+    },
+    {
+      "id": "311917498912",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "贬低竞品以突出DeepSeek性价比，整体为称赞。"
+    },
+    {
+      "id": "308482576625",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "补充模型可帮助调试ComfyUI，略有肯定意味。"
+    },
+    {
+      "id": "7668986880441336616",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "愤怒",
+        "质疑"
+      ],
+      "score": -0.9,
+      "reason": "强烈嘲讽相关表态，质疑不做多模态的价值。"
+    },
+    {
+      "id": "308365991649",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "用恩情还不完的夸张表达称赞，未见反讽证据。"
+    },
+    {
+      "id": "6a6dd21e00000000150003e0",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述Opus对本地模型能力比例的评价。"
+    },
+    {
+      "id": "308502527265",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "肯定人的学习能力，但所赞同事项缺少上下文。"
+    },
+    {
+      "id": "311730987008",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "以每月五美元价格表达满意，认可性价比。"
+    },
+    {
+      "id": "308626758929",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "joke"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.1,
+      "reason": "带玩笑语气询问修改后服务无法启动的情况。"
+    },
+    {
+      "id": "311645914672",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明OpenCode上下文用满后压缩继续使用。"
+    },
+    {
+      "id": "311675880944",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "请求解决办法，标题暗示AI使用但具体问题缺失。"
+    },
+    {
+      "id": "308570060049",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "反驳免费优势，并指出OpenCode免费服务繁忙。"
+    },
+    {
+      "id": "7668944296322220826",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "以十元运行两周夸赞价格优势并压低竞品。"
+    },
+    {
+      "id": "7668746025104655104",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问如何使用DS实现视觉能力。"
+    },
+    {
+      "id": "308350547841",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出已加多模态但未开放图片接口。"
+    },
+    {
+      "id": "311759060480",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议使用OpenCode Max进行测试。"
+    },
+    {
+      "id": "7668916860864070451",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问当前Flash是否已优于Pro。"
+    },
+    {
+      "id": "311927744416",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "以一脚踹死夸张嘲讽落败模型，具体对象不明。"
+    },
+    {
+      "id": "311892286912",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "反问算力卡是否只影响速度，寻求概念确认。"
+    },
+    {
+      "id": "308553937345",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "试探性提出本地部署无法获取测试资源。"
+    },
+    {
+      "id": "7669018597168513828",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "price"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "概括正式版更适配且省钱，带轻度肯定。"
+    },
+    {
+      "id": "308482710625",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明通过IDEA内置AI插件修改Java文件。"
+    },
+    {
+      "id": "6a6dae090000000029024a85",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.9,
+      "reason": "辱骂并要求还钱，是否针对AI付费缺少说明。"
+    },
+    {
+      "id": "2083701780073099415",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": 0,
+      "reason": "建议比较工具设计、故障恢复和评测复现，担心运维成本。"
+    },
+    {
+      "id": "311915279296",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合接入教程，建议更新软件排查失败。"
+    },
+    {
+      "id": "7668902403437626149",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "惊讶地询问除免转接外是否还有优化，未明确褒贬。"
+    },
+    {
+      "id": "7668928455504937785",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "表示准备退订GLM，隐含不再认可但未说明原因。"
+    },
+    {
+      "id": "308548409041",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "reliability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "求助下载失败及下载页面无法访问的问题。"
+    },
+    {
+      "id": "311694247824",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "称赞对方行动快，同时陈述自己下载缓慢的困境。"
+    },
+    {
+      "id": "p0ubx0q",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供提交链接并说明需启用中国托管模型选项。"
+    }
+  ]
+}

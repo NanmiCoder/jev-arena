@@ -1,0 +1,798 @@
+{
+  "items": [
+    {
+      "id": "2083753351020413224",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "以终于学会走路讽刺此前速度慢。"
+    },
+    {
+      "id": "6a6c9f97000000002a0319ad",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问生成图片所用工具。"
+    },
+    {
+      "id": "311769293504",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以美股护盘手调侃DeepSeek的市场影响。"
+    },
+    {
+      "id": "p134gt1",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "usability",
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "反对测试结论，强调配置公平性及基准范围。"
+    },
+    {
+      "id": "6a6e09410000000015015088",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "惊讶询问右侧测试费用，未明确批评价格。"
+    },
+    {
+      "id": "311748891632",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明官方兑换比例及Plus额度不重置。"
+    },
+    {
+      "id": "6a6e26cb000000002902e283",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "抱怨优化无效且破坏代码，称Codex效果明显。"
+    },
+    {
+      "id": "7669288747230020390",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "用左右手拷打市场与科技的比喻调侃影响力。"
+    },
+    {
+      "id": "2083359039862268248",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.6,
+      "reason": "称每百万token八美分低得难以置信。"
+    },
+    {
+      "id": "311716333856",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明无需登录，但缺失上下文使具体对象不明。"
+    },
+    {
+      "id": "311647501712",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "疑问式推测免费版是低智预览版。"
+    },
+    {
+      "id": "311727104624",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议直接复制官网命令切换。"
+    },
+    {
+      "id": "7668900634233897786",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.7,
+      "reason": "认可Flash竞争力与低价，并看好Pro正式版。"
+    },
+    {
+      "id": "311895541152",
+      "r": [],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅表示赞同，缺失被赞同内容，相关性无法判断。"
+    },
+    {
+      "id": "6a6f1a9f000000002a02f4ad",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "建议等待可能更好更小的模型。"
+    },
+    {
+      "id": "6a6e983c0000000015005e08",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "对第一张图发笑，无法确定是否评价模型。"
+    },
+    {
+      "id": "311759331936",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "期待",
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "列举两模型计费倍率，期待竞争表现。"
+    },
+    {
+      "id": "7669048396125340450",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "以鞭子比喻梁文峰推动行业竞争。"
+    },
+    {
+      "id": "311878116960",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "performance",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "反对等同各模型的慢，批评Luna慢且无成果。"
+    },
+    {
+      "id": "308554496369",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用不要妨碍AGI训练的图片式表达玩梗。"
+    },
+    {
+      "id": "311777894496",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "反对崇拜AI的说法，并贬低DS写作质量。"
+    },
+    {
+      "id": "311641112640",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "quality"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议写小说搭配技能、向量模型和框架。"
+    },
+    {
+      "id": "7668944777442951985",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "capability",
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述K3能力更强但价格高出几十倍。"
+    },
+    {
+      "id": "308399920033",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称赞猫形象可爱，未评价AI模型或使用。"
+    },
+    {
+      "id": "308562250577",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement",
+        "praise"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "以搞笑反驳隐含观点，明确称组合非常好用。"
+    },
+    {
+      "id": "7668904623201846031",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "抱怨配置麻烦且配置后无法使用。"
+    },
+    {
+      "id": "308356056113",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "报告思维链仍是Let me，是否不满尚不明确。"
+    },
+    {
+      "id": "7669088096511591206",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测刷新了网页token而未升级客户端。"
+    },
+    {
+      "id": "2083090689555046732",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "明确称赞模型基准测试成绩出色。"
+    },
+    {
+      "id": "308395897025",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "指出图形类题目是DeepSeek弱项。"
+    },
+    {
+      "id": "6a6df1b0000000002b0251d8",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "建议使用Playwright MCP获取元素属性。"
+    },
+    {
+      "id": "6a6c4a9c0000000009017875",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "告知API已上线且可从官方直接使用。"
+    },
+    {
+      "id": "7669332252346827578",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "调侃量化收割及做差价，未直接讨论AI使用。"
+    },
+    {
+      "id": "7669008882525799183",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "实测许多任务一次通过，认可效果提升。"
+    },
+    {
+      "id": "7668901349035361083",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion",
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "期待Pro及识图上线，并表达替代GPT意愿。"
+    },
+    {
+      "id": "311768428608",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明为正式版，并推测直接路由API。"
+    },
+    {
+      "id": "308573737265",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "quality",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "提及轻微错别字，同时强烈肯定智力提升。"
+    },
+    {
+      "id": "308591939009",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "说明仅支持本地图而不支持直接截图粘贴。"
+    },
+    {
+      "id": "7669234888793834276",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合视频制作语境，陈述每分钟十元费用。"
+    },
+    {
+      "id": "7669344594743722762",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议自行配置MinerU工具。"
+    }
+  ]
+}

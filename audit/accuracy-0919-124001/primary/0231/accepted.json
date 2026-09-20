@@ -1,0 +1,798 @@
+{
+  "items": [
+    {
+      "id": "311685604464",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "文本是输出与审查要求，可能为AI提示词，未明确对象。"
+    },
+    {
+      "id": "311819376384",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "“同问”表示追问，但缺少所问内容，相关性不明。"
+    },
+    {
+      "id": "p18f0in",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance",
+        "usability",
+        "price"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "询问推理速度与实用性，同时称赞配置优雅。"
+    },
+    {
+      "id": "311792630368",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以“聋”和帝王征兆玩梗，未明确评价AI。"
+    },
+    {
+      "id": "p0v4639",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "trust",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "担忧",
+        "认可"
+      ],
+      "score": -0.2,
+      "reason": "质疑编程可信度，同时明确赞赏其他任务的性价比。"
+    },
+    {
+      "id": "7669037341524394789",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "担忧"
+      ],
+      "score": -0.1,
+      "reason": "谈论创始人人身处境，夸张调侃与真实担忧两可。"
+    },
+    {
+      "id": "311638657984",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "praise",
+        "question"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.5,
+      "reason": "反问突出Flash生成效果出乎意料，具体效果未给出。"
+    },
+    {
+      "id": "7669247371638194987",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "用“妙”和点赞明确认可模型搭配使用。"
+    },
+    {
+      "id": "311733431632",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测测试差异来自自有harness，未明确褒贬。"
+    },
+    {
+      "id": "311804154096",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "比较GPT订阅与免费Flash的上下文额度。"
+    },
+    {
+      "id": "p0yd3h1",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "结合标题询问旧版模型是否仍可使用。"
+    },
+    {
+      "id": "308601636721",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问AI最适合协助制作哪类内容。"
+    },
+    {
+      "id": "7669001387438539569",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "陈述GLM将在八月发布新模型。"
+    },
+    {
+      "id": "311816960592",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "明确表示Cursor用起来舒服。"
+    },
+    {
+      "id": "p0xs1my",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "解释专家缓存与显存对生成速度的影响。"
+    },
+    {
+      "id": "2083832366829801779",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "performance"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.7,
+      "reason": "分享一天内建库经验，并期待智能体速度提升。"
+    },
+    {
+      "id": "7669188712395670330",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "批评讲述不完整，可能针对视频也可能针对AI输出。"
+    },
+    {
+      "id": "308447842337",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "强调测试结论明显不错，带有纠正他人理解之意。"
+    },
+    {
+      "id": "311663375328",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "反问是否敢买表达疑虑，但购买对象缺失。"
+    },
+    {
+      "id": "308424551441",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "用“不是”纠正上线范围，说明仅API上线。"
+    },
+    {
+      "id": "311770184432",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称赞Flash预填充极快、速度丝滑。"
+    },
+    {
+      "id": "6a6ca4860000000029019706",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "质疑测试多数模型都能完成的标准任务有何意义。"
+    },
+    {
+      "id": "311731237408",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "认可能力与API成本，同时指出不支持多模态。"
+    },
+    {
+      "id": "p10w4yz",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "question"
+      ],
+      "a": [
+        "content",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "质疑帖子像宣传，评价对象是帖子而非模型使用。"
+    },
+    {
+      "id": "7669268666643202866",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "追问对方含义，并陈述DeepSeek与豆包结论一致。"
+    },
+    {
+      "id": "311908202640",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "mixed"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "performance"
+      ],
+      "e": [
+        "调侃",
+        "认可",
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "以十年老粉等夸张梗表达转粉，夹带对过往不满的戏谑。"
+    },
+    {
+      "id": "308472038177",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否不用spec，狗头不足以确定负面或玩梗主旨。"
+    },
+    {
+      "id": "308407910385",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.2,
+      "reason": "“摸摸”是互动安慰，缺乏AI评价内容。"
+    },
+    {
+      "id": "308472294817",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合部署标题分享内存容量和实际占用。"
+    },
+    {
+      "id": "308417071985",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "盛赞300B模型能力超预期，并对比多个竞品。"
+    },
+    {
+      "id": "308431184705",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "像围绕时间和虎鲸的谐音梗，具体模型指代不明。"
+    },
+    {
+      "id": "311934351616",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "承认新版略有改善，“才好了点”仍显保留。"
+    },
+    {
+      "id": "311747930528",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "reliability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "求助解决切换模型后历史对话消失的问题。"
+    },
+    {
+      "id": "308421619377",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.6,
+      "reason": "贬评Codex和CC，并建议改用Pi或omp。"
+    },
+    {
+      "id": "7668957589803991857",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出智谱和阿里采用套餐，使用场景存在差异。"
+    },
+    {
+      "id": "311725231072",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.4,
+      "reason": "以比较口吻炫耀每天获赠万元免费额度。"
+    },
+    {
+      "id": "311831948496",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正首字延迟的理解，指出需计入思考等待时间。"
+    },
+    {
+      "id": "7669039139090072354",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "agreement",
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": null,
+      "reason": "表面支持为全人类的行为，但“掏谁”所指与反讽不明。"
+    },
+    {
+      "id": "311651444512",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述三十万元内可支撑FP8企业部署。"
+    },
+    {
+      "id": "311737251088",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享相对Luna的token消耗，并说明套餐价格不确定。"
+    }
+  ]
+}

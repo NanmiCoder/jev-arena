@@ -1,0 +1,779 @@
+{
+  "items": [
+    {
+      "id": "308339380097",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "以英伟达股价反问对方，讨论DS市场影响。"
+    },
+    {
+      "id": "311854737424",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问API与网页版处理复杂物理问题的差异。"
+    },
+    {
+      "id": "311658559920",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "称生成问题不大，但生成对象及前文缺失。"
+    },
+    {
+      "id": "308575760673",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.8,
+      "reason": "夸张预期pro正式版将压倒其他模型。"
+    },
+    {
+      "id": "311929807488",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议寻找skill辅助使用，具体用途未说明。"
+    },
+    {
+      "id": "311663179728",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "投币支持创作者，未评价AI本身或使用。"
+    },
+    {
+      "id": "6a6edae7000000002a0305e1",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "joke"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "用拟人化措辞嫌Codex操作不爽快。"
+    },
+    {
+      "id": "308428699137",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否用过另一模型，未实际作比较。"
+    },
+    {
+      "id": "2083813983136747551",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "price",
+        "other"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "认可低成本对产品商业模式的重大影响。"
+    },
+    {
+      "id": "7668932588770018105",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "高度称赞同时明确指出缺乏视觉能力。"
+    },
+    {
+      "id": "308395915825",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "失望",
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "抱怨几个小问题就消耗一元且原因不明。"
+    },
+    {
+      "id": "308339528497",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "反讽股价上涨被说成下跌，未直接讨论AI。"
+    },
+    {
+      "id": "6a6df9d50000000015016e3d",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "称赞有创意，但无法确定指内容还是模型。"
+    },
+    {
+      "id": "311790573056",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "建议让Claude Code帮助调整设置。"
+    },
+    {
+      "id": "311644988128",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "presentation",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "承认模型差距，主要表达对提问方式的不适。"
+    },
+    {
+      "id": "7668945573277549370",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "表示已开始掺用，但对象不明且表情含义不定。"
+    },
+    {
+      "id": "17925687",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "performance",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "试用后明确称赞速度和能力。"
+    },
+    {
+      "id": "6a6c8ff3000000002a007dc7",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "拟人化调侃Kimi领先位置维持不久。"
+    },
+    {
+      "id": "311723387744",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "期待"
+      ],
+      "score": -0.1,
+      "reason": "以梁历调侃模型发布时间并等待pro。"
+    },
+    {
+      "id": "311770278080",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问增加硬件后能否达到特定推理速度。"
+    },
+    {
+      "id": "6a6d1d22000000002902c9f8",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测内部模型、变现及开源竞争策略。"
+    },
+    {
+      "id": "311765737552",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只有回复标记和表情，具体态度不可确定。"
+    },
+    {
+      "id": "7668958005266613011",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "报告自身一亿Token花费不足七元。"
+    },
+    {
+      "id": "7668977987806626618",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "认为GPT科研探索更强，并否定国内模型前景。"
+    },
+    {
+      "id": "p11c7gz",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述本地部署参数及调优前后的实测速度。"
+    },
+    {
+      "id": "308406082353",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "反对因模型执行明确删除命令而责骂它。"
+    },
+    {
+      "id": "311683639568",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "质疑某事的代表性，但所指对象缺失。"
+    },
+    {
+      "id": "308614414049",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问seasonix是什么，无法确定是否涉及AI。"
+    },
+    {
+      "id": "308570428513",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "content",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "结合标题以斗蛐蛐调侃并欢迎模型对战内容。"
+    },
+    {
+      "id": "6a6db5d400000000290348a7",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "预测竞品被DeepSeek追上后的竞争后果。"
+    },
+    {
+      "id": "p0v0btf",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅强烈感叹，对象及褒贬均不明确。"
+    },
+    {
+      "id": "7668879594510205750",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出测试时未开启Max思考模式。"
+    },
+    {
+      "id": "308443502001",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "描述接入API后持续连接异常并求恢复方法。"
+    },
+    {
+      "id": "7668821540208902922",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "请求提供实测所用提示词。"
+    },
+    {
+      "id": "308425091665",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "other"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": -0.2,
+      "reason": "认可Seedance领先能力，同时不满垄断局面。"
+    },
+    {
+      "id": "6a6d965e0000000009015218",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "performance",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "赞同模型速度与能力已足够日常办公。"
+    },
+    {
+      "id": "311864094032",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.3,
+      "reason": "夹带视频编号表达喜欢，具体对象无法确定。"
+    },
+    {
+      "id": "308424282641",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "报告自己的Plus账号使用稳定，产品未明。"
+    },
+    {
+      "id": "308360186401",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "明确判断flash正式版比当前pro更强。"
+    },
+    {
+      "id": "308410442481",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以狙击调侃创作者评测DeepSeek，未明确褒贬。"
+    }
+  ]
+}

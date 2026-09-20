@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "要被外网的一些评论笑死了😂😂😂",
+    "部署正式版DS-V4-Flash-0731成本真的不高!",
+    "I don't think Anthropic and OpenAI will survive",
+    "DeepSeek-V4-Flash-0731 is now over 2x faster than yesterday on Ollama's cloud!",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek V4 Flash 正式版发布 - 白菜价！超高性价比的编程模型",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "\"While DeepSeek V4-Flash is significantly cheaper on price per token, this can be misleading if the overall cost per task ends up being higher due to more turns being made. However, @ArtificialAnlys r",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Weights of Deepseek v4 flash 0731 have been released!!!",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "DeepSeek V4 Flash 正式版 一句话许愿MIDI音乐测试",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "世界上最慢的大模型你们猜是哪个？\n\n是的，正是我 699 买的Kimi K3，当了回大韭菜，Kimi 还营造了卖爆了的假象。\n\n下个月我再续费我就是狗🐶。\n\nDeepseek-V4-Flash-0731大家疯狂称赞，除了便宜，速度快也是很爽的，它现在比Grok 4.5都快多了！ https://t.co/eLR2oZVfZn",
+    "workbuddy接入Deepseek正式版！实战测评来了！ 我是了山海，花费2亿token，第一时间为大伙带来一手测评，本次使用workbuddy，接入deepseek v4 flash 的API，完整跑完项目流程，带大家感受deepseek正式版的优势与不足之处。\n#deepseek  #AI测评  #大模型测评  #workbuddy",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！"
+  ],
+  "comments": [
+    {
+      "id": "6a6d7afb0000000015009f55",
+      "t": 0,
+      "content": "工作日的9点到15点，梁哥自会努力，大家不用担心"
+    },
+    {
+      "id": "6a6ec93d000000000b03a31b",
+      "t": 1,
+      "content": "现在内存这么贵[失望R]还是直接用官方的api来的实惠"
+    },
+    {
+      "id": "p16j819",
+      "t": 2,
+      "content": "The essential thing to learn here is that a good quality agentic harness, prompts and memory systems have as much influence as the quality of the model. Hermes+DeepSeek v4 flash+good quality RAG memory/knowledge graph+good quality system prompt+good quality skills and skill routing+effective auxiliary model config = OP."
+    },
+    {
+      "id": "2083726852644843974",
+      "t": 3,
+      "content": "@ollama LET’S GOOOO"
+    },
+    {
+      "id": "308392809969",
+      "t": 4,
+      "content": "回复 @Nanren南仁 :Codex不用登录的呀"
+    },
+    {
+      "id": "7668893411772269361",
+      "t": 5,
+      "content": "梁圣不做多模态"
+    },
+    {
+      "id": "311846796384",
+      "t": 6,
+      "content": "V 4flash是不是不能识别图片。"
+    },
+    {
+      "id": "311710869040",
+      "t": 7,
+      "content": "好效率，点赞"
+    },
+    {
+      "id": "308451190593",
+      "t": 8,
+      "content": "回复 @SunsetSars :这个站是实时的，主要看智力波动情况"
+    },
+    {
+      "id": "311770470288",
+      "t": 9,
+      "content": "期待 DeepSeek V4 pro正式版"
+    },
+    {
+      "id": "308521499057",
+      "t": 10,
+      "content": "指令遵循变差了吗？预览版的flash指令遵循超强。"
+    },
+    {
+      "id": "311778188960",
+      "t": 8,
+      "content": "我拿reasonix跑了3个亿，强度不错"
+    },
+    {
+      "id": "p17awix",
+      "t": 11,
+      "content": "cherrypicking.\n\n1) chatgpt 5.6-luna max costs $0.04 per task\n\n2) luna max is much more intelligent than deepseek\n\n3) in real life scenarios cheaper dumber model will complete way less tasks in total, cost per task bench doesn't evaluate overall intelligence, so you risk having half of your take done wrong"
+    },
+    {
+      "id": "308585293201",
+      "t": 10,
+      "content": "评论里有说没有多模态是给其他模型留条活路。但没有多模态，就没法打通最终闭环。这个东西可以暂时不发布，但绝对不能没有。如果d4加上多模态将是绝杀。"
+    },
+    {
+      "id": "308383313425",
+      "t": 12,
+      "content": "博主flash模型没有设置【1m】"
+    },
+    {
+      "id": "308610633089",
+      "t": 10,
+      "content": "你这个使用量换别的模型就不是300了。。。"
+    },
+    {
+      "id": "311785374752",
+      "t": 13,
+      "content": "回复 @七月雪天- :就该两行配置的事，对话不会丢的"
+    },
+    {
+      "id": "7669053129510896442",
+      "t": 14,
+      "content": "感觉这个模型早就搞好了 每次新版本的发布时间都会让对面很难受 逼着对面跑 跑赢了没奖励 跑输了很快就会失去大部分全球市场 这可咋整啊 哈哈哈哈[捂脸]"
+    },
+    {
+      "id": "p0zacu2",
+      "t": 15,
+      "content": "The \"who reacted to whom\" debate is fun, but it kind of misses the point: a price cut is reversible, a weight release isn't. Once these weights are out, nobody can charge much above inference cost for that capability band ever again. That's a ratchet, not a news cycle.\n\nAnd it's landing on the tier that actually generates the token volume. Frontier evals are marketing; the money is in the boring high-throughput stuff — classification, extraction, routing, tool-calling loops, retries — where you burn billions of tokens and never needed 5.6-level reasoning in the first place. Commoditizing the \"flash\" tier hurts a lot more than losing the top of a benchmark chart.\n\nClosed labs' margin lives in the gap above the open frontier, and that gap keeps getting squeezed from below faster than it grows from above."
+    },
+    {
+      "id": "308507955617",
+      "t": 13,
+      "content": "回复 @温酒煮狮子头 :怎么会GPT的配额不透明呢？GPT 会员订阅后一个星期的配额是多少就是固定的啊"
+    },
+    {
+      "id": "7668902241763836730",
+      "t": 16,
+      "content": "对对对，你说的对[坏笑]"
+    },
+    {
+      "id": "308514948113",
+      "t": 10,
+      "content": "回复 @多重干哈呢拿 :不是，他们调用的方法一般就是直接改 Cursor 的页面，然后用 API 订阅，让你以为你是反代到 PRO，但是他们的 API 里面掺水了 你控制不了 你也查看不了什么模型，感觉很蠢"
+    },
+    {
+      "id": "2083092731891458512",
+      "t": 17,
+      "content": "@deepseek_ai wait deepseek-v4-flash beating the pro preview already is actually wild"
+    },
+    {
+      "id": "6a6d871b000000002a02ca59",
+      "t": 18,
+      "content": "梁是炒股高手"
+    },
+    {
+      "id": "6a6f29fe0000000004039ed8",
+      "t": 19,
+      "content": "很多的是越改越糟糕，改了后面前面的又漏了，再改就废了"
+    },
+    {
+      "id": "308389846977",
+      "t": 20,
+      "content": "跑完代码回来了，欲哭无泪，会犯错，人类犯的错它不犯，它犯的都是人类想不到的错。但不管怎么说比预览版的 flash 要强\n总之花了三块大洋，得到教训"
+    },
+    {
+      "id": "308502064401",
+      "t": 21,
+      "content": "Codex 用第三方 API，是不是不能调用 mcp？"
+    },
+    {
+      "id": "6a6decaa0000000015009878",
+      "t": 19,
+      "content": "那他擅长什么"
+    },
+    {
+      "id": "308484769153",
+      "t": 22,
+      "content": "vibemusic来了"
+    },
+    {
+      "id": "308494456913",
+      "t": 23,
+      "content": "吓哭了喵[卡拉彼丘收藏集_可恶][卡拉彼丘收藏集_可恶][卡拉彼丘收藏集_可恶]"
+    },
+    {
+      "id": "308476583809",
+      "t": 10,
+      "content": "deepseek有时候确实感觉话讲不明白，不像gpt一点就透"
+    },
+    {
+      "id": "2083901185761976347",
+      "t": 24,
+      "content": "@LinearUncle 这哪有可比性，一个2.8T激活104B的模型和一个285B激活13B的模型，两者体量直接相差10倍啊，你kimi3各种高端编程灵魂拷问都可以啊，我们耍耍ds 4 flash问问白痴问题随便打打下手小打小闹还可以的啊，你这是在高山俯视群峰撒。"
+    },
+    {
+      "id": "311662536784",
+      "t": 12,
+      "content": "我也用业务数据测了下，比qwen3.7 flash强，和qwen3.7 plus差不多"
+    },
+    {
+      "id": "7669370521298355002",
+      "t": 25,
+      "content": "本着客观公正的原则，我不能说稳压的。体感上每个人感觉不同，我感觉DS更好一些"
+    },
+    {
+      "id": "311714513776",
+      "t": 26,
+      "content": "回复 @我是你哥纳尼 :有作用和泡沫破了有影响吗？"
+    },
+    {
+      "id": "308484097329",
+      "t": 8,
+      "content": "想知道网页版什么时候更新"
+    },
+    {
+      "id": "311763966128",
+      "t": 7,
+      "content": "快更新， 包好用。"
+    },
+    {
+      "id": "2083153157837004991",
+      "t": 17,
+      "content": "@deepseek_ai 如果V4ProGA能达到Fable的水平，那他就是梁神 https://t.co/wwbMrPOnJ7"
+    },
+    {
+      "id": "311716714784",
+      "t": 8,
+      "content": "回复 @洛伊德33 :没看见，"
+    },
+    {
+      "id": "311772600752",
+      "t": 10,
+      "content": "玩MC的时候遇到了模组冲突，拿DeepSeek修改了一下模组代码，成功运行，感觉还不错"
+    }
+  ]
+}

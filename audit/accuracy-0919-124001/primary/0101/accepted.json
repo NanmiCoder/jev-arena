@@ -1,0 +1,812 @@
+{
+  "items": [
+    {
+      "id": "311720073680",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "修正数值但单位与对象缺失，是否涉及模型不明。"
+    },
+    {
+      "id": "6a6d826c000000000403a136",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认可部署速度够用，并提供机器价格与购买建议。"
+    },
+    {
+      "id": "7668660395469767473",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "以“力大砖飞”批评Kimi依赖资源消耗换性能。"
+    },
+    {
+      "id": "6a6ed55a000000000403a5a7",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "请求分享部署步骤，“大佬”带轻微赞赏语气。"
+    },
+    {
+      "id": "308451829137",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只有“我”和表情，无法确定具体评价对象。"
+    },
+    {
+      "id": "308438736177",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "肯定单图读取，同时指出图片迅速占满上下文。"
+    },
+    {
+      "id": "308441433137",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": -0.3,
+      "reason": "肯定Flash相对能力，重点贬低GLM当前定价。"
+    },
+    {
+      "id": "308351928337",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "反驳无关论，强调数学家参与及工具能力的重要性。"
+    },
+    {
+      "id": "308408612609",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供视频所涉DeepSeek使用入口。"
+    },
+    {
+      "id": "311752882512",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "赞成开源透明性，并批评闭源黑箱及数据可信度。"
+    },
+    {
+      "id": "308446454001",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议在VSCode终端直接启动CC。"
+    },
+    {
+      "id": "311638766128",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问此前配置的模型是否需要重新设置。"
+    },
+    {
+      "id": "311698158752",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "报告接入后无法上传图片，并请求解决办法。"
+    },
+    {
+      "id": "6a6c54a1000000000802ea0f",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "称Flash已超过GLM5.2，带肯定语气。"
+    },
+    {
+      "id": "p11ngro",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "询问Flash与Pro分级，认可Pro但指出自动模式限制。"
+    },
+    {
+      "id": "311780182336",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明Pro留用标准及修复问题所需轮次的差别。"
+    },
+    {
+      "id": "7669077575613252411",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "分享先规划再由Flash执行的流程，认可实际效果。"
+    },
+    {
+      "id": "311715184944",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "总结使用经验，建议不要限制模型思考预算。"
+    },
+    {
+      "id": "308589554481",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "补充或纠正预览版后训练所用硬件信息。"
+    },
+    {
+      "id": "7668839689097806628",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "因已使用V4两个月而询问正式版发布时间。"
+    },
+    {
+      "id": "p121u12",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问现有显存与内存配置能否运行模型。"
+    },
+    {
+      "id": "6a6cd8f20000000015006f4f",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "用转会宣言式玩梗表达选择并支持DeepSeek。"
+    },
+    {
+      "id": "7668937155838772006",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "调侃模型淘汰与“收割韭菜”，具体讽刺对象不明。"
+    },
+    {
+      "id": "6a6c92c7000000002b000428",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "报告专业代码实测优于Gemini各模型。"
+    },
+    {
+      "id": "7668642202332021542",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待",
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "肯定Flash表现，并预测Pro正式版超过Opus。"
+    },
+    {
+      "id": "7668980742147556133",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "performance",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "对比参数与算力，赞扬国产模型并调侃美国闭源AI。"
+    },
+    {
+      "id": "308615756033",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "反驳忽视DeepSeek压价贡献的立场，认可其作用。"
+    },
+    {
+      "id": "308406438465",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "明确表达对DeepSeek harness的期待。"
+    },
+    {
+      "id": "p11gdld",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "质疑对方不了解模型降价原因却要求别人相信。"
+    },
+    {
+      "id": "308462682513",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "惊喜",
+        "调侃"
+      ],
+      "score": 0.8,
+      "reason": "用外星科技夸张赞扬小参数模型击败K3。"
+    },
+    {
+      "id": "6a6d66eb000000002a026d91",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "强调能力比价格更重要，期待模型帮助实现想法。"
+    },
+    {
+      "id": "6a6d6844000000002a0336f9",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.3,
+      "reason": "轻蔑反问是否需要换算，但具体讨论对象缺失。"
+    },
+    {
+      "id": "311789012336",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "批评Flash与K3比较不公平，主张改用Pro。"
+    },
+    {
+      "id": "6a6eb6fc000000002b02ab01",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0.5,
+      "reason": "遗憾不支持多模态，同时强烈赞赏性价比。"
+    },
+    {
+      "id": "7668849597489431333",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "performance",
+        "capability"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "建议试用HY3，并转述性能与多模态能力提升。"
+    },
+    {
+      "id": "308461830321",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability",
+        "reliability",
+        "comparison",
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认可工作流效果和稳定性，也指出一句话生成偏弱。"
+    },
+    {
+      "id": "7668799298515550982",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "question"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "指出正式版刚上线，质疑已使用一个月的说法。"
+    },
+    {
+      "id": "308528769793",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "称六月版本已能解决该问题，10w具体单位不明。"
+    },
+    {
+      "id": "308420841313",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "澄清版本区别，并肯定Flash正式版指标超过Pro预览版。"
+    },
+    {
+      "id": "6a6caa0f000000000802d5e4",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅有评论删除提示，无法恢复原评论态度与内容。"
+    }
+  ]
+}

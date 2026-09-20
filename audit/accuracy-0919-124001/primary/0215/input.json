@@ -1,0 +1,236 @@
+{
+  "topics": [
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "Deepseek v4 flash 0731 abliterated?",
+    "DeepSeek V4 Flash 0731 IQ2_M benchmark for Dual 3060 and 96GB RAM ≈ 3.5 tok/s.",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "如何使用满血DeepSeek v4 flash正式版",
+    "Final. Deepseek V4 Flash 0731 @ 345.8 tok/s\n\nRecipe: https://t.co/853qbWehkS\n\n4x Blackwell 6000 Max Q\n\nCheated a little bit and used the coding prompt on lmx https://t.co/TWMj28mLfP",
+    "Deepseek v4 Flash 0731, blazingly quick and good w/ DSpark!",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "美国小哥实测DeepSeekV4Flash：花不到1美元，AI给他做了个GTA+射击游戏，这Flash怎么比pro还pro？",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "DeepSeek V4-Flash 0731 made previously working prompts fail.",
+    "deepseekV4Flash正式版上线并针对适配Codex",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "Hot Take - Open source Luna\n\nOpenAI had the ability to take back the market by releasing gpt-oss-120b v2 which is  better or on par with DeepSeek v4 Flash 0731 and is multimodal. @OpenAI @sama @ChatGP",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "Deepseek v4 flash 0731",
+    "DeepSeek-V4-Flash-0731 on Bosgame M5 with RTX PRO 6000 Max-Q eGPU",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "Deepseek V4-flash正式版实测",
+    "DeepSeek-V4-Flash-0731 is currently #2 on Hugging Face trending list, right behind Kimi-K3",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna"
+  ],
+  "comments": [
+    {
+      "id": "308478204993",
+      "t": 0,
+      "content": "其实这俩还真差不多，无论是aa榜还是deepswe 分数都接近，小活能干大活够呛"
+    },
+    {
+      "id": "7669010185311470362",
+      "t": 1,
+      "content": "本来就不是追求极致性能的"
+    },
+    {
+      "id": "p123nnx",
+      "t": 2,
+      "content": "[https://huggingface.co/apetersson/DeepSeek-V4-Flash-0731-Abliterated-FP8](https://huggingface.co/apetersson/DeepSeek-V4-Flash-0731-Abliterated-FP8)"
+    },
+    {
+      "id": "p13hn7z",
+      "t": 3,
+      "content": "I have 2x 3090 + 64GB DDR5 with a low-end AMD CPU from 8000 series.\n\nUD-Q2_K_X gives me around 100 tps prefill and gen is pretty stable at 15. A bit rough, but much better than I expected actually…"
+    },
+    {
+      "id": "311643424560",
+      "t": 4,
+      "content": "回复 @开元来的大大大姜禾 : 不是掉不掉格式,就是逻辑,文笔方面跟PRO还是差距很大"
+    },
+    {
+      "id": "311819760864",
+      "t": 0,
+      "content": "话说专武具体怎么样？我知道官方在搞这东西，不过具体是以什么形式运行的？CLI还是APP？ 用了之后会比现在的那些AGENG效果好吗？"
+    },
+    {
+      "id": "7668932564283654922",
+      "t": 5,
+      "content": "都是预览版的时候，falsh也不是全面弱的，经常比pro强。何况正式版进化这么多。"
+    },
+    {
+      "id": "6a6d79690000000005016368",
+      "t": 6,
+      "content": "接API可以破甲，聊天无内容限制，而且一般电脑上的chatbox类型的应用都能接入skills的，和codeagent功能类似"
+    },
+    {
+      "id": "2083679653575774241",
+      "t": 7,
+      "content": "Final. Deepseek V4 Flash 0731 @ 345.8 tok/s\n\nRecipe: https://t.co/853qbWehkS\n\n4x Blackwell 6000 Max Q\n\nCheated a little bit and used the coding prompt on lmx https://t.co/TWMj28mLfP"
+    },
+    {
+      "id": "7668921197380174598",
+      "t": 5,
+      "content": "关键是缓存便宜。你搞个互联网搜索任务试试，能贵的你喊梁叔爷爷"
+    },
+    {
+      "id": "p1238rf",
+      "t": 8,
+      "content": "Has anybody tried with DGX Spark yet?"
+    },
+    {
+      "id": "17927833",
+      "t": 9,
+      "content": "感觉 ds v4 也不错啊！ ops 的更好看"
+    },
+    {
+      "id": "311931415984",
+      "t": 10,
+      "content": "回复 @滑稽大野狼 : 我都怀疑梁圣对女人已经完全没兴趣了，[笑哭]只有前面的技术突破才能让他有反应"
+    },
+    {
+      "id": "308423224881",
+      "t": 11,
+      "content": "回复 @蜻蜓点水-涟漪无边 : 没涨价啊，现在觉得贵单纯是现在干活之后检查的多了，用的token多。涨价估计得等pro出了之后另外发通知"
+    },
+    {
+      "id": "311896030096",
+      "t": 12,
+      "content": "屎山论剑不仅仅是模型论剑，vibecoding软件本身也可以论[滑稽]，看看相同模型相同思考强度下哪个软件最拉"
+    },
+    {
+      "id": "308364321569",
+      "t": 4,
+      "content": "回复 @公子-薄凉 :针对Codex做适配了，官网有配置方式"
+    },
+    {
+      "id": "308517527873",
+      "t": 13,
+      "content": "可能因为pro还是预览版吧 但好像之前都是预览版的时候  也有人说flash更好用  说是八月初要放出pro的正式版 不知道会不会有王炸"
+    },
+    {
+      "id": "308523321489",
+      "t": 14,
+      "content": "酒馆是啥？怎么玩?"
+    },
+    {
+      "id": "311729741232",
+      "t": 15,
+      "content": "妈妈[26mygo的dlc表情包_天呐]"
+    },
+    {
+      "id": "308607342145",
+      "t": 12,
+      "content": "Glm现在突然提价，不是突然脑残，而应该是集中算力分配给下一个模型的开发"
+    },
+    {
+      "id": "311741051504",
+      "t": 10,
+      "content": "回复 @erfuuu : reasonix算了吧，就是个玩具，我的体验就是这玩意甚至比不了opencode，等官方自己的harness出了再说吧"
+    },
+    {
+      "id": "308463274785",
+      "t": 10,
+      "content": "回复 @糖了个炒栗子 :用中转就没有隐私可言了。你干了什么有什么结果人家一键拿走"
+    },
+    {
+      "id": "308476235169",
+      "t": 16,
+      "content": "[doge]龙神！"
+    },
+    {
+      "id": "p13x597",
+      "t": 17,
+      "content": "Yes, I can confirm that V4-Flash 0731 is more restrictive in NSFL scenarios. With the usual countermeasures and re-generating it's manageable, but extremely disappointing anyways. We have seen countless times that it doesn't stop there."
+    },
+    {
+      "id": "311624190464",
+      "t": 4,
+      "content": "回复 @端木青甫 :玩酒馆哪个强啊[doge]"
+    },
+    {
+      "id": "6a6eca71000000000802e245",
+      "t": 18,
+      "content": "网页版会上吗？后面会不会限制使用额度"
+    },
+    {
+      "id": "308380284753",
+      "t": 19,
+      "content": "前端要不还是用kimi吧，v4写后端"
+    },
+    {
+      "id": "311926604128",
+      "t": 10,
+      "content": "想弱弱问一句，正式版和预览版相比，语言能力有所提升吗？我主要是拿来玩酒馆的（不是很懂这些，请各位大佬能答疑解惑[给心心]）"
+    },
+    {
+      "id": "2083902396028084503",
+      "t": 20,
+      "content": "@TechMDAI @OpenAI @sama @ChatGPT @Blackwellboy @thatcofffeeguy True!\nHoping an open weights Grok could do this as well!\nAlso, Nemotron can’t be counted out here 🤩"
+    },
+    {
+      "id": "311729668496",
+      "t": 21,
+      "content": "说实话，如果同时还在用codex官方订阅的话，我觉得直接用deepseek给的官方脚本更好，不想用按3一键重置，而ccswitch经常出现莫名其妙的配置覆盖导致切换不生效"
+    },
+    {
+      "id": "311738505600",
+      "t": 10,
+      "content": "总体看还可以的"
+    },
+    {
+      "id": "6a6eaa710000000015001834",
+      "t": 22,
+      "content": "你要么直接把你的整个过程发出来，让我们看看你到底是如何描述你的需求的"
+    },
+    {
+      "id": "308523929377",
+      "t": 16,
+      "content": "在于内存通道少了，带宽低[doge_金箍]"
+    },
+    {
+      "id": "p18jc7q",
+      "t": 23,
+      "content": "thats some wild performance on that hardware. ive been lookin into how drafter acceptance rates hold up with these moes, did u notice any quality drop when runnin the lower quants compared to the full model, its litrally insane u got that working on a mobile setup..."
+    },
+    {
+      "id": "311782722080",
+      "t": 24,
+      "content": "试试reasonix，很不错，还剩token"
+    },
+    {
+      "id": "311888195776",
+      "t": 25,
+      "content": "回复 @瓜子海苔村长 :是的，不开刀ultra就行"
+    },
+    {
+      "id": "6a6dc02c000000002a007e19",
+      "t": 26,
+      "content": "codex本来就是开源的吧。切换模型不会封号吧"
+    },
+    {
+      "id": "p10biqp",
+      "t": 27,
+      "content": "How is it that k3 was downloaded 493K times and counting ?!? How does it happen that so many people have 1.5+TB available?!?\n\nEven counting redownloads etc ... 🤯"
+    },
+    {
+      "id": "311677343728",
+      "t": 28,
+      "content": "回复 @死亡爪皇帝陛下 :酒馆有些角色卡的命中率就是很低，看运气，看制作角色卡的人有没有优化这方面"
+    },
+    {
+      "id": "311674549584",
+      "t": 29,
+      "content": "回复 @程序员阿江-Relakkes :5.6花了多少"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "卧槽，DSv4-flash初步AA跑分50-51",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek真正可怕的，已经不只是Token便宜。\n\nArtificial Analysis最新数据显示，在同一套AI综合能力评测中：DeepSeek V4 Flash 0731的平均任务成本只有0.03美元，综合指数50。\n\nClaude Fable 5的平均任务成本则达到3.15美元，综合指数60。\n\n也就是说，DeepSeek用不到1%的成本，拿到了Fable约83%的综合能力。\n\n这里",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "DeepSeek V4 Flash 0731 out now!",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash and GPT 5.6 Luna tested really close on evals for our agentic workloads.\n\nBoth landed on the Pareto frontier at $0.003 – $0.006 per successful task.\n\n 12 model/provider lanes, 4 tool",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "What speeds are everyone getting with deepseek v4 flash 0731?",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Minimum VRAM GPU to run DeepSeek-V4-Flash-0731 Q4_K_XL  at around 30 t/s ?",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DSV4 Flash 正式版，Reddit 社区炸了",
+    "DeepSeek-V4-Flash-0731正式开源！",
+    "DeepSeek V4 Flash 正式版深度实测"
+  ],
+  "comments": [
+    {
+      "id": "311637364912",
+      "t": 0,
+      "content": "到不了，而且前端还是比较弱，毕竟只能靠编码硬算。不过打Glm 5.2还是没有问题的，基本上各方面都能超过。"
+    },
+    {
+      "id": "6a6ed772000000000b038dc2",
+      "t": 1,
+      "content": "我的意思是把DeepSeek的flash正式版接入codex里面使用能力表现会不会比reasonix，opencode这类agent更好"
+    },
+    {
+      "id": "311916564208",
+      "t": 2,
+      "content": "回复 @Minecraft唐天 : 不是有H3和flux3吗，字节现在挤牙膏，国家为保就业限制它视频模型的商业模式，你现在看到有sd2.5，实际上内部可能都到sd4了"
+    },
+    {
+      "id": "311760624000",
+      "t": 3,
+      "content": "毕竟别家还在做好模型上市发财的层次，梁圣已经在交易所随用随取好多年了，不在一个层次了。。。[微笑]"
+    },
+    {
+      "id": "6a6d60d3000000000802e769",
+      "t": 4,
+      "content": "DS在海外也很受欢迎，Token调用量在前三"
+    },
+    {
+      "id": "308599311841",
+      "t": 3,
+      "content": "【屎山论剑｜DeepSeekV4Flash：下一位！-哔哩哔哩】 https://b23.tv/kCtgWmk"
+    },
+    {
+      "id": "308375131153",
+      "t": 5,
+      "content": "当所有人都说小模型是一坨屎 参考M3 [doge_金箍]"
+    },
+    {
+      "id": "7668975892009648933",
+      "t": 6,
+      "content": "v4flash的Agent能力很强，远超v4pro，速度更强，唯一的缺点，复杂思考还是不如v4pro，"
+    },
+    {
+      "id": "7668666032194896692",
+      "t": 7,
+      "content": "应该没有多模态吧！"
+    },
+    {
+      "id": "2083857011503235312",
+      "t": 8,
+      "content": "@MaxForAI 成本差这么多，任务成功率还接近，这才是真降维打击"
+    },
+    {
+      "id": "311850312272",
+      "t": 3,
+      "content": "回复 @Oto_melara :不太行吧，我刚刚看flash和Pro好像都是单模态"
+    },
+    {
+      "id": "308405582417",
+      "t": 9,
+      "content": "也不能这么说，用api可以写刘备[滑稽]"
+    },
+    {
+      "id": "311638228912",
+      "t": 0,
+      "content": "你按官方的命令配置后，在GPT APP里选 xhigh或Max，对应的都是DS的Max推理程度"
+    },
+    {
+      "id": "7668824105345549113",
+      "t": 10,
+      "content": "我原来已经充值了DeepSeek的API,那他出了这个新版的，我还要另外充值吗？还是说直接用就可以了"
+    },
+    {
+      "id": "p0xbf53",
+      "t": 11,
+      "content": "Marvelous. Thanks for your work."
+    },
+    {
+      "id": "7669061159148061466",
+      "t": 6,
+      "content": "trae的模型库里有DeepSeek V4 预览版。"
+    },
+    {
+      "id": "311724059280",
+      "t": 12,
+      "content": "我去，活的up，快去更新"
+    },
+    {
+      "id": "311873133968",
+      "t": 3,
+      "content": "本末倒置，没有ds你梦里用的到便宜模型"
+    },
+    {
+      "id": "311799303776",
+      "t": 3,
+      "content": "预设要好,鲸鱼在这块的问题就是掉格式和口癖,要有一个好的预设杀一杀"
+    },
+    {
+      "id": "308439440273",
+      "t": 5,
+      "content": "回复 @景瑶晓 : 你的任务值得k3的价格吗？如果你只是用来玩玩，不是工作或有收益的项目，没必要用"
+    },
+    {
+      "id": "7669060132139467557",
+      "t": 6,
+      "content": "这么搞价格战！DeepSeek 一天至少亏损一个亿！！我觉得还是安市场价格来才对！有钱大家挣"
+    },
+    {
+      "id": "7668899672303420206",
+      "t": 6,
+      "content": "现在我感觉c c接ds模型已经不行了，我昨天晚上也花了一个亿测了一下，他接codex之后，那个跑脚本的纠错能力比在cc强了很多很多，我感觉他是对cdc进行了针对优化的，现在接cc已经不是最好的选择了"
+    },
+    {
+      "id": "311877817920",
+      "t": 13,
+      "content": "回复 @夜言1234 :不是发烧友和相关研究的本地自部署，性价比太低了，特别是现在这个硬件价格。"
+    },
+    {
+      "id": "2083333612406026517",
+      "t": 14,
+      "content": "DeepSeek V4 Flash and GPT 5.6 Luna tested really close on evals for our agentic workloads.\n\nBoth landed on the Pareto frontier at $0.003 – $0.006 per successful task.\n\n 12 model/provider lanes, 4 tool-use tests, 5 runs each. Judge-scored trajectory + outcome. Response quality within 3 points of each other."
+    },
+    {
+      "id": "311797970624",
+      "t": 15,
+      "content": "回复 @郭达斯坦圣僧 :不会找你。是禁止它们提供服务，不是禁止你访问"
+    },
+    {
+      "id": "308471506529",
+      "t": 16,
+      "content": "回复 @甜渣硫酸銅 : 输出挺快，就是想得有点久。效率再提升一点就更好"
+    },
+    {
+      "id": "7669004983907746601",
+      "t": 6,
+      "content": "已试过 非常强"
+    },
+    {
+      "id": "p109wge",
+      "t": 17,
+      "content": "Pretty similar. 200tps pp, 10tps tg on dual e5-2690v3s with ddr4-2133 and a 3090 running unsloth q8 at 262k context"
+    },
+    {
+      "id": "308475469249",
+      "t": 3,
+      "content": "我也有plus订阅啊，真会有人订阅gptplus用luna吗[星星眼]"
+    },
+    {
+      "id": "311722060896",
+      "t": 18,
+      "content": "我喜欢你[星星眼][星星眼]"
+    },
+    {
+      "id": "p0xslyy",
+      "t": 19,
+      "content": "It is around 160GB in size so there is your floor.  If you hit the CPU it is going to be slow with 13B individual experts.  You need space for context so probably 180 to 200GB of VRAM."
+    },
+    {
+      "id": "308458924865",
+      "t": 20,
+      "content": "DeepSeek v4 flash vs GPT5.6 luna，up斗这两个模型的时候，记得把最终的费用也公布出来，大家也关心这个[打call]"
+    },
+    {
+      "id": "6a6e9dfb000000002b00310b",
+      "t": 21,
+      "content": "前两天还想订阅，结果死活不行，国外的卡也不行[捂脸R]"
+    },
+    {
+      "id": "308525075025",
+      "t": 3,
+      "content": "就是vscode里的终端"
+    },
+    {
+      "id": "308615350385",
+      "t": 3,
+      "content": "想象一下，你以前能用一个人的力量做出一个微信吗？\n\n不能，但是现在完全可以。\n\n我现在手搓微信没有难度，前后端加一起都没难度，就是要用时间堆砌出来，技术难度基本没有。\n\n不只是微信，只要是数字世界的产物，非3d类的（也可以3d，但要耗费更多学习成本，完全自动化迟早的事），也就是在数字世界，你的能力是max的。\n\n现在可以手搓微信以后就能手搓游戏再手搓3d动漫，不需要团队，只需要庞大的算力和你一个人。"
+    },
+    {
+      "id": "7669066484399817514",
+      "t": 6,
+      "content": "有军人警卫，几十人[呲牙]"
+    },
+    {
+      "id": "7668973615513895739",
+      "t": 6,
+      "content": "那可不是鞭子，是拿着刀追着砍，掉入斩杀线，很有可能真就噶了"
+    },
+    {
+      "id": "6a6e1a3d000000002a025017",
+      "t": 22,
+      "content": "用dspark老error有懂的吗"
+    },
+    {
+      "id": "7668750865058939667",
+      "t": 7,
+      "content": "加一个就行了 mcp"
+    },
+    {
+      "id": "311641250992",
+      "t": 23,
+      "content": "ai本来就不适合主导文字创作"
+    }
+  ]
+}

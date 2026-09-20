@@ -1,0 +1,809 @@
+{
+  "items": [
+    {
+      "id": "6a6e1a55000000000802de6a",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement",
+        "praise"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.8,
+      "reason": "支持使用国产模型，并表达对中国AI的信心。"
+    },
+    {
+      "id": "308617541777",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.2,
+      "reason": "称各模型最高档均有问题，但未说明问题及严重度。"
+    },
+    {
+      "id": "7668942653572776744",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "赞叹稀疏注意力技术带来的成本竞争优势。"
+    },
+    {
+      "id": "p14iljd",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "reliability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清API别名对应权重会变，提醒评测基线不可直接比较。"
+    },
+    {
+      "id": "7668802328418157322",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问OCR与无文字图片识别的能力边界。"
+    },
+    {
+      "id": "311903895920",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正已经涨价的说法，指出此前只是未来可能涨价。"
+    },
+    {
+      "id": "p12lwpj",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "分享低成本完成逆向任务的经历，并对比另一模型失败。"
+    },
+    {
+      "id": "308620246657",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出API与订阅价格混用，补充更低的订阅成本。"
+    },
+    {
+      "id": "6a6e41af000000001500831b",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "提及已有kun runtime并带玩梗表情，具体指代不明。"
+    },
+    {
+      "id": "6a6e2595000000000500b91e",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.5,
+      "reason": "认可集中资金做大版本的策略，但标题未明确主体。"
+    },
+    {
+      "id": "311804224656",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.4,
+      "reason": "认为所谈方案即使不重置也明显便宜于DS API。"
+    },
+    {
+      "id": "7668926114920874811",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "price",
+        "service",
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "抱怨额度消耗与费用，计划分配不同模型降低成本。"
+    },
+    {
+      "id": "6a6ce602000000000501422f",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以已有识图能力说明并非不做，具体所指方向略有缺失。"
+    },
+    {
+      "id": "2083732492696138002",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认同近乎免费的成本是转折点，认为本地部署值得投入。"
+    },
+    {
+      "id": "311874356608",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "用亏本重置与债务对比质疑成本竞争的可持续性。"
+    },
+    {
+      "id": "7668659391252415270",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "惊喜",
+        "调侃"
+      ],
+      "score": 0.8,
+      "reason": "以粗俗反转玩梗表达模型表现超出原先低预期。"
+    },
+    {
+      "id": "p0zvi0l",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "询问Flash是否超过Pro，并质疑产品定位。"
+    },
+    {
+      "id": "6a6e196a000000000b03bd12",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "批评前端和排版效果，并调侃缺乏多模态的限制。"
+    },
+    {
+      "id": "308500724929",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "为节省用量，询问两款模型各自适用场景。"
+    },
+    {
+      "id": "308344103009",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "带嘲讽语气说被逗笑，缺少明确评价对象。"
+    },
+    {
+      "id": "311872567840",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅对他人说感觉相像，缺失比较对象与AI关联。"
+    },
+    {
+      "id": "308420458561",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "围绕梁叔玩梗，是否暗指产品竞争无法确定。"
+    },
+    {
+      "id": "311745888480",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "解释API与Agent的优势，同时明确指出付费缺点。"
+    },
+    {
+      "id": "6a6dcfca00000000140386a8",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "陈述价格便宜百倍，但标题与评论均未明确产品对象。"
+    },
+    {
+      "id": "311662046752",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问与其他模型相比的编程能力。"
+    },
+    {
+      "id": "p0z91xs",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问正式版是否已在网页聊天端提供。"
+    },
+    {
+      "id": "p18idts",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "表达对该本地配置预填充速度的了解意愿。"
+    },
+    {
+      "id": "311739238032",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.2,
+      "reason": "让对方自行搜索学习F2C，语气生硬且术语指代不明。"
+    },
+    {
+      "id": "7668976053055095606",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "因不支持多模态而评价模型总差点意思。"
+    },
+    {
+      "id": "6a6cccb80000000015010061",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "讨论中英文数字单位的表达习惯，未评价AI使用。"
+    },
+    {
+      "id": "p11bk6f",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "预测数周内单机可运行达到GPT对应水平的模型。"
+    },
+    {
+      "id": "2083410169837314311",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问旧款Mac能否运行模型及其生成速度。"
+    },
+    {
+      "id": "308538829169",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问账号名称，未提供与AI产品有关的内容。"
+    },
+    {
+      "id": "308523802145",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "反对成本比较结论，以免费渠道强调V4F价格优势。"
+    },
+    {
+      "id": "6a6d2987000000002a027ac8",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "纠正版本混淆，区分此前预览版与当前正式版。"
+    },
+    {
+      "id": "311850514240",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "询问音乐生成功能是什么，并明确表达兴趣。"
+    },
+    {
+      "id": "311742651872",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "认为5.5效果常不如V4P，且额度消耗快、产出少。"
+    },
+    {
+      "id": "7668944263318012678",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问DS能否匹敌Solmax，并详细补充订阅用量经历。"
+    },
+    {
+      "id": "311685913056",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "correction"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "以猫娘和小肥鱼玩梗，说明模型拟人形象的变化。"
+    },
+    {
+      "id": "308570499249",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "告知OpenCode已无法使用DS，未表达明显褒贬。"
+    }
+  ]
+}

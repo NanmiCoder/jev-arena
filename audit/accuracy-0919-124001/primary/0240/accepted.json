@@ -1,0 +1,796 @@
+{
+  "items": [
+    {
+      "id": "308440272785",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "批评模型能力和性价比不及Luna。"
+    },
+    {
+      "id": "308468469889",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "用参数量不同纠正仅属后训练的说法。"
+    },
+    {
+      "id": "7669093088099435274",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "调侃提示词输入费力，是否实质批评有歧义。"
+    },
+    {
+      "id": "308504725569",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.7,
+      "reason": "抱怨围绕DeepSeek的嘲讽和舆论环境。"
+    },
+    {
+      "id": "6a6db27e00000000150126ce",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "service"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": 0,
+      "reason": "说明订阅切换顾虑及并行使用终端的经验。"
+    },
+    {
+      "id": "311870934192",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "强烈贬低推荐模型，认为其他工具都更强。"
+    },
+    {
+      "id": "308407992929",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "反驳对分数的理解，是否指AI评测仍有歧义。"
+    },
+    {
+      "id": "308368726017",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享输出长度设置及写作使用经验。"
+    },
+    {
+      "id": "311652012432",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅邀约联系提供工作，未涉及AI。"
+    },
+    {
+      "id": "p10gdf9",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "追问缓存成本、Token消耗及运行框架。"
+    },
+    {
+      "id": "311780706656",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "列出两个模型，像推荐但缺少上下文。"
+    },
+    {
+      "id": "311737758816",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "认为生成效果与Code Buddy相当。"
+    },
+    {
+      "id": "311849685216",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": 0,
+      "reason": "建议慎重选择计算机行业，未讨论AI使用。"
+    },
+    {
+      "id": "311636313696",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认可K3性能及付费价值，并贬低竞品。"
+    },
+    {
+      "id": "7669085733193417521",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "根据既往接入经验质疑模型发布时间。"
+    },
+    {
+      "id": "311898855616",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议按有无官方CLI选择运行环境。"
+    },
+    {
+      "id": "7669148765487792945",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明Flash和Pro所处版本及发布时间。"
+    },
+    {
+      "id": "6a6df4c200000000150071da",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "将现象概括为AI性价比竞争。"
+    },
+    {
+      "id": "308425127009",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "批评文本模型操作电脑效果差且耗Token。"
+    },
+    {
+      "id": "311891360320",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "高度认可简单任务表现，也指出复杂逻辑不足。"
+    },
+    {
+      "id": "6a6d88fa000000002a005ef2",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "陈述网页模式功能限制，也可能是在抱怨。"
+    },
+    {
+      "id": "311752562400",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "仅分享同事对社区的称呼，未评价AI使用。"
+    },
+    {
+      "id": "308415650385",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问思维链语言变化并提及思考强度设置。"
+    },
+    {
+      "id": "6a6d4cc50000000015002a0f",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "贬低对方换算能力，与AI使用关联较弱。"
+    },
+    {
+      "id": "7669127982728086315",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "service"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "指出GPT变慢，同时认为Pro额度充足。"
+    },
+    {
+      "id": "311724264400",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "指出缺乏多模态对游戏美术需求构成痛点。"
+    },
+    {
+      "id": "7668981245301424945",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "reliability",
+        "quality",
+        "trust"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "强调跨境服务稳定性问题并反对所称痛点。"
+    },
+    {
+      "id": "p10j867",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问购买模型额度最便宜且合适的渠道。"
+    },
+    {
+      "id": "p14n3xm",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享工具调用支持和模型模板更新信息。"
+    },
+    {
+      "id": "7668920496918184741",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "夸赞梁文峰的冲击力，是否评价模型有歧义。"
+    },
+    {
+      "id": "311699954400",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.3,
+      "reason": "询问记忆整理导致空闲耗Token的问题是否仍在。"
+    },
+    {
+      "id": "311732879328",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "仅辱骂对方，未含AI相关讨论。"
+    },
+    {
+      "id": "6a6ee9fc000000002b025c67",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "performance",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享多卡推理速度并推测双卡运行能力。"
+    },
+    {
+      "id": "311771601472",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "愤怒",
+        "质疑"
+      ],
+      "score": -0.8,
+      "reason": "强烈反对中转站与正规渠道直接比较价格。"
+    },
+    {
+      "id": "6a6d58db0000000015008b7a",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出缓存失效并推荐桥接工具。"
+    },
+    {
+      "id": "p0ut93b",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "调侃版本命名，并明确期待开放权重。"
+    },
+    {
+      "id": "308544742177",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "用烧Token表达对消耗量的不满。"
+    },
+    {
+      "id": "308526775169",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "表示之后研究，标题可补对象但指代不明确。"
+    },
+    {
+      "id": "311698994512",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议开启max设置后再评测。"
+    },
+    {
+      "id": "311857368528",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "以反问讽刺对方认为API适配徒劳的说法。"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "DeepSeek-V4-Flash-0731 is now over 2x faster than yesterday on Ollama's cloud!",
+    "deepseek-v4-flash-0731 自画像",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Unpopular opinion, Deepseek V4 Flash is not Good",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "Deepseek v4 flash 0731",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "오 드디어 DeepSeek-V4-Flash 공식 API 퍼블릭 베타가 공개되었습니다!\n\n이번에 deepseek_ai 발표를 보면\nAgent 능력이 대폭 업그레이드되었다고 하는데\n벤치마크 점수부터 기존 V4-Pro-Preview를\n크게 넘어서는 엄청난 성능 향상을 보여주고 있습니다.\n\nPro 프리뷰 버전보다 Flash의 Agent 성적이\n훨씬 더 높게 나온다",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "部署正式版DS-V4-Flash-0731成本真的不高!",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek v4 flash正式版测试，效果出乎意料~ #deepseek",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 Flash深度评测：实测排名前五，国产大模型的史诗级翻身之作！",
+    "震撼美味！DeepSeek-V4-Falsh正式版",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "这条视频里的人是我，但我根本没拍，也没剪。 DeepseekV4Flash正式版自主做视频能力实测。我只输入了一段提示词，DeepSeek V4 Flash 就自己找案例、写内容，再用 AI 数字人做完了整条视频。现在的 AI 做视频，这已经是基础操作了。#AI新星计划  #AI做视频 #DeepSeekV4 #AI数字人"
+  ],
+  "comments": [
+    {
+      "id": "2083753351020413224",
+      "t": 0,
+      "content": "@ollama So it finally learned to walk?"
+    },
+    {
+      "id": "6a6c9f97000000002a0319ad",
+      "t": 1,
+      "content": "用什么生图的？"
+    },
+    {
+      "id": "311769293504",
+      "t": 2,
+      "content": "回复 @木对树说 :deepseek可是美国ai股最大的护盘手[doge]"
+    },
+    {
+      "id": "p134gt1",
+      "t": 3,
+      "content": "You haven't tested it enough. \n\nMake sure you're doing like for like harness testing also. You can't just compare a random setup versus Claude code which is a sophisticated harness tuned with the model. If you tune the harness a bit more with DS4 you might get better results.\n\nI'm sure there are gaps anyway between Opus and Flash, Opus should be a much bigger model. These benchmarks cover agentic usecases not breadth of knowledge."
+    },
+    {
+      "id": "6a6e09410000000015015088",
+      "t": 4,
+      "content": "右边花了一百块？？？"
+    },
+    {
+      "id": "311748891632",
+      "t": 5,
+      "content": "回复 @QuantumQuasar :官方1:16，因为plus不重置，20美元换360"
+    },
+    {
+      "id": "6a6e26cb000000002902e283",
+      "t": 6,
+      "content": "一样的，让它优化代码的计算效率，它一通操作猛如虎，给我整了一堆屎山代码，把我原本的代码搞得乱七八糟，结果实测一点变化都没有。同样的需求，换Codex立杆见影。"
+    },
+    {
+      "id": "7669288747230020390",
+      "t": 7,
+      "content": "左手幻方量化，右手deepseek，左手拷打美股市场，右手拷打ai科技[捂脸]"
+    },
+    {
+      "id": "2083359039862268248",
+      "t": 8,
+      "content": "@0xCrocy btw the pricing sits at just eight cents per million tokens which feels unreal"
+    },
+    {
+      "id": "311716333856",
+      "t": 9,
+      "content": "回复 @唯一的233 :不需要登录"
+    },
+    {
+      "id": "311647501712",
+      "t": 10,
+      "content": "free就是预览低智版吧"
+    },
+    {
+      "id": "311727104624",
+      "t": 9,
+      "content": "不用 ccs，去官网复制命令直接切"
+    },
+    {
+      "id": "7668900634233897786",
+      "t": 7,
+      "content": "v4flash正式版虽然还不如肥波5，gpt5.6soul，但对轰glm5.2没问题，更何况还是这价格，之前pro正式版灰测过，曾一度被怀疑路由到了肥波5，可见效果，加上超低价格，pro正式版搞个大新闻的条件够了。"
+    },
+    {
+      "id": "311895541152",
+      "t": 11,
+      "content": "回复 @芥末红茶 :确实"
+    },
+    {
+      "id": "6a6f1a9f000000002a02f4ad",
+      "t": 12,
+      "content": "没事，再等等，后面有可能有更好的更小的[笑哭R]"
+    },
+    {
+      "id": "6a6e983c0000000015005e08",
+      "t": 13,
+      "content": "第一个图绷不住了"
+    },
+    {
+      "id": "311759331936",
+      "t": 14,
+      "content": "在qoder上跟非优惠时间的0.05x的Qwen3.8-Max-Preview，和0.1x的正式版ds v4 flash，有戏看了[doge]"
+    },
+    {
+      "id": "7669048396125340450",
+      "t": 7,
+      "content": "梁圣现在就是鞭子，谁慢了就抽谁一下[看]"
+    },
+    {
+      "id": "311878116960",
+      "t": 15,
+      "content": "回复 @自然风干 :那还是不太一样，SOL和K3还有O5的慢是真的能出东西，这露娜的慢是真的不出啥东西的。[笑哭][笑哭]"
+    },
+    {
+      "id": "308554496369",
+      "t": 16,
+      "content": "不要妨碍AGI训练.jpg"
+    },
+    {
+      "id": "311777894496",
+      "t": 17,
+      "content": "回复 @Multimedia文学编辑社 :呃呃呃，一个ai也能用出“崇拜”两个字，真有你的[翻白眼]\n那我这种说ds写的文就是一坨的人是不是鲸鱼恨啊[蹲蹲][给心心]"
+    },
+    {
+      "id": "311641112640",
+      "t": 2,
+      "content": "写小说要用专门的skills和向量模型 列出框架  不然都写不好"
+    },
+    {
+      "id": "7668944777442951985",
+      "t": 18,
+      "content": "当然是K3更厉害一点。但是它的价格是ds的几十倍啊"
+    },
+    {
+      "id": "308399920033",
+      "t": 16,
+      "content": "这小猫真可爱呀[给心心]"
+    },
+    {
+      "id": "308562250577",
+      "t": 17,
+      "content": "搞笑，ds + claude code/pi 好用的飞起"
+    },
+    {
+      "id": "7668904623201846031",
+      "t": 19,
+      "content": "对，但是我配置了一下无法使用，有些配置麻烦[杀马特]"
+    },
+    {
+      "id": "308356056113",
+      "t": 10,
+      "content": "但是我的Flash思维链还全是Let me"
+    },
+    {
+      "id": "7669088096511591206",
+      "t": 7,
+      "content": "应该是刷了一下网页token，没用升级客户的。"
+    },
+    {
+      "id": "2083090689555046732",
+      "t": 20,
+      "content": "@deepseek_ai superb benchmark numbers right there 🫡"
+    },
+    {
+      "id": "308395897025",
+      "t": 21,
+      "content": "里面有一些题是关于图形的，这方面deep seek是弱项呀"
+    },
+    {
+      "id": "6a6df1b0000000002b0251d8",
+      "t": 6,
+      "content": "用 Playwright MCP 啊？Playwright 可以直接选择到当前的元素，然后得到当前元素的计算后的各种属性，颜色这种不是分分钟的事情。"
+    },
+    {
+      "id": "6a6c4a9c0000000009017875",
+      "t": 22,
+      "content": "API已经上线了，现在官方就可以直接蹬！"
+    },
+    {
+      "id": "7669332252346827578",
+      "t": 7,
+      "content": "粱砸是谁啊，量化收割机器，跟他比做差价，各位还太嫩了[看]"
+    },
+    {
+      "id": "7669008882525799183",
+      "t": 18,
+      "content": "测试过了 确实好很多。很多任务一次过。之前反复改"
+    },
+    {
+      "id": "7668901349035361083",
+      "t": 7,
+      "content": "pro什么时候端上来，识图什么时候端上来reasonix+deepseekv4  pro正式版+识图[舔屏]。都有了我就不用gpt了"
+    },
+    {
+      "id": "311768428608",
+      "t": 17,
+      "content": "回复 @DoueenCharacter :是正式版的，ds flash应该是直接路由的API的"
+    },
+    {
+      "id": "308573737265",
+      "t": 15,
+      "content": "v4 flash正式版很微妙地出现了（非常轻微的）错别字的情况，但智力这一块实在是赢太多了[打call]"
+    },
+    {
+      "id": "308591939009",
+      "t": 23,
+      "content": "只能识别存在本地的图，无法识别直接截图贴图的"
+    },
+    {
+      "id": "7669234888793834276",
+      "t": 24,
+      "content": "1分钟10米"
+    },
+    {
+      "id": "7669344594743722762",
+      "t": 24,
+      "content": "你自己配个mineru啊"
+    }
+  ]
+}

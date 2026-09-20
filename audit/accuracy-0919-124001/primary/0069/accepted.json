@@ -1,0 +1,818 @@
+{
+  "items": [
+    {
+      "id": "311785502480",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享三种接口格式的测试经验，称稳定性略有差别。"
+    },
+    {
+      "id": "311827649856",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "高度认可DS的低价与性价比竞争优势。"
+    },
+    {
+      "id": "311757151344",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.6,
+      "reason": "用夸张语气肯定DS价格足以长期使用。"
+    },
+    {
+      "id": "311744036848",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "嘲弄对方拼写错误，未见具体AI讨论对象。"
+    },
+    {
+      "id": "308446024065",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0.3,
+      "reason": "反对正式版与预览版无区别，认定能力有提升。"
+    },
+    {
+      "id": "p157rzg",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "称低位量化损失很小，并建议进行切换。"
+    },
+    {
+      "id": "308539999297",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以专武和二游化类比AI，主要是在玩梗。"
+    },
+    {
+      "id": "308384517313",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "表达对浏览器调试支持的不确定及条件性肯定。"
+    },
+    {
+      "id": "308428174625",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨Codex在Windows端难用，指出WSL2例外。"
+    },
+    {
+      "id": "311852304848",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "肯定降价提效，同时反驳并责问指责割用户者。"
+    },
+    {
+      "id": "6a6d8148000000002203fb93",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "判断画面由AI套用既有构图，是否贬斥略有歧义。"
+    },
+    {
+      "id": "6a6d955b000000002902d357",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "抱怨DS基础版难用且输出不说人话。"
+    },
+    {
+      "id": "7668877261165249314",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "强烈抱怨GLM价格高且额度低。"
+    },
+    {
+      "id": "7668889973450818341",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释自身缓存率低源于让Flash处理杂活。"
+    },
+    {
+      "id": "6a6c8a740000000005008ce9",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "performance",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "点赞称快，可能指响应速度或接入更新速度。"
+    },
+    {
+      "id": "p12e5q3",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "other"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "赞赏DeepSeek原创研究，同时嘲讽美国AI商业模式。"
+    },
+    {
+      "id": "6a6d84430000000015005274",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问此次Flash是否是此前上市后的新版。"
+    },
+    {
+      "id": "7668939647217255187",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待",
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "预期Pro推出后能力无敌，表达强烈看好。"
+    },
+    {
+      "id": "7668925457170432804",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问幻觉问题，未直接断言表现差。"
+    },
+    {
+      "id": "7669363301805458235",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以去A股拿钱玩梗，未明确讨论AI使用。"
+    },
+    {
+      "id": "311866573104",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "肯定现有模型执行能力，指出Pro慢及视觉需求。"
+    },
+    {
+      "id": "308572769025",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "质疑Luna是否亏本经营，并批评其速度慢。"
+    },
+    {
+      "id": "308397795761",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "承认功能齐全，但明确评价DeepSeek不如竞品。"
+    },
+    {
+      "id": "308343261969",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述参数规模与通用知识量的一般关系。"
+    },
+    {
+      "id": "7669099418888487686",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "惊喜",
+        "认可",
+        "期待"
+      ],
+      "score": 0.8,
+      "reason": "盛赞新版能力和低价，同时明确批评此前Pro。"
+    },
+    {
+      "id": "308586063649",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "依据表格指出Luna最高档仍强于V4Flash。"
+    },
+    {
+      "id": "311875682176",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "追问输的一方，可能指模型比试，缺少上文。"
+    },
+    {
+      "id": "308368129073",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出比较对象价格差距大，未明确褒贬。"
+    },
+    {
+      "id": "308611601745",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "赞同角色卡遵循不足，并说明额外提示的办法。"
+    },
+    {
+      "id": "311795177920",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "比较订阅倍数并称仍比不过，具体倍数含义缺失。"
+    },
+    {
+      "id": "p12hr8d",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "performance",
+        "comparison",
+        "other"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0.3,
+      "reason": "认可OpenAI定价策略，同时贬低竞品定位。"
+    },
+    {
+      "id": "311711709680",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正比较范围，指出讨论的是万亿以上及K3。"
+    },
+    {
+      "id": "p17bkmt",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "trust",
+        "capability",
+        "service",
+        "reliability",
+        "comparison"
+      ],
+      "e": [
+        "愤怒",
+        "失望",
+        "认可"
+      ],
+      "score": -0.8,
+      "reason": "强烈指责OpenAI暗降能力与额度，同时肯定Claude。"
+    },
+    {
+      "id": "6a6ef59d0000000015014361",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "批评Luna订阅上下文及API性价比，贬为视觉辅助。"
+    },
+    {
+      "id": "6a6d44b7000000002902eefc",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅提及另一用户，没有实质评价或AI讨论。"
+    },
+    {
+      "id": "311743327216",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 1,
+      "reason": "结合标题以梁圣威武表达对DeepSeek的强烈赞赏。"
+    },
+    {
+      "id": "308396390465",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "核实并更正实际所用模型，提醒数据仅供看乐。"
+    },
+    {
+      "id": "311932336384",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅问是否闲鱼，可能询问硬件来源，AI关联不明。"
+    },
+    {
+      "id": "2083245532093333697",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问免费Flash能否获得更新及预计时间。"
+    },
+    {
+      "id": "311824238288",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合模型实测标题，询问图片识别如何实现。"
+    }
+  ]
+}

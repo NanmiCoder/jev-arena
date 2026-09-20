@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash GA ranks the same as Sonnet 5 and Grok 4.5 on DeepSWE",
+    "Deepseek v4 flash 0731",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "国家超算互联网上线DeepSeek-V4-Flash API",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "DeepSeek V4 Flash 0731 completed 100 deep research tasks for just $0.49! Around 1/120 the cost of Kimi K3 and 1/25 the cost of GLM 5.2.\n\nWe tested all three on DRACO by Perplexity, with Fable as the j",
+    "世界上最慢的大模型你们猜是哪个？\n\n是的，正是我 699 买的Kimi K3，当了回大韭菜，Kimi 还营造了卖爆了的假象。\n\n下个月我再续费我就是狗🐶。\n\nDeepseek-V4-Flash-0731大家疯狂称赞，除了便宜，速度快也是很爽的，它现在比Grok 4.5都快多了！ https://t.co/eLR2oZVfZn",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "deepseek v4 Flash正式版直接出复杂像素资产图，多轮迭代，未能让deepseek大人尽兴",
+    "DeepSeek-V4-Flash-High",
+    "Unpopular opinion, Deepseek V4 Flash is not Good"
+  ],
+  "comments": [
+    {
+      "id": "2083132351685562567",
+      "t": 0,
+      "content": "this is a whole new kind of pressure for the frontier labs. a cheap open model catching up once, fine. but this jumped most of the way to Opus on the same weights as the preview with just a better training pass.\n\nOW keep closing the gap through training alone now, and the room to charge a premium shrinks every cycle.\n\nlook at the price difference compared to the front of the line!"
+    },
+    {
+      "id": "311769529024",
+      "t": 1,
+      "content": "回复 @糖了个炒栗子 :额……你怀疑一件商品不好你不去侧面调查，你去看商家说什么，能证明出什么东西么[呆]"
+    },
+    {
+      "id": "p113mg7",
+      "t": 2,
+      "content": "Flash is quite good but weird sampling parameters."
+    },
+    {
+      "id": "6a6e2e31000000001500b26f",
+      "t": 3,
+      "content": "没有图怎么知道效果啊，有工具看不到效果能干啥[失望R]你自己写前端试试不打开浏览器看效果你能写得咋样[doge]"
+    },
+    {
+      "id": "311711999648",
+      "t": 4,
+      "content": "opus5也没有图片生成能力啊"
+    },
+    {
+      "id": "308530258481",
+      "t": 5,
+      "content": "codex 接非官方模型，基本都是不调用它的官方方法apply_patch修改代码。"
+    },
+    {
+      "id": "6a6ee4e8000000002902e1fc",
+      "t": 6,
+      "content": "目前大模型的问题就是呃编程方面可能越来越强，但是真正到工业化应用还是有一定的距离。其实在实际的工程项目中没法放心使用。"
+    },
+    {
+      "id": "311769887088",
+      "t": 7,
+      "content": "饮料之梁白开"
+    },
+    {
+      "id": "308590761617",
+      "t": 8,
+      "content": "回复 @maxshun :对我应该够用了。我现在是两个opencode go，轮流还不敢敞开了用glm5.2。只要它大于两个op go就行。"
+    },
+    {
+      "id": "311739217712",
+      "t": 9,
+      "content": "回复 @叫我武哒哒 :羡慕了，我是迅雷开了会员，挂着下载，平均下来只有1mb/s，移动WiFi还是不行啊(∂ω∂)"
+    },
+    {
+      "id": "308333718353",
+      "t": 10,
+      "content": "Reasonix感觉这个软件不太聪明用workbuddy两三句话就弄了一个天气查询的网页，Reasonix需要反复调节十几次次还是达不到效果有点答非所问"
+    },
+    {
+      "id": "7668800928522781492",
+      "t": 11,
+      "content": "目前只有这些作用？并没有体现出利大于弊的状态"
+    },
+    {
+      "id": "6a6dcb490000000029036dd8",
+      "t": 3,
+      "content": "ai嘉豪是吧"
+    },
+    {
+      "id": "6a6dab170000000029026f0a",
+      "t": 12,
+      "content": "是这样的，只有钝感力强的人才感知不到这之间的联系"
+    },
+    {
+      "id": "7669321593965921061",
+      "t": 13,
+      "content": "因为这玩意性价比高，ds 性能不是最高的，但他是你能用最少的钱买到最高能力的模型。AI 界的拼多多可以这么理解。"
+    },
+    {
+      "id": "311898831072",
+      "t": 8,
+      "content": "回复 @尨吠狡童 :我其实是非常赞同的，就是看UP主舍不舍得了[吃瓜]"
+    },
+    {
+      "id": "308421503425",
+      "t": 14,
+      "content": "回复 @铭渊文化 : 我的意思是，那为啥非要用codex呢？类似的产品有很多啊"
+    },
+    {
+      "id": "2083125653524926925",
+      "t": 0,
+      "content": "@deepseek_ai @Xinyu2ML Bro came into competition with its Flash Model, not even Pro, and is already beating GLM-5.2."
+    },
+    {
+      "id": "7669260441177195298",
+      "t": 13,
+      "content": "为ds做贡献[懵]"
+    },
+    {
+      "id": "6a6c538a000000002901a510",
+      "t": 15,
+      "content": "[捂脸R]因为他们家就不急着做多模态，有自己的节奏，说不定下一代会有，谁知道呢。国内多模态可以看kimi和千问。[笑哭R]"
+    },
+    {
+      "id": "311759708176",
+      "t": 1,
+      "content": "回复 @SW枪槍 :确实不是拉，是拉中拉，我把代码的描述提示到了80%他还能推测错，完全没法用来写代码的状态"
+    },
+    {
+      "id": "6a6f1f11000000001500255b",
+      "t": 16,
+      "content": "用opencode，可以开go会员，首月5美元，后面续费每月10美元，deepseek v4 flash近乎无限的用量"
+    },
+    {
+      "id": "p12hgfv",
+      "t": 17,
+      "content": "Its is almost like you don't understand how capitalism works."
+    },
+    {
+      "id": "2083326037539102805",
+      "t": 18,
+      "content": "@gmi_cloud This is impressive \nSo cheap"
+    },
+    {
+      "id": "7669016684380078889",
+      "t": 13,
+      "content": "你没调优命中缓存，一点多亿花了九块，太贵了"
+    },
+    {
+      "id": "6a6f333a000000000b038bd8",
+      "t": 3,
+      "content": "？可是模型是不是参数量越大越容易过拟合吗，参数量小是通常偏差更大啊[吃瓜R]"
+    },
+    {
+      "id": "2083884408357237092",
+      "t": 19,
+      "content": "@LinearUncle Kimi K3 这次更像高价慢速的反例，V4 Flash 的便宜和速度确实更适合日常调用，你实测稳定性怎么样？"
+    },
+    {
+      "id": "7668715617000145723",
+      "t": 20,
+      "content": "完啦，GLM被斩杀了[尬笑]"
+    },
+    {
+      "id": "308417243009",
+      "t": 1,
+      "content": "回复 @小猪蹄子ishmeal :跟那个没关系，不是所有bug都是多模态的锅[doge]"
+    },
+    {
+      "id": "311643268560",
+      "t": 4,
+      "content": "回复 @甜甜白白朱 :感觉有terra中等水平，我的项目有些复杂地方起码敢让它碰了"
+    },
+    {
+      "id": "2083218339913244931",
+      "t": 0,
+      "content": "@deepseek_ai いつもdeepseekにはお世話になっています。\nCodexの枠が切れそうなときにAPI使っています。"
+    },
+    {
+      "id": "311739482800",
+      "t": 21,
+      "content": "瞎子能看电脑显示屏不你就开上computer use了[笑哭]"
+    },
+    {
+      "id": "308366796257",
+      "t": 22,
+      "content": "回复 @Sikaha_ :因为本来就不能完全控制这东西，所有模型的结构都决定了它在输出之前只知道最多只能输出多少，不知道至少能输出多少，所以你必须加细节要求性质的东西，告诉他应该写些什么东西；要么就把一次输入拆成多次输入，这样字数能多点，但上下文能不能拼起来就不好说了。还有就是如果你用的酒馆，你给我去左上角第一个按钮的设置页面里好好看看你是不是用的默认4096 Max_tokens[笑哭]"
+    },
+    {
+      "id": "308483409649",
+      "t": 23,
+      "content": "回复 @次元的旅行家 :硅基流动不就一个ai商场。他又不造产品。"
+    },
+    {
+      "id": "7669023670845997873",
+      "t": 13,
+      "content": "别，直接用它官网那个脚本一键部署，很方便，用cc的话，有时候任务会暂停，不知道为什么[流泪]"
+    },
+    {
+      "id": "311712157184",
+      "t": 1,
+      "content": "回复 @神烦老狗 :已经八月一号了，怎么还不出？[生气]"
+    },
+    {
+      "id": "311930762512",
+      "t": 24,
+      "content": "精细化能力很强，不过作为像素游戏，其实你要限制它像素生成的密度和精度，来让它维持在第一版的像素颗粒来生成，那样最好。不然它会持续提高精细和完整度。最后越来越不....像素了。"
+    },
+    {
+      "id": "6a6d8071000000002901a2a7",
+      "t": 25,
+      "content": "智谱这周末拿不出glm5.5就等着股票腰斩吧"
+    },
+    {
+      "id": "7669083214091469595",
+      "t": 13,
+      "content": "deepseek明明能做更好，为什么不做呢？"
+    },
+    {
+      "id": "p13gbh7",
+      "t": 26,
+      "content": "No one said it is good as opus 4.8 , it is probably more like sonnet 4.6 or opus 4.6 with less knowledge…"
+    }
+  ]
+}

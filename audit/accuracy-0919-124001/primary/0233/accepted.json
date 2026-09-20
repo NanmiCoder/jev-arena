@@ -1,0 +1,807 @@
+{
+  "items": [
+    {
+      "id": "311929311440",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "建议对编程有兴趣才投入，是否特指AI使用不明。"
+    },
+    {
+      "id": "7669027246318109477",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明模型名称及使用方式未变。"
+    },
+    {
+      "id": "6a6c52c40000000005015c15",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "price"
+      ],
+      "e": [
+        "期待",
+        "调侃"
+      ],
+      "score": 0.6,
+      "reason": "用拳打脚踢的玩梗表达对能力和折扣的期待。"
+    },
+    {
+      "id": "308514253329",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问安装Cherry遇到的问题如何解决。"
+    },
+    {
+      "id": "6a6dfd5f0000000029018499",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述将在CC中同时测试两个模型。"
+    },
+    {
+      "id": "308415399857",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "澄清对方所指可能是模型思考强度。"
+    },
+    {
+      "id": "308579662849",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "content"
+      ],
+      "e": [
+        "惊喜",
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "认可high档能力，同时批评未用max测试。"
+    },
+    {
+      "id": "2083138778734932317",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "称赞评测表现，并调侃Flash胜Pro该改名。"
+    },
+    {
+      "id": "6a6ca81c000000001500505e",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "依据豆包工具调用体验询问技术区别。"
+    },
+    {
+      "id": "6a6e1ec60000000015004adf",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "用GPT生成被审核拦截的经历反问质疑。"
+    },
+    {
+      "id": "311624267680",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以勿扰口吻说正在蒸馏Kimi，偏玩梗。"
+    },
+    {
+      "id": "7669305253380883215",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "mixed"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "主要抱怨升级后偏好变化及重调麻烦，也承认经验优势。"
+    },
+    {
+      "id": "308419399153",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "用秦始皇梗嘲讽他人读源码能力，未评价AI。"
+    },
+    {
+      "id": "7669034708194820874",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "joke"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "讽刺被耍及黑车，缺上下文无法确定是否AI服务。"
+    },
+    {
+      "id": "308519240961",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.5,
+      "reason": "以AI替代和就业风险为由劝退部分学生学计算机。"
+    },
+    {
+      "id": "308487908897",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "担忧",
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "询问是否需七千元，并表示因此不敢用。"
+    },
+    {
+      "id": "6a6db5fa000000002903503f",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认为OpenAI尚可，重置后额度足够使用。"
+    },
+    {
+      "id": "311868094704",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明Codex订阅到期后想起GLM，未明确评价。"
+    },
+    {
+      "id": "308423559025",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "capability",
+        "price"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "询问与GLM能力差距，同时抱怨GLM贵。"
+    },
+    {
+      "id": "7668937651138872070",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "说明无需更换，并称模型能力大幅升级。"
+    },
+    {
+      "id": "311748114512",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "content"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "斥责推荐中转站却未提免费使用渠道。"
+    },
+    {
+      "id": "17925447",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "询问是否官网直连，条件式认为更划算。"
+    },
+    {
+      "id": "2083797563627712834",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "明确称赞DeepSeek性价比与降本增效。"
+    },
+    {
+      "id": "308516057809",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "指出结果取决于使用哪家Agent，未说明具体维度。"
+    },
+    {
+      "id": "308573473633",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "称赞自检提升正确率，修复多处bug且花费少。"
+    },
+    {
+      "id": "311765301824",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "usability",
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "明确赞同观点，强烈贬低Codex直接接其他模型的体验。"
+    },
+    {
+      "id": "2083270969301643460",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "表达期待看到VulcanBench表现，尚无评价。"
+    },
+    {
+      "id": "308361495457",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability",
+        "comparison",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0,
+      "reason": "认可Flash清晰提示下的能力，同时批评GLM涨价。"
+    },
+    {
+      "id": "6a6ea8d6000000002b026c7e",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "用脚本小子梗称其最强工具，兼有赞赏。"
+    },
+    {
+      "id": "308608263457",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "疑似人物配对玩梗，未见模型或使用评价。"
+    },
+    {
+      "id": "308547325393",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "否定其价格高于Claude的说法。"
+    },
+    {
+      "id": "311922267408",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "求助模型提示不支持图片的问题。"
+    },
+    {
+      "id": "7668931302000165681",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "内容为杂乱问候与碎片文字，无明确AI讨论。"
+    },
+    {
+      "id": "6a6db19f00000000150044b5",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清条件概率与亏钱对象的意思，未指向AI。"
+    },
+    {
+      "id": "7669057658708296491",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.6,
+      "reason": "结合标题以鲸鱼代指DeepSeek，玩梗表达感激。"
+    },
+    {
+      "id": "311771760848",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问CodeBuddy积分及WorkBuddy模型版本。"
+    },
+    {
+      "id": "311726783872",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "反问为何不能自行设提示词而要用户另找第三方。"
+    },
+    {
+      "id": "308418585985",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明API适配及脚本一键导入Codex的方式。"
+    },
+    {
+      "id": "311703191168",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问并质疑DS是否永远不做多模态。"
+    },
+    {
+      "id": "6a6f2251000000002a005291",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "列出GPT及Claude按次报价，疑似纯推广但未明示。"
+    }
+  ]
+}

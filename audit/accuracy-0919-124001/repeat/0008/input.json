@@ -1,0 +1,235 @@
+{
+  "topics": [
+    "美国小哥实测DeepSeekV4Flash：花不到1美元，AI给他做了个GTA+射击游戏，这Flash怎么比pro还pro？",
+    "DeepSeek V4 Flash接入Codex教程（可识图）",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "实测DeepSeek V4 Flash 太强了！比 Grok 4.5 聪明太多了！一起来对比评测 !~DeepSeek Flash正式版强在哪！正式上市！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek-V4-Flash Update 0731",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "要被外网的一些评论笑死了😂😂😂",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "DeepSeek-V4-Flash-High",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Deepseek v4 flash 0731",
+    "DeepSeek-V4-Flash-0731 is a good model. \n\nHave you tried it yet? https://t.co/zjCVTtkVc3",
+    "deepseekV4Flash正式版上线并针对适配Codex",
+    "DeepSeek V4flash用SVG复刻梵高和画画",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "Thoughts on Deepseek v4 Flash 0731?"
+  ],
+  "comments": [
+    {
+      "id": "308578912849",
+      "t": 0,
+      "content": "这比懂王画k线猛多了[doge]"
+    },
+    {
+      "id": "6a6e0c3f0000000005014b87",
+      "t": 1,
+      "content": "换了 provider，之前的会话关联旧的 provider，让 codex 给你恢复即可ChatGPT 接入第三方模..."
+    },
+    {
+      "id": "308409057489",
+      "t": 2,
+      "content": "刚看一哥们玩了一天花了 0.79 刀[笑哭]1.5 亿 token，缓存命中高的离谱，梁圣🐂🍺"
+    },
+    {
+      "id": "311839960528",
+      "t": 3,
+      "content": "回复 @云端小咖 :grok是目前输出长文本时最容易出现乱码的模型，没有之一，概率比哈基米流口水的概率还高。"
+    },
+    {
+      "id": "7669054017557218097",
+      "t": 4,
+      "content": "ds+trae吗"
+    },
+    {
+      "id": "p10pnfj",
+      "t": 5,
+      "content": "Gimana caranya coba deepseek ini?"
+    },
+    {
+      "id": "311725051184",
+      "t": 6,
+      "content": "回复 @懒得想名字了诶 :刚出主要是看跑分吧？而且他们自己说的是在官方Harness里面测的。"
+    },
+    {
+      "id": "308572541617",
+      "t": 6,
+      "content": "你问的是能不能学明白，我只能说，只要是正常高考报考，上大学你肯定能学会能读完，评论区都拿顶尖大厂的标准在这要求你"
+    },
+    {
+      "id": "6a6d8de10000000015017c64",
+      "t": 7,
+      "content": "不行，我大A亏的钱必须支持了人类的ai事业[捂脸R]"
+    },
+    {
+      "id": "7668929791400493873",
+      "t": 8,
+      "content": "不需要梯子，用官方文档接入codex方法，你在终端运行那行脚本配置好后，直接用就行了，不需要梯子。"
+    },
+    {
+      "id": "308348185841",
+      "t": 9,
+      "content": "回复 @金剛 :酒馆的重点不是模型性能，是有没有搭载更好的第三方摘要插件，有没有给向量存储接入好的检索模型，有没有调教好所有的提示词注入"
+    },
+    {
+      "id": "6a6c81b300000000050157c5",
+      "t": 10,
+      "content": "对比grok4.5 fast谁更快？"
+    },
+    {
+      "id": "311741237312",
+      "t": 11,
+      "content": "对我来说够用了，我需要的只是一个不那么蠢的初级程序员牛马，架构我自己会设计。 不管luna 强还是弱，她那个价格跟DS比就完全没有性价比了。。。"
+    },
+    {
+      "id": "6a6eb3f700000000150011d7",
+      "t": 10,
+      "content": "这个怎么会被封啊？也开始针对咱们中国人了"
+    },
+    {
+      "id": "311810624112",
+      "t": 12,
+      "content": "是不是codex全程使用都需要代理啊，我不开代理直接没法用了。"
+    },
+    {
+      "id": "311710949088",
+      "t": 3,
+      "content": "grok这么差吗"
+    },
+    {
+      "id": "6a6d90fb000000001403807e",
+      "t": 13,
+      "content": "300b 干到这程度就问你怕不怕，接到 agent 上直接使劲蹬"
+    },
+    {
+      "id": "308388102961",
+      "t": 14,
+      "content": "小白问一下 ds 的 api 是性价比最高的吗？想用来搞 codex来体验一下 agent，没有写代码需求，求各位大佬解答"
+    },
+    {
+      "id": "6a6e9230000000000802e7ed",
+      "t": 15,
+      "content": "你在claude code里面用gpt模型你是神人来的吧，工具都用不明白还搁这装懂评价deepsseek[捂脸R]"
+    },
+    {
+      "id": "311732879328",
+      "t": 6,
+      "content": "回复 @没有子目 :糖比"
+    },
+    {
+      "id": "2083895313849369063",
+      "t": 16,
+      "content": "@Mayhem4Markets Lmao"
+    },
+    {
+      "id": "6a6d7675000000000d022c00",
+      "t": 17,
+      "content": "对比御三家怎么样？可以代替Opus吗"
+    },
+    {
+      "id": "6a6e12e7000000002a02ec39",
+      "t": 7,
+      "content": "拉着他的盟友一起禁呀   汽车不就是"
+    },
+    {
+      "id": "6a6d6f94000000002b024228",
+      "t": 18,
+      "content": "梵高自画像12M多一点，100％原图就这样的。蒙德里安那张小，才几KB"
+    },
+    {
+      "id": "308478324737",
+      "t": 19,
+      "content": "回复 @Σ (っ °Д °;)っ : 不太清楚, 我主要用的是Claude code, opencode.  不过deepseek的api不是一直都能在codex中使用吗?"
+    },
+    {
+      "id": "311929807488",
+      "t": 20,
+      "content": "找skill"
+    },
+    {
+      "id": "311637007184",
+      "t": 21,
+      "content": "想问一下，旧的API接的是正式版吗"
+    },
+    {
+      "id": "6a6e06b7000000002a007237",
+      "t": 7,
+      "content": "哈哈哈哈哈哈哈哈"
+    },
+    {
+      "id": "311698283872",
+      "t": 2,
+      "content": "ds不是一直无甲吗"
+    },
+    {
+      "id": "7669221174983902006",
+      "t": 22,
+      "content": "式用了一晚，回答问题会给我出选择题了…以前没有过"
+    },
+    {
+      "id": "308436446049",
+      "t": 14,
+      "content": "我想问一下之前api调用预览版，现在调用直接就是正式版了吗"
+    },
+    {
+      "id": "2083891853989208378",
+      "t": 16,
+      "content": "@Mayhem4Markets my DeepSeek-V4-Flash run dropped half my JSON keys on a standard parsing task right after I spun it up"
+    },
+    {
+      "id": "308608202513",
+      "t": 20,
+      "content": "这还是flash，不是flash不得上天"
+    },
+    {
+      "id": "311904501200",
+      "t": 23,
+      "content": "是不是动效部门都优化了，图表全都是AI做的吗？手机上看非常难受"
+    },
+    {
+      "id": "6a6ddc69000000001500a306",
+      "t": 24,
+      "content": "@🐑🐑🐑"
+    },
+    {
+      "id": "311756382512",
+      "t": 25,
+      "content": "我又何尝不是，2 次了，1 次 5.6W 的 512Gmac。一次 7.5W 不带内存整机 pro6000 工作站。"
+    },
+    {
+      "id": "308601022161",
+      "t": 20,
+      "content": "回复 @黑米_XY :要。就是阿里的，直接充的余额，因为用的不算很多。大部分多模态都是直接丢给gpt干了。"
+    },
+    {
+      "id": "308427088449",
+      "t": 26,
+      "content": "gpt luna 降价80%，ds已经没太大优势"
+    },
+    {
+      "id": "308423224881",
+      "t": 27,
+      "content": "回复 @蜻蜓点水-涟漪无边 : 没涨价啊，现在觉得贵单纯是现在干活之后检查的多了，用的token多。涨价估计得等pro出了之后另外发通知"
+    },
+    {
+      "id": "p0wvvrm",
+      "t": 28,
+      "content": "Deepseek flash has a major issue, where it will ignore your instruction if it believe what it wants to write is more natural. This hasn't changed with the new version, if anything it's worse.\n\nIf your instructions are simple and small, it'll listen. If it asks for anything that requires deepseek flash to actually put in work. It will try as hard as it can not to follow it."
+    }
+  ]
+}

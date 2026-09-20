@@ -1,0 +1,232 @@
+{
+  "topics": [
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 正式版为我生成的体积云",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 0731 out now!",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Deepseek v4 flash 0731 real experience. It is definitely shocking the world, But do they have enough capacity?",
+    "DeepSeek V4-Flash反超旗舰版",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "深聊DS新版V4 Flash:现在的后训练太权威了",
+    "⚠️ Note\n\n🔷 DeepSeek-V4-Flash-0731 keeps the exact same model architecture and size as the preview version.\n🔷 Today's upgrade applies ONLY to the DeepSeek-V4-Flash API. The DeepSeek-V4-Pro API and Ap",
+    "DeepSeek-V4-Flash-0731 UD-IQ3_S 12,5 tok/s sur RTX 3090 + 128 Go DDR5",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "Deepseek v4 flash 0731",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "Weights of Deepseek v4 flash 0731 have been released!!!",
+    "DeepSeek V4 Flash接入Codex教程（可识图）",
+    "Deepseek V4-flash正式版实测",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026"
+  ],
+  "comments": [
+    {
+      "id": "6a6ccbc1000000000403bb70",
+      "t": 0,
+      "content": "智谱尴尬了[偷笑R]"
+    },
+    {
+      "id": "7669385979556004665",
+      "t": 1,
+      "content": "lwf一开始不是搞dp的，他是做量化的，最后集成出来的东西是你现在看到的dp[捂脸]"
+    },
+    {
+      "id": "308563113441",
+      "t": 2,
+      "content": "可以是可以，能不能把云底下优化一下啊，要不抬头太损风景了[吃瓜]。其实已经很不错了[doge]"
+    },
+    {
+      "id": "7669289380401578792",
+      "t": 1,
+      "content": "文峰的ai梦 散户的英雄冢"
+    },
+    {
+      "id": "311824124064",
+      "t": 3,
+      "content": "回复 @圣灵-云 :可以的，不过要描述清楚"
+    },
+    {
+      "id": "308581186721",
+      "t": 4,
+      "content": "回复 @传说中的死妹控 :flash全面打赢k3超前绝对有一年，参数差了十倍"
+    },
+    {
+      "id": "7668967448586781489",
+      "t": 5,
+      "content": "我用的zcode命中率很高99%，一个项目3k多万token1块钱[捂脸]"
+    },
+    {
+      "id": "308578685281",
+      "t": 6,
+      "content": "回复 @代码才是本体 :涨价之前我还续了 我更是小丑"
+    },
+    {
+      "id": "p0wr2if",
+      "t": 7,
+      "content": "we made it guys I am going to get myself Chinese citizenship\n\nhttps://preview.redd.it/15mexyqgjlgh1.png?width=825&format=png&auto=webp&s=a03e12f117cb2270c7fd3b87307929e0c6e4c306"
+    },
+    {
+      "id": "311719705312",
+      "t": 8,
+      "content": "回复 @xBefore :我要是中转站再打个0.06折呢？0.2的输入，0.19的输出，百万token DeepSeek flash能够做到吗？？"
+    },
+    {
+      "id": "p139548",
+      "t": 9,
+      "content": "They are serving it at 74 tps the models is so small there to many providers serving it at speed"
+    },
+    {
+      "id": "308387135761",
+      "t": 6,
+      "content": "回复 @烽域 :调用工具做的吧"
+    },
+    {
+      "id": "6a6ef64a000000001403b219",
+      "t": 10,
+      "content": "这不是反超呀，Pro也有正式版，还没发而已，理解为DeepSeekV4.1flash先发布，这没啥好说的吧，解释一下后训练为什么这么强，300b不到的参数也能打opus4.8也好的呀。"
+    },
+    {
+      "id": "308610380673",
+      "t": 11,
+      "content": "回复 @京兆万年 :好的，感谢感谢[抱拳]五小时限200次调用也能做不少事了，如果能开子代理的话"
+    },
+    {
+      "id": "308426364049",
+      "t": 12,
+      "content": "回复 @玄關記 :你定谁的不好买mimo？"
+    },
+    {
+      "id": "308372344081",
+      "t": 6,
+      "content": "等官方 Harness 出来，再来对比一下，同一个模型，无论是 Flash 还是 Pro，在不同的 Harness 下的效果对比，这个结论更有意思。\n毕竟 Claude Code 是针对他自家的模型来开发的。听说 Codex 加 Deepseek 效果很差，应该也是同样原因。"
+    },
+    {
+      "id": "308420288401",
+      "t": 4,
+      "content": "回复 @畜生点不进我主页 :多模态伪需求不说，长任务luna和傻子一样。中转站luna破甲对我来说就是个多模态备用工具优势只有足够便宜"
+    },
+    {
+      "id": "7669059842841166607",
+      "t": 1,
+      "content": "A股小散户才是最大仇家"
+    },
+    {
+      "id": "6a6dc638000000002901ae78",
+      "t": 13,
+      "content": "梁叔叔白天肘大a，晚上肘美股。一鱼两吃"
+    },
+    {
+      "id": "6a6ca6cd0000000015013835",
+      "t": 14,
+      "content": "[偷笑R][偷笑R]至少Seed2.1还不是"
+    },
+    {
+      "id": "7669065052209890097",
+      "t": 1,
+      "content": "我大A散户成梁圣补贴了"
+    },
+    {
+      "id": "308395496545",
+      "t": 6,
+      "content": "没有人会记得那些按时发布的垃圾模型.jpg"
+    },
+    {
+      "id": "311823083568",
+      "t": 6,
+      "content": "回复 @你眼中的爱 :请问如何调用这个正式版flash版本的api呢，以chatbox为例，纯小白"
+    },
+    {
+      "id": "2083158862199455811",
+      "t": 15,
+      "content": "@deepseek_ai flash 才是主力，期待更强的 agent 能力"
+    },
+    {
+      "id": "311720012912",
+      "t": 8,
+      "content": "自己去用一下就知道啦"
+    },
+    {
+      "id": "p15yfvv",
+      "t": 16,
+      "content": "280b models progress for a year is crazy. I think in a year with a half, 120b models will beat that deepseek v4 flash"
+    },
+    {
+      "id": "7668725634139603746",
+      "t": 17,
+      "content": "刚买的速通，今天直接用 ds api 了，glm 都不想用了"
+    },
+    {
+      "id": "6a6dedf7000000000802f5d5",
+      "t": 18,
+      "content": "万一人家 api 就是接的 codex 咋说"
+    },
+    {
+      "id": "308516395489",
+      "t": 4,
+      "content": "回复 @这个狗蛋不姓李 :坏了，被你读懂了[大会员粉豆人_沉思]"
+    },
+    {
+      "id": "7668972752452698926",
+      "t": 5,
+      "content": "不怕中国模型落后，就怕中国模型会控分[微笑]"
+    },
+    {
+      "id": "311717018160",
+      "t": 4,
+      "content": "梁之前被爆出来的内部会议就提到他根本不在乎多模态，以及公司本身的目标就是 AGI ，c 端用户也是， 不是他们的目标，他们核心还是在 AGI ，不过作为用户来说，没有多模态真是太难受了"
+    },
+    {
+      "id": "308417891345",
+      "t": 19,
+      "content": "@这个刀子真甜 [doge]"
+    },
+    {
+      "id": "6a6ccd6b0000000015011ec2",
+      "t": 20,
+      "content": "[doge]喜欢梁文峰"
+    },
+    {
+      "id": "7668677699485254459",
+      "t": 21,
+      "content": "已经算顶尖了，超过 glm5.2，持平 grok4.5，主要是能力已经足够，速度非常快，最关键的是价格非常低，这三板斧已经把 ds 捧上神座了[流泪]"
+    },
+    {
+      "id": "311719520368",
+      "t": 8,
+      "content": "回复 @在人间520 :Luna官方降价80%，我中转站再加上0.06折的倍率，炸场了。"
+    },
+    {
+      "id": "p0vm1kd",
+      "t": 22,
+      "content": "https://preview.redd.it/3jf3vs8snkgh1.jpeg?width=1290&format=pjpg&auto=webp&s=9e418e1eb1e12b61f712af0a2e3831e1f9b3df65"
+    },
+    {
+      "id": "6a6d7a3d000000002a024187",
+      "t": 23,
+      "content": "博主，gpt界面改不了中文怎么办"
+    },
+    {
+      "id": "6a6dc2c8000000000500905c",
+      "t": 24,
+      "content": "你这对比就不公平，你在opencode里面用V4 flash试试，那真是量大管饱"
+    },
+    {
+      "id": "308444709393",
+      "t": 8,
+      "content": "回复 @谁忘了什么是生活 :666变脸[笑哭]"
+    },
+    {
+      "id": "p11clbw",
+      "t": 25,
+      "content": "Maybe you can run that locally, I'm way far from there."
+    }
+  ]
+}

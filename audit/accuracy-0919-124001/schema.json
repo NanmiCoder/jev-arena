@@ -1,0 +1,120 @@
+{
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "r": {
+            "type": "array",
+            "items": {
+              "type": "boolean"
+            },
+            "maxItems": 2
+          },
+          "s": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "positive",
+                "negative",
+                "neutral",
+                "mixed"
+              ]
+            },
+            "maxItems": 4
+          },
+          "i": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "praise",
+                "complaint",
+                "question",
+                "suggestion",
+                "correction",
+                "agreement",
+                "disagreement",
+                "joke",
+                "information",
+                "other"
+              ]
+            },
+            "maxItems": 10
+          },
+          "a": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "capability",
+                "quality",
+                "usability",
+                "performance",
+                "reliability",
+                "price",
+                "service",
+                "content",
+                "presentation",
+                "production",
+                "trust",
+                "comparison",
+                "other"
+              ]
+            },
+            "maxItems": 5
+          },
+          "e": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "认可",
+                "惊喜",
+                "期待",
+                "质疑",
+                "失望",
+                "担忧",
+                "调侃",
+                "愤怒"
+              ]
+            },
+            "maxItems": 3
+          },
+          "score": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": -1,
+            "maximum": 1
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "r",
+          "s",
+          "i",
+          "a",
+          "e",
+          "score",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "items"
+  ],
+  "additionalProperties": false
+}

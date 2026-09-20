@@ -1,0 +1,235 @@
+{
+  "topics": [
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "I just posted a new Quick Take on Deepseek V4 Flash. Huge relevance here since it is essentially free &amp; actually quite useful.\n\nPeople are going to want to have models like this to be able to run ",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "deepseek v4 flash 配上 opencode 送的太多了，非常好用，真爽。",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "震撼美味！DeepSeek-V4-Falsh正式版",
+    "感觉Deepseek v4 Flash有点弱？试试这个视频 我发现很多人用Deepseek v4 Flash时觉得它不够强，其实可以试试这个视频里的操作！跟着步骤走一遍，体验会好很多～#deepseekv4flash #deepseek正式版 #deepseek #agent",
+    "DeepSeek-V4-Flash-0731 – Intelligence Index vs Cost. Update",
+    "DeepSeek-V4-Flash-0731 UD-IQ3_S 12.5 tok/s on RTX 3090 +128GB DDR5",
+    "要被外网的一些评论笑死了😂😂😂",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "$10 OpenCode Go + DeepSeek V4-Flash is exposing something important.\n\nPeople are generating serious volume of code and still sitting at 10% of their weekly limit.\n\nThat’s not a bug.\nThat’s what happen",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "Deepseek v4 flash 0731",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普"
+  ],
+  "comments": [
+    {
+      "id": "311825786576",
+      "t": 0,
+      "content": "我双机的时候cpu 温度有时候能达到97度，我买了底座风扇，但是帮助不大。最后是把cpu频率给锁了[笑哭]"
+    },
+    {
+      "id": "308483587985",
+      "t": 1,
+      "content": "回复 @绝冰晶石 :我正发愁怎么也用不完呢，opencode60美金额度"
+    },
+    {
+      "id": "2083758166140125493",
+      "t": 2,
+      "content": "@tphuang the local inference arms race is going to be wild once quality gets this cheap."
+    },
+    {
+      "id": "311869054016",
+      "t": 3,
+      "content": "AI 文学性能测试应用罢了"
+    },
+    {
+      "id": "308524776545",
+      "t": 3,
+      "content": "透过现象看本质呀，兄弟。不能只看到舆论烂，那舆论是为什么烂呢？这些人吃饱了撑的，没事在网上逮住人就咬，为什么会有这么多恨国党？分析一下呀。你要是互相指责，你骂他他骂你，那最后那不还是一团乱吗？只能让这个矛盾更加激化，作为一个普通的网民，只能说自己看清了，不参与就好了，改变不了任何事情[笑哭]"
+    },
+    {
+      "id": "308388412417",
+      "t": 4,
+      "content": "眼罩更有辨识度，戴上也行[doge]"
+    },
+    {
+      "id": "311901062544",
+      "t": 5,
+      "content": "pro只有15刀的额度，command go的pro比较划算1刀换10刀额度，但是要挂个反代脚本"
+    },
+    {
+      "id": "6a6d987c000000001501036e",
+      "t": 6,
+      "content": "超过梁叔叔没有奖励低于就被斩杀"
+    },
+    {
+      "id": "308399940401",
+      "t": 7,
+      "content": "看到anno的使用额度也为0了我心里就宽慰了啊，原来不止我一个错过了luna这些模型大降价导致现在眼巴巴等着tibo重置或者梁圣的v4pro上线啊[老鼠]"
+    },
+    {
+      "id": "308347932257",
+      "t": 8,
+      "content": "我不知道自己是不是codex接错了什么，缓存命中率只有96%，工作还经常断"
+    },
+    {
+      "id": "308591492321",
+      "t": 9,
+      "content": "回复 @专业防空大尾猫 :我以后用啥你管我呢[笑哭]"
+    },
+    {
+      "id": "308368387169",
+      "t": 10,
+      "content": "接api的是不是不用管，已经自动调用的是正式版了？"
+    },
+    {
+      "id": "6a6c5666000000002b029962",
+      "t": 11,
+      "content": "@魂牵梦绕风云荡"
+    },
+    {
+      "id": "7669297207565550336",
+      "t": 12,
+      "content": "我接入codex，比之前的v4pro预览版强了不是一点半点"
+    },
+    {
+      "id": "308412894305",
+      "t": 7,
+      "content": "回复 @谁忘了什么是生活 :用cc-switch接入后都不用，以后先打开cc再开codex就可以了"
+    },
+    {
+      "id": "p10iejx",
+      "t": 13,
+      "content": "My appreciation for deepseek increases day by day. Performance per cost was good before, it's insane now."
+    },
+    {
+      "id": "308434063937",
+      "t": 9,
+      "content": "虽然不做多模态，但是flash会自己写代码强行装上一个电子眼……"
+    },
+    {
+      "id": "p15frzc",
+      "t": 14,
+      "content": "How is Q3 on this comparatively to Q8 Qwen 3.6 27b? I mean it’s a fun experiment but I’m curious about usability and Q3 is not good."
+    },
+    {
+      "id": "308424766225",
+      "t": 3,
+      "content": "你这梯子。。很不稳定。。。[笑哭][笑哭][笑哭]"
+    },
+    {
+      "id": "6a6ed9d60000000015001e0f",
+      "t": 15,
+      "content": "这关我一个月有3万刀AI额度的什么事儿[doge]"
+    },
+    {
+      "id": "311699314752",
+      "t": 16,
+      "content": "太阴间的发布时间"
+    },
+    {
+      "id": "308590063249",
+      "t": 3,
+      "content": "效果怎么样呀。翻译的准确度与语义贴合度怎么样，能够做到&#34;信雅达&#34;吗？[星星眼]"
+    },
+    {
+      "id": "6a6d85a2000000002a027f22",
+      "t": 15,
+      "content": "其实应该在x上告诉老外，梁圣不打嘴炮的原因是耽误他开纳指空单了。[偷笑R]"
+    },
+    {
+      "id": "311731102176",
+      "t": 17,
+      "content": "昨天收到邮件，API服务性能下降通知"
+    },
+    {
+      "id": "311709103488",
+      "t": 16,
+      "content": "回复 @云初子淼 :确实很有可能，deepseek之前内部信息还泄露出来了[笑哭]"
+    },
+    {
+      "id": "308368935761",
+      "t": 18,
+      "content": "你告诉我一个差不多300B的模型战胜了GLM700B多模型?我犹如看到核弹爆炸"
+    },
+    {
+      "id": "2083700989169979825",
+      "t": 19,
+      "content": "$10 OpenCode Go + DeepSeek V4-Flash is exposing something important.\n\nPeople are generating serious volume of code and still sitting at 10% of their weekly limit.\n\nThat’s not a bug.\nThat’s what happens when the active parameter count is low enough to multi-serve cheaply while agent performance holds.\n\nThe old model was:\nPay $200 → hope the limits don’t hit mid-task.\n\nThe new pattern is:\nRoute bulk execution to efficient specialists.\nKeep the expensive models for judgment only.\n\nWhen a $10 plan feels like a $200 one, the control plane becomes the real product.\n\nThis is the cost curve TORQ is built around."
+    },
+    {
+      "id": "311643181664",
+      "t": 20,
+      "content": "其实我早就是 Deepseek 的老粉丝了。"
+    },
+    {
+      "id": "308595388049",
+      "t": 21,
+      "content": "opencodego才便宜"
+    },
+    {
+      "id": "311758499232",
+      "t": 22,
+      "content": "回复 @困梦的杂物间 :实则提早1个月发布（农历）"
+    },
+    {
+      "id": "308341924177",
+      "t": 23,
+      "content": "flash肯定不行，这是Pro的工作"
+    },
+    {
+      "id": "311626681968",
+      "t": 20,
+      "content": "看看晚上的美股你就知道了[doge]"
+    },
+    {
+      "id": "311730168048",
+      "t": 22,
+      "content": "应该能跑个Q2量化的吧"
+    },
+    {
+      "id": "6a6e0938000000000802f3a5",
+      "t": 24,
+      "content": "有一些想知道您平时用5.6做什么啊？我用了gpt、kimi、ds、glm、ds，真的好像没感觉到有本质上的差距啊[捂脸R]我做数据处理，调用matlab、stata啥的，感觉干出来的活都差不多。自己做好了足够规范的技能，产出没什么大差别。现在主力都换成ds flash了，因为又快又便宜。gpt下个月不打算续了，因为之前脑子一热买了一年的kimi。\n我总看人说做出来的东西差距有多大，说claude和gpt有多聪明，但我真是没感觉到啊。深度开发啥的我不做，主要是学术研究、做些技能、做点小app自己用。所以我很好奇您是做了什么体会到这些模型间的差距的呢？"
+    },
+    {
+      "id": "6a6d899d000000002902d892",
+      "t": 15,
+      "content": "兄弟大义[点赞R]"
+    },
+    {
+      "id": "308513375553",
+      "t": 25,
+      "content": "双路epyc插满16条16g的再加一张3090应该可以[doge_金箍]"
+    },
+    {
+      "id": "308612887457",
+      "t": 26,
+      "content": "luna它便宜啊"
+    },
+    {
+      "id": "308335285505",
+      "t": 20,
+      "content": "还没有多模态能力"
+    },
+    {
+      "id": "308419009185",
+      "t": 27,
+      "content": "回复 @一一dol :降价前是6刀的输出"
+    },
+    {
+      "id": "7668950649548276531",
+      "t": 28,
+      "content": "我已经把z退订了 [看]"
+    }
+  ]
+}

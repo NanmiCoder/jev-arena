@@ -1,0 +1,790 @@
+{
+  "items": [
+    {
+      "id": "308555527073",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问教程所用APP，未表达褒贬。"
+    },
+    {
+      "id": "6a6dcc70000000000b039d09",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "询问接入的agent，并明确表示好用。"
+    },
+    {
+      "id": "7669017711455978277",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "强调Agent能力与复杂思考的概念区别。"
+    },
+    {
+      "id": "7668882303629099835",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问已有接入是否自动调用正式版。"
+    },
+    {
+      "id": "p0yv097",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型内容限制与越狱方式。"
+    },
+    {
+      "id": "311709143680",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "“诗人”配笑哭疑似玩梗，具体指代不明。"
+    },
+    {
+      "id": "311849642640",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "认为Z模型设计较弱且资源能耗更高。"
+    },
+    {
+      "id": "311751014528",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "以“梁历”调侃发布时间，含兑现时间疑虑。"
+    },
+    {
+      "id": "7669000189198517044",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃进入斩杀线，但未说明具体对象。"
+    },
+    {
+      "id": "311718633856",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement",
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.4,
+      "reason": "以低价为由表示要求不宜过高。"
+    },
+    {
+      "id": "7668838897962959665",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "介绍GO套餐价格、额度与计价规则。"
+    },
+    {
+      "id": "311853709808",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "说明Flash与Pro当前版本状态。"
+    },
+    {
+      "id": "308521617313",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问自身与cc数值差异，指标含义不明。"
+    },
+    {
+      "id": "308595121393",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "肯定低价与够用效果，并认为推动竞品进步。"
+    },
+    {
+      "id": "311686674656",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "喜爱猫娘形象，是否评价AI产品存在歧义。"
+    },
+    {
+      "id": "308580193297",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "反对价格优先，强调安全；AI指代不够明确。"
+    },
+    {
+      "id": "7668997845227553573",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以激活参数差异纠正比较，GPT规模用推测表述。"
+    },
+    {
+      "id": "311752110256",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述个人对AGI、多模态及目标的理解。"
+    },
+    {
+      "id": "308491061249",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "other",
+        "suggestion"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "表达等待自家agent，未直接评价现有产品。"
+    },
+    {
+      "id": "2083152277653823551",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "强调升级范围，并认可低成本Agent能力进展。"
+    },
+    {
+      "id": "311895030064",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "借大模型能力否定学外语价值，语气带责备。"
+    },
+    {
+      "id": "308600210145",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "agreement",
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": null,
+      "reason": "将功劳归于英伟达，真诚赞同或反讽难定。"
+    },
+    {
+      "id": "311909049760",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.1,
+      "reason": "仅追问对方为何沉默，可能带挑衅但无AI讨论。"
+    },
+    {
+      "id": "308559896913",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "capability",
+        "price"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "求可复现测试案例，省钱与效果判断均有条件。"
+    },
+    {
+      "id": "308386787409",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问学习方法，但“这种”缺少明确指代。"
+    },
+    {
+      "id": "7668954979591488293",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "贬低套餐实用价值，认为没必要买Claude。"
+    },
+    {
+      "id": "308330258817",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "price"
+      ],
+      "e": [
+        "惊喜",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "惊喜于自动测试调试能力，并调侃竞品涨价。"
+    },
+    {
+      "id": "308460176305",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "quality"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "阐述价格优先、质量够用的消费取舍。"
+    },
+    {
+      "id": "6a6c5687000000000802f48e",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "明确强烈称赞模型强且好用。"
+    },
+    {
+      "id": "311784009712",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "trust",
+        "other"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "讨论AI工程职责，批评对方身份与技术逻辑。"
+    },
+    {
+      "id": "308412520833",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议按官网API文档教程操作。"
+    },
+    {
+      "id": "p0v4i8i",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "other",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.1,
+      "reason": "借开闸比喻模型发布影响，具体态度不明。"
+    },
+    {
+      "id": "308416040593",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问Pro下落或发布情况，未明确表达不满。"
+    },
+    {
+      "id": "308486565681",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.7,
+      "reason": "肯定现有能力并预测大模型竞争力，排除前端。"
+    },
+    {
+      "id": "6a6de0ea000000002a02dc48",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问标题相关产品每月费用。"
+    },
+    {
+      "id": "6a6d9e6a0000000015016e32",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "谈MU股价下跌与抄底意外，未讨论AI使用。"
+    },
+    {
+      "id": "308410327857",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "赞同并斥责阻碍科技发展，具体AI关联不明。"
+    },
+    {
+      "id": "311893568800",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "用“卒”调侃竞品落败，构成负面竞争评价。"
+    },
+    {
+      "id": "7668906874305364782",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问双机及1M上下文条件下的实际速度。"
+    },
+    {
+      "id": "311656895184",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "提供DeepSeek状态页网址，未说明具体故障。"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "topics": [
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Has anyone actually used DeepSeek V4 Flash 0731 to solve complex, real-world problems in medium to large production codebases? I’m looking for honest feedback, not hype or toy-project benchmarks",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash 0731",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "Deepseek V4 Flash最新测评！Claude Code版！",
+    "DeepSeekV4-flash上线 外网的反应 开源免费就没有不香的道理",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "被接入Codex的DeepSeek V4 Flash正式版惊到了！",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "正式版DeepSeek V4 Flash 进步巨大！干翻上代大哥",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Deepseek V4 Flash 0731 llama.cpp tips?",
+    "DeepSeek V4-Flash is officially out, still dirt cheap. USA don't like that, and want ban open source models.",
+    "Deepseek v4 flash 0731 real experience. It is definitely shocking the world, But do they have enough capacity?",
+    "DeepSeek V4 Flash 0731 dropped with weights on HuggingFace",
+    "要被外网的一些评论笑死了😂😂😂",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测"
+  ],
+  "comments": [
+    {
+      "id": "308504414241",
+      "t": 0,
+      "content": "回复 @江昕一 :对，只算是“兼容性改善”，理解成“全面支持”的真是扯淡了。DeepSeek 做的工作就是 Codex 返回一个截图之后，DeepSeek 不报 400error，并不是“支持”🌚"
+    },
+    {
+      "id": "7668876413484122931",
+      "t": 1,
+      "content": "glm 才嚣张了一个月，涨价饥饿营销。就被kimi3 给反超。现在梁圣给他致命一击"
+    },
+    {
+      "id": "7668886088706048825",
+      "t": 2,
+      "content": "在cc switch上改就行吗，那个底层模型那部分[泣不成声]"
+    },
+    {
+      "id": "311633246368",
+      "t": 3,
+      "content": "不用的，建议你日常混合用，PRO用来写提纲，定框架，拆分任务，FLASH用来执行具体子任务，这样比较省钱，效率还高。"
+    },
+    {
+      "id": "p11umlu",
+      "t": 4,
+      "content": "It is much much better than the preview version."
+    },
+    {
+      "id": "311745368880",
+      "t": 5,
+      "content": "回复 @_Water_Bucket_ :跟你有什么关系吗"
+    },
+    {
+      "id": "7668848249516639013",
+      "t": 1,
+      "content": "30亿150块，大部分是flash，pro大概啊40块"
+    },
+    {
+      "id": "308445928433",
+      "t": 6,
+      "content": "搞不明白你们为什么总喜欢让他一句话写成一个项目，有什么意义吗？你们这些搞测试的到底会不会测？你们不应该去测他的工程理解能力、编码能力吗？应该是给他一个项目，里面有 bug 让他去修复，让他去筛选里面的业务逻辑，或者是让他理解项目之后去拓展功能啊。这才是真正的使用场景，而且考验真实工作能力的。"
+    },
+    {
+      "id": "2083297010313232665",
+      "t": 7,
+      "content": "@deepseek_ai DeepSeek comeback 🙏"
+    },
+    {
+      "id": "308407195185",
+      "t": 8,
+      "content": "ds4 Flash 适配 codex  效果比 cc 好"
+    },
+    {
+      "id": "308405340833",
+      "t": 5,
+      "content": "deepseekv4flash特别容易debug，bug确实出现的少但是感觉会多花一点钱，不过迭代还是可以的，最重要的是编曲比原本好了[doge]现在的编曲居然会贴切主题"
+    },
+    {
+      "id": "311922811744",
+      "t": 9,
+      "content": "他输出文件（比如markdown、ppt）这些你点击一下一般可以在右侧区域预览的。你是不是没有输出文件"
+    },
+    {
+      "id": "308348185841",
+      "t": 3,
+      "content": "回复 @金剛 :酒馆的重点不是模型性能，是有没有搭载更好的第三方摘要插件，有没有给向量存储接入好的检索模型，有没有调教好所有的提示词注入"
+    },
+    {
+      "id": "7668979577574949642",
+      "t": 10,
+      "content": "截图扔给豆包让他帮你看，你想看哪个地方就让他总结或者全部描述出来然后再当关键词给codex就行了"
+    },
+    {
+      "id": "308590423969",
+      "t": 11,
+      "content": "回复 @虚幻仙贝 :可以说对实际工程中没有任何参考性，因为这种测试没有任何约束可以随便发挥。实际工程中即使不直接面对甲方，也会有十分详细的架构设计跟文档来约束，AI在这里面只是个加速落地的工具而已，不需要也不可能让它自由发挥。更不用说很多工程在落地的时候还面临各种适配跟优化问题。。。\n举个最简单的例子，如果是做一些基于公司内部私有协议甚至专用硬件的开发，指令遵从跟推理能力远比这种“一句话生成啥啥啥”的表现更重要。"
+    },
+    {
+      "id": "p0xl4fr",
+      "t": 12,
+      "content": "The leap in quality of DeepSeek V4 Flash in recent days has been truly remarkable, astounding. I had two parallel sessions running on the same topic, one with Flash and the other with Pro. Flash was nearing its 1M limit, while Pro was at 500k.\n\nAnd Flash felt much more reliable and precise. This was despite the fact that the session had evolved between different topics, and Pro had been opened in a fresh session specifically for one task."
+    },
+    {
+      "id": "7668926356822410042",
+      "t": 1,
+      "content": "想多了[捂脸]"
+    },
+    {
+      "id": "311655872944",
+      "t": 13,
+      "content": "你用用酒馆呗……"
+    },
+    {
+      "id": "7668870659568943921",
+      "t": 14,
+      "content": "确实是的，再加上我用的中转，输入 0.07，命中缓存 0.007/M"
+    },
+    {
+      "id": "311727246336",
+      "t": 15,
+      "content": "法务:你最好知道自己在干嘛，在说啥。好了，你现在可以开始了。"
+    },
+    {
+      "id": "311901129344",
+      "t": 16,
+      "content": "回复 @马刺席安 :核聚变真不应该出海，有些真得掌握在手里别人才依附你[笑哭]"
+    },
+    {
+      "id": "6a6dda340000000029018c9c",
+      "t": 17,
+      "content": "本地部署的话硬件设备应该可以买黄浦江旁边一套房"
+    },
+    {
+      "id": "7668963978547135232",
+      "t": 10,
+      "content": "老美痛苦的很，为什么摸着它一个薅羊毛"
+    },
+    {
+      "id": "p14e7ki",
+      "t": 18,
+      "content": "Like 0.5% of this community can run these models but it is a great thing and will help the rest of the community with time. I speak already in a privileged spot of dual 3090's. But more options keeps the big boys like Claude and OpenAI in check and that's the best thing in itself."
+    },
+    {
+      "id": "308434042449",
+      "t": 15,
+      "content": "之前灰度测试的时候，很多人说Claude Code  ，会修改提示词，导致不是自己家的模型降智。"
+    },
+    {
+      "id": "308545310961",
+      "t": 19,
+      "content": "感觉比接入claude贵了不少，这不是我得错觉吧，用的codex修改写了300个代码8毛钱没了[笑哭]"
+    },
+    {
+      "id": "311776694736",
+      "t": 8,
+      "content": "回复 @Multimedia文学编辑社 :“下限非常高”但“一半神魔”你这对吗？？"
+    },
+    {
+      "id": "311665142848",
+      "t": 20,
+      "content": "为什么你只会测试测试这种简单的页面[doge]复杂长程任务也要测"
+    },
+    {
+      "id": "308339119217",
+      "t": 21,
+      "content": "我的天呐我怎么想不到这个角度来串（"
+    },
+    {
+      "id": "308361538753",
+      "t": 22,
+      "content": "回复 @不吃肉真的会死 :是诶，我没认真看，不是说专注做agi吗（"
+    },
+    {
+      "id": "7668854903515644682",
+      "t": 1,
+      "content": "ds为啥不搞多模态啊？"
+    },
+    {
+      "id": "308445684401",
+      "t": 23,
+      "content": "回复 @生命窃取III :请问就是按照视频开头那样在网页充就行了吗，用cherry就可以正常使用吗"
+    },
+    {
+      "id": "p12c2hp",
+      "t": 24,
+      "content": "Bro, WTF is that in the top left corner of the picture watching you??? RUN!!!"
+    },
+    {
+      "id": "p12t7o4",
+      "t": 25,
+      "content": "https://preview.redd.it/4bb1b27gzrgh1.png?width=804&format=png&auto=webp&s=91672cd72b5884459be89382705e69109dc3f879\n\n  \nLast month’s deepseek api bill for my home lab. Even at Luna’s pricing, that would be $60."
+    },
+    {
+      "id": "p14s5fq",
+      "t": 26,
+      "content": "i can confirm on par or even better than glm 5.2 its like a better doctor can't wait for v4 pro but i haven't seen many headlines about it tho"
+    },
+    {
+      "id": "p0xz0wr",
+      "t": 27,
+      "content": "A bit late."
+    },
+    {
+      "id": "6a6d9e1d000000002a02eb9d",
+      "t": 28,
+      "content": "A社现在最怕的是DeepSeek又突然安静地消失了"
+    },
+    {
+      "id": "6a6c580b000000002300217f",
+      "t": 29,
+      "content": "我自己魔改的agent系统。给它接了看图的。能看图，简单用用还行。真正需要视觉的任务，和原生的多模态还是有差别的。[失望R]"
+    },
+    {
+      "id": "308513019489",
+      "t": 30,
+      "content": "比Luna略好一点点，不过要是把Luna调到max的话，那还是Luna强一点，但是这样成本就显著高一节了"
+    },
+    {
+      "id": "7668925400554783526",
+      "t": 1,
+      "content": "做Ai斩杀线够了，谁贵谁死"
+    }
+  ]
+}

@@ -1,0 +1,810 @@
+{
+  "items": [
+    {
+      "id": "311763053072",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "称赞写得不错，可能指早报内容，也可能指模型产出。"
+    },
+    {
+      "id": "311673839488",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃讲述者声音，未评价AI。"
+    },
+    {
+      "id": "p13t79p",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "抱怨OpenCode频繁停顿重做，并对比Pi表现。"
+    },
+    {
+      "id": "7668653724411249467",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型激活参数量。"
+    },
+    {
+      "id": "311742163072",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "批评GLM编程磕绊、工具慢，并与DS比较。"
+    },
+    {
+      "id": "311788352896",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "明确称赞zcode工具好用。"
+    },
+    {
+      "id": "6a6d2df9000000000501478d",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问使用服务注册时是否需要实名。"
+    },
+    {
+      "id": "311747505952",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅有邀请码链接，无实质讨论。"
+    },
+    {
+      "id": "6a6f313a0000000004039a1b",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "愤怒",
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "强烈抱怨API价格及审核限制。"
+    },
+    {
+      "id": "311810461936",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "整体认可flash，同时明确指出设计能力差。"
+    },
+    {
+      "id": "7668719082326410021",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "感叹平台关注及更新少，是否特指模型发布略有歧义。"
+    },
+    {
+      "id": "311829377248",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "trust",
+        "price"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.4,
+      "reason": "提醒低价中转站可能偷换模型。"
+    },
+    {
+      "id": "7669228788547404581",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合标题询问模型或视频工作流如何接入。"
+    },
+    {
+      "id": "311880911872",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "以复现场景失败的体验质疑多模态实际增益。"
+    },
+    {
+      "id": "7669408951217423140",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Codex接DS API后的编程表现。"
+    },
+    {
+      "id": "308387921409",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "自称大拇指的玩梗，未讨论AI使用。"
+    },
+    {
+      "id": "311881754576",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "求助相同问题，可能涉及接入教程但具体问题缺失。"
+    },
+    {
+      "id": "7669033496261788453",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "称赞怀旧效果还原，是否为AI产出不明确。"
+    },
+    {
+      "id": "311640103248",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "赞同并以同任务体验称赞flash后训练提升。"
+    },
+    {
+      "id": "308364584769",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃",
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "以过拟合理科生比喻模型，带无奈调侃。"
+    },
+    {
+      "id": "p11hnes",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "依据架构推断推理与上下文能力弱于稠密模型。"
+    },
+    {
+      "id": "308416255457",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "介绍官方脚本备份、切换和恢复Codex配置。"
+    },
+    {
+      "id": "308599064353",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "production"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明视频制作参考来源，未讨论AI模型或使用。"
+    },
+    {
+      "id": "6a6e105a000000002901a6eb",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "似在得意表示免费使用，具体对象依赖缺失语境。"
+    },
+    {
+      "id": "308486373185",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "指出使用中转站并认为官方计费难以负担。"
+    },
+    {
+      "id": "2083580007394263464",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "反对将不同运行框架下的结果直接归为模型优劣。"
+    },
+    {
+      "id": "311741732416",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问网页位置，缺失上文无法确定是否指AI工具。"
+    },
+    {
+      "id": "308420830577",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "介绍账号额度及能力，认为Luna性价比更高。"
+    },
+    {
+      "id": "7668753576713601849",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "论述视觉压缩造成信息缺失及后续能力上限。"
+    },
+    {
+      "id": "311720894512",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price",
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "拿低成本DS表现设计嘲讽话术，主要为玩梗。"
+    },
+    {
+      "id": "308577559377",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问适合flash文档写作的国内agent。"
+    },
+    {
+      "id": "308480046673",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0,
+      "reason": "明确称赞3.2，同时批评R1容易写出怪内容。"
+    },
+    {
+      "id": "308565252129",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合本地部署标题确认双机并发与生成速度。"
+    },
+    {
+      "id": "308449885249",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "反驳前端能力强的说法，有限认可代码与工具能力。"
+    },
+    {
+      "id": "308448693505",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "capability"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "反讽测评不用Max，认为低价应允许提高思考强度。"
+    },
+    {
+      "id": "308573529361",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "补充模型约304B参数，是否纠正上文不明确。"
+    },
+    {
+      "id": "7669023890497487670",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "反问是否该有求必应，所指对象与事情缺失。"
+    },
+    {
+      "id": "6a6f0ebd0000000015003b9d",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "抱怨默认快速模式消耗额度并批评轻用户策略。"
+    },
+    {
+      "id": "308462562369",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "满意于可用额度安排，并期待周限恢复和重置。"
+    },
+    {
+      "id": "7668725854675174193",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合模型实测标题陈述可以绕开限制，未表达褒贬。"
+    }
+  ]
+}

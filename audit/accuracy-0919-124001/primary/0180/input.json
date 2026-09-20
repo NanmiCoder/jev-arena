@@ -1,0 +1,235 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "美国小哥实测DeepSeekV4Flash：花不到1美元，AI给他做了个GTA+射击游戏，这Flash怎么比pro还pro？",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "DeepSeek V4 Flash 0731 out now!",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "Deepseek V4 flash正式版可以直接接入Codex",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "国家超算互联网上线DeepSeek-V4-Flash API",
+    "DeepSeek-V4-Flash Official API is now LIVE in public beta! Massive upgrades for flash model.",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Deepseek v4 Flash 0731 through OpenCode in Codex?",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "要被外网的一些评论笑死了😂😂😂",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？"
+  ],
+  "comments": [
+    {
+      "id": "7668976878547600177",
+      "t": 0,
+      "content": "之前给他一个需求，他总是不断用错误方法去尝试，他 get 不到正确的点。总体感受不像一个主流的 Agent。我平常是用 claude 的，这一次更新完之后，我觉得是能跟 claude 掰手腕的，多模态我平时用不太到，代码层面是可以的。"
+    },
+    {
+      "id": "308487844481",
+      "t": 1,
+      "content": "max推理了没"
+    },
+    {
+      "id": "7669287334638093093",
+      "t": 2,
+      "content": "可以让他接一个多模态模型"
+    },
+    {
+      "id": "6a6dd93f000000000802d031",
+      "t": 3,
+      "content": "@Caleb salute"
+    },
+    {
+      "id": "311819311760",
+      "t": 4,
+      "content": "新人游戏PVP剧本up主，有人助力一下吗[脱单doge]"
+    },
+    {
+      "id": "308528214817",
+      "t": 5,
+      "content": "[呲牙]投资公司，AI算是副业。"
+    },
+    {
+      "id": "308487815137",
+      "t": 6,
+      "content": "关闭推测解码的混合推理prefill 3100t/s, decode 75t/s，双路epyc 9684，24通道ddr5，一张rtx pro 6000，DeepSeek V4 Flash 0731"
+    },
+    {
+      "id": "308491471297",
+      "t": 7,
+      "content": "回复 @桃含春泪 :我 sol 最高有点感觉"
+    },
+    {
+      "id": "311854565984",
+      "t": 8,
+      "content": "回复 @风速前进 :甚至最贵的那几个才是亏本"
+    },
+    {
+      "id": "p10ae3m",
+      "t": 9,
+      "content": "I have a framework desktop, should I run the 2 but or 3 bit. I want a decent amount of context but how much \"dumber\" would the lower quant be"
+    },
+    {
+      "id": "7668702205101081380",
+      "t": 10,
+      "content": "Image gen这种类似的工具。智能体调用，并不是大模型直接生成。"
+    },
+    {
+      "id": "308398927361",
+      "t": 11,
+      "content": "同样部署了，感觉就是真的快，以前每一步要思考很长一段时间，现在非常快就思考完了到下一个节点"
+    },
+    {
+      "id": "6a6dada4000000000500b852",
+      "t": 12,
+      "content": "macos系统的话，在终端App界面; windows系统的话，在powershell界面"
+    },
+    {
+      "id": "311795070384",
+      "t": 11,
+      "content": "回复 @洛樱、 : 比起DSV4肯定有不小差距，pro 5000的优势就是跑小模型快一点了，还有就是可以顺便玩个游戏什么的。不过我还没买，再等等看，期待量化版，还有qwen3.8不知道会不会开源中小模型。"
+    },
+    {
+      "id": "7668729310027957041",
+      "t": 10,
+      "content": "预览版，我也用了差不多一个月的预览版，花了六七十块钱"
+    },
+    {
+      "id": "308496550865",
+      "t": 13,
+      "content": "被看到爆炸在原子弹上，那一刻就像吓到椅子眩晕瘫坐"
+    },
+    {
+      "id": "311776948720",
+      "t": 13,
+      "content": "看你 pro 哥哥乱杀吧[星星眼][星星眼][星星眼]，pro+官方 harness，不敢想有多强"
+    },
+    {
+      "id": "6a6f2815000000002a00773a",
+      "t": 14,
+      "content": "这个“国家超算”是国营吗"
+    },
+    {
+      "id": "p0uifmi",
+      "t": 15,
+      "content": "People don't understand how big deal this is, it's 18 cents per million tokens output. It's basically free and some providers even allowing you to use it for free with reduced context windows. And yet it's caught up to the point where you can use it like opus 4.6. which is all you really need for 95% of software development if you know what you're doing.\n\nMy boss gave us all 800 dollars per month Claude API budget, but I would estimate that most of the queries ran past Claude in our office could be satisfied by this model. This is really going to challenge anthropic's business model once companies understand how much they could save."
+    },
+    {
+      "id": "311691500336",
+      "t": 16,
+      "content": "回复 @薛丁格的貓娘 :Codex调用本地模型也都没问题，就出在ds不知道为啥"
+    },
+    {
+      "id": "308330229825",
+      "t": 17,
+      "content": "[Mygo表情包_探头]之前我想订个套餐，它直接给我缺货，给我整不会了"
+    },
+    {
+      "id": "311827027952",
+      "t": 13,
+      "content": "谷歌在2.5以后就被斩杀了啊"
+    },
+    {
+      "id": "p1594g9",
+      "t": 18,
+      "content": "Is Luna - High and Deepseek Pro not the same price after the price cut?"
+    },
+    {
+      "id": "308430302273",
+      "t": 19,
+      "content": "先问问这群人用不用API再说吧，别拿个网页版搁那说去了"
+    },
+    {
+      "id": "17927131",
+      "t": 20,
+      "content": "@congminhcap246 opus5 和 DeepSeek 的不错"
+    },
+    {
+      "id": "308407986865",
+      "t": 21,
+      "content": "回复 @风一吹还没散 :我咋记得里面有说v4后面会出多模态🤔"
+    },
+    {
+      "id": "6a6d759c000000000802e271",
+      "t": 22,
+      "content": "ds坚决使用国产显卡的方向是对的"
+    },
+    {
+      "id": "311634760048",
+      "t": 17,
+      "content": "我也不用来编程,就是个写些自high小说的,我实测下写小说智商不太行,还是得等pro的"
+    },
+    {
+      "id": "311928252368",
+      "t": 23,
+      "content": "呆毛样式不对（"
+    },
+    {
+      "id": "308331510417",
+      "t": 17,
+      "content": "这个价格是在胡说吧"
+    },
+    {
+      "id": "311831798144",
+      "t": 4,
+      "content": "回复 @小猫咪【神】 :网页的识图模式,API还是瞎子"
+    },
+    {
+      "id": "308387753921",
+      "t": 24,
+      "content": "大肥鱼变成小猫娘啦[打call]"
+    },
+    {
+      "id": "308437517729",
+      "t": 4,
+      "content": "0 秒猜出用的什么输入法[笑哭]"
+    },
+    {
+      "id": "17925514",
+      "t": 20,
+      "content": "@jxl594 国内唯一个能用的很爽的，能和 grok4.5 流畅，解决大部分问题不用反复问，我就非常满足了。deepseek falsh 已经满足我的需求了。我下个月把 grok 切换过来。"
+    },
+    {
+      "id": "311682578176",
+      "t": 25,
+      "content": "期待后续把pro和搭配的deepseek harness也一并发布。或许跑在ds harness上的让ds，能比跑在codex/cc上的表现还更好？[doge]"
+    },
+    {
+      "id": "7668919148764889905",
+      "t": 26,
+      "content": "ai毒圈说是，梁圣提这个大刀就开始斩杀，“听说你没进步是吧[愉快]”"
+    },
+    {
+      "id": "7669033043776127794",
+      "t": 26,
+      "content": "更便宜更强，有点反直觉"
+    },
+    {
+      "id": "308354532225",
+      "t": 17,
+      "content": "回复 @哭红颜_唤不回 :但针对成年的审查反而不严了（"
+    },
+    {
+      "id": "6a6e1f3c0000000014038d09",
+      "t": 27,
+      "content": "我觉得叫超雄模式[doge]"
+    },
+    {
+      "id": "308595646481",
+      "t": 28,
+      "content": "回复 @rfiacne :不如买几毛钱的微软邮箱。不断白嫖 半价"
+    }
+  ]
+}

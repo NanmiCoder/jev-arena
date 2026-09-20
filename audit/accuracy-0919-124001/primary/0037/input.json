@@ -1,0 +1,232 @@
+{
+  "topics": [
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "Deepseek V4 Flash update on ArtificialAnalysis",
+    "DeepSeekV4-flash上线 外网的反应 开源免费就没有不香的道理",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 0731 out now!",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "deepseekV4Flash正式版上线并针对适配Codex",
+    "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "Deepseek V4 flash正式版可以直接接入Codex"
+  ],
+  "comments": [
+    {
+      "id": "311877279088",
+      "t": 0,
+      "content": "回复 @mydearElysia :没，参数量没变，底膜还是那个"
+    },
+    {
+      "id": "7669240051423281969",
+      "t": 1,
+      "content": "这个评测的方法或机构，是否可靠？"
+    },
+    {
+      "id": "311731311536",
+      "t": 2,
+      "content": "ds官网招聘：多模态理解研究员[吃瓜]，有感觉吗"
+    },
+    {
+      "id": "311856065680",
+      "t": 3,
+      "content": "回复 @黑猴不出dlc不改名 :试了一下本地 llm studio 部署 glm-4.6V，然后用本地 mcp 去调用。效果也还行，就是我本地算力不行，显存最多只能分到16G，很慢"
+    },
+    {
+      "id": "311726109312",
+      "t": 4,
+      "content": "统一回复为什么用 cc switch：\n1. 视频主要面向小白，cc 只要配置粘贴一个 key 就可以了，还可视化，这就是最简单的操作\n2. 方便后续切其他的配置\n\n至于老手愿意用官方的一键安装，那就用，但我不认为小白懂得打开终端去跑命令。"
+    },
+    {
+      "id": "311662596784",
+      "t": 5,
+      "content": "回复 @bili_79178710098 :酒馆有什么链接，就自己装好就能用了啊"
+    },
+    {
+      "id": "308547467041",
+      "t": 2,
+      "content": "林一居然被提到了"
+    },
+    {
+      "id": "7668859817449030434",
+      "t": 6,
+      "content": "这个V4 flash正式版跟pro 预览版对比，能力相当吗？"
+    },
+    {
+      "id": "p0uhzu4",
+      "t": 7,
+      "content": "Damn, that's why I am talking about, make it so good and cheap that openai had to cut prices because this competition \n\nAll hail competition"
+    },
+    {
+      "id": "308580413361",
+      "t": 8,
+      "content": "回复 @自然造字师斯庙算多 :唐杰，智谱那个"
+    },
+    {
+      "id": "308398593841",
+      "t": 9,
+      "content": "回复 @推个车吧怕拿不住 :你知不知道284B的模型应该是什么定位[辣眼睛]"
+    },
+    {
+      "id": "p10513b",
+      "t": 10,
+      "content": "Has anybody tried it on an Asus ROG Flow Z13 (128 GB) or equivalent (AMD Ryzen AI Max+ 395)?   \nWhat performance can be expected in terms of tok/sec?"
+    },
+    {
+      "id": "7668933733566776113",
+      "t": 11,
+      "content": "完全可以！[尬笑][尬笑]能力不错！！！"
+    },
+    {
+      "id": "7669149087077860133",
+      "t": 1,
+      "content": "K3那价格我感觉我用了会破产啊"
+    },
+    {
+      "id": "308578693841",
+      "t": 2,
+      "content": "回复 @喝茶的老村长 : [Mygo表情包_Love]我是原作，我没意见"
+    },
+    {
+      "id": "308422448369",
+      "t": 12,
+      "content": "回复 @清风不动 :ds api 是赚钱的啊，你想说覆盖掉所有研发费用才叫赚钱啊，急啥呢，现在又有融资，可不会像 glm 一样天天怪用户太多，压力大"
+    },
+    {
+      "id": "311749347456",
+      "t": 13,
+      "content": "回复 @ranpeppa :这种直接网页版就行了，agent是生产力"
+    },
+    {
+      "id": "308516930529",
+      "t": 14,
+      "content": "原因很简单，因为他没有"
+    },
+    {
+      "id": "7668928209686086406",
+      "t": 11,
+      "content": "deepseekv4之前不是就出了吗[黑脸]我穿越了吗"
+    },
+    {
+      "id": "311734142496",
+      "t": 4,
+      "content": "看置顶评论；flash 的 model code 对应的就是正式版"
+    },
+    {
+      "id": "7668755918720762634",
+      "t": 15,
+      "content": "我就问你数据是什么时候出的 4.8的数据是什么时候出的 你说他早出一个月 应该拿早出一个月那个时候的数据来比，你不应该拿7月31号的数据来比 你说他训练了这么久，我问你4.8他训练了多久 他训练的时间还没有V4多 你这么比你扪心自问一下公平吗？ 你这个4.8的数据是什么时候的？？？？"
+    },
+    {
+      "id": "308458281777",
+      "t": 16,
+      "content": "对手自然是GLM5.2和GPT5.6 Luna ，GPT5.6 terra"
+    },
+    {
+      "id": "308609189185",
+      "t": 2,
+      "content": "我昨天做游戏这是自己浏览器截图去识别的。没有用python"
+    },
+    {
+      "id": "311730279456",
+      "t": 17,
+      "content": "1.时间就是便宜的代价，开多子agent，多个任务一块跑，我就是这么处理。2.我的解决方案是多任务目标一起提交，让他自己逐步完成逐步核对，个人感觉使用没问题"
+    },
+    {
+      "id": "7668878181722784546",
+      "t": 18,
+      "content": "看了你的视频，我马上又去下单了一台DGX spark，我发现已经在慢慢涨价了"
+    },
+    {
+      "id": "6a6c854b000000002b0004c7",
+      "t": 19,
+      "content": "现在就是吗[笑哭R]那我试试"
+    },
+    {
+      "id": "p103zh2",
+      "t": 20,
+      "content": "Gonna be honest : Luna > Deepseek Flash 0731 \n\nJust for the privacy (since deepseek privacy policy is shady)"
+    },
+    {
+      "id": "p0tyy0e",
+      "t": 7,
+      "content": "10 points jump lol\n\nOther lab would have release this as .5 model"
+    },
+    {
+      "id": "17926247",
+      "t": 21,
+      "content": "不支持多模态......"
+    },
+    {
+      "id": "7668913256529986304",
+      "t": 11,
+      "content": "[流泪]我好像确实落后于时代了   看评论区我都看不懂也没有使用的需求  只知道应该挺厉害的"
+    },
+    {
+      "id": "6a6d44af000000002a02da30",
+      "t": 22,
+      "content": "10元左右，前端能力比kimi3差一点点，比之前的v4pro强多得多"
+    },
+    {
+      "id": "308357180417",
+      "t": 12,
+      "content": "说ai味太重的，没看见别人思维链挺活跃的吗，是你们自己的上下文被污染太严重，而且不同agent的底层安全限制也不同，哪怕进酒馆，你们各自插键和上下文的污染也有问题，自己去下一个本地agent比什么都好使"
+    },
+    {
+      "id": "308587943633",
+      "t": 2,
+      "content": "回复 @安梦待无忧 :我用vscode里装deepseek插件，感觉也不错，就是flash会自己截图检查很难绷，贝多芬来了。"
+    },
+    {
+      "id": "308551658145",
+      "t": 16,
+      "content": "回复 @vicdogdog :我没有订阅过，我只知道免费的，它是20万上下文，订阅的go套餐，你确定是20万吗"
+    },
+    {
+      "id": "6a6e79b2000000001403a745",
+      "t": 23,
+      "content": "所有不如他的美国公司全死，完全融不到钱了"
+    },
+    {
+      "id": "6a6daac9000000002b029f01",
+      "t": 24,
+      "content": "[捂嘴笑R]急急急"
+    },
+    {
+      "id": "7668811957805351707",
+      "t": 18,
+      "content": "我想问一下两天dgx部署v4flash后是不是需要一个macmini做跳板机接入使用那么这个跳板机什么配置比较合适？我差一个macmini但是现在涨价[流泪][流泪][流泪]然后感觉马上要出新的Macmini现在买有点亏"
+    },
+    {
+      "id": "7669083719399572282",
+      "t": 1,
+      "content": "我的max订阅9月到期，已经取消续订了[白眼]"
+    },
+    {
+      "id": "6a6dd9040000000021010b1a",
+      "t": 25,
+      "content": "我是接上了，但不知道为什么不能像图8一样能显示模型名称，我的模型都是自定义然后打开为空[笑哭R]"
+    },
+    {
+      "id": "308532696833",
+      "t": 2,
+      "content": "回复 @调逆弓归 :搞笑吧codex配最新的deepseekv4flash就是史，老是莫名其妙模型不调用工具，模型自己还以为自己在调用只是结果没出来 给我气笑了"
+    }
+  ]
+}

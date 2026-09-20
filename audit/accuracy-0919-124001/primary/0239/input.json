@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "梁圣加油",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash 正式版发布 - 白菜价！超高性价比的编程模型",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "DeepSeek V4 Flash深度评测：实测排名前五，国产大模型的史诗级翻身之作！",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "卧槽，DSv4-flash初步AA跑分50-51",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Minimum VRAM GPU to run DeepSeek-V4-Flash-0731 Q4_K_XL  at around 30 t/s ?",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "DeepSeek-V4-Flash-0731 – Intelligence Index vs Cost. Update",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek V4 Flash 0731 is absurdly cheap to use!!",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "突发！DeepSeek V4 Flash正式版API上线公测"
+  ],
+  "comments": [
+    {
+      "id": "7668894959210824505",
+      "t": 0,
+      "content": "大佬们，用不同的agent，性能会有区别吗？"
+    },
+    {
+      "id": "7669020251229766449",
+      "t": 1,
+      "content": "追着杀[捂脸]"
+    },
+    {
+      "id": "7668862861246055194",
+      "t": 0,
+      "content": "说个冷知识，Deepseekv4Pro Preview已经陷入斩杀线了[看]"
+    },
+    {
+      "id": "311887027424",
+      "t": 2,
+      "content": "回复 @閃光聖愛音 :812 还有货 804 都没货哎"
+    },
+    {
+      "id": "311728573472",
+      "t": 3,
+      "content": "codex和opencode都不太行，反而是性能不怎么好的那一群效果反而好，最好的是PI"
+    },
+    {
+      "id": "311763827568",
+      "t": 4,
+      "content": "跑视频这个我觉得很弱，不如台式机显卡方案"
+    },
+    {
+      "id": "6a6dc3a5000000000d023000",
+      "t": 5,
+      "content": "瞎說什麼大實話[萌萌哒R]"
+    },
+    {
+      "id": "311902509264",
+      "t": 6,
+      "content": "回复 @虚幻仙贝 :不行，没法对比。"
+    },
+    {
+      "id": "311739447504",
+      "t": 7,
+      "content": "试过了，起飞[doge]"
+    },
+    {
+      "id": "308511785537",
+      "t": 8,
+      "content": "来了[doge_金箍]"
+    },
+    {
+      "id": "308462700241",
+      "t": 3,
+      "content": "回复 @云初子淼 : 如果自家harness也能到这种程度，那么说比肩glm5.2，真不是唬人了··"
+    },
+    {
+      "id": "308390942881",
+      "t": 9,
+      "content": "claude3.5是什么东西？"
+    },
+    {
+      "id": "311683072960",
+      "t": 10,
+      "content": "顶级ai都能独立做科研了[笑哭]复现原来的科研后还能省掉一两个步骤"
+    },
+    {
+      "id": "6a6d4a480000000015011fb0",
+      "t": 11,
+      "content": "官方 api 或者 opencode 的已经切了，其他的可能是自部署还没更新"
+    },
+    {
+      "id": "7668872405716665147",
+      "t": 0,
+      "content": "竞争太激烈了，得先发挥现有优势保活，但是多模态也会开发，不过优先级不高"
+    },
+    {
+      "id": "311781878672",
+      "t": 12,
+      "content": "回复 @Multimedia文学编辑社 :谢谢关心，不过心里毫无波澜，只想笑_(:з」∠)_"
+    },
+    {
+      "id": "17927069",
+      "t": 13,
+      "content": "什么时候原生支持多模态就好了"
+    },
+    {
+      "id": "311739325200",
+      "t": 14,
+      "content": "点了，听大家说的用露娜max，太慢太慢了"
+    },
+    {
+      "id": "6a6cda98000000002b02835d",
+      "t": 15,
+      "content": "和我测得差不多和luna medium 到high差不多GPT降价后，Deepsee..."
+    },
+    {
+      "id": "311680872352",
+      "t": 16,
+      "content": "不会的事情问AI，心里特别踏实。♣"
+    },
+    {
+      "id": "311864678400",
+      "t": 2,
+      "content": "回复 @AI观察哨 :貌似是给开发者做 ai训练开发用的。"
+    },
+    {
+      "id": "p0xtvj3",
+      "t": 17,
+      "content": "I tried the preview not the latest but I assume they are similar in inference speed. with 2 7900xtx x 24gb and 96gb ddr5 5200mhz, best I can get is 10 tk/s consistently. It's usable as planner or chat, but too slow as coding agent I would say. Prompt processing I didn't measure unfortunately.\n\nUpcoming Dflash/dspark implementation should at least double that, and there are expert caching techniques to increase another 50%. So I see the real possibility of reaching 30/35 tk/s with some time.\n\nStep 3.7 flash with MTP I can run around 25/30 tk/s already and it's not much smaller, so possibly there are code optimizations so be done in llama cpp."
+    },
+    {
+      "id": "7669044521111896883",
+      "t": 1,
+      "content": "codex++可以给codex提速"
+    },
+    {
+      "id": "308629523201",
+      "t": 6,
+      "content": "但是opencode服务端开启服务，多端连接使用，真的太方便了，有其他的更好用的能替代吗？"
+    },
+    {
+      "id": "17926833",
+      "t": 13,
+      "content": "还行，日常使用看什么任务"
+    },
+    {
+      "id": "311776643920",
+      "t": 18,
+      "content": "我觉得个人真没必要"
+    },
+    {
+      "id": "p0wvbsg",
+      "t": 19,
+      "content": "I started using GPT 5.6 Sol from the Plus subscription as the orchestrator with my Openclaw, having it delegate nearly all tasks to Flash subagents. I wonder if I even need the sub anymore? Time to let ds4 rip…"
+    },
+    {
+      "id": "311829253216",
+      "t": 12,
+      "content": "那你这缓存命中率得多高"
+    },
+    {
+      "id": "308449524065",
+      "t": 20,
+      "content": "回复 @空岛彼方 :其实看那个编号思维链，很明显不是纯血预览版，但是哪个版本我就不知道了"
+    },
+    {
+      "id": "311811433856",
+      "t": 20,
+      "content": "回复 @蜻蜓点水-涟漪无边 : 涨价在哪我问问？还有10个纯的给你点赞我没想到啊"
+    },
+    {
+      "id": "308441044625",
+      "t": 3,
+      "content": "求到了✋😭🤚tibo将军✋😭🤚"
+    },
+    {
+      "id": "6a6df0c6000000000b03a30f",
+      "t": 5,
+      "content": "ds不支持多模态 你就不该用它"
+    },
+    {
+      "id": "308468100289",
+      "t": 12,
+      "content": "回复 @墨韵良火 : 那也足够了，毕竟我的工作流程上并不会涉及超大量的数据整合，他们搞生信的可能会用得到，听你的描述的话我的工作其实摸不到使用API的程度。"
+    },
+    {
+      "id": "311715237328",
+      "t": 21,
+      "content": "没命中缓存吧"
+    },
+    {
+      "id": "6a6d65c500000000150088b5",
+      "t": 11,
+      "content": "量化恐怖如斯"
+    },
+    {
+      "id": "p10tqau",
+      "t": 22,
+      "content": "Depends on how many tokens it needs to burn to accomplish challenging tasks. You have to look at that to know whether it's cheap or not."
+    },
+    {
+      "id": "311707213408",
+      "t": 23,
+      "content": "梁圣说可以做，但不是最紧要的。只能算是支线。"
+    },
+    {
+      "id": "308407510385",
+      "t": 16,
+      "content": "回复 @情为徒有虚名 : pro现在没上正式版[笑哭]"
+    },
+    {
+      "id": "311805444352",
+      "t": 3,
+      "content": "回复 @hlfdozmeltnin :难绷，宣传都来了，这不是人自发的？😅"
+    },
+    {
+      "id": "6a6cafcc00000000150149b3",
+      "t": 24,
+      "content": "今天有个程序员发信息给我说 \n这是他工作以来最好的夏天 \n这一年他下载了codex和其他harness \n把所有的工作都扔进了coding agent \n干了5年的工作量 \n模型到处打折，随便跑个1000亿tokens只要一周的薪水就够（Luna降价+pro20x订阅） \n今天在Discord水贴 \n频道上突然所有人停下手头的事 \n一起转发DeepSeek V4 Flash正式版API上线的消息 \n他说很开心，有种人类黄金时代的错觉"
+    }
+  ]
+}

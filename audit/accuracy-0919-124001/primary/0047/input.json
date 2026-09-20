@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "DeepSeek-V4-Flash-0731 UD-IQ3_XXS about 11t/s on 1x 7900 XTX 24GB + 3x MI60 32GB + 128GB DDR4",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "DeepSeek V4-Flash is officially out, still dirt cheap. USA don't like that, and want ban open source models.",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "DeepSeek-V4-Flash-0731正式上线\n\nTerminal-Bench：61.8 → 82.7\n\n DeepSWE：7.3 → 54.4（+645%）\n\n 打赢自家Pro（82.7 vs 72.1）\n\n只比Opus-4.8低2.3分 https://t.co/WnXTluPRuy",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 0731 from @deepseek_ai is out!\n\nDeepSeek’s V4 Flash snapshot brings fast agentic coding, hybrid reasoning, a 1M context window, function calling, and strict structured output behind ",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "被接入Codex的DeepSeek V4 Flash正式版惊到了！",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "DeepSeek v4 flash正式版测试，效果出乎意料~ #deepseek",
+    "要被外网的一些评论笑死了😂😂😂",
+    "实测DeepSeek V4 Flash 太强了！比 Grok 4.5 聪明太多了！一起来对比评测 !~DeepSeek Flash正式版强在哪！正式上市！",
+    "[中配]DeepSeek V4 Flash 太惊人了——迄今为止最好的小模型！ - Bijan Bowen",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf"
+  ],
+  "comments": [
+    {
+      "id": "p18ema8",
+      "t": 0,
+      "content": "Your prompt processing dropping from ~140 to ~85 t/s at 60k tokens isn't a KV-cache issue per se — it's long-context attention cost. Worth a quick A/B with KV cache quantization on the long contexts if your llama.cpp build has it; on VRAM-bound RDNA4 setups it can claw back a chunk of that. Did you try it, or running stock?"
+    },
+    {
+      "id": "308390666625",
+      "t": 1,
+      "content": "回复 @Personuo :生成的咋样呀，想看看"
+    },
+    {
+      "id": "311876596960",
+      "t": 2,
+      "content": "前天就下单了"
+    },
+    {
+      "id": "7668986517419606821",
+      "t": 3,
+      "content": "artificial analysis你再读一遍叫啥[捂脸]"
+    },
+    {
+      "id": "311801270544",
+      "t": 4,
+      "content": "而且给出的效果，都不是很好我"
+    },
+    {
+      "id": "311732555968",
+      "t": 1,
+      "content": "回复 @greatjy :你搞错了吧？我还专门查了一下官方文档，上面明确提到了适配了 codex"
+    },
+    {
+      "id": "7668949910632448826",
+      "t": 3,
+      "content": "主要是这是中文场景"
+    },
+    {
+      "id": "6a6c69b0000000000802f405",
+      "t": 5,
+      "content": "原图是川普遇刺幸免图"
+    },
+    {
+      "id": "p0zp73r",
+      "t": 6,
+      "content": "Can it run decently on M5 max 128"
+    },
+    {
+      "id": "7668934430677402417",
+      "t": 7,
+      "content": "我记得pro不是前段时间刚发布了一个正式版吗[黑脸]"
+    },
+    {
+      "id": "311811608240",
+      "t": 8,
+      "content": "Q2 kxl，速度14T/S。epyc 7c13，256G内存，amd 7900xt显卡"
+    },
+    {
+      "id": "308481140561",
+      "t": 9,
+      "content": "回复 @世界是一只奶牛猫 :直接跟他说应该就可以"
+    },
+    {
+      "id": "308356460865",
+      "t": 10,
+      "content": "v我50再说"
+    },
+    {
+      "id": "6a6de394000000002a025040",
+      "t": 11,
+      "content": "梁叔叔白天吃A股晚上吃美股就这样黑白配哈"
+    },
+    {
+      "id": "311778897808",
+      "t": 12,
+      "content": "回复 @心仍意 :量化直接搞钱，哪还需要啥用户不用户的那套互联网思维。也许，AGI实现后，他会彻底隐居。"
+    },
+    {
+      "id": "311833224736",
+      "t": 12,
+      "content": "你糖的像你订阅里的luna"
+    },
+    {
+      "id": "17925259",
+      "t": 13,
+      "content": "体验下来增强了不少，https://github.com/usewhale/whale"
+    },
+    {
+      "id": "308339716657",
+      "t": 10,
+      "content": "模型架构参数规模都没变，只改进了后端训练。这一版不会动架构和规模了，只会优化表现。下一版都难说，根据泄的会议记录看，ds对媒体兴趣不大，而且算力非常吃紧，既要又要的话结果可能什么都做不好，不如只打主线。"
+    },
+    {
+      "id": "2083878008373280965",
+      "t": 14,
+      "content": "@kuk47377341 those jumps in performance are wild"
+    },
+    {
+      "id": "7669016394428531497",
+      "t": 15,
+      "content": "那也是别人本事，股市本来就是愿赌服输"
+    },
+    {
+      "id": "2083830224932733012",
+      "t": 16,
+      "content": "@empiriolabsai @empiriolabsai Let's connect 🤝"
+    },
+    {
+      "id": "6a6d5661000000002b02a156",
+      "t": 17,
+      "content": "coding也好不到哪去说实话，尤其是算法题"
+    },
+    {
+      "id": "p11fzef",
+      "t": 18,
+      "content": "Tibo is my BEST friend. You are just jealous of our relationship. Ha! You are dispicable, brother. The token gods have chosen to bless ME with a perfectly timed reset."
+    },
+    {
+      "id": "7669376117774943010",
+      "t": 15,
+      "content": "这玩意儿最大的作用是把老美准备拿来吸血全球的科技饭碗给炸了，老美的星际之门刚吹出来就要胎死腹中了 [大笑]"
+    },
+    {
+      "id": "311848479600",
+      "t": 19,
+      "content": "因为需要调用api"
+    },
+    {
+      "id": "308615531553",
+      "t": 20,
+      "content": "回复 @墨ink_mo :codex，实测好用"
+    },
+    {
+      "id": "6a6e8f00000000001403a4eb",
+      "t": 21,
+      "content": "用Codex设计方案和项目架构，用mattpocock skill做好harness工程，用deepseek V5 Flash去写代码，最后Codex 去review。--认同[点赞R]"
+    },
+    {
+      "id": "308531044417",
+      "t": 22,
+      "content": "但codex接的deepseek的推理能力好像只有低和高，没有显示max"
+    },
+    {
+      "id": "7669079047674069796",
+      "t": 23,
+      "content": "底层逻辑不同"
+    },
+    {
+      "id": "7668909328300180273",
+      "t": 3,
+      "content": "要不是算力不够真就只收电费"
+    },
+    {
+      "id": "6a6dfa94000000000501667f",
+      "t": 24,
+      "content": "还好吧，用一下午了到现在还记得最初的要求，还能总结[笑哭R]"
+    },
+    {
+      "id": "6a6eb177000000000b039d42",
+      "t": 11,
+      "content": "不一定吧，这个得看通告的消息为准的，不是自己猜的，目前的通告我看到的是说api 的这块的，我好像没看到任何通告说C端也用了最新的模型这句话出来。"
+    },
+    {
+      "id": "311913007984",
+      "t": 25,
+      "content": "回复 @zhicairen :同感，4.5刚出来那几天还觉得Grok站起来了，到后面怎么感觉降智了[笑哭]"
+    },
+    {
+      "id": "308415131969",
+      "t": 4,
+      "content": "1[doge]"
+    },
+    {
+      "id": "311720810624",
+      "t": 26,
+      "content": "因为你只要想到这是一个不到300b的模型，规模是其他期间模型的五分之一，甚至十分之一，那它的问题你都会包容啦."
+    },
+    {
+      "id": "311729379328",
+      "t": 1,
+      "content": "接入codex才是完美答案"
+    },
+    {
+      "id": "2083114743548764626",
+      "t": 27,
+      "content": "@deepseek_ai Hi guys, if DeepSeek v4 Pro smokes Opus 5, we're pinning a First-Class FuckAnthropic Combat Hero medal on Wenfeng Liang. 🏅"
+    },
+    {
+      "id": "7669054845021864750",
+      "t": 15,
+      "content": "量化在美股没杀伤力限制高频交易还都是t＋0，在大A量化可以t＋0"
+    },
+    {
+      "id": "7668948356392207161",
+      "t": 15,
+      "content": "出差两天 恢复五小时了？"
+    },
+    {
+      "id": "308457131553",
+      "t": 12,
+      "content": "回复 @Seele_Veliona :多拿几个手机号白嫖 trae 的免费积分都用不完[辣眼睛]"
+    }
+  ]
+}

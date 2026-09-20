@@ -1,0 +1,237 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "梁圣加油",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "Deepseek V4 flash open sourced! Frontier model of performance while you run it locally!",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "免费使用 DeepSeek-V4-Flash的三种方式",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "【7,327万トークン使って0.77ドル】\n\n中国製AIを規制したくなる理由が、少し分かった気がします。\n\nこれはベンチマークの話ではありません。\n\n私がDeepSeek V4 Flashを実際に使った結果です。\n\n━━━━━━━━━━━━━━\n■ 1,000回以上使って1ドル未満\n━━━━━━━━━━━━━━\n直近30日間の利用実績は、\n・73,272,199トークン\n・1,021リクエスト\n・",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "With release of Deepseek V4 I wanted see how the model sizes are trending over time. The trend is that by this time next year, we probably will have Opus 4.5 level models on consumer grade laptops!",
+    "Deepseek v4 flash 0731",
+    "Deepseek V4 flash 本人声明",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "Deepseek V4-flash正式版实测",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "Deepseek V4 Flash最新测评！Claude Code版！",
+    "感觉Deepseek v4 Flash有点弱？试试这个视频 我发现很多人用Deepseek v4 Flash时觉得它不够强，其实可以试试这个视频里的操作！跟着步骤走一遍，体验会好很多～#deepseekv4flash #deepseek正式版 #deepseek #agent",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Deepseek V4 Flash 正式版真好用，嘿嘿嘿",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep"
+  ],
+  "comments": [
+    {
+      "id": "308354146433",
+      "t": 0,
+      "content": "很强，绝对有opus4.8能力，我做的3d开放世界游戏很牛批，就是用了90分钟，只给了一句提示词，基本上可以玩的成品游戏了"
+    },
+    {
+      "id": "311817393856",
+      "t": 1,
+      "content": "梁圣说过多模态对 agi 没有影响估计不会搞"
+    },
+    {
+      "id": "6a6dcc1e000000002b000de7",
+      "t": 2,
+      "content": "是的，梁明确说了不会去做多模态的"
+    },
+    {
+      "id": "311893686528",
+      "t": 3,
+      "content": "回复 @回调无神盾神 :deepseek给的模型就那几款，你放几个同样的问题给识图模式，快速模式和专家模式一眼就能看出来大概率基于v4flash做的视觉训练了，回答风格和思维链都差不多。[笑哭]\ndeepseek已经自研模型，又不打算正经提供视觉多模态服务，用自己的v4flash训练不是很正常？如果是外挂别人家效果这么差的视觉模型，给用户做多模态服务，花了钱买别人服务还败坏自己名誉，不觉得这策略很蠢吗"
+    },
+    {
+      "id": "308517513441",
+      "t": 4,
+      "content": "回复 @初珀雪 :你这是自己写的还是ai写的哇，怎么给权限和网络访问，我这个他自己没网络环境访问不了github，然后自己开的梯子给他端口然后才能访问来着"
+    },
+    {
+      "id": "p0wo1s8",
+      "t": 5,
+      "content": "V4 pro going to be better than Kimi K3 I’m pretty sure."
+    },
+    {
+      "id": "308426385313",
+      "t": 6,
+      "content": "回复 @莫得感情的花少侠 : 原理图可以转成网表"
+    },
+    {
+      "id": "6a6edb3d0000000015016579",
+      "t": 7,
+      "content": "我看了下ds的官网文档，有两个模型，v4 flash和pro，我理解flash就是7.31发布的这个。 pro 我也不是很理解，按理说满血的pro版本还没发布。"
+    },
+    {
+      "id": "308618085553",
+      "t": 6,
+      "content": "不是恨国党哦，是大美丽那边的网军开始舆论战，跟抹黑华为一样的，情报机构和媒体、学术、金融、科技圈一起，这就是舆论战"
+    },
+    {
+      "id": "311718202656",
+      "t": 8,
+      "content": "回复 @millet_01 :你是在哪个agent工具里面问的？还是在网页/app上问的？"
+    },
+    {
+      "id": "2083683620305490390",
+      "t": 9,
+      "content": "【7,327万トークン使って0.77ドル】\n\n中国製AIを規制したくなる理由が、少し分かった気がします。\n\nこれはベンチマークの話ではありません。\n\n私がDeepSeek V4 Flashを実際に使った結果です。\n\n━━━━━━━━━━━━━━\n■ 1,000回以上使って1ドル未満\n━━━━━━━━━━━━━━\n直近30日間の利用実績は、\n・73,272,199トークン\n・1,021リクエスト\n・合計わずか0.77ドル\n\n計算すると、\n\n・1回平均：約71,765トークン\n・1回平均：約0.00075ドル\n・実効単価：100万トークン当たり約0.0105ドル\nかなり長い文脈を1,000回以上処理させて、請求額が1ドルにも届いていません。\n月額料金ではありません。\n\n実際にAPIを1,021回呼び出した結果です。\n\n━━━━━━━━━━━━━━\n■ なぜ、ここまで安くなるのか\n━━━━━━━━━━━━━━\nDeepSeek V4 Flash 0731の公式API価格は、100万トークン当たり、\n・キャッシュヒット入力：0.0028ドル\n・キャッシュミス入力：0.14ドル\n・出力：0.28ドル\n\nとなっています。\n\nAIエージェントでは、毎回まったく違う文章だけを送るわけではありません。\n\nシステムプロンプト、ツール定義、会話履歴、作業ルール、リポジトリ情報など、同じ前半部分を何度も送ります。\n\nここでキャッシュが効けば、大量の入力トークンを異常なほど安く処理できます。\n今回の画像だけでは、キャッシュヒット、通常入力、出力の詳しい内訳までは分かりません。\nしかし、7,327万トークンを0.77ドルで処理したという実測値は残っています。\n\nこれは「理論上は安い」という宣伝ではありません。\n\n私のOpenClaw運用で実際に出た数字です。\n━━━━━━━━━━━━━━\n■ 安いだけの小型モデルではない\n━━━━━━━━━━━━━━\nDeepSeek V4 Flashは、\n\n・100万トークンのコンテキスト\n・最大384Kトークンの出力\n・思考モード\n・ツール呼び出し\n・Responses API\n・Anthropic互換API\n\nに対応しています。\n\nつまり、単発のチャットだけではありません。\n\n長い履歴を抱えながら、ツールを呼び、何度も自律実行するAIエージェントへ投入できます。\n\n名前は「Flash」ですが、用途は軽量チャットだけではありません。\n\n━━━━━━━━━━━━━━\n■ 本当にClaude Opus 4.8級なのか\n━━━━━━━━━━━━━━\n\nここは盛らずに書きます。\n\n独立評価機関Artificial AnalysisのIntelligence Indexでは、\n\n・Claude Opus 4.8：56\n・DeepSeek V4 Flash 0731：50\n総合性能では、まだClaude Opus 4.8が上です。\n画像入力もClaudeにはありますが、DeepSeek V4 Flashにはありません。\n\nしたがって、すべての用途で完全に置き換えられるとは言えません。\n\nしかし、同じ比較条件による実効価格は、\n・Claude Opus 4.8：100万トークン当たり3.85ドル\n・DeepSeek V4 Flash：100万トークン当たり0.06ドル\n約64倍の差です。\n知能指数は56対50。\n価格は約64倍。\n文章作成、調査、分類、コード修正、監視、定期実行、下書き生成など、すべての処理に最高性能が必要でしょうか。\n\n多くの利用者は、ここで考え始めます。\n\n「普段の処理はDeepSeekで十分ではないか」と。\n\n━━━━━━━━━━━━━━\n■ Claude離れは続くでしょう\n━━━━━━━━━━━━━━\n\nClaudeが急に使えないAIになったわけではありません。\n\nむしろ複雑なコーディング、重要な判断、画像を含む作業では、依然として強いでしょう。\nしかし、AIエージェントは人間のように1日に数回だけ質問するものではありません。\n監視、調査、分類、要約、コード確認を、数百回、数千回と繰り返します。\n\n性能差が多少あっても、料金が数十倍違えば、常用モデルは安い方へ移ります。\n\nClaudeを完全に捨てるのではなく、\n\n・大量処理はDeepSeek\n・重要な最終工程だけClaude\n・難しい仕事だけ最上位モデル\nという使い分けが広がるはずです。\n\nこれも広い意味ではClaude離れです。\n\nClaudeを毎日ずっと回す運用から、必要な場面だけ呼び出す運用へ変わっていく。\n\n━━━━━━━━━━━━━━\n■ 中国AI規制論の本当の重さ\n━━━━━━━━━━━━━━\n\n米政府内では、中国製オープンウェイトAIの利用を制限する案が報じられています。\n\nOpenAIやAnthropicは、安全保障、知的財産、サイバー攻撃などの危険性を訴えています。\nもちろん、本当に検討すべき問題です。\n\nただし、もう一つ無視できない問題があります。\n\n中国製AIが安価なまま米国製AIへ迫れば、米国企業がGPU、電力、データセンターへ投じてきた巨額資金を、高額なAPI料金で回収しにくくなることです。\n\n安全保障だけなのか。\n\n知的財産を守るためなのか。\n\nそれとも、巨額投資と既存の料金体系を守る意味もあるのか。\n\n企業の本心までは断定できません。\n\nしかし、この数字を見たあとでは、経済的な脅威が存在しないとも言えません。\n73,272,199トークン。\n1,021リクエスト。\n\n合計0.77ドル。\n\n中国AIの脅威を説明するなら、派手なベンチマークより、この請求画面の方が分かりやすいと思います。\n\n#DeepSeek #Claude #OpenAI #中国AI #AIエージェント #OpenClaw #生成AI"
+    },
+    {
+      "id": "7669017908525810469",
+      "t": 10,
+      "content": "是的，flash的单独专家参数太小"
+    },
+    {
+      "id": "311648592064",
+      "t": 0,
+      "content": "快慢刀这一块，智谱刚刚涨价"
+    },
+    {
+      "id": "311779286848",
+      "t": 11,
+      "content": "回复 @Toki九九 :就是…自己定一下就知道不到 300"
+    },
+    {
+      "id": "311707624480",
+      "t": 12,
+      "content": "有图文啊 网页端上了"
+    },
+    {
+      "id": "308521412001",
+      "t": 13,
+      "content": "哥，如何做到命中缓存？我大部分都是没有命中缓存的"
+    },
+    {
+      "id": "311757138352",
+      "t": 14,
+      "content": "感觉很好，目前我已经不用 API 的 pro 了，本地 flash 完全够用了。"
+    },
+    {
+      "id": "p0xh42k",
+      "t": 15,
+      "content": "This is very cool! We wrote something similar a few years ago ([see here](https://a16z.com/llmflation-llm-inference-cost/)). Is this part of a paper (if yes, I'd love to read it!)"
+    },
+    {
+      "id": "6a6e9230000000000802e7ed",
+      "t": 16,
+      "content": "你在claude code里面用gpt模型你是神人来的吧，工具都用不明白还搁这装懂评价deepsseek[捂脸R]"
+    },
+    {
+      "id": "6a6c8080000000000403bfb0",
+      "t": 17,
+      "content": "纳尼！可是之前有一些多模态的呀"
+    },
+    {
+      "id": "308471261649",
+      "t": 13,
+      "content": "回复 @-_Mob- :我最开始就是opencode+omo，感觉有点太重了后来换了cc一直用，之前想试试codex结果打开要国外手机号验证，好像是用gpt订阅需要验证 接第三方的不用，有碰到过吗[笑哭]"
+    },
+    {
+      "id": "6a6cb37c0000000015010b6b",
+      "t": 18,
+      "content": "我在VS Code拓展使用ClaudeCode，接入DeepSeek V4模型，默认V4pro。求问怎么切换V4flash？"
+    },
+    {
+      "id": "308615643153",
+      "t": 19,
+      "content": "回复 @摄影师Willkang :还有就是你用API时TPS可能高于60TPS"
+    },
+    {
+      "id": "311635991200",
+      "t": 20,
+      "content": "回复 @芝芝库 :我看了文档，写的是增加codex支持，并没有特化这个选项"
+    },
+    {
+      "id": "6a6dabde0000000015001280",
+      "t": 21,
+      "content": "我买的是 plus，不是 pro，其实 k3 执行并不差的"
+    },
+    {
+      "id": "6a6dfdaf000000001500bdb9",
+      "t": 22,
+      "content": "没看出哪里强了强，只知道被吹得强，一群乌合之众"
+    },
+    {
+      "id": "311717499184",
+      "t": 23,
+      "content": "都这价格了，应该用max模式啊，简直测了个寂寞，"
+    },
+    {
+      "id": "7669261862566953766",
+      "t": 24,
+      "content": "默认是high吧"
+    },
+    {
+      "id": "308459537345",
+      "t": 6,
+      "content": "可信度不如随便一个benchmark"
+    },
+    {
+      "id": "2083100833496056298",
+      "t": 25,
+      "content": "@deepseek_ai When will the new DS 4 Flash come to OpenCode Go? It's still the old Flash, right?"
+    },
+    {
+      "id": "7668876962509357873",
+      "t": 10,
+      "content": "主播这是在vacode中运行的claude吗"
+    },
+    {
+      "id": "2083093852215218508",
+      "t": 25,
+      "content": "@deepseek_ai Will it be open weight? At some point or just API?"
+    },
+    {
+      "id": "311936616736",
+      "t": 26,
+      "content": "回复 @虚幻仙贝 : 没有"
+    },
+    {
+      "id": "311678295264",
+      "t": 27,
+      "content": "回复 @Dou---i :帮你艾特了 @耿同学讲故事"
+    },
+    {
+      "id": "7668940404549550858",
+      "t": 28,
+      "content": "根本听不懂，你就说这个和Kimi哪个牛逼？"
+    },
+    {
+      "id": "308589850849",
+      "t": 6,
+      "content": "挺客观的评测了，基本上就是除了便宜没什么用"
+    },
+    {
+      "id": "7668982374382748453",
+      "t": 28,
+      "content": "mimo 已经四个月没更新了，四个月前还是很顶尖的"
+    },
+    {
+      "id": "311922008944",
+      "t": 29,
+      "content": "我玩酒馆比之前舒服多了，就是甲稍微厚了点，有些话要说的直白些"
+    },
+    {
+      "id": "7669049222813074225",
+      "t": 30,
+      "content": "发下[流泪]"
+    },
+    {
+      "id": "7668968409123717940",
+      "t": 10,
+      "content": "梁文锋名誉恢复持保留态度，多模态不是7月发布吗？？？"
+    }
+  ]
+}

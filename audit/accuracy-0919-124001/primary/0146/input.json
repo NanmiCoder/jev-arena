@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "Deepseek-v4-flash 正式版实测一天，真的强到 价格是真的便宜，速度也是我用过最快的，编程能力强到离谱，agent工具调用这块更是牛得不行。测了一整天，全程没一次想骂AI傻逼的冲动！#deepseek #agent #vibecoding",
+    "DeepSeek V4 Flash 正式版发布 - 白菜价！超高性价比的编程模型",
+    "I don't think Anthropic and OpenAI will survive",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "deepseek v4 flash 成功逆向 expedia",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "DeepSeek-V4-Flash-High",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 0731",
+    "如何使用满血DeepSeek v4 flash正式版",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型"
+  ],
+  "comments": [
+    {
+      "id": "7669400900503307014",
+      "t": 0,
+      "content": "那你是真没用过"
+    },
+    {
+      "id": "311719357168",
+      "t": 1,
+      "content": "终于来了 就在等木头测评"
+    },
+    {
+      "id": "p180f42",
+      "t": 2,
+      "content": "You’re looking at this strictly through the lens of a solo dev paying out of pocket.\n\nI consult for a mid-sized listed company. We burn $100k-$200k a month on OpenAI and Anthropic tokens through Azure and AWS Bedrock. We literally have the top open models sitting right there in our AWS catalog, but our legal and risk teams have zero-tolerance policies against using them for actual production projects.\n\nA few reasons why:\n\nLiability and Indemnification: When we pay $200k to Microsoft or AWS for Claude/GPT, we aren't just paying for smart text. We're paying for copyright indemnification, strict SLAs, zero data retention agreements, and compliance guarantees (SOC2, regional privacy laws, etc.). If an unvetted open model hallucinates protected data or infringes IP, that liability falls entirely on our board, not the model provider.\n\nCloud spend commitments: Most enterprise companies already have massive multi-million dollar minimum spend agreements (MACC/EDP) with Azure or AWS. Burning budget on Azure OpenAI counts directly toward that requirement. It's essentially \"pre-paid\" money for them.\n\nTCO vs. token cost: Saving a few bucks on raw API calls doesn't matter if you have to hire a team of MLOps engineers to maintain inference infrastructure, build custom guardrails, and constantly audit models just to make them enterprise-ready.\n\nOpen-weight models are amazing for personal projects and small startups, but proprietary labs aren't dying anytime soon. They're basically turning into enterprise B2B software vendors."
+    },
+    {
+      "id": "308386881425",
+      "t": 3,
+      "content": "回复 @是谁强占草民ID :我用DeepSeek4f稍微放开一点，一天就给我花了50几，这还是我把好多别任务的丢给云码道白嫖的情况下"
+    },
+    {
+      "id": "311697058976",
+      "t": 4,
+      "content": "回复 @打翻你の奶瓶 : 真有sol的水平真能把所有模型都打烂了吧，"
+    },
+    {
+      "id": "308575494065",
+      "t": 5,
+      "content": "毕竟还没更新pro"
+    },
+    {
+      "id": "p16vtaw",
+      "t": 6,
+      "content": "I'm glad there are still people like the OP who can look at this rationally.\n\nWhat really surprises me are the fanboys who immediately jump to defend a company whose primary concern is, and always will be, its own financial interests.\n\nI used to think only the Anthropic crowd was drifting into cult-like behavior, but apparently we have plenty of that here too."
+    },
+    {
+      "id": "7669293600627098425",
+      "t": 7,
+      "content": "一周 我指的是一个账号能跑一周额度，gpt取消了5小时限制 懂了吗[笑哭]"
+    },
+    {
+      "id": "308384817489",
+      "t": 3,
+      "content": "3万就算DeepSeek也用不了一年就没了"
+    },
+    {
+      "id": "6a6c9e79000000001500764c",
+      "t": 8,
+      "content": "怎么花钱？干什么的"
+    },
+    {
+      "id": "311763273152",
+      "t": 9,
+      "content": "都要用，冲codex的plus，然后买ds的api"
+    },
+    {
+      "id": "308367604913",
+      "t": 10,
+      "content": "wo950呢"
+    },
+    {
+      "id": "311865001600",
+      "t": 11,
+      "content": "回复 @被迫进入学习状态 :再加 2 台目前看到的数据是性能基本翻倍，差不多可以到 180%。不过对效率和多并发有需求其实 2 台最优雅"
+    },
+    {
+      "id": "311725196256",
+      "t": 12,
+      "content": "回复 @墨客笔仙 :以前耍猴，现在更是蚌埠住"
+    },
+    {
+      "id": "311710490304",
+      "t": 13,
+      "content": "Cherry Studio有什么优势？相比其他agent"
+    },
+    {
+      "id": "6a6ee9750000000015001af9",
+      "t": 14,
+      "content": "你在网页版逆向的？[失望R]"
+    },
+    {
+      "id": "7669306687929631523",
+      "t": 15,
+      "content": "不建议用pc折腾"
+    },
+    {
+      "id": "308530001281",
+      "t": 16,
+      "content": "多请求并发 会不会灾难性延迟"
+    },
+    {
+      "id": "311717613136",
+      "t": 13,
+      "content": "也不是[doge_金箍]cs的飞书输出格式我比较喜欢就用的它专门弄固定任务，agent就用hermes接的微信"
+    },
+    {
+      "id": "6a6dbf8b000000000802ddbe",
+      "t": 17,
+      "content": "没有视觉能力都能这么靠前吗，哈吉鲸你这家伙[doge]"
+    },
+    {
+      "id": "7669063101975102227",
+      "t": 7,
+      "content": "至少成本没之前那些AI那么贵，open ai都降价多少了"
+    },
+    {
+      "id": "6a6d29d2000000001500ae2c",
+      "t": 12,
+      "content": "昨天就更新了，之前很少用子任务，现在开好多子任务"
+    },
+    {
+      "id": "308375617345",
+      "t": 10,
+      "content": "回复 @孟长冬 :Ds性能不是最顶尖的但与第一梯队相差不大，不过逆天的性价比与优秀的性能导致，要是没Ds好用还比Ds贵或比Ds好用点但比Ds贵就不会有人用了[笑哭]"
+    },
+    {
+      "id": "6a6cfd78000000000b03b822",
+      "t": 18,
+      "content": "这是coding也能用了？"
+    },
+    {
+      "id": "308470388913",
+      "t": 19,
+      "content": "回复 @粤海平 :太绝对了吧"
+    },
+    {
+      "id": "p0y1lrj",
+      "t": 20,
+      "content": "Do you actually get more use than $20 chatgpt plan using luna"
+    },
+    {
+      "id": "7669264375575839546",
+      "t": 7,
+      "content": "哟，火起来了[看][看]"
+    },
+    {
+      "id": "6a6da3c5000000002a02f987",
+      "t": 21,
+      "content": "有无限用量的 glm DeepSeek  需要联系"
+    },
+    {
+      "id": "6a6f078d0000000015007bd6",
+      "t": 22,
+      "content": "？？？[石化R]codex不是有cli吗？你直接vscode➕codex cli啊"
+    },
+    {
+      "id": "308388630305",
+      "t": 12,
+      "content": "被鲸子的鲸言鲸语震惊了，仿佛坐在核弹上看见椅子爆炸"
+    },
+    {
+      "id": "308583597953",
+      "t": 23,
+      "content": "我自己也测了一下，反正我站队Deepseek[打call][打call][打call]，真的太猛了，好用的起飞"
+    },
+    {
+      "id": "311753987104",
+      "t": 24,
+      "content": "回复 @六欲情天 :得看降不降智咯，降智是常态"
+    },
+    {
+      "id": "7669293335203070760",
+      "t": 15,
+      "content": "带宽小水管，能不慢吗[绝望的凝视]"
+    },
+    {
+      "id": "7668994326835970825",
+      "t": 25,
+      "content": "在翻译长文本场景，正式版Flash 可靠性下降了、总是空输出、"
+    },
+    {
+      "id": "311743958176",
+      "t": 19,
+      "content": "回复 @_感今惟昔_ : 我用OMO都能99%"
+    },
+    {
+      "id": "7668929801130033969",
+      "t": 7,
+      "content": "我知道接触了，不过那个负责人说后面还会加上"
+    },
+    {
+      "id": "308355685121",
+      "t": 10,
+      "content": "那还是要看华尔街炒不炒作[笑哭]"
+    },
+    {
+      "id": "7668688068685136697",
+      "t": 26,
+      "content": "Claude写网文不行，目前最适合写中文小说的就是deepseek和gemini"
+    },
+    {
+      "id": "311779349808",
+      "t": 19,
+      "content": "回复 @清风不动 :直接读二进制文件[doge]"
+    },
+    {
+      "id": "6a6e709a000000000403aa8e",
+      "t": 8,
+      "content": "这文案怎么一股ds味"
+    }
+  ]
+}

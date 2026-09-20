@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "The real reason 5.6 Luna became 5x cheaper",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "Alternative to who wants to use DeepSeek V4 Flash 0731 with ZDR",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "正式版DeepSeek V4 Flash 进步巨大！干翻上代大哥",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
+    "i don't get the hype - DeepSeek V4 Flash 0731",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "[中配]DeepSeek V4 Flash 太惊人了——迄今为止最好的小模型！ - Bijan Bowen",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "被DeepSeek V4 Flash正式版惊到了！",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "DeepSeek V4 Flash 正式版发布 - 白菜价！超高性价比的编程模型",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "要被外网的一些评论笑死了😂😂😂"
+  ],
+  "comments": [
+    {
+      "id": "p11gbeh",
+      "t": 0,
+      "content": "I’ll never understand why anyone would use Chinese models unless it’s for NSFW or shady stuff. No Chinese company is going to offer hundreds or thousands of dollars’ worth of computing power for $100–$200, lol"
+    },
+    {
+      "id": "17925545",
+      "t": 1,
+      "content": "我问一下各位啊，哪个模型出来跑分不是吊打其他所有模型，你们看看你们现在正在用的什么模型 https://i.imgur.com/6DMydmQ.png"
+    },
+    {
+      "id": "p14s9kf",
+      "t": 2,
+      "content": "Something I'm building which might help you out : [https://tokenwatch.wyrdwerk.com/](https://tokenwatch.wyrdwerk.com/)\n\nhttps://preview.redd.it/fpyy7g54ptgh1.jpeg?width=1600&format=pjpg&auto=webp&s=e7cc66508625a509505f7d09b1623f27df195e41"
+    },
+    {
+      "id": "7668981663880020794",
+      "t": 3,
+      "content": "[泪奔]对啊，太猛了，用上了"
+    },
+    {
+      "id": "7668936067936813873",
+      "t": 4,
+      "content": "是不是你的agent有问题啊[捂脸]缓存命中率太低了"
+    },
+    {
+      "id": "311665937424",
+      "t": 5,
+      "content": "回复 @我永遠愛初音未來 :复杂的视觉效果如3d游戏开发，标准件，工业制图是一定要有多模态的，想靠llm能力硬出图像最多也就是马里奥和我的世界的级别。"
+    },
+    {
+      "id": "308435270993",
+      "t": 6,
+      "content": "无人在意的 seedance"
+    },
+    {
+      "id": "p0v1bn3",
+      "t": 7,
+      "content": "What a... day to be alive, holy sheet"
+    },
+    {
+      "id": "p17otdc",
+      "t": 8,
+      "content": "Use DeepSeek through direct API not a third party proxy/aggregator/router/whatever."
+    },
+    {
+      "id": "308501173425",
+      "t": 9,
+      "content": "回复 @腊鸭4236 :哇，好专业，抱歉"
+    },
+    {
+      "id": "308523119537",
+      "t": 10,
+      "content": "最大赢家竟是老美"
+    },
+    {
+      "id": "7669087903855444790",
+      "t": 4,
+      "content": "但你千万别停下来思考扩展你的概念，要不我没得学"
+    },
+    {
+      "id": "311731240080",
+      "t": 11,
+      "content": "不就是用了个便宜的中转站吗，咋一个个反应那么大，我是穷人还不能用了吗[笑哭]"
+    },
+    {
+      "id": "311916106512",
+      "t": 12,
+      "content": "回复 @蛋白掷 : 月套餐10美金，首月5美金，听说可以用60美金左右的官方api流量。"
+    },
+    {
+      "id": "7668887575244161811",
+      "t": 3,
+      "content": "deepseek可以开票，你玩openai要么搭梯子，要么中转站"
+    },
+    {
+      "id": "308391370273",
+      "t": 13,
+      "content": "智谱还有的跌"
+    },
+    {
+      "id": "6a6edc81000000000b039a73",
+      "t": 14,
+      "content": "能不能在gpt和ds 之间切换呢"
+    },
+    {
+      "id": "308415487457",
+      "t": 6,
+      "content": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！"
+    },
+    {
+      "id": "308459822289",
+      "t": 15,
+      "content": "luna最致命的是上下文"
+    },
+    {
+      "id": "308445445297",
+      "t": 16,
+      "content": "别说话，用它！[加油]"
+    },
+    {
+      "id": "7668985968452092722",
+      "t": 4,
+      "content": "从性价比、实际工程落地能力、长周期项目跑下来对比，kimi还是独一档。那些自媒体只敢天天那那些简单任务说事。工程项目规范给你立起来之后，你再说好用不好用。"
+    },
+    {
+      "id": "308389729457",
+      "t": 17,
+      "content": "参照up的提示词，让deepseek flash写了个库洛牌的展示，还是挺有意思的。法线图、高度图、粗燥度图都是用原图直接python脚本生成的，没那么有立体感"
+    },
+    {
+      "id": "308432119633",
+      "t": 13,
+      "content": "工具作用还是挺大的，现在用codex用最新模型sol比以前不好用，小需求也过度工程化[笑哭]"
+    },
+    {
+      "id": "7668980162629321531",
+      "t": 4,
+      "content": "2026年梁文峰+唐杰+杨植麟+王虹+邓煜\n群星闪耀的一年。\n中国的AI模型打击了硅谷和华尔街，现在出来1男1女的2名菲尔兹数学奖，AI+数学家，马斯克都破防了[抠鼻][抠鼻][抠鼻]"
+    },
+    {
+      "id": "311724853488",
+      "t": 11,
+      "content": "回复 @_理想主义者_ :光聊天你是怎么用了10块钱啊？[疑惑] 而且聊天联api没意义——opus5甚至连话都说不明白，也不妨碍人是世一模"
+    },
+    {
+      "id": "311715078096",
+      "t": 6,
+      "content": "BV1QUNR6dE2T\n这个视频的作者也说了这一点。"
+    },
+    {
+      "id": "2083094894940234098",
+      "t": 18,
+      "content": "@deepseek_ai 1. what?"
+    },
+    {
+      "id": "308388578257",
+      "t": 19,
+      "content": "老大我们必须要在这阴间时间更新吗？"
+    },
+    {
+      "id": "308436330785",
+      "t": 11,
+      "content": "回复 @调逆弓归 : 问题不止是写前端需要DeepSeek啊，我这边还有需求是人家打印出来的CAD图识别出来弄成网页3D场景呢[笑哭]"
+    },
+    {
+      "id": "308422303729",
+      "t": 20,
+      "content": "回复 @langmanderen :如果真的很在意满血提升的这一点性能那更不该用 Cherry studio 了[笑哭][笑哭]，作为生产力怎么会接入 Cherry studio 呢"
+    },
+    {
+      "id": "6a6ec88d000000002a005edd",
+      "t": 21,
+      "content": "这个就不了解了，应该有专门的模型工具。"
+    },
+    {
+      "id": "308420218497",
+      "t": 6,
+      "content": "只有工业大模型才称得上行业的领头羊吧（）"
+    },
+    {
+      "id": "308347169569",
+      "t": 17,
+      "content": "这么厉害？ 什么时候成品出来感受一下ai做的rpg图"
+    },
+    {
+      "id": "308600106369",
+      "t": 22,
+      "content": "回复 @大树守卫哈兰德 :ultra是啥？"
+    },
+    {
+      "id": "311877936704",
+      "t": 11,
+      "content": "不要用后训练的模型。现在的模型大多数都是代码专精，其他领域倒退。还不如没后训练的基模。"
+    },
+    {
+      "id": "311821756768",
+      "t": 23,
+      "content": "回复 @信据 :有个叫做dspark的技术"
+    },
+    {
+      "id": "308391042753",
+      "t": 17,
+      "content": "还有东西藏着呢[doge_金箍]网页版那个才是真的"
+    },
+    {
+      "id": "311822175696",
+      "t": 13,
+      "content": "如果ds能把他自己的harness放出来，那光用flash都可以顶上99%的活了。"
+    },
+    {
+      "id": "6a6d718b00000000090149c9",
+      "t": 24,
+      "content": "跟4.6差不多吧"
+    },
+    {
+      "id": "7669115378165662513",
+      "t": 4,
+      "content": "多模态就用豆包不行吗"
+    }
+  ]
+}

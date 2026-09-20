@@ -1,0 +1,786 @@
+{
+  "items": [
+    {
+      "id": "308354146433",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "高度认可一句提示生成游戏的能力，提及耗时但未明确抱怨。"
+    },
+    {
+      "id": "311817393856",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述多模态观点并推测研发方向，未明显褒贬。"
+    },
+    {
+      "id": "6a6dcc1e000000002b000de7",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以“是的”赞同不会开发多模态的说法。"
+    },
+    {
+      "id": "311893686528",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "论证视觉模型来自自研并反驳外挂推测，批评视觉效果。"
+    },
+    {
+      "id": "308517513441",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问代码来源及网络权限配置，并描述自身操作。"
+    },
+    {
+      "id": "p0wo1s8",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "表达对V4 Pro优于Kimi K3的乐观预测。"
+    },
+    {
+      "id": "308426385313",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅说明原理图可转网表，是否涉及AI使用不明确。"
+    },
+    {
+      "id": "6a6edb3d0000000015016579",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述官网模型版本并表达对Pro发布状态的困惑。"
+    },
+    {
+      "id": "308618085553",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.6,
+      "reason": "纠正攻击者身份并指控舆论战，未明确讨论AI。"
+    },
+    {
+      "id": "311718202656",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问对方使用模型的工具或网页应用入口。"
+    },
+    {
+      "id": "2083683620305490390",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison",
+        "usability",
+        "other"
+      ],
+      "e": [
+        "认可",
+        "惊喜",
+        "质疑"
+      ],
+      "score": 0.6,
+      "reason": "主旨认可实测性价比，也谈能力局限并质疑监管动机。"
+    },
+    {
+      "id": "7669017908525810469",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "赞同Flash单独专家参数过小的判断。"
+    },
+    {
+      "id": "311648592064",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.1,
+      "reason": "以快慢刀调侃价格策略，并报告智谱涨价。"
+    },
+    {
+      "id": "311779286848",
+      "r": [],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "缺失所定对象及300的单位，无法判断相关性。"
+    },
+    {
+      "id": "311707624480",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出网页端已有图文功能，带纠正意味。"
+    },
+    {
+      "id": "308521412001",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "求助如何命中缓存，说明大部分请求未命中。"
+    },
+    {
+      "id": "311757138352",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "明确称本地Flash很好且足以替代API Pro。"
+    },
+    {
+      "id": "p0xh42k",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "question",
+        "praise"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.7,
+      "reason": "赞赏模型趋势研究并询问是否有论文可读。"
+    },
+    {
+      "id": "6a6e9230000000000802e7ed",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "usability",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "嘲讽对方工具使用并否定其评价模型的可信度。"
+    },
+    {
+      "id": "6a6c8080000000000403bfb0",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "惊讶并以此前已有多模态提出疑问。"
+    },
+    {
+      "id": "308471261649",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "描述工具切换经验及操作负担，询问手机号验证情况。"
+    },
+    {
+      "id": "6a6cb37c0000000015010b6b",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "求助在VS Code的Claude Code中切换模型。"
+    },
+    {
+      "id": "308615643153",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "补充API使用时的可能生成速度。"
+    },
+    {
+      "id": "311635991200",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "依据文档纠正支持Codex与特化选项的混淆。"
+    },
+    {
+      "id": "6a6dabde0000000015001280",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "纠正所购套餐为Plus，并肯定K3执行能力。"
+    },
+    {
+      "id": "6a6dfdaf000000001500bdb9",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.9,
+      "reason": "否定模型强的说法，指责吹捧者盲从。"
+    },
+    {
+      "id": "311717499184",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion",
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "usability",
+        "content"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "建议用Max模式并批评现有测试缺乏意义。"
+    },
+    {
+      "id": "7669261862566953766",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "试探确认默认模式为High，也可能在纠正设置说法。"
+    },
+    {
+      "id": "308459537345",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "content"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "认为该AI实测可信度低于任意基准测试。"
+    },
+    {
+      "id": "2083100833496056298",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "询问新版何时接入OpenCode Go并确认当前版本。"
+    },
+    {
+      "id": "7668876962509357873",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Claude是否在VS Code环境中运行。"
+    },
+    {
+      "id": "2083093852215218508",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型是否开放权重或仅提供API。"
+    },
+    {
+      "id": "311936616736",
+      "r": [],
+      "s": [
+        "neutral"
+      ],
+      "i": [],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅回复“没有”，缺少父评论无法确定对象及目的。"
+    },
+    {
+      "id": "311678295264",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅告知已帮忙艾特他人，未讨论AI。"
+    },
+    {
+      "id": "7668940404549550858",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "presentation",
+        "comparison",
+        "capability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "抱怨讲解听不懂并要求直接比较与Kimi的能力。"
+    },
+    {
+      "id": "308589850849",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information",
+        "agreement"
+      ],
+      "a": [
+        "content",
+        "price",
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "肯定评测客观和价格便宜，同时否定模型实用性。"
+    },
+    {
+      "id": "7668982374382748453",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.1,
+      "reason": "认可Mimo过去顶尖，提及久未更新略带遗憾。"
+    },
+    {
+      "id": "311922008944",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "肯定酒馆体验改善，同时指出限制较多需直白表达。"
+    },
+    {
+      "id": "7669049222813074225",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "请求发送某物，但对象缺失，无法确定是否涉及AI。"
+    },
+    {
+      "id": "7668968409123717940",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "对名誉恢复持保留态度，并质问多模态发布进度。"
+    }
+  ]
+}

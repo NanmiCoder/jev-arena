@@ -1,0 +1,232 @@
+{
+  "topics": [
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "⚠️ Note\n\n🔷 DeepSeek-V4-Flash-0731 keeps the exact same model architecture and size as the preview version.\n🔷 Today's upgrade applies ONLY to the DeepSeek-V4-Flash API. The DeepSeek-V4-Pro API and Ap",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "【中配】DeepSeek V4 Flash测评 全面测试霸榜前五！这波性能重回巅峰！",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "要被外网的一些评论笑死了😂😂😂",
+    "Q8_K_XL vs MXFP4 naming for DeepSeek V4 Flash 0731",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "DeepSeek V4 Flash 0731",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash接入Codex教程（可识图）",
+    "你的梁子来了，DeepSeek V4 Flash正式发布",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash 0731 IQ2_M benchmark for Dual 3060 and 96GB RAM ≈ 3.5 tok/s."
+  ],
+  "comments": [
+    {
+      "id": "308483722001",
+      "t": 0,
+      "content": "回复 @剑皇Sword :你实际用过就知道了，子代理都开不了，明确让他开还会有bug，人家自己正在做agent呢，那个脚本估计也就是改个配置文件什么的"
+    },
+    {
+      "id": "2083089645189910595",
+      "t": 1,
+      "content": "@deepseek_ai Impressive, Open weights?"
+    },
+    {
+      "id": "7668948034265056037",
+      "t": 2,
+      "content": "已经切换了，效率提升不少，价格还便宜了"
+    },
+    {
+      "id": "7668947771881587492",
+      "t": 2,
+      "content": "我200万token0.5元"
+    },
+    {
+      "id": "7669080789850604314",
+      "t": 2,
+      "content": "K3那价格比gpt都贵 没有使用的必要"
+    },
+    {
+      "id": "2083214001610105173",
+      "t": 3,
+      "content": "@deepseek_ai How many times is deepseek going to re-release DS v4? Ive been using it for months. I thought it was a full release then i learned it was beta. Now they are saying they are releasing the beta? Can anyone explain why they keep rereleasing this?"
+    },
+    {
+      "id": "311817701792",
+      "t": 0,
+      "content": "经常碰到这种问题，有些agent会使用新的渠道，用新的代码进行推演。有时候bug实在改不了，不如主动让ai写一个新的应用或者代码，然后弄\n再回去改bug"
+    },
+    {
+      "id": "308517287921",
+      "t": 4,
+      "content": "回复 @爱跳绳的乃龙 :哪个群呢"
+    },
+    {
+      "id": "311686304816",
+      "t": 5,
+      "content": "回复 @StephenCoopers :接近了，285k的模型，要求别太多了[笑哭]"
+    },
+    {
+      "id": "308517925745",
+      "t": 6,
+      "content": "发个终末地的logo截图，识别了17分钟然后告诉我是白子[笑哭]"
+    },
+    {
+      "id": "6a6d97aa000000002b00050b",
+      "t": 7,
+      "content": "luna max费用之前也降了80%好像，就是因为这个吧"
+    },
+    {
+      "id": "p0z9njr",
+      "t": 8,
+      "content": "Oh this new version’s mean KLD seem way worse than the preview? E.g iQ4 XS was like .07 in the graphs from the preview on your site. Is that expected? Also thanks for the quick work!"
+    },
+    {
+      "id": "311712599712",
+      "t": 9,
+      "content": "回复 @郭达斯坦圣僧 : 我直接clash，24h代理，指定应\n用，几乎所有设备都有，除了经常拉闸，没啥问题"
+    },
+    {
+      "id": "p0vt0j0",
+      "t": 10,
+      "content": "Is dsv4f already available in opencode?"
+    },
+    {
+      "id": "311853469360",
+      "t": 11,
+      "content": "回复 @风之霜伤 :效率低呗"
+    },
+    {
+      "id": "7669350472733836069",
+      "t": 12,
+      "content": "luna 可能差不多？我用的 pi 速度快到离谱"
+    },
+    {
+      "id": "308430093009",
+      "t": 13,
+      "content": "glm token用得速度快得飞起，用不起。还是ds好[doge]"
+    },
+    {
+      "id": "308432498689",
+      "t": 14,
+      "content": "回复 @-机密- :300b要能比fable5强，全世界ai公司可以自刎归天了"
+    },
+    {
+      "id": "6a6ed7910000000005015771",
+      "t": 7,
+      "content": "@要暴富啦. [偷笑R][偷笑R][偷笑R]"
+    },
+    {
+      "id": "311823652576",
+      "t": 6,
+      "content": "我用起来感觉有点小贵不知道是思考度开的太高还是为啥[doge_金箍]"
+    },
+    {
+      "id": "308525920753",
+      "t": 14,
+      "content": "主要是视觉纠正"
+    },
+    {
+      "id": "7668704069620155195",
+      "t": 15,
+      "content": "这次通稿是这个吗？"
+    },
+    {
+      "id": "6a6c87170000000015013036",
+      "t": 16,
+      "content": "用不完一点，flash 速度可能是 kimi10 倍[doge]，不过 kimi 我也充了 199，ds 出来之前过渡一下挺好用的。"
+    },
+    {
+      "id": "311663048896",
+      "t": 17,
+      "content": "回复 @AI超元域 :为啥auto自动命令审批模式用ds总是报错命令分类器不可用，奇怪"
+    },
+    {
+      "id": "308484363681",
+      "t": 14,
+      "content": "没算力，华为卡又不行。"
+    },
+    {
+      "id": "308597025233",
+      "t": 18,
+      "content": "下个版本有很大概率会加上图像识别，但按deepseek的路子肯定不是单纯接上就完事了，同样会做降本提效"
+    },
+    {
+      "id": "7668954708179043087",
+      "t": 19,
+      "content": "请教一下各位，主播用的这个api接入客户端是什么软件，现在还没用过这个方面，只会代码调用"
+    },
+    {
+      "id": "308402577905",
+      "t": 13,
+      "content": "回复 @可爱小po :笑死我了[笑哭]"
+    },
+    {
+      "id": "6a6d567d000000000403ba68",
+      "t": 20,
+      "content": "这不是多此一举嘛，直接对接qwen就好了啊，纯聊天cc切换也行"
+    },
+    {
+      "id": "6a6ddf0f0000000009016852",
+      "t": 21,
+      "content": "我觉得大家不用这么激动的，毕竟 Pro 版还没出来，大逃杀只是预热而已[偷笑R]"
+    },
+    {
+      "id": "311744243296",
+      "t": 14,
+      "content": "回复 @JackySmile : 最大的问题还是注意力，pro给这个解决了就是万能了。tips这次的rp也增强了，文风变的不错了😌但是知识库太小了很多东西它想不到。\n根据我的使用体验flash并不拉，比之前gpt5.5好，但还是没多模态，最多拿来搞一下后端，前端审美一眼ds味，我不好评价"
+    },
+    {
+      "id": "311764634912",
+      "t": 14,
+      "content": "别赌啦，快来美股梭哈，把 A 股亏的狠狠赚回来"
+    },
+    {
+      "id": "311792943712",
+      "t": 14,
+      "content": "说明你没用过预设"
+    },
+    {
+      "id": "308461786561",
+      "t": 22,
+      "content": "up，用deepseek做模型是怎么做的，我也想学学用ai做模组[给心心]"
+    },
+    {
+      "id": "308483040337",
+      "t": 0,
+      "content": "回复 @王响_ :我测过pi效果最好，不过插件得手搓"
+    },
+    {
+      "id": "308543069281",
+      "t": 0,
+      "content": "回复 @云初子淼 :我看到了，要会员权益"
+    },
+    {
+      "id": "6a6dab58000000002902f69d",
+      "t": 7,
+      "content": "[笑哭R][笑哭R]哈哈哈 ，最近中国科技好厉害啊，我都不知道该买哪个了"
+    },
+    {
+      "id": "p0v6l3q",
+      "t": 23,
+      "content": "these llms, and on top open weights, then on top nearing or surpassing many frontier models always, always let my head explode. this all has been in the open for a few years, crazy times we are living in"
+    },
+    {
+      "id": "311905552544",
+      "t": 24,
+      "content": "回复 @墨ink_mo :瞎子模型专属坐骑，zcode"
+    },
+    {
+      "id": "p14agj2",
+      "t": 25,
+      "content": "I wouldn't be surprised if your pcie lanes for you second gpu is the huge bottleneck here, since pcie 5 x16 for gpu 1 gives you 64GB/s, and pcie 3 x1 on gpu 2 is only 1GB/s. If you had a threadripper or similar enterprise board with more lanes you'd probably see improvement."
+    }
+  ]
+}

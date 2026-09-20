@@ -1,0 +1,795 @@
+{
+  "items": [
+    {
+      "id": "p13wt47",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "称新模型运行顺畅且持续全天运行。"
+    },
+    {
+      "id": "p11s9si",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "price",
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "分享插件整合优化成功经验，初期问题已解决。"
+    },
+    {
+      "id": "6a6dc48e0000000009014642",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问苹果商店版本是否已接入模型。"
+    },
+    {
+      "id": "308431660833",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "mixed"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "评价尚可并建议限制提问与思考，褒贬较弱。"
+    },
+    {
+      "id": "p0tuq34",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否发布了新DeepSeek模型。"
+    },
+    {
+      "id": "308579524657",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明免费与套餐均直接接入官方。"
+    },
+    {
+      "id": "p184pjk",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "指出开源模型局限，也肯定明确任务下的表现。"
+    },
+    {
+      "id": "p12i2ch",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price",
+        "performance",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "纠正成本降幅与来源，嘲讽原帖不准确。"
+    },
+    {
+      "id": "308446138353",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "correction"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清问题，询问模型或不同代理的费用差异。"
+    },
+    {
+      "id": "7669065625973326601",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "限定模型适用场景，称不适合代码而需严格约束。"
+    },
+    {
+      "id": "308407286129",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "反对无证据单指DeepSeek刷分的说法。"
+    },
+    {
+      "id": "7668916749933527846",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "区分图片输入与生图能力，说明输出为文字。"
+    },
+    {
+      "id": "2083899659261784334",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "肯定DeepSeek保障了本地AI的能力下限。"
+    },
+    {
+      "id": "p137hnq",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "玩笑式维护Uncle Turbo，具体指代不明。"
+    },
+    {
+      "id": "308536483441",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问两个工具接入DeepSeek哪个更好。"
+    },
+    {
+      "id": "6a6d83ab000000002b027d66",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "质疑Flash超过Pro及博主是否做过功课。"
+    },
+    {
+      "id": "308591036177",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "反对利好判断，解释模型对硬件部署需求的影响。"
+    },
+    {
+      "id": "311903920192",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "指出上下文限制并询问能否修改，略显不满。"
+    },
+    {
+      "id": "7669254311633437489",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "肯定实用性，提出点菜与食材管理应用。"
+    },
+    {
+      "id": "308561641681",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "主要抱怨速度慢，并提出期望速度。"
+    },
+    {
+      "id": "7668916318075126577",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问预览版API能否直接用正式版。"
+    },
+    {
+      "id": "311712682816",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以不确定口吻介绍接口兼容与直接使用方式。"
+    },
+    {
+      "id": "311638441632",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "称无需改模型名字即可直接使用。"
+    },
+    {
+      "id": "311932242624",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "指出无限循环问题并推荐改用其他工具。"
+    },
+    {
+      "id": "6a6c7799000000002902ee7a",
+      "r": [],
+      "s": [],
+      "i": [],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "仅有评论丢失提示，无法判定原评论。"
+    },
+    {
+      "id": "6a6df6bf000000000802da52",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "comparison",
+        "other"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": -0.1,
+      "reason": "肯定5.6更好，同时不满公司限制模型选择。"
+    },
+    {
+      "id": "7669014687324980005",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "反对厂商留有更强版本的推测，但他们指代不明。"
+    },
+    {
+      "id": "311712306480",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "指出开关位置，并认为聊天用途下V4表现一般。"
+    },
+    {
+      "id": "6a6ecd090000000015000e04",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "分享持续使用情况，调侃能力多取决于使用者。"
+    },
+    {
+      "id": "311875404624",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出Pro版本状态并介绍其所称识别方式。"
+    },
+    {
+      "id": "308505788817",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.4,
+      "reason": "仅礼貌致谢，没有可见AI讨论内容。"
+    },
+    {
+      "id": "2083443670116974755",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "question",
+        "suggestion"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "期待",
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "催问平台是否更新模型，并玩笑称要创业独角兽。"
+    },
+    {
+      "id": "308415520465",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "批评泡沫论，同时肯定开源对AI市场的长期作用。"
+    },
+    {
+      "id": "2083097471719448954",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "在模型发布语境中直接向DeepSeek致谢。"
+    },
+    {
+      "id": "308512855313",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.1,
+      "reason": "描述学习场景难接入AI，并自嘲使用阶段原始。"
+    },
+    {
+      "id": "7669158522307740453",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [
+        "期待",
+        "调侃"
+      ],
+      "score": 0.5,
+      "reason": "夸张期待模型领先及华为芯片冲击美股。"
+    },
+    {
+      "id": "311890061840",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "performance",
+        "price",
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议模型测评将耗时与花费纳入评分。"
+    },
+    {
+      "id": "6a6e94f4000000002902e5cd",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "质疑C端盈利，是否专指AI业务不明确。"
+    },
+    {
+      "id": "308465904001",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述模型API业务九个月回本的说法。"
+    },
+    {
+      "id": "311878567632",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "虚拟梁文峰口吻玩梗，你们指代及AI关联不明。"
+    }
+  ]
+}

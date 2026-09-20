@@ -1,0 +1,815 @@
+{
+  "items": [
+    {
+      "id": "6a6d7afb0000000015009f55",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃梁哥工作时间，未明确谈AI，相关性有歧义。"
+    },
+    {
+      "id": "6a6ec93d000000000b03a31b",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": 0,
+      "reason": "抱怨内存贵，同时认为官方API更实惠。"
+    },
+    {
+      "id": "p16j819",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "强调智能体框架与记忆配置的重要性，认可组合效果。"
+    },
+    {
+      "id": "2083726852644843974",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "结合提速标题，对Ollama更新表达兴奋支持。"
+    },
+    {
+      "id": "308392809969",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正Codex需要登录的说法。"
+    },
+    {
+      "id": "7668893411772269361",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述不做多模态，未明确表达褒贬。"
+    },
+    {
+      "id": "311846796384",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型能否识别图片。"
+    },
+    {
+      "id": "311710869040",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "结合双机实测标题，称赞效率并点赞。"
+    },
+    {
+      "id": "308451190593",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明站点实时监测模型智力波动的用途。"
+    },
+    {
+      "id": "311770470288",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "明确期待Pro正式版，未评价现有能力。"
+    },
+    {
+      "id": "308521499057",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "赞赏预览版指令遵循，同时询问新版是否退步。"
+    },
+    {
+      "id": "311778188960",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "陈述大量使用经验并评价强度不错。"
+    },
+    {
+      "id": "p17awix",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "担忧"
+      ],
+      "score": -0.7,
+      "reason": "指责挑选证据，质疑低价模型的任务能力与成本优势。"
+    },
+    {
+      "id": "308585293201",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "mixed"
+      ],
+      "i": [
+        "disagreement",
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑",
+        "期待"
+      ],
+      "score": -0.3,
+      "reason": "反对缺少多模态的辩护，并期待补齐能力。"
+    },
+    {
+      "id": "308383313425",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出博主遗漏模型配置设置。"
+    },
+    {
+      "id": "308610633089",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出相同用量换其他模型成本不止300。"
+    },
+    {
+      "id": "311785374752",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明配置改动少且对话不会丢失。"
+    },
+    {
+      "id": "7669053129510896442",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "以玩笑口吻赞许发布策略，调侃竞争对手压力。"
+    },
+    {
+      "id": "p0zacu2",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分析开放权重对推理定价和闭源厂商利润的影响。"
+    },
+    {
+      "id": "308507955617",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "service",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "反驳GPT配额不透明，主张周配额固定。"
+    },
+    {
+      "id": "7668902241763836730",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "重复赞同配坏笑疑似反讽，但缺失所回应观点。"
+    },
+    {
+      "id": "308514948113",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "trust",
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "纠正调用方式认知，批评API掺水且模型不透明。"
+    },
+    {
+      "id": "2083092731891458512",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.7,
+      "reason": "对Flash已超越Pro预览版表达惊喜认可。"
+    },
+    {
+      "id": "6a6d871b000000002a02ca59",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "称梁为炒股高手，未讨论AI产品或使用。"
+    },
+    {
+      "id": "6a6f29fe0000000004039ed8",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "抱怨修改越改越差，反复遗漏此前内容。"
+    },
+    {
+      "id": "308389846977",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "comparison",
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨代码出错和花钱受教训，也承认强于预览版。"
+    },
+    {
+      "id": "308502064401",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问第三方API接入Codex后能否调用MCP。"
+    },
+    {
+      "id": "6a6decaa0000000015009878",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "标题补足模型指代，询问其擅长的任务。"
+    },
+    {
+      "id": "308484769153",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "结合音乐测试以vibemusic命名趋势，略带兴奋玩梗。"
+    },
+    {
+      "id": "308494456913",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "猫娘语气玩梗表达被吓到，未明确评价AI使用。"
+    },
+    {
+      "id": "308476583809",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "抱怨DeepSeek沟通理解不及GPT。"
+    },
+    {
+      "id": "2083901185761976347",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison",
+        "capability",
+        "performance"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "反对速度直接比较，以体量和任务能力差异作论据。"
+    },
+    {
+      "id": "311662536784",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "报告业务测试结果，认为胜过Qwen Flash且接近Plus。"
+    },
+    {
+      "id": "7669370521298355002",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "谨慎陈述个人偏好，认为DS更好但不认定稳压。"
+    },
+    {
+      "id": "311714513776",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "反问有用与泡沫破裂是否冲突，AI指代仍有歧义。"
+    },
+    {
+      "id": "308484097329",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "询问网页版更新时间。"
+    },
+    {
+      "id": "311763966128",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待",
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "催促更新并称好用，但更新对象可能是模型或视频。"
+    },
+    {
+      "id": "2083153157837004991",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "以达到Fable水平为条件表达期待与赞许。"
+    },
+    {
+      "id": "311716714784",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅说没看见，缺失对象，无法确定是否涉及AI。"
+    },
+    {
+      "id": "311772600752",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "分享用DeepSeek修复模组冲突成功的经验。"
+    }
+  ]
+}

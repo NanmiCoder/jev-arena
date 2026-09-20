@@ -1,0 +1,835 @@
+{
+  "items": [
+    {
+      "id": "2083132351685562567",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "认可开放模型靠训练缩小能力差距，并强调价格优势。"
+    },
+    {
+      "id": "311769529024",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "质疑仅凭商家说法判断商品，是否特指AI不明确。"
+    },
+    {
+      "id": "p113mg7",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality",
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0.2,
+      "reason": "肯定Flash表现，同时认为采样参数古怪。"
+    },
+    {
+      "id": "6a6e2e31000000001500b26f",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "失望",
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "质疑无法查看图像效果的工具对前端开发的作用。"
+    },
+    {
+      "id": "311711999648",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出Opus 5也不具备图片生成能力。"
+    },
+    {
+      "id": "308530258481",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述Codex接入非官方模型时的代码修改方式。"
+    },
+    {
+      "id": "6a6ee4e8000000002902e1fc",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.3,
+      "reason": "承认编程能力增强，但担忧工程应用可靠性。"
+    },
+    {
+      "id": "311769887088",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以梁白开作饮料梗，未评价模型或使用。"
+    },
+    {
+      "id": "308590761617",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "预计模型够用，重点讨论会员额度；认可较为试探。"
+    },
+    {
+      "id": "311739217712",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "mixed"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "performance",
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "抱怨迅雷会员和移动网络下载慢，与AI无关。"
+    },
+    {
+      "id": "308333718353",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "比较两款工具，抱怨Reasonix反复调整仍答非所问。"
+    },
+    {
+      "id": "7668800928522781492",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "质疑模型作用有限、未体现利大于弊。"
+    },
+    {
+      "id": "6a6dcb490000000029036dd8",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": null,
+      "reason": "使用AI嘉豪梗调侃，指代与具体贬义不明确。"
+    },
+    {
+      "id": "6a6dab170000000029026f0a",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.4,
+      "reason": "赞同未展示的观点并贬低他人，联系所指不明。"
+    },
+    {
+      "id": "7669321593965921061",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "承认能力非最高，整体明确肯定DS性价比。"
+    },
+    {
+      "id": "311898831072",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "明确表达赞同，但缺少所赞同观点，AI相关性不明。"
+    },
+    {
+      "id": "308421503425",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "询问必须使用Codex的理由，并指出存在替代产品。"
+    },
+    {
+      "id": "2083125653524926925",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "赞叹Flash尚非Pro就已超过GLM。"
+    },
+    {
+      "id": "7669260441177195298",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "提及为DS贡献，但具体行为及是否玩笑不明确。"
+    },
+    {
+      "id": "6a6c538a000000002901a510",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释多模态发展节奏，并提供其他模型选择。"
+    },
+    {
+      "id": "311759708176",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "失望",
+        "愤怒"
+      ],
+      "score": -0.9,
+      "reason": "强烈抱怨详细提示后仍推断错误，无法用于编程。"
+    },
+    {
+      "id": "6a6f1f11000000001500255b",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "price",
+        "service",
+        "usability"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "推荐开通OpenCode会员并说明价格及用量。"
+    },
+    {
+      "id": "p12hgfv",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "讽刺对方不懂资本主义，未直接讨论AI产品。"
+    },
+    {
+      "id": "2083326037539102805",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "明确赞叹标题所述模型成本低。"
+    },
+    {
+      "id": "7669016684380078889",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "认为未优化缓存导致成本偏高，并纠正价格判断。"
+    },
+    {
+      "id": "6a6f333a000000000b038bd8",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "以反问讨论参数量、过拟合和偏差的关系。"
+    },
+    {
+      "id": "2083884408357237092",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "performance",
+        "reliability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "批评Kimi贵且慢，肯定Flash并询问稳定性。"
+    },
+    {
+      "id": "7668715617000145723",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "用被斩杀调侃GLM竞争失利，负面程度有歧义。"
+    },
+    {
+      "id": "308417243009",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "纠正将所有程序错误归咎于多模态的说法。"
+    },
+    {
+      "id": "311643268560",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认为达到Terra中等水平，愿让其处理复杂项目。"
+    },
+    {
+      "id": "2083218339913244931",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "表示常受益于DeepSeek，并在Codex额度将尽时使用。"
+    },
+    {
+      "id": "311739482800",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "以看不见屏幕讽刺模型开启电脑操作功能。"
+    },
+    {
+      "id": "308366796257",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释输出长度限制，并建议细化要求、分次输入和检查设置。"
+    },
+    {
+      "id": "308483409649",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "将硅基流动定位为AI平台，纠正其产品角色认知。"
+    },
+    {
+      "id": "7669023670845997873",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0.1,
+      "reason": "推荐方便的一键部署，同时反映CC任务暂停问题。"
+    },
+    {
+      "id": "311712157184",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "愤怒",
+        "期待"
+      ],
+      "score": -0.5,
+      "reason": "不满迟迟未发布，但缺少上下文，发布对象不明。"
+    },
+    {
+      "id": "311930762512",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "肯定精细化能力，同时建议限制细节以保持像素风格。"
+    },
+    {
+      "id": "6a6d8071000000002901a2a7",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "other",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "将GLM发布时间与股价暴跌挂钩，带有施压语气。"
+    },
+    {
+      "id": "7669083214091469595",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "质问DeepSeek为何未发挥其应有能力。"
+    },
+    {
+      "id": "p13gbh7",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "纠正与Opus 4.8持平的说法，并给出较低能力定位。"
+    }
+  ]
+}

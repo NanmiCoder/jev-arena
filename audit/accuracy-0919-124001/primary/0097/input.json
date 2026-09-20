@@ -1,0 +1,235 @@
+{
+  "topics": [
+    "130亿干翻490亿，DeepSeek让大力出奇失效了",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "Fix for Deep Seek v4 Flash 0731 tool calling has been added to llama cpp",
+    "Deepseek V4-flash正式版实测",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "这条视频里的人是我，但我根本没拍，也没剪。 DeepseekV4Flash正式版自主做视频能力实测。我只输入了一段提示词，DeepSeek V4 Flash 就自己找案例、写内容，再用 AI 数字人做完了整条视频。现在的 AI 做视频，这已经是基础操作了。#AI新星计划  #AI做视频 #DeepSeekV4 #AI数字人",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeekV4-flash上线 外网的反应 开源免费就没有不香的道理",
+    "Deepseek v4 flash 0731 real experience. It is definitely shocking the world, But do they have enough capacity?",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "deepseek-ai/DeepSeek-V4-Flash-0731 @ DGX Spark×2\n余裕で実用速度やな！！🍻\n\nDSpark 7-tokenでこれくらい。 https://t.co/XbQRdO9QIK",
+    "With release of Deepseek V4 I wanted see how the model sizes are trending over time. The trend is that by this time next year, we probably will have Opus 4.5 level models on consumer grade laptops!",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "DeepSeek-V4-Flash-High",
+    "要被外网的一些评论笑死了😂😂😂"
+  ],
+  "comments": [
+    {
+      "id": "6a6df378000000001500881c",
+      "t": 0,
+      "content": "这是在Ai硬件这个破鼓上又锤个大洞"
+    },
+    {
+      "id": "311929583840",
+      "t": 1,
+      "content": "用了一下，感觉还挺像这么回事的"
+    },
+    {
+      "id": "311737659360",
+      "t": 2,
+      "content": "@林亦LYi 是给deep灌了多少水？[微笑]"
+    },
+    {
+      "id": "311760148560",
+      "t": 2,
+      "content": "一亿零五百万花了10.08，这个咋样[微笑]"
+    },
+    {
+      "id": "311917285744",
+      "t": 3,
+      "content": "回复 @千羽夏露 :但是说实话有点多次一举了，直接在agent里操作不是一样吗？还能直接输出文档"
+    },
+    {
+      "id": "308384753809",
+      "t": 4,
+      "content": "现在不用ccswitch也能直接接入codex了吗？"
+    },
+    {
+      "id": "p16i0b0",
+      "t": 5,
+      "content": "Hopefully this helps that one dude a few posts up from this one who had this specific issue lol"
+    },
+    {
+      "id": "6a6db21e000000002a03228c",
+      "t": 6,
+      "content": "现在是不是直接可以codex里切换到deepseek flash做交叉验证了"
+    },
+    {
+      "id": "308545338097",
+      "t": 7,
+      "content": "这话同样适用于glm5.2和Gpt5.6 sol low/terra high"
+    },
+    {
+      "id": "311907445664",
+      "t": 8,
+      "content": "所以plan不要买年费，[doge]"
+    },
+    {
+      "id": "311658121552",
+      "t": 9,
+      "content": "第四！！[星星眼][星星眼][星星眼]"
+    },
+    {
+      "id": "7669345299576668978",
+      "t": 10,
+      "content": "DS不是文本模型吗？现在也能处理多模态任务？"
+    },
+    {
+      "id": "311864338496",
+      "t": 11,
+      "content": "回复 @F1toinf : 文字试图会丢很多信息，原生多模态的话模型甚至能够自己做大家来找茬，用来调试一些表现BUG的时候帮助很大"
+    },
+    {
+      "id": "6a6c625f000000002a030b05",
+      "t": 12,
+      "content": "求原图[doge]"
+    },
+    {
+      "id": "308415937713",
+      "t": 13,
+      "content": "感觉数据集被污染了"
+    },
+    {
+      "id": "311893401408",
+      "t": 14,
+      "content": "垄断企业该治"
+    },
+    {
+      "id": "p10qpyn",
+      "t": 15,
+      "content": "The beauty of open weights. There's already multiple providers on OpenRouter who have deployed the model now.\n\nhttps://openrouter.ai/deepseek/deepseek-v4-flash-0731"
+    },
+    {
+      "id": "311822983584",
+      "t": 9,
+      "content": "原来网页版还是v3的吗()"
+    },
+    {
+      "id": "308566852337",
+      "t": 16,
+      "content": "但是只有首月半价呀"
+    },
+    {
+      "id": "p1616ib",
+      "t": 17,
+      "content": "Deepseek actually did rebalance the scale for me, same as kimik3. For now OpenAI is downgraded to 20 per month (was 200) to give more space to those Chinese providers. It’s funny how sonnet around the same pricing as kimik3. I mean Fable pricing? What? \n\nI am expecting a big release for deepseek v4 pro as it will surely be better than flash."
+    },
+    {
+      "id": "2083133384201564516",
+      "t": 18,
+      "content": "@deepseek_ai @traderjoe666 מעניין אם בשלב מסויים זה יהיה פשוט בחינם תמורת השימוש בדאטה"
+    },
+    {
+      "id": "7668900306496291647",
+      "t": 19,
+      "content": "cdc是Codex吗？[思考]"
+    },
+    {
+      "id": "308362965089",
+      "t": 20,
+      "content": "回复 @我从风中来122 :https://b23.tv/BV1oWKT6hEnV https://b23.tv/BV1WPKN6qE7T 现在发布的Deepseek V4Flash正式版本，能力确实是一般般，但是Deepseek V4 Pro正式版本，从之前的灰度测试所展现出来的，能力可以说是非常强大的，上面有两个视频链接，第二个视频链接里面的模型应该是是Deepseek V4 Pro正式版灰度测试的模型，性能非常的强，第一个视频链接里面的视频是总对比，也就是对比各个模型执行同个任务，看效果如何"
+    },
+    {
+      "id": "308492114865",
+      "t": 11,
+      "content": "CC switch还是很有用啊，随时切换不同模型"
+    },
+    {
+      "id": "311675955184",
+      "t": 21,
+      "content": "reasonix，up主视频里有"
+    },
+    {
+      "id": "2083387690318430213",
+      "t": 22,
+      "content": "@wmoto_ai これどの辺まで何ができますか？"
+    },
+    {
+      "id": "308477150449",
+      "t": 2,
+      "content": "我昨天使用了1.5亿花了四块五"
+    },
+    {
+      "id": "p136yvi",
+      "t": 17,
+      "content": "whaaaaaat, here i was going to invite him over for a bbq and everything"
+    },
+    {
+      "id": "311861907104",
+      "t": 11,
+      "content": "生成图片 目前接deepseek有办法解决么"
+    },
+    {
+      "id": "308404435953",
+      "t": 9,
+      "content": "回复 @争做新神人 :缓存命中这块zcode超级高，97%-99%经常"
+    },
+    {
+      "id": "p0xf8yc",
+      "t": 23,
+      "content": "If you expect laptops to have 256/512 unified ram then maybe.  You need Q2 of the new deepseek on 128gb."
+    },
+    {
+      "id": "311729617840",
+      "t": 24,
+      "content": "对，但 sql 是这样的，估计编程和其他复杂任务也会有效率提升。"
+    },
+    {
+      "id": "308422913537",
+      "t": 2,
+      "content": "回复 @百本道 :那就用ds，bug多改几下不花钱无所谓的[doge]"
+    },
+    {
+      "id": "7668969256750580539",
+      "t": 25,
+      "content": "什么都不用管[捂脸]"
+    },
+    {
+      "id": "308442663377",
+      "t": 13,
+      "content": "那是 pro"
+    },
+    {
+      "id": "308593055329",
+      "t": 26,
+      "content": "回复 @白露四号舰 :散户冰冷的玛尼变成了用户温暖的token[doge]"
+    },
+    {
+      "id": "6a6d53bd000000002a00596e",
+      "t": 27,
+      "content": "斩杀线啊[偷笑R]"
+    },
+    {
+      "id": "6a6f0e82000000000d028800",
+      "t": 28,
+      "content": "有区别、fable能达到ds flash的水平、但是价格高100倍。opus、sonnet、haiku就稍微差一点"
+    },
+    {
+      "id": "308435336065",
+      "t": 9,
+      "content": "@尊嘟qwq 你看评论区像不像人机"
+    },
+    {
+      "id": "311653406128",
+      "t": 21,
+      "content": "为啥我玩酒馆，缓存命中率老低了"
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "items": [
+    {
+      "id": "308457826977",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合部署标题，询问能否利用自有水电部署模型。"
+    },
+    {
+      "id": "308433281217",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "批评未用API就吹捧，并指出其他应用限制相似。"
+    },
+    {
+      "id": "308589148113",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "分享充值后可用很久的体验，略有划算之意。"
+    },
+    {
+      "id": "6a6ce51e0000000015006ff3",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.3,
+      "reason": "将各家放弃多模态称为问题，带轻微不满。"
+    },
+    {
+      "id": "308351067841",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison",
+        "price",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "质疑版本差距很大的预设，并比较性价比。"
+    },
+    {
+      "id": "308422278769",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "用“别想了”压低能力预期，并推测研发重心。"
+    },
+    {
+      "id": "308439978769",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.7,
+      "reason": "明确称赞当前模型，并期待后续pro表现。"
+    },
+    {
+      "id": "311736120560",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "仅围绕昵称相同闲聊，与AI无关。"
+    },
+    {
+      "id": "311654966736",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅交代资料位置，缺少资料内容，相关性不明。"
+    },
+    {
+      "id": "311710030256",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问自己的DeepSeek API为何已有识图能力。"
+    },
+    {
+      "id": "308426792545",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "comparison",
+        "price",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "反对直接比较不同上下文套餐，并提供替代价格。"
+    },
+    {
+      "id": "7668807499353195301",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "强调Flash只能聊天，可能陈述限制或表达不满。"
+    },
+    {
+      "id": "6a6da770000000002a026c1c",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "price",
+        "other"
+      ],
+      "e": [
+        "质疑",
+        "调侃",
+        "担忧"
+      ],
+      "score": -0.8,
+      "reason": "以盗版类比批评低价蒸馏，并担心研发发展变慢。"
+    },
+    {
+      "id": "6a6ec1c2000000001403b9ec",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0,
+      "reason": "肯定API变聪明，同时批评网页降智及情商下降。"
+    },
+    {
+      "id": "308437275953",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "纠正前述观点并论述参数规模，认可梁的方向。"
+    },
+    {
+      "id": "7669044164553720634",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明接入时需修改模型名，并交代正式版范围。"
+    },
+    {
+      "id": "311768560896",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议实际对比不同agent，未评价具体优劣。"
+    },
+    {
+      "id": "311668733168",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion",
+        "agreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认可AI发展，建议用好AI而非与其竞争。"
+    },
+    {
+      "id": "308392567425",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.2,
+      "reason": "描述人物相处时的母性感受，未讨论AI使用。"
+    },
+    {
+      "id": "7668865557211448122",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "分享中转比DS便宜很多的使用体验。"
+    },
+    {
+      "id": "7668975159793763121",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "comparison",
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "“用得快”更可能指额度消耗，并明确贬低kimi。"
+    },
+    {
+      "id": "p10d3yd",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "列出本地运行速度、硬件和量化配置。"
+    },
+    {
+      "id": "308526391329",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "调侃每月用量并质疑价格优势，末句表述有缺漏。"
+    },
+    {
+      "id": "308415083409",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "以自身用量成本说明划算，认为无需再用GLM。"
+    },
+    {
+      "id": "p119mia",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "指出DS4尚不支持某功能，但具体功能指代缺失。"
+    },
+    {
+      "id": "7669259466592961329",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问实测使用的agent工具。"
+    },
+    {
+      "id": "6a6c7852000000001500a0af",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "service",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "反驳额度会用尽的说法，并补充luna有多模态。"
+    },
+    {
+      "id": "308462420961",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认可模型达到GLM5.2水平。"
+    },
+    {
+      "id": "6a6d7176000000002b000820",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "肯定字节多模态实力，同时反对对字节的歧视。"
+    },
+    {
+      "id": "7669404796583281459",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "报告旧版长上下文下表现退化，当前情况未知。"
+    },
+    {
+      "id": "308564527121",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "惊喜",
+        "调侃"
+      ],
+      "score": 0.4,
+      "reason": "结合手机本地运行标题表达惊奇，赞赏程度有歧义。"
+    },
+    {
+      "id": "p12ho4f",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "质疑跑分与实际表现不符，链接内容不作推断。"
+    },
+    {
+      "id": "308408418081",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "明确赞同对方，但缺少所指观点，AI相关性不明。"
+    },
+    {
+      "id": "7668940926345626425",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问并请求公开所用agent。"
+    },
+    {
+      "id": "311685887744",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.2,
+      "reason": "建议使用reasonix，未给出具体优点或维度。"
+    },
+    {
+      "id": "308515071009",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "调侃突出国产及骂平台的言行，具体对象不明。"
+    },
+    {
+      "id": "311788791328",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问已购预览版是否自动切换到正式版。"
+    },
+    {
+      "id": "6a6c964e000000000500ae66",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other",
+        "question"
+      ],
+      "a": [
+        "trust",
+        "other"
+      ],
+      "e": [
+        "期待",
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "期待模型开源并表达对梁的信任，兼有试探询问。"
+    },
+    {
+      "id": "7669093129361965873",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "指出当前只是Flash，并预期Pro能力更强。"
+    },
+    {
+      "id": "6a6ebb3d000000002b003e63",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问达到标题所示速度需要什么设备。"
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "items": [
+    {
+      "id": "7668993978927153920",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "借称呼升级表达对模型表现的认可，兼有玩梗。"
+    },
+    {
+      "id": "6a6d2ab3000000000d028400",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "content",
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "质疑首轮测试意义，建议比较多轮修改能力及成本。"
+    },
+    {
+      "id": "308559811985",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望",
+        "期待"
+      ],
+      "score": -0.5,
+      "reason": "认为当前效果不行，并期待Pro正式版。"
+    },
+    {
+      "id": "311696245216",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "陈述自身输入输出Token用量，无明确褒贬。"
+    },
+    {
+      "id": "p0x34oz",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "期待轻量翻译模型，肯定Gemma但指出其未通过测试。"
+    },
+    {
+      "id": "311733227600",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "反问强调识图方式普遍如此，反驳对象缺失。"
+    },
+    {
+      "id": "311925989968",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "解释开发流程，并认可便宜模型适合大量使用。"
+    },
+    {
+      "id": "7668939465122399011",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "质疑缺少多模态能否完成任务，具体对象略含糊。"
+    },
+    {
+      "id": "311740589824",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "content",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "批评测评只测视觉短板、不全面且参考价值低。"
+    },
+    {
+      "id": "6a6db05d0000000014039407",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正不做生成模型等同于不会多模态的理解。"
+    },
+    {
+      "id": "311861937024",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "认可变聪明，同时质疑降价说法并指出部分涨价。"
+    },
+    {
+      "id": "6a6ee1da000000002a027d44",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "以打扰了调侃256G内存部署门槛过高。"
+    },
+    {
+      "id": "7668853113885180721",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "指出API无识图模式，上线后仍无法读取图片。"
+    },
+    {
+      "id": "308518719489",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "反问用该模型是否浪费钱，具体品牌写法不清。"
+    },
+    {
+      "id": "308435616721",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述原文中本地GLM用于安全审计与漏洞修复。"
+    },
+    {
+      "id": "7668978225762337586",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问接入DeepSeek API体验最好的软件。"
+    },
+    {
+      "id": "6a6df8aa000000002a02c060",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅表情和艾特，无可判定的模型评价或具体态度。"
+    },
+    {
+      "id": "6a6eae7f000000000500abc9",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Workbuddy能否接入正式版模型。"
+    },
+    {
+      "id": "311883011888",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明Terra的模型定位，没有明确评价其优劣。"
+    },
+    {
+      "id": "311719191712",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "指出多模态短板，同时强烈肯定小模型能力。"
+    },
+    {
+      "id": "6a6c6873000000001403a5b2",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.1,
+      "reason": "调侃雷里雷气，可能指表达风格，具体对象不明。"
+    },
+    {
+      "id": "311756972624",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "complaint"
+      ],
+      "a": [
+        "content",
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "质疑跑分未开启Max，暗示比较设置不公。"
+    },
+    {
+      "id": "311720028528",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "明确肯定Flash便宜且表现不错。"
+    },
+    {
+      "id": "p17s3f1",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调换显卡与主机的主次来玩梗，与模型使用关系间接。"
+    },
+    {
+      "id": "308380142017",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "直接批评K3稳定性太差。"
+    },
+    {
+      "id": "311896600432",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "称其是少数API价格负担得起的模型。"
+    },
+    {
+      "id": "6a6dc9a5000000002b0013a7",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion",
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "content"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "质疑吹捧并要求贴出测试证据。"
+    },
+    {
+      "id": "7668685012049904433",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否因Flash够强而暂缓Pro开放，属于猜测。"
+    },
+    {
+      "id": "311786046656",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "担忧"
+      ],
+      "score": -0.2,
+      "reason": "肯定双卡速度，同时指出上下文、并发及成本限制。"
+    },
+    {
+      "id": "311678852656",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.2,
+      "reason": "友好表达今后交流意愿，未涉及明确AI话题。"
+    },
+    {
+      "id": "2083879913300570115",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "performance",
+        "comparison",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "推荐DwarfStar，理由是Mac输出更快且支持SSD卸载。"
+    },
+    {
+      "id": "308546110497",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "分享接触电脑少仍报计算机专业的个人经历。"
+    },
+    {
+      "id": "6a6cc5940000000029037c10",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "以嘲讽语气纠正Codex早已支持各种API。"
+    },
+    {
+      "id": "308448986577",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问酒馆是否直接使用DeepSeek官方API。"
+    },
+    {
+      "id": "311848529648",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "贬称订阅模型残疾，并比较订阅与API上下文额度。"
+    },
+    {
+      "id": "308611117585",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合模型话题询问OMO编排角色的推荐选择。"
+    },
+    {
+      "id": "6a6d6d27000000002901bc4b",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "other"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "解释网页和App简洁源于商业化压力小，略带肯定。"
+    },
+    {
+      "id": "308383226913",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "补充套餐与Flash价格信息，未明确表达喜恶。"
+    },
+    {
+      "id": "308475395137",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述实际花费不到十元，可能在修正此前估算。"
+    },
+    {
+      "id": "7669088709861901115",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "other"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "将科技股下跌归因于模型低成本，是评论者的推测。"
+    }
+  ]
+}

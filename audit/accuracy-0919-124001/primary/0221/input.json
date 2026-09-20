@@ -1,0 +1,239 @@
+{
+  "topics": [
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek V4 Flash 0731 is absurdly cheap to use!!",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "The new deepseek-v4-flash is incredible!",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek v4 flash 0731 real experience. It is definitely shocking the world, But do they have enough capacity?",
+    "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "要被外网的一些评论笑死了😂😂😂",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "白嫖 DeepSeek V4 Flash 0731 新模型 接入Claude Code",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "Deepseek V4 Flash最新测评！Claude Code版！",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+    "DeepSeek Flash 0731",
+    "DSV4 Flash 正式版，Reddit 社区炸了",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "500tok/s 的 DeepSeek-V4-Flash",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "震撼美味！DeepSeek-V4-Falsh正式版",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "被接入Codex的DeepSeek V4 Flash正式版惊到了！",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "Thoughts on Deepseek v4 Flash 0731?",
+    "DeepSeek V4 Flash 0731 is now on OpenCode"
+  ],
+  "comments": [
+    {
+      "id": "6a6e7ff0000000002a026caa",
+      "t": 0,
+      "content": "限制了什么大家心知肚明，这点对个人有些扫兴，但对社会大局来说总是好事，任何东西都需要约束"
+    },
+    {
+      "id": "308596424417",
+      "t": 1,
+      "content": "回复 @舜昔 :权限没给到位"
+    },
+    {
+      "id": "p119dgm",
+      "t": 2,
+      "content": "153M tokens. at gpt4 launch pricing that's 4.5 grand. three years. now it's less than a bag of chips"
+    },
+    {
+      "id": "311832832016",
+      "t": 3,
+      "content": "请问下和kimi3比起来咋样呀"
+    },
+    {
+      "id": "311638488720",
+      "t": 4,
+      "content": "回复 @玩会捶捶背 :anthropic的endpoint格式和openai格式不一样的[藏狐]这个肯定还要过一段时间才被换下来，毕竟也说了目前优化的是codex使用体验"
+    },
+    {
+      "id": "311675428192",
+      "t": 5,
+      "content": "反正我用着 CC Switch 这个转接路由效果挺差的。"
+    },
+    {
+      "id": "311690447936",
+      "t": 6,
+      "content": "AI是工具，难不成你能让一个完全不懂代码的用AI去干项目？出问题你都看不懂，所拿来用就行了，修车的没道理怕别人会开车。"
+    },
+    {
+      "id": "308452453089",
+      "t": 7,
+      "content": "回复 @Griffin--- : codex++感觉很麻烦 卸载不干净 我还是把所有和codex有关的都删了 然后让ai清理残留 之后全部重装软件才正常了"
+    },
+    {
+      "id": "p1428ox",
+      "t": 8,
+      "content": "What is this new flash everyone is talking about? I use the API and I don't see a new Flash version to use only what's always been there (V4 Flash)"
+    },
+    {
+      "id": "7668896956022883106",
+      "t": 9,
+      "content": "上市了的两家大模型公司是真不好受啊哈哈哈  能力比他弱价格比他高 速度还慢"
+    },
+    {
+      "id": "p0ynih2",
+      "t": 10,
+      "content": "well they will have no issue, as the model is small in size and also the weight is live, so many infrastructure provider will add it and the load will be balanced"
+    },
+    {
+      "id": "p0v53t5",
+      "t": 11,
+      "content": "\"For the Code Agent tasks among the public benchmarks above, DeepSeek-V4-Flash-0731 is evaluated with the minimal mode of DeepSeek Harness (to be released) as the agent framework, using the max reasoning effort level with temperature = 1.0, top_p = 0.95.\"\n\nThat's interesting! New official harness from deepseek coming soon"
+    },
+    {
+      "id": "311686372480",
+      "t": 12,
+      "content": "打卡第十四天！（14/114514）"
+    },
+    {
+      "id": "6a6dcacc000000000403a2a5",
+      "t": 13,
+      "content": "开源，智慧宇宙！"
+    },
+    {
+      "id": "311760701664",
+      "t": 14,
+      "content": "这些人都是不用大模型工作的[doge]天天用的压根不追求一遍过，追求的起整体对话轮次少，效率高的那种"
+    },
+    {
+      "id": "308391568497",
+      "t": 15,
+      "content": "回复 @喜欢你小姐姐艒 :肯定啊，pro得40多了"
+    },
+    {
+      "id": "311666477488",
+      "t": 4,
+      "content": "回复 @小欣资源库- :openrounter没法买gpt的coding plan吧，那没太大意义吧[笑哭]"
+    },
+    {
+      "id": "6a6dc9d5000000000b03b027",
+      "t": 13,
+      "content": "O还不至于，÷字辈一直以来就是A÷独享"
+    },
+    {
+      "id": "308626837857",
+      "t": 16,
+      "content": "回复 @王天元 : 测完应该是三百多k对吗？"
+    },
+    {
+      "id": "311750462704",
+      "t": 15,
+      "content": "试了一下，角色扮演性能也提升了不少。关键还是便宜[藏狐]"
+    },
+    {
+      "id": "311724042080",
+      "t": 1,
+      "content": "我也想问，之前不是说codex花token超级多，现在怎么样"
+    },
+    {
+      "id": "308384484625",
+      "t": 15,
+      "content": "试了下感觉很强，之前在TRAE中用过GLM-5.2逆向dex2c折腾两三天都没搞定，今天把deepseek接入codex花了4小时多搞定了，3亿多token，十多块钱。"
+    },
+    {
+      "id": "7668661881817465657",
+      "t": 17,
+      "content": "试试不就知道了[暗中观察]"
+    },
+    {
+      "id": "308448729793",
+      "t": 18,
+      "content": "不是啊，你測你不用 Max 嗎？"
+    },
+    {
+      "id": "7668943028631454474",
+      "t": 19,
+      "content": "什么是跳板机？"
+    },
+    {
+      "id": "p0tzs0c",
+      "t": 20,
+      "content": "Which model exactly? Is it local?"
+    },
+    {
+      "id": "p0wwwgn",
+      "t": 21,
+      "content": "It's going to be good for the first couple of days, and after everyone is done testing it, deepseek will switch it to the shittyfied version. Just like they did with deepseek 4 preview release (or at least in my experience).\n\nUse it now while it lasts.\n\nEdit: I mean through the official deepseek API."
+    },
+    {
+      "id": "6a6f22e00000000015015fb3",
+      "t": 22,
+      "content": "确实不需要sonnet了，上次sonnet更新都没什么热度"
+    },
+    {
+      "id": "308580219217",
+      "t": 23,
+      "content": "这才是真实能力的测试，其他那些前端oneshot本质上是测的世界知识丰不丰富"
+    },
+    {
+      "id": "6a6dfddb000000001403be7e",
+      "t": 24,
+      "content": "啥硬件，居然在本地部署 deepseek"
+    },
+    {
+      "id": "6a6d54e00000000015016746",
+      "t": 25,
+      "content": "ip[偷笑R]"
+    },
+    {
+      "id": "6a6d7de3000000002902c777",
+      "t": 26,
+      "content": "没*感觉*到你的话可以反驳你自己吗？[捂脸R]"
+    },
+    {
+      "id": "311838127152",
+      "t": 27,
+      "content": "请问测速软件是什么"
+    },
+    {
+      "id": "p13o38o",
+      "t": 28,
+      "content": "If Tibo is not our friend, then who is?"
+    },
+    {
+      "id": "311826357664",
+      "t": 29,
+      "content": "回复 @SUPERMEMEMEME :这个不清楚了"
+    },
+    {
+      "id": "311666885536",
+      "t": 4,
+      "content": "自己问问AI"
+    },
+    {
+      "id": "6a6e0d8d0000000015004eea",
+      "t": 30,
+      "content": "不至于吧[呃R]这个模型只开放给会员这真的有点离谱了。你们不是都已经开始搞积分制了吗"
+    },
+    {
+      "id": "p101ye1",
+      "t": 31,
+      "content": "The model quality seems fine, but the new filtering is a big change. A lot of RP prompts that worked on previous DeepSeek versions now get refused, especially on the official API. Seems like something changed after 0731."
+    },
+    {
+      "id": "311775111392",
+      "t": 3,
+      "content": "C端用户有啥用啊？还不知道，但是先随便派几个人维护api和client养着吧。"
+    },
+    {
+      "id": "p1085fo",
+      "t": 32,
+      "content": "I stopped using opencode when my Go subscription for a monthly ran out in 60 minutes of Kimi K3 usage. That's right. I thought that was some bug so I reached out to support, on X, but no response and I cancelled my subscription."
+    }
+  ]
+}

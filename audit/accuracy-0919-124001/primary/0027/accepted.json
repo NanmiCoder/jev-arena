@@ -1,0 +1,788 @@
+{
+  "items": [
+    {
+      "id": "311738343808",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "reliability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "以稳定低价引流并附返佣注册链接，主要是广告。"
+    },
+    {
+      "id": "p0ux3ae",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问新版模型是否减少幻觉，没有明确褒贬。"
+    },
+    {
+      "id": "308412964801",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "推测模型发布时机与命名原因，未明确评价好坏。"
+    },
+    {
+      "id": "311632211552",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述上下文设置影响版本及思维链语言的经验。"
+    },
+    {
+      "id": "7668967043358130981",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "赞同前述观点，并提出显存和运行速度期望。"
+    },
+    {
+      "id": "7669314734101660425",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "complaint"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "批评未实际使用便凭数据吹捧，质疑评价依据。"
+    },
+    {
+      "id": "311760182880",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待",
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "依据灰测表现预测Pro更强，表达积极期待。"
+    },
+    {
+      "id": "p172whb",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "分享硬件配置，表示测试结果带来希望并期待尝试。"
+    },
+    {
+      "id": "p156h4z",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "报告本地运行仅每秒三四个token，结尾明确否定体验。"
+    },
+    {
+      "id": "308532894017",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问阿里的视觉模型或功能具体是什么。"
+    },
+    {
+      "id": "311814997488",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨接入后持续重连，认为GPT原生体验更好。"
+    },
+    {
+      "id": "308428532129",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议不用CC以减少token消耗，语气为推测。"
+    },
+    {
+      "id": "308393665713",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "抱怨CC Switch修改系统提示词造成困扰。"
+    },
+    {
+      "id": "311752671888",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "分享本地部署速度，并估计投机解码及双卡表现。"
+    },
+    {
+      "id": "7668690726797148974",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问如何使模型执行图片识别。"
+    },
+    {
+      "id": "308433015297",
+      "r": [],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问Reasonix相关情况，但词义及指代不明。"
+    },
+    {
+      "id": "311749259408",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "以AGI应具备多模态反驳前述说法，缺少被回复内容。"
+    },
+    {
+      "id": "7669384195878667017",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提出用AI将餐饮制作和相关要求标准化的应用思路。"
+    },
+    {
+      "id": "6a6cb69d000000002203fedd",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "以自身对比测试反对吹捧，认为能力仍有明显差距。"
+    },
+    {
+      "id": "311696253664",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述其他模型发布情况及能力比较，整体无明显情绪。"
+    },
+    {
+      "id": "308490937889",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "表达尝试意愿，主要询问API是否已切换正式版。"
+    },
+    {
+      "id": "308433039905",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "指出Luna仅高一分却花费更多，隐含性价比批评。"
+    },
+    {
+      "id": "311767017552",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "纠正对模型宣传的转述，并批评对方虚空打靶。"
+    },
+    {
+      "id": "7668657140928103203",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "质问正式版相关说法的来源，所指具体内容缺失。"
+    },
+    {
+      "id": "7669268399197569855",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明自身无多模态但可控制其他多模态AI。"
+    },
+    {
+      "id": "308576004769",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "以Sol也做不对为由，质疑Luna能完成任务。"
+    },
+    {
+      "id": "311702630432",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用弹弓打玻璃的夸张说法玩梗，未评价模型。"
+    },
+    {
+      "id": "7669362994874565419",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "结合标题指向AI使用，明确称赞性价比。"
+    },
+    {
+      "id": "308374398897",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "表示难判断且可能相近，缺少上文无法确定比较对象。"
+    },
+    {
+      "id": "311719544528",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "列出输入输出价格及折算结果，可能在纠正报价。"
+    },
+    {
+      "id": "6a6d89f1000000000501730a",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "依据接入经验指出工具调用及连续任务能力不足。"
+    },
+    {
+      "id": "311650556416",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "说明OpenCode官方直连已使用正式版。"
+    },
+    {
+      "id": "311850167232",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "对“深神”表示疑问，可能指模型称呼也可能是玩梗。"
+    },
+    {
+      "id": "7668975093599929137",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "因官网未找到入口而求助如何使用V4。"
+    },
+    {
+      "id": "308412251201",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "reliability",
+        "service"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0.1,
+      "reason": "肯定中转价格便宜，同时指出近期杀号影响稳定性。"
+    },
+    {
+      "id": "2083345393421783350",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "明确称赞支持Responses API这一功能。"
+    },
+    {
+      "id": "308480353313",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "仅嘲讽被回复者，未见与AI相关的具体内容。"
+    },
+    {
+      "id": "308605397921",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称DS为行业门槛，突出价格和效率优势。"
+    },
+    {
+      "id": "7669296527693103930",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "表示勉强去学，可能指AI教程但具体对象不明。"
+    },
+    {
+      "id": "311683228288",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "production"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "澄清P图出于对人物的喜爱，未讨论模型或使用。"
+    }
+  ]
+}

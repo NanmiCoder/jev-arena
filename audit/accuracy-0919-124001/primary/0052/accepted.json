@@ -1,0 +1,794 @@
+{
+  "items": [
+    {
+      "id": "311711568736",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只表达意外，具体对象及褒贬缺失，相关性两可。"
+    },
+    {
+      "id": "17927540",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "分享低成本完成知识库任务的经历并明确认可。"
+    },
+    {
+      "id": "308574657889",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "称赞模型测试中的实战性bug具有参考价值。"
+    },
+    {
+      "id": "308493452849",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "information"
+      ],
+      "a": [
+        "trust",
+        "service"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "含推广信息，但也明确询问模型是否掺水。"
+    },
+    {
+      "id": "308361218865",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "转述直连官方及能力偏弱的测试反馈，推测待修。"
+    },
+    {
+      "id": "311721713632",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "介绍免费模型组合及各自用途，强调不用花钱。"
+    },
+    {
+      "id": "7668943650584396559",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "疑问与捂脸表情带调侃，是否批评使用方式不明。"
+    },
+    {
+      "id": "311847754368",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问pi是什么，缺少上文无法确定是否为AI工具。"
+    },
+    {
+      "id": "7668974107199947557",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "惊讶地询问Flash是否超过Pro，未明确认可。"
+    },
+    {
+      "id": "311693502736",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.4,
+      "reason": "借猫娘设定玩梗，同时称Flash比Pro聪明。"
+    },
+    {
+      "id": "2083084666895040633",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "对发布表达强烈惊喜，赞叹及星星眼支持正向。"
+    },
+    {
+      "id": "308351552065",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "批评Flash连简单需求都不理解且不如竞品。"
+    },
+    {
+      "id": "308584213441",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "结合测评标题，以梁圣无敌表达对模型的赞赏。"
+    },
+    {
+      "id": "7668874665830204209",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "分享通过日志让AI排查问题的流程，认为识图非必需。"
+    },
+    {
+      "id": "2083536604556390463",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "介绍定制推理引擎及优化，含轻度正向推介。"
+    },
+    {
+      "id": "6a6e8fd4000000000500a119",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "列出预填充、首Token延迟与加速数据，无主观评价。"
+    },
+    {
+      "id": "308407567489",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待",
+        "调侃"
+      ],
+      "score": 0.9,
+      "reason": "盛赞模型便宜且能力不弱，并期待Pro表现。"
+    },
+    {
+      "id": "308428453457",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": -0.4,
+      "reason": "赞同卡顿归因于Codex，并期待新工具更流畅。"
+    },
+    {
+      "id": "311786024224",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "用无敌盛赞Copilot与Flash的组合效果。"
+    },
+    {
+      "id": "7669389534874632960",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明提示词因字数限制改为私发，未明显抱怨。"
+    },
+    {
+      "id": "311758928048",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问同一问题是否解决，但缺失问题对象。"
+    },
+    {
+      "id": "6a6cabe0000000001500031b",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "用突触而非神经元解释模型数量概念，带纠正意味。"
+    },
+    {
+      "id": "308395320913",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨刚买就发布，但购买及发布对象未明确。"
+    },
+    {
+      "id": "308535041633",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "建议修改并带玩笑表情，缺少具体修改对象。"
+    },
+    {
+      "id": "308481329745",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释AI输出随机，同样提示词结果可能不一致。"
+    },
+    {
+      "id": "p14ctnm",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "陈述直接用API未遇到这些问题，未否认他人经历。"
+    },
+    {
+      "id": "311878256672",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "质疑已有多模态的说法，推测此次仅加强后训练。"
+    },
+    {
+      "id": "311721861072",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service",
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "分享靠免费额度及少量API写项目的使用方式。"
+    },
+    {
+      "id": "308405208705",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明仍可图文理解并使用第三方多模态。"
+    },
+    {
+      "id": "311910329392",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称生成EU4的能力强大，打call强化赞赏。"
+    },
+    {
+      "id": "6a6cd9fb000000002902d822",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅指明V4-flash原生API，无明显评价。"
+    },
+    {
+      "id": "6a6d4d650000000014038db0",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明API与网页版能力不同，并推测后续同步。"
+    },
+    {
+      "id": "308629569105",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "认可决赛竞争表现又提及运气，玩笑程度有歧义。"
+    },
+    {
+      "id": "311820017520",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅表示到场参与抽奖，未讨论AI或测评。"
+    },
+    {
+      "id": "311839960528",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "reliability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "批评Grok长文本极易乱码，并用竞品作夸张比较。"
+    },
+    {
+      "id": "311667417568",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "部分赞同后反问AGI是否应能自行编写多模态算法。"
+    },
+    {
+      "id": "7669010984296547091",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "调侃梁总资金实力，是否涉及AI竞争存在歧义。"
+    },
+    {
+      "id": "308545014801",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "仅分享GitHub代理访问方法，没有明确AI关联。"
+    },
+    {
+      "id": "308421088881",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "反对中转站推荐，以免费Flash对比并质疑模型真实性。"
+    },
+    {
+      "id": "6a6c7610000000002a006692",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问已有Workbuddy接入后改用Codex的优势。"
+    }
+  ]
+}

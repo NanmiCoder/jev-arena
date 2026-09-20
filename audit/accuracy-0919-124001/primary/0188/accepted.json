@@ -1,0 +1,794 @@
+{
+  "items": [
+    {
+      "id": "7669335978952426281",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认可降价、额度和充值性价比，称综合体验无对手。"
+    },
+    {
+      "id": "7668789149264986886",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.4,
+      "reason": "借标题评价模型更强，但“摸高”具体指代不明。"
+    },
+    {
+      "id": "6a6dc95e000000002901898a",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "指出双倍尚未开始，但双倍所指活动或性能不明。"
+    },
+    {
+      "id": "308541443857",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "以第三方部署速度反驳对方，并带明显嘲讽。"
+    },
+    {
+      "id": "7669095181819462459",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "询问模型是否已具备识图能力，带期待语气。"
+    },
+    {
+      "id": "308441125665",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "抱怨200元会员周额度很快耗尽。"
+    },
+    {
+      "id": "6a6d369f000000002a02cc23",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.7,
+      "reason": "明确赞赏速度远快于sol，聪明程度仍不确定。"
+    },
+    {
+      "id": "311863824096",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement",
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅表示OK并附哭泣表情，缺少可确定的讨论对象。"
+    },
+    {
+      "id": "6a6c5847000000002901a000",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "确认模型发布日期与此前预测一致。"
+    },
+    {
+      "id": "311768768016",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待",
+        "失望"
+      ],
+      "score": 0,
+      "reason": "肯定性价比，同时批评能力及多模态差距并期待pro。"
+    },
+    {
+      "id": "p14sxcg",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "介绍用于评估推理服务商的自建工具，兼有推广性质。"
+    },
+    {
+      "id": "308411691889",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "称赞语音插件丝滑并询问名称，是否属于AI插件不明。"
+    },
+    {
+      "id": "p11ez4d",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "认可",
+        "担忧"
+      ],
+      "score": -0.3,
+      "reason": "表达喜爱但担忧数据被用于训练，因此拒绝工作使用。"
+    },
+    {
+      "id": "2083699482684739780",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只有产品组合名称与链接，纯推广或整合信息两可。"
+    },
+    {
+      "id": "308573859297",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "认可"
+      ],
+      "score": 0,
+      "reason": "对比两个Agent修复bug的不同效果，既有抱怨也有肯定。"
+    },
+    {
+      "id": "7668925996385436435",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "嘲讽对方不会使用网页就评论，具体产品指代略有歧义。"
+    },
+    {
+      "id": "2083337564229152865",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "介绍模型量化体积及无损本地版本。"
+    },
+    {
+      "id": "2083630802324066440",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "期待新权重发布后strix halo机器的本地运行体验。"
+    },
+    {
+      "id": "308340751089",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只有提及用户和惊讶表情，没有可判定的评价内容。"
+    },
+    {
+      "id": "311682919600",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "“大手发力”带玩梗语气，缺少明确对象与褒贬方向。"
+    },
+    {
+      "id": "308453304849",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "reliability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "描述充值后密钥无效并求助原因，主要是故障询问。"
+    },
+    {
+      "id": "7668910166818112298",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型是否自动替换或需要重新接入。"
+    },
+    {
+      "id": "311880275936",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以注册赠额度吸引助力，属于纯引流广告。"
+    },
+    {
+      "id": "7669106402975630137",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "批评生成代码质量差，认为甚至不如豆包。"
+    },
+    {
+      "id": "311761376432",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "赞赏模型变聪明、工程化提升且能遵循指令。"
+    },
+    {
+      "id": "6a6f10ae0000000009014def",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅笑声与表情，不能确定赞赏或嘲讽对象。"
+    },
+    {
+      "id": "311923815856",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述产能不足导致分配有限，具体分配对象缺失。"
+    },
+    {
+      "id": "311670739632",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "agreement",
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "表示附和并问干啥，缺少前文无法确定对象和态度。"
+    },
+    {
+      "id": "311744955872",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "叙述旧版汉化失败及新版主动修复成功，总体认可新版。"
+    },
+    {
+      "id": "p16qtig",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合本地模型标题，分享显卡内存升级及硬件花费。"
+    },
+    {
+      "id": "2083322572004069535",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明启用中国托管模型的操作及未启用时的403错误。"
+    },
+    {
+      "id": "p11xrqg",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "报告36GB显存下20t/s速度及后续调优计划。"
+    },
+    {
+      "id": "311659668880",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "negative"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "称对方天才，缺少上下文无法区分真赞与反讽。"
+    },
+    {
+      "id": "6a6eea71000000001403bf15",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述用cc规划、codex写代码的工具分工。"
+    },
+    {
+      "id": "308437751713",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "提到视频生成模型发布却无人关注，带失落意味。"
+    },
+    {
+      "id": "7668679751682671409",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "质疑已经使用一个多月的正式版为何重新发布。"
+    },
+    {
+      "id": "308411161057",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "愤怒"
+      ],
+      "score": -0.7,
+      "reason": "强调模型定位与对标对象，斥责评论者不懂使用场景。"
+    },
+    {
+      "id": "7668886913051018042",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "调侃对方不获重置就会发火，但重置对象不明。"
+    },
+    {
+      "id": "308512434209",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "结合标题补充模型于周五发布的时间信息。"
+    },
+    {
+      "id": "311713902944",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "content",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "说明教程面向小白，并肯定cc switch操作简单。"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DSv4 flash 0731版本地测试结果陆续出炉",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "被DeepSeek V4 Flash正式版惊到了！",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "LLM最新斩杀线：DeepSeek V4 Flash 0731",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "The cheap agent test just got better.\n\nDeepSeek-V4-Flash is now in public beta through the API, with upgraded agent capability, native tool use, and a 128K context window.\n\nThat second line matters mo",
+    "DeepSeek V4 Flash 0731 out now!",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "What speeds are everyone getting with deepseek v4 flash 0731?",
+    "DeepSeek-V4-Flash-0731 UD-IQ3_S 12.5 tok/s on RTX 3090 +128GB DDR5"
+  ],
+  "comments": [
+    {
+      "id": "7668761404258763561",
+      "t": 0,
+      "content": "截至到现在我使用API的flash还是没有审查的，C端的产品本身就需要很高的约束力，我没搞懂为什么一定要费那个劲破C端的甲"
+    },
+    {
+      "id": "6a6efdb4000000002a007574",
+      "t": 1,
+      "content": "阿里换高层，可能这个版本没后续了"
+    },
+    {
+      "id": "7669237507909845817",
+      "t": 2,
+      "content": "deepseekR1去年春节打破了一次常规，今年又来了一次[捂脸][捂脸][捂脸]"
+    },
+    {
+      "id": "308492102801",
+      "t": 3,
+      "content": "up是opencode"
+    },
+    {
+      "id": "7669318505967698746",
+      "t": 4,
+      "content": "虽然V4是个瞎子，但它能自动调用你电脑里的OCR[捂脸][捂脸]"
+    },
+    {
+      "id": "311758192912",
+      "t": 5,
+      "content": "回复 @得其所道 :就是打广告的"
+    },
+    {
+      "id": "311805651680",
+      "t": 6,
+      "content": "回复 @Just_a_Passer_By :，，，，，你没懂我的意思，我今天用了28块钱。成果有限，改的太多了，模型自己过多犯错，过度修改。"
+    },
+    {
+      "id": "308351340513",
+      "t": 7,
+      "content": "意思是不用cc中转了？"
+    },
+    {
+      "id": "311720993664",
+      "t": 5,
+      "content": "回复 @Redemption-RLV :主要是麻烦，说实话对不用苹果手机的学生群体ds够用了，没什么太大的需求，也足够便宜，要是有更多需求肯定是上GPT"
+    },
+    {
+      "id": "308473570801",
+      "t": 8,
+      "content": "你看一下ds网站上花的token数，应该是没设置好，让他读太多了。ds是唯一舍得放开了用的模型，我边让他写，边自己思考，用一天也才十几块钱。"
+    },
+    {
+      "id": "311800061520",
+      "t": 9,
+      "content": "回复 @爬行无毛怪 :也是dgx的，这个用的是lpddr5x，如果用lpddr6会好很多"
+    },
+    {
+      "id": "308523770497",
+      "t": 8,
+      "content": "要魔法，改完然后重启"
+    },
+    {
+      "id": "6a6ed4d10000000029018f25",
+      "t": 10,
+      "content": "视觉识别没有就是硬伤了。"
+    },
+    {
+      "id": "308473173073",
+      "t": 8,
+      "content": "回复 @猫の手nnn :兄弟，你是如何解决的问题我也遇到了一样的问题？"
+    },
+    {
+      "id": "308353589825",
+      "t": 7,
+      "content": "和他们家的code工具一起上"
+    },
+    {
+      "id": "308445719681",
+      "t": 11,
+      "content": "回复 @吉言2099 :会不会是配置没配正确，还有这是flash模型，做出来有bug是正常的吧，别把它对标opus5、5.6sol、k3那几个。"
+    },
+    {
+      "id": "6a6cc492000000002a02d6d2",
+      "t": 12,
+      "content": "啥时候能够输入标准视角工图啊……"
+    },
+    {
+      "id": "7668715292823044916",
+      "t": 0,
+      "content": "哥，想要提示词[星星眼]"
+    },
+    {
+      "id": "6a6f050d000000002a02e8bd",
+      "t": 13,
+      "content": "Windows我不知道，我在Mac上切回来一切正常"
+    },
+    {
+      "id": "7669022514459099967",
+      "t": 14,
+      "content": "用官方脚本就好了"
+    },
+    {
+      "id": "308384579297",
+      "t": 15,
+      "content": "这个价格直接按量了，用多少算多少，给那些长期使用量中等的人用挺不错的，plus 太贵了，20 刀全用这个模型按照这个价格也能用几十亿 token 了"
+    },
+    {
+      "id": "308491791329",
+      "t": 3,
+      "content": "回复 @剑皇Sword : codex那个官方的意思是，以前不能直接用，现在帮你们适配了一下能直接用了。不是说专门针对codex搞过优化什么的，按最近实测的结果在codex上也比较一般"
+    },
+    {
+      "id": "7669009465802375994",
+      "t": 4,
+      "content": "一样，缓存命中倒是高了一些"
+    },
+    {
+      "id": "308391221281",
+      "t": 15,
+      "content": "等dp什么时候能多模态，那才是真的地震了"
+    },
+    {
+      "id": "311846239024",
+      "t": 5,
+      "content": "到底是梁子还是梁圣？"
+    },
+    {
+      "id": "311882801440",
+      "t": 16,
+      "content": "补兑，怎么已经有了[哦呼]"
+    },
+    {
+      "id": "6a6de088000000002a03332b",
+      "t": 17,
+      "content": "用lunamax不香吗，我并不觉得会多多少钱"
+    },
+    {
+      "id": "311763945552",
+      "t": 9,
+      "content": "[doge_金箍]你的钱包还挺抗揍。"
+    },
+    {
+      "id": "7669077980120220453",
+      "t": 4,
+      "content": "哦看完了，我觉得没问题，agent对我来说就是增加人味的，纠错审查，其他的内容大模型都能做到"
+    },
+    {
+      "id": "311730462048",
+      "t": 18,
+      "content": "发展ai是为了防御。中国承诺不率先使用ai攻击敌对国家[doge]"
+    },
+    {
+      "id": "2083900630817808519",
+      "t": 19,
+      "content": "The cheap agent test just got better.\n\nDeepSeek-V4-Flash is now in public beta through the API, with upgraded agent capability, native tool use, and a 128K context window.\n\nThat second line matters more than another benchmark screenshot. A useful agent is not a clever chat response. It has to read a messy request, choose the right tool, take several steps, and leave behind an output a normal person can check.\n\nDeepSeek’s own release note also gives us the limit: this update applies to the V4-Flash API. The V4-Pro API and the consumer App and Web models are unchanged. Good. That tells you exactly where to test it and exactly where not to make promises.\n\nHere is the beginner version:\n\n1. Pick one narrow task with a visible finish line. Think “sort 30 incoming leads into service, urgency, and location,” not “run my business.”\n\n2. Give the model the real instructions, two good examples, and a small tool set. More tools usually create more ways to fail.\n\n3. Run the same task ten times. Record wrong tool calls, skipped fields, and outputs that need human repair.\n\n4. Compare cost per acceptable result, not cost per token. The cheapest model is expensive if a person has to rebuild every answer.\n\n5. Keep a human approval step before anything is sent, booked, deleted, or charged.\n\nThe exciting part is not that DeepSeek posted a larger score. It is that a lower-cost model can now be tested on the boring middle of real work: reading, routing, checking, and reporting.\n\nThe limitation is production reliability. Public beta means test bench, not autopilot. Native tool use does not mean every tool call will be correct.\n\nTake one workflow you already perform by hand, run it ten times through the V4-Flash API, and count how many outputs you would actually keep."
+    },
+    {
+      "id": "7668663404651922213",
+      "t": 0,
+      "content": "这个opencode工具的模型都是免费的？怎么安装"
+    },
+    {
+      "id": "p0xlx9u",
+      "t": 20,
+      "content": "Have 96gb RAM... But only dual channel... Why haven't I bought threadripper and 4 sticks instead of 2 *cries in last year*"
+    },
+    {
+      "id": "308474808753",
+      "t": 21,
+      "content": "倘若早十天，那就是真正的无敌了……\n我是说名字（"
+    },
+    {
+      "id": "311664610544",
+      "t": 21,
+      "content": "因为这些也都是代码实现，用眼睛就能非常直观地看出好坏"
+    },
+    {
+      "id": "308458309601",
+      "t": 3,
+      "content": "[呲牙][呲牙]"
+    },
+    {
+      "id": "p134jyf",
+      "t": 22,
+      "content": "Thanks very nice. Im now at at 18 tokens per second and context is maxed at 1M. All KV cache is in RAM. 81-19 tensor split. Hoping we get mtp or dspark to increase speed further"
+    },
+    {
+      "id": "308335963009",
+      "t": 15,
+      "content": "回复 @LoveElysia1314 :但我问他是什么 他告诉我他是flash 不是0731"
+    },
+    {
+      "id": "311726926336",
+      "t": 5,
+      "content": "回复 @Pebo : 刚涨价的GLM5.2：喂我花生"
+    },
+    {
+      "id": "p16qm75",
+      "t": 23,
+      "content": "5090+ddr5 128gb, about \\~450 pp and 20 tg, (llama-server.exe -m \"DeepSeek-V4-Flash-0731-`IQ2_XXS.`gguf\" -t 8 -fa on -c 262144 -ub 4096 -b 4096 -lm none -ctk q8\\_0 -ctv q8\\_0 --fit on --reasoning on)"
+    }
+  ]
+}

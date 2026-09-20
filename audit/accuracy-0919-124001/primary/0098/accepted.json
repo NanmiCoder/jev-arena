@@ -1,0 +1,829 @@
+{
+  "items": [
+    {
+      "id": "308591464305",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述V4缺少多模态能力，无明确褒贬。"
+    },
+    {
+      "id": "7668944658928943878",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.3,
+      "reason": "预测中转站掺用DS，隐含对模型真实性的担忧。"
+    },
+    {
+      "id": "308459132001",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "以反问期待新模型开源后设备运行表现提升。"
+    },
+    {
+      "id": "7669291562577412901",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "用额度与费用反驳Token成本说法。"
+    },
+    {
+      "id": "7669011784045036303",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "performance",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "批评CC测试流程，同时推荐其他Agent和Qwen能力。"
+    },
+    {
+      "id": "2083084573639143889",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "question",
+        "praise"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.8,
+      "reason": "祝贺模型发布并询问权重何时开放。"
+    },
+    {
+      "id": "308392646881",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0,
+      "reason": "同时贬低Qwen大模型并高度肯定小模型。"
+    },
+    {
+      "id": "p102n8p",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "讽刺改用DeepSeek的主张，并抱怨回复辱骂雷同。"
+    },
+    {
+      "id": "311729241872",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问网页版Flash是否已更新正式版。"
+    },
+    {
+      "id": "p11txew",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认可解题能力并设为默认，也明确指出比竞品慢。"
+    },
+    {
+      "id": "6a6d32e7000000002a0313bf",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "肯定环境适配能力，同时承认此前表现不佳。"
+    },
+    {
+      "id": "311929998624",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "发布开源教程资源，是否属于纯推广有歧义。"
+    },
+    {
+      "id": "311724239504",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "negative"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": null,
+      "reason": "字面赞扬华为，谐写可能反讽，缺少上文难定。"
+    },
+    {
+      "id": "311907337920",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "玩笑询问能否接导盲犬，“这个”指代不明。"
+    },
+    {
+      "id": "311932823520",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "用“审核恶心”明确抱怨Workbuddy审核体验。"
+    },
+    {
+      "id": "7668941855158158107",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "转述Kimi能力最强，同时指出价格昂贵。"
+    },
+    {
+      "id": "311874777776",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "price"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "介绍本地部署硬件、速度与成本，略带可行性肯定。"
+    },
+    {
+      "id": "p0xjonf",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "讽刺Grok仅短暂摆脱笑话级表现。"
+    },
+    {
+      "id": "p0yirsv",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "分享双H100测试经验并肯定实际使用效果。"
+    },
+    {
+      "id": "308584386545",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "向作者求助同类问题，具体问题缺失使相关性不定。"
+    },
+    {
+      "id": "6a6ee621000000002a006f79",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "仅友好回应“好的”，没有可见AI讨论。"
+    },
+    {
+      "id": "311895524016",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "service",
+        "reliability"
+      ],
+      "e": [
+        "失望",
+        "担忧",
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "抱怨C端功能削减和版本落后，并担忧APP取消。"
+    },
+    {
+      "id": "308609388145",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "complaint"
+      ],
+      "a": [],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "明确否定“这个”，但回复对象缺失导致指代歧义。"
+    },
+    {
+      "id": "6a6c96750000000009015d04",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0.6,
+      "reason": "强调模型很强，以反问反对对方评价。"
+    },
+    {
+      "id": "p15g2pp",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "agreement"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "感谢提醒，并说明需要了解提示策略调整。"
+    },
+    {
+      "id": "308471582129",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只表示已发送供查看，没有可确定的AI内容。"
+    },
+    {
+      "id": "308546970417",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "建议现在重新打开查看，具体对象与意图缺失。"
+    },
+    {
+      "id": "311728603216",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability",
+        "performance",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "批评Pro预览版比Flash耗时更多且思考偏题。"
+    },
+    {
+      "id": "308367843009",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "介绍官方Codex适配与一键脚本，并以爱心表达认可。"
+    },
+    {
+      "id": "308516937729",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "担忧",
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨硬件及AI学习成本使穷学生难以承担。"
+    },
+    {
+      "id": "308393047777",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "纠正单一前端场景即可证明模型更强的推论。"
+    },
+    {
+      "id": "308495777697",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "complaint",
+        "correction"
+      ],
+      "a": [
+        "service",
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "认可"
+      ],
+      "score": -0.6,
+      "reason": "肯定GPT额度体验，批评国内模型配额不足且不透明。"
+    },
+    {
+      "id": "7669111740063531818",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述梁文峰关于商业落地与自迭代AI的路线。"
+    },
+    {
+      "id": "7668900985292849929",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正语音输入造成的名称识别错误，实际指Codex。"
+    },
+    {
+      "id": "308606512737",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "引用按天进化宣传，建议重新测试Qwen模型。"
+    },
+    {
+      "id": "6a6d7d4c0000000005009a75",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅有“luna max”，可能指模型但缺乏完整语义。"
+    },
+    {
+      "id": "311717315888",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "期待"
+      ],
+      "score": 0.4,
+      "reason": "以清空服务器的夸张假设调侃并期待Pro实力。"
+    },
+    {
+      "id": "2083328541626609936",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "比较Luna价格与DeepSeek表现，庆幸原判断成立。"
+    },
+    {
+      "id": "308476988881",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "“我勒个本地连接”像感叹梗，具体指向不清。"
+    },
+    {
+      "id": "308586511537",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "指出Flash与Luna规划不足，也肯定详细提示下表现。"
+    }
+  ]
+}

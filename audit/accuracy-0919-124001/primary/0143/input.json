@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek-V4-Flash Update 0731",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "在家跑deepseek v4 flash",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "DeepSeek V4 Flash が opencode go で使えるようになった！\n\nしかも無料でも使えるらしい\n\n早速ベンチマークを回すぞ！",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "DeepSeek V4 Flash API is 18x cheaper on input, 28x cheaper on output, and matches Opus 4.8. Time for Claude to atleast reduce sonnet pricing",
+    "DeepSeek V4 Flash 正式版为我生成的体积云",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "With release of Deepseek V4 I wanted see how the model sizes are trending over time. The trend is that by this time next year, we probably will have Opus 4.5 level models on consumer grade laptops!",
+    "要被外网的一些评论笑死了😂😂😂",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Deepseek v4 flash 0731",
+    "DeepSeek V4 Flash接入Codex教程（可识图）",
+    "Deepseek V4 flash正式版可以直接接入Codex",
+    "DeepSeek V4 Flash 正式版来了！",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "如何使用满血DeepSeek v4 flash正式版"
+  ],
+  "comments": [
+    {
+      "id": "311695797952",
+      "t": 0,
+      "content": "好阴间的发布时间"
+    },
+    {
+      "id": "311862264080",
+      "t": 1,
+      "content": "因为前几个月a/和openai先后出了顶尖模型，国产glm也爆出热点，但这段时间deepseek一直没有消息，原先说要在“七月中旬”推出的新模型也没有如约。等到7月31 v4模型终于发布，马上就有了讨论度。"
+    },
+    {
+      "id": "p11ixea",
+      "t": 2,
+      "content": "beda jauh, keren memang deepseek ini. semua bug bisa diatasi dengan smooth,"
+    },
+    {
+      "id": "308578869169",
+      "t": 3,
+      "content": "go直接用自己的不好吗，codex接别的一堆问题"
+    },
+    {
+      "id": "6a6efc85000000001500250d",
+      "t": 4,
+      "content": "12t/s这咋用[笑哭R]"
+    },
+    {
+      "id": "308393485745",
+      "t": 5,
+      "content": "[Mygo表情包_抹茶芭菲][Mygo表情包_抹茶芭菲][Mygo表情包_抹茶芭菲]"
+    },
+    {
+      "id": "308593441041",
+      "t": 6,
+      "content": "质谱下个版本没多模态智力没有更强直接被斩了[笑哭]"
+    },
+    {
+      "id": "6a6eb001000000000403a922",
+      "t": 7,
+      "content": "太贵了，也是真有钱"
+    },
+    {
+      "id": "2083349474165084472",
+      "t": 8,
+      "content": "@gosrum 楽しみにしてます！\n期待モデルですね😆"
+    },
+    {
+      "id": "311627273440",
+      "t": 9,
+      "content": "哈哈哈太会串了教教我，但那几个是多模态赛道上还是有差异"
+    },
+    {
+      "id": "308486166801",
+      "t": 10,
+      "content": "回复 @佚名momo玩家 :我测下来已经比glm5.2强了，一道伊波茶树花了2000万token做了55分，总共花了几十分钟，期间它自己生成测试集迭代了几次，glm是思考超过了cc32k的输出限制，GPT5.5网页对话不看题解20分，看了题解55分，5.6sol20分钟100分。"
+    },
+    {
+      "id": "2083395921526792210",
+      "t": 11,
+      "content": "こりゃあ、アメリカ人が高額なClaudeをやめてDeepSeekへ移る理由がわかるよ。\n\nDeepSeek-V4-Flash Official APIがpublic betaで公開。\n\nAgent capabilitiesが大幅に強化され、Responses APIへネイティブ対応。さらにCodex向けにも最適化されている。\n\n私は実際にDeepSeek APIを使わせていただいています。\n\n性能が高いだけではありません。\n\n個人でも複数のAI agentを動かし続けられる価格にしてくれていることが、本当にありがたいです。\n\nDeepSeekのおかげで、大企業でなくてもAI agentを実運用できる時代になりました。\n\n本当に感謝します。\n\nお礼に「DeepSeekMAN」という歌を作りました。\n\nDeepSeekチームと世界中のDeepSeekユーザーに贈ります。\n\nどうぞご視聴ください👇\n\nhttps://t.co/hOm9BV85dE"
+    },
+    {
+      "id": "7668921127935591202",
+      "t": 12,
+      "content": "GLM新版本这个月也要发布"
+    },
+    {
+      "id": "7669301229865042694",
+      "t": 12,
+      "content": "那为啥大家不去用多模态，非要用 ds。他的优势是啥。还有怎样让他有眼睛。"
+    },
+    {
+      "id": "7668920948016759609",
+      "t": 12,
+      "content": "[看]所以有些国内coding agent自带的deepseek可以识图，就是外挂了个别的，然后把图片内容描述给他"
+    },
+    {
+      "id": "6a6d925e000000000d022c00",
+      "t": 13,
+      "content": "没有多模态能否用一个第三方的小型视觉模型辅助呢"
+    },
+    {
+      "id": "p150fhr",
+      "t": 14,
+      "content": "Yep its definitely time for pricing adjustments."
+    },
+    {
+      "id": "308604651201",
+      "t": 15,
+      "content": "回复 @是风禾呢 :许愿是什么"
+    },
+    {
+      "id": "311765239168",
+      "t": 1,
+      "content": "回复 @渚姬 :和 opencode go 比咋样"
+    },
+    {
+      "id": "7669049375880086298",
+      "t": 12,
+      "content": "不要怕，週一肯定撲"
+    },
+    {
+      "id": "7668928933035655993",
+      "t": 16,
+      "content": "没有吧，不是这一次的优化了吗，真不行换reasonix"
+    },
+    {
+      "id": "7668653054694507301",
+      "t": 17,
+      "content": "这个版本在外网评价如何啊"
+    },
+    {
+      "id": "6a6eb0a6000000002a0071bc",
+      "t": 7,
+      "content": "国际版是直接弃子了哈"
+    },
+    {
+      "id": "311642855936",
+      "t": 18,
+      "content": "回复 @库酷的阳 : 为啥不建议用Hermes啊佬，我最近用起来感觉也没有烧太多，我是做编剧工作的，长文本处理较多。resonix会比Hermes更省吗"
+    },
+    {
+      "id": "p15dipe",
+      "t": 19,
+      "content": "Qwen 27B is smarter than all models <200B"
+    },
+    {
+      "id": "6a6d56d00000000005016a93",
+      "t": 20,
+      "content": "昨天发布的，后训练过的"
+    },
+    {
+      "id": "7668929516841304878",
+      "t": 12,
+      "content": "之前是每五小时吧,现在是每周额度"
+    },
+    {
+      "id": "311732798576",
+      "t": 21,
+      "content": "现在呢，叫t圣"
+    },
+    {
+      "id": "6a6de1b6000000001403a7cc",
+      "t": 22,
+      "content": "怀疑你用到假的了[doge]今天GPT抽风，v4flash顶上后确实挺惊艳的，让他干的都做到了而且很快没犯错误，多模态的问题配个skill加mimo没觉得有啥区别"
+    },
+    {
+      "id": "6a6d85e70000000009014a0f",
+      "t": 23,
+      "content": "问个问题，最新版的codex和chatgpt合并了[哭惹R]ccSwitch识别不了这个怎么搞"
+    },
+    {
+      "id": "308618078241",
+      "t": 6,
+      "content": "pro一出，得死一大波"
+    },
+    {
+      "id": "6a6d9c9f000000000500b6a3",
+      "t": 24,
+      "content": "可以的，deepseek那个命令运行后，会弹出选项，选择3，就恢复codex默认配置了，你如果有gpt账号和api就可以登录用你的gpt的模型了。"
+    },
+    {
+      "id": "6a6c86ca000000002a0059a2",
+      "t": 25,
+      "content": "有个问题v4接入codex，那原来的5.6调不出来了[捂脸R][捂脸R]"
+    },
+    {
+      "id": "311765275472",
+      "t": 18,
+      "content": "回复 @ranpeppa : 写小说温度调高点1以上吧，更天马行空，查论文之类的温度低点0.4左右，top-p就默认值就行，如果有时候你觉得它过于天马行空逻辑不通了，稍微调低一点就行"
+    },
+    {
+      "id": "308406791793",
+      "t": 1,
+      "content": "没有想象那么神，可用的级别"
+    },
+    {
+      "id": "311830464208",
+      "t": 1,
+      "content": "我特意去看了下流传的会议内容，梁说了最重要的是把训练做好，多模态不影响训练算法的成立，但多模态最终还是要做的。这可没说不做或者不care啊[笑哭]。倒是世界模型和视频生成确实没在他们的AGI发展路线图里"
+    },
+    {
+      "id": "308351790193",
+      "t": 9,
+      "content": "5.6sol是多大的模型啊比ds大10倍不止吧？"
+    },
+    {
+      "id": "311807191232",
+      "t": 3,
+      "content": "比之前用ccswitch感觉更会用工具了？不过模型能力本身就提升了很大"
+    },
+    {
+      "id": "308417838497",
+      "t": 26,
+      "content": "00：12（深深：看看你，看看哪有你这么当爸的 还让闺女当猫娘 你也是真想的出来，孩子都让你带坏了。😤今晚睡沙发）"
+    },
+    {
+      "id": "6a6d4b7c000000001403b03e",
+      "t": 27,
+      "content": "请问 使用cherrystudio这一款工具调用deepseek，上传的pdf doc xls这些格式文档 它能理解吗？"
+    }
+  ]
+}

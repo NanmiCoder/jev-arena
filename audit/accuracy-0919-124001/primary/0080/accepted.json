@@ -1,0 +1,815 @@
+{
+  "items": [
+    {
+      "id": "311869058368",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "凭聊天栏判断Java，未明确评价AI。"
+    },
+    {
+      "id": "7669067564614730545",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "praise",
+        "other"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.5,
+      "reason": "感叹模型价格炸裂，倾向赞赏但未明说高低。"
+    },
+    {
+      "id": "311899834112",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "批评长任务与修bug能力，并澄清限定场景。"
+    },
+    {
+      "id": "p0z6zt0",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型选择方式及月度使用额度。"
+    },
+    {
+      "id": "p11yaf2",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "分享成功开发功能且处理XAML顺畅的体验。"
+    },
+    {
+      "id": "308364071569",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅提考公上岸，缺乏AI使用关联。"
+    },
+    {
+      "id": "6a6cb864000000001403b9e5",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "夸张赞颂梁，或借发布赞模型，或仅人物玩梗。"
+    },
+    {
+      "id": "308442983905",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "认可小参数表现，同时指出视觉与外部框架劣势。"
+    },
+    {
+      "id": "308477055761",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "明确称Gemini体验拉胯，并征询他人感受。"
+    },
+    {
+      "id": "308387855825",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "感叹使用规模，并明确肯定缓存命中率。"
+    },
+    {
+      "id": "7668932388441703226",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称性价比最高，并描述规划与执行分工。"
+    },
+    {
+      "id": "308448975345",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅参与抽奖，未讨论AI。"
+    },
+    {
+      "id": "311725307424",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "批评Flash修bug多且实际更贵，偏好Pro。"
+    },
+    {
+      "id": "311850832368",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "price",
+        "service",
+        "usability"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.2,
+      "reason": "解释两种计费可并用，并担忧恢复限额后不够用。"
+    },
+    {
+      "id": "311642382432",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议写文本使用旧版R1，未直接表达褒贬。"
+    },
+    {
+      "id": "2083217162551033922",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "明确称赞成果，并惊喜于发布时间早于预期。"
+    },
+    {
+      "id": "6a6d6e36000000002300f012",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "reliability",
+        "usability",
+        "trust"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "详细介绍工具能力与省钱机制；亦有纯推广文案可能。"
+    },
+    {
+      "id": "7668890500553196338",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.9,
+      "reason": "用夸张称呼赞赏全天编程仅花十元。"
+    },
+    {
+      "id": "311658653024",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问命令接入是否兼容已有Codex任务。"
+    },
+    {
+      "id": "308407375729",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问Codex接DeepSeek相对GPT的意义。"
+    },
+    {
+      "id": "308610040625",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "解释沉寂指官方信息少，并认可团队做事风格。"
+    },
+    {
+      "id": "311915859184",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "主要调侃股票筹研发资金，模型关联不明确。"
+    },
+    {
+      "id": "311802051024",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享模型生成动画的文件与提示词资源。"
+    },
+    {
+      "id": "308589438833",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "限定全套使用华为的模型或团队范围。"
+    },
+    {
+      "id": "7669018809529189157",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以鞭子和砍刀玩梗，具体指代缺失。"
+    },
+    {
+      "id": "311695928896",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅笑着认领身份，无法关联AI评价。"
+    },
+    {
+      "id": "311781230720",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问网页端与API使用区别。"
+    },
+    {
+      "id": "6a6f1f650000000009016c1c",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "介绍量化私募背景并讨论股票归因，未评价AI。"
+    },
+    {
+      "id": "308351110065",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "疑问多模态成本能否压缩，未明确批评。"
+    },
+    {
+      "id": "p14f3t5",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": null,
+      "reason": "仅指出FP4量化，省略号或暗含不满但证据不足。"
+    },
+    {
+      "id": "311678728160",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待",
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "认为Flash文本提升有限，期待Pro正式版。"
+    },
+    {
+      "id": "311802679328",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion",
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望",
+        "期待"
+      ],
+      "score": -0.5,
+      "reason": "贬低模型知识储备，建议等待Pro。"
+    },
+    {
+      "id": "6a6d6409000000002a026725",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.4,
+      "reason": "分别认可DS价格与Kimi能力，并期待Pro。"
+    },
+    {
+      "id": "308575241249",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨最新版CPU占用仍离谱，具体软件未明。"
+    },
+    {
+      "id": "308442161025",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "反问小参数模型能否挑战Claude，带质疑。"
+    },
+    {
+      "id": "311763202704",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "询问当前token消耗，并抱怨此前消耗过快。"
+    },
+    {
+      "id": "308408403233",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "模型自称Claude，用户询问何处出错。"
+    },
+    {
+      "id": "7669364917815886641",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正对模型训练方式的理解，并作竞赛类比。"
+    },
+    {
+      "id": "311751772800",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "嘲讽对方无法辨识冒充模型，兼有反驳意味。"
+    },
+    {
+      "id": "308469428625",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "称某领域是Kimi与GLM主场，但具体领域缺失。"
+    }
+  ]
+}

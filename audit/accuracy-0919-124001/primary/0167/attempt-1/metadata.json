@@ -1,0 +1,52 @@
+{
+  "ok": true,
+  "model_requested": "gpt-6-astra",
+  "provider_requested": "openai(default with user config disabled)",
+  "args": [
+    "codex",
+    "exec",
+    "--ignore-user-config",
+    "--skip-git-repo-check",
+    "--ephemeral",
+    "--sandbox",
+    "read-only",
+    "-m",
+    "gpt-6-astra",
+    "-c",
+    "model_reasoning_effort=\"low\"",
+    "-c",
+    "features.shell_tool=false",
+    "-c",
+    "features.multi_agent=false",
+    "-c",
+    "features.skip_host_skill_discovery=true",
+    "-c",
+    "features.apps=false",
+    "-c",
+    "features.remote_plugin=false",
+    "-c",
+    "features.hooks=false",
+    "-c",
+    "web_search=\"disabled\"",
+    "--output-schema",
+    "/Users/nanmi/workspace/myself_code/jev-arena/audit/accuracy-0919-124001/schema.json",
+    "--json",
+    "-o",
+    "/Users/nanmi/workspace/myself_code/jev-arena/audit/accuracy-0919-124001/primary/0167/attempt-1/response.json",
+    "-"
+  ],
+  "started_at": 1789913939.481164,
+  "elapsed_s": 84.23686003684998,
+  "exit_code": 0,
+  "usage": [
+    {
+      "input_tokens": 18776,
+      "cached_input_tokens": 14208,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 2318,
+      "reasoning_output_tokens": 0
+    }
+  ],
+  "prompt_sha256": "644a78ed4bef7f8eec775021b49f3d26244fc1ae004bd3fd476ab133495dedcd",
+  "response_sha256": "175f5351295b386a26aea2d4d442525ab43c396d3e80d722296765866c4edbd0"
+}

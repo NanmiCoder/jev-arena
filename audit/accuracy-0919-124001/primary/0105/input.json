@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "What speeds are everyone getting with deepseek v4 flash 0731?",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "DeepSeek-V4-Flash-0731 UD-Q8_K_XL 17.20~ t/s on A6000 + 256GB DDR4",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "【中文字幕】DeepSeek V4 Flash发布当日，OpenAI同日降价80%，AI行业价格战正式开打",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DSv4 flash 0731版本地测试结果陆续出炉",
+    "deepseek v4 flash 配上 opencode 送的太多了，非常好用，真爽。",
+    "被接入Codex的DeepSeek V4 Flash正式版惊到了！",
+    "震惊瘫坐！deepseek v4 flash战地游戏生成，逆天性价比宛如看见核弹爆炸",
+    "i don't get the hype - DeepSeek V4 Flash 0731",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "[中配]DeepSeek V4 Flash 太惊人了——迄今为止最好的小模型！ - Bijan Bowen",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#"
+  ],
+  "comments": [
+    {
+      "id": "311654364368",
+      "t": 0,
+      "content": "可以干嵌入式啊，还有CAD之类一些仿真"
+    },
+    {
+      "id": "308392480785",
+      "t": 1,
+      "content": "接入codex后 老是只回答 不工作 是个啥情况  有兄弟遇到过吗"
+    },
+    {
+      "id": "7669064760223286074",
+      "t": 2,
+      "content": "代码能力确实提升了不少，但是受限于模型本身参数的量实在太小了，导致理论知识非常的匮乏，比如数学物理推理幻觉非常严重。"
+    },
+    {
+      "id": "308346710561",
+      "t": 3,
+      "content": "glm已经没有任何竞争力了 拉完了"
+    },
+    {
+      "id": "7669000579166995210",
+      "t": 4,
+      "content": "不哥们，这什么年代了，你当我没用过吗？目前公司的项目代码基本都是本地部署的国产模型配和skill写的。而且市场也会告诉你大家的选择，国产模型调用量都超过40%了。"
+    },
+    {
+      "id": "7668877482392585006",
+      "t": 5,
+      "content": "阿里云里可以用DeepSeek"
+    },
+    {
+      "id": "311750854480",
+      "t": 1,
+      "content": "回复 @三猫聚 :识个图或者看一下思维链就知道是不是 ds 了"
+    },
+    {
+      "id": "7668899419870364474",
+      "t": 4,
+      "content": "看了一下回复，没一个说在点子上的[看]"
+    },
+    {
+      "id": "7669031477862155057",
+      "t": 4,
+      "content": "@瓦姐 [泪奔][泪奔][泪奔]"
+    },
+    {
+      "id": "6a6c5cec0000000005008be3",
+      "t": 6,
+      "content": "好牛@钟期期期"
+    },
+    {
+      "id": "311726389376",
+      "t": 7,
+      "content": "回复 @我是你哥纳尼 :牢美那边主流就是靠垄断和讲故事，让别人投钱从而提前把未来的钱提出来。我们这样搞，只是让它现在值多少就卖多少。你说的和泡沫不冲突。"
+    },
+    {
+      "id": "308583524129",
+      "t": 8,
+      "content": "模型开源和普通代码开源不一样的，模型开源是开发权重，配置，推理代码这些。训练数据和框架这些目前是闭源的，也是每个开源大模型公司的核心竞争力。而且本地部署你也拿不到别人的数据来训练模型"
+    },
+    {
+      "id": "308453421809",
+      "t": 9,
+      "content": "回复 @藍佬 :就是在前边对话中提及的部分会写入缓存中，读取缓存中的对话可以让成本更低，价格也会相应的更低。所以缓存是否命中的价格是不一样的，越多的对话被写入缓存，后续的部分缓存命中率就越大，价格就越便宜"
+    },
+    {
+      "id": "308444629297",
+      "t": 10,
+      "content": "应该在合适的 harness 中，会进行交叉验证信息的准确性，信息的准确率应该有所上升。"
+    },
+    {
+      "id": "p132woh",
+      "t": 11,
+      "content": "Op how much ram do you have? How can you run the q8 with that setup?"
+    },
+    {
+      "id": "311732082464",
+      "t": 9,
+      "content": "肯定不如K3啊想啥呢，V4P正式版估计也不会强于K3的，V4Fga目前斩杀的是GLM5.2和5.6luna"
+    },
+    {
+      "id": "311831817552",
+      "t": 12,
+      "content": "回复 @小猫咪【神】 : 不过你可以自己外接一个视觉模型给deepseek用,写一个skill"
+    },
+    {
+      "id": "p18gwvm",
+      "t": 13,
+      "content": "edit: it was problem with my system lol"
+    },
+    {
+      "id": "308442743617",
+      "t": 9,
+      "content": "回复 @调逆弓归 :有多模态省事多了，设计稿截个图发过去网页就出来了。想抄某个样式也是截个图说你抄一下这个样式就行了。没有多模态怎么做到呢[思考]"
+    },
+    {
+      "id": "308353215201",
+      "t": 14,
+      "content": "大名鼎鼎的OpenCodeGo的DeepSeekV4Flash只需要35r就能用90亿头啃，价格是官方的6分之一到12分之一，用邀请码注册还能多获得35r的额度  https://opencode.ai/go?ref=7Y68TDQ2E3"
+    },
+    {
+      "id": "308405062641",
+      "t": 15,
+      "content": "重置斩杀线[吃瓜]"
+    },
+    {
+      "id": "6a6de440000000001500bba1",
+      "t": 16,
+      "content": "能力介于GLM5.2和K3之间，且收费非常便宜。但这只是flash的正式版，未发布pro的正式版能力可以想象有多强"
+    },
+    {
+      "id": "308524154513",
+      "t": 9,
+      "content": "写小说的用一个月token用量可能能都比不上写程序的5小时"
+    },
+    {
+      "id": "p11ojqc",
+      "t": 11,
+      "content": "Anyone has constant prompt reprocessing due to the swa on this model?"
+    },
+    {
+      "id": "311647921200",
+      "t": 17,
+      "content": "回复 @墨客笔仙 :智谱套餐价格不改我还能说两句好话"
+    },
+    {
+      "id": "6a6f235700000000290246c4",
+      "t": 18,
+      "content": "是，我感觉laguna也很一般"
+    },
+    {
+      "id": "7669287547515749178",
+      "t": 2,
+      "content": "后训练这么关键为什么其他厂不做？"
+    },
+    {
+      "id": "7669090623693620018",
+      "t": 2,
+      "content": "说实话，我觉得3.8正式版要超过他，因为预览版我就觉得很强，flash干不好的，3.8预览可以"
+    },
+    {
+      "id": "308615948673",
+      "t": 19,
+      "content": "有什么办法打破上下文限制吗"
+    },
+    {
+      "id": "311853414688",
+      "t": 20,
+      "content": "去用Claude吧，坚持几天，ds的自家的出来就可以换了。codex为什么好用，就是因为拿token换的，有up测过了，codex后台会自动跑很多请求，比如读你git提交内容。[笑哭]"
+    },
+    {
+      "id": "308532447425",
+      "t": 21,
+      "content": "基本没啥思考内容。。我刚刚在用户配置改了输出详细程度，不知道有没有用，改天再试试"
+    },
+    {
+      "id": "311916134752",
+      "t": 9,
+      "content": "回复 @arafat5549 : 比v3都小吧"
+    },
+    {
+      "id": "p18geff",
+      "t": 22,
+      "content": "Works like a champ. Integrated it as my MOA ref model, replacing MiMO V2.5 Base. Significant improvement, giving more nuanced results that made my aggregator Qwen 3.8 Max Preview more options to consider, and 8 out of 10 times, aggregator finds it impressive and useful."
+    },
+    {
+      "id": "311728026688",
+      "t": 9,
+      "content": "回复 @一个L--- :你怎么得出我光聊天这个结论的？神了[无语][无语][无语]"
+    },
+    {
+      "id": "311887506272",
+      "t": 23,
+      "content": "回复 @士大夫留个记号 :认可 这才是真实客观的测试 虽然有运气成分在里面，但是像DeepSeek这种 多复测几遍成本也没那么高"
+    },
+    {
+      "id": "311898496400",
+      "t": 24,
+      "content": "握草还真是，不知道美国那边用峰谷定价是怎么定的，要是按国内的时间来那不赚死。"
+    },
+    {
+      "id": "308589818193",
+      "t": 23,
+      "content": "等pro吧，f模型和这两个比不公平，参数量不是一个等级"
+    },
+    {
+      "id": "6a6f0dbb0000000015006e99",
+      "t": 25,
+      "content": "之前国际版无限次慢速即使后期排队我也是真愿意充值，后来改成了积分，就没再用过[失望R]"
+    },
+    {
+      "id": "7669392239815377713",
+      "t": 4,
+      "content": "梁叔叔每次发新模型之前先开好家公司的空单，发布完等收盘研发成本就赚回来了[捂脸]"
+    },
+    {
+      "id": "6a6c98e60000000004038069",
+      "t": 26,
+      "content": "马上就不快了，很多人试用。过了这个峰值，后边才能再快起来"
+    }
+  ]
+}

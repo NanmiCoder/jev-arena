@@ -1,0 +1,796 @@
+{
+  "items": [
+    {
+      "id": "311695797952",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "吐槽发布时间阴间，可能指视频或模型发布。"
+    },
+    {
+      "id": "311862264080",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释模型发布节奏与讨论度变化。"
+    },
+    {
+      "id": "p11ixea",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称赞DeepSeek出色，能顺利解决所有漏洞。"
+    },
+    {
+      "id": "308578869169",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "批评Codex接其他模型问题多，倾向直接用原有工具。"
+    },
+    {
+      "id": "6a6efc85000000001500250d",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "以反问抱怨每秒12 token的速度难以使用。"
+    },
+    {
+      "id": "308393485745",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅重复表情包，未表达可确定的评价。"
+    },
+    {
+      "id": "308593441041",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "调侃智谱若不提升多模态与智力将被淘汰。"
+    },
+    {
+      "id": "6a6eb001000000000403a922",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": -0.6,
+      "reason": "明确抱怨价格太贵，并感叹他人有钱。"
+    },
+    {
+      "id": "2083349474165084472",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other",
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "表示期待测评，并称模型值得期待。"
+    },
+    {
+      "id": "311627273440",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "笑称对方会串，同时指出多模态赛道存在差异。"
+    },
+    {
+      "id": "308486166801",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "陈述多模型实测成绩，认为本模型已强于GLM。"
+    },
+    {
+      "id": "2083395921526792210",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.95,
+      "reason": "感谢DeepSeek能力与低价支持个人运行多个代理。"
+    },
+    {
+      "id": "7668921127935591202",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "告知GLM新版本本月也将发布。"
+    },
+    {
+      "id": "7669301229865042694",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问DeepSeek优势及如何添加视觉能力。"
+    },
+    {
+      "id": "7668920948016759609",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明部分代理通过外挂模型为DeepSeek提供图像描述。"
+    },
+    {
+      "id": "6a6d925e000000000d022c00",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问能否用第三方视觉模型弥补多模态缺失。"
+    },
+    {
+      "id": "p150fhr",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "赞同标题所提的价格调整主张。"
+    },
+    {
+      "id": "308604651201",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅问许愿是什么，缺少与AI使用相关的可见信息。"
+    },
+    {
+      "id": "311765239168",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问与opencode go相比如何，未表达好恶。"
+    },
+    {
+      "id": "7669049375880086298",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "预测周一会扑，但对象和语境缺失，相关性不明。"
+    },
+    {
+      "id": "7668928933035655993",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "质疑前述说法并建议换工具，具体被反驳内容缺失。"
+    },
+    {
+      "id": "7668653054694507301",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问该版本在外网的评价。"
+    },
+    {
+      "id": "6a6eb0a6000000002a0071bc",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "以弃子形容国际版，抱怨其被忽视。"
+    },
+    {
+      "id": "311642855936",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问不推荐Hermes的原因及长文本使用成本差异。"
+    },
+    {
+      "id": "p15dipe",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "断言Qwen 27B比所有200B以下模型更聪明。"
+    },
+    {
+      "id": "6a6d56d00000000005016a93",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提及发布与后训练，明显涉及模型，但型号未明。"
+    },
+    {
+      "id": "7668929516841304878",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明额度周期由每五小时变为每周。"
+    },
+    {
+      "id": "311732798576",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": null,
+      "reason": "以t圣玩梗，具体对象及褒贬依赖缺失对话。"
+    },
+    {
+      "id": "6a6de1b6000000001403a7cc",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "reliability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "惊喜",
+        "认可",
+        "调侃"
+      ],
+      "score": 0.8,
+      "reason": "用成功实测反驳负面体验，称模型快且无误。"
+    },
+    {
+      "id": "6a6d85e70000000009014a0f",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "因ccSwitch无法识别新版而求助，带困扰语气。"
+    },
+    {
+      "id": "308618078241",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待",
+        "调侃"
+      ],
+      "score": 0.5,
+      "reason": "夸张预测Pro发布将淘汰大量竞品，表达看好。"
+    },
+    {
+      "id": "6a6d9c9f000000000500b6a3",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明恢复Codex默认配置并登录GPT模型的步骤。"
+    },
+    {
+      "id": "6a6c86ca000000002a0059a2",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question",
+        "complaint"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "反馈接入V4后无法调用原模型，隐含求助。"
+    },
+    {
+      "id": "311765275472",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "quality"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议按小说或论文任务调整温度以控制输出。"
+    },
+    {
+      "id": "308406791793",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.2,
+      "reason": "认为不如预期神奇，但明确承认可用。"
+    },
+    {
+      "id": "311830464208",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "依据会议内容纠正不做或不重视多模态的说法。"
+    },
+    {
+      "id": "308351790193",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问5.6sol模型规模并猜测其远大于DeepSeek。"
+    },
+    {
+      "id": "311807191232",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "认为工具使用更好，且模型能力本身提升很大。"
+    },
+    {
+      "id": "308417838497",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "围绕猫娘形象编家庭对白，是否算AI评价有歧义。"
+    },
+    {
+      "id": "6a6d4b7c000000001403b03e",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问通过Cherry Studio调用时能否理解多种文档。"
+    }
+  ]
+}

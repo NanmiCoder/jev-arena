@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Expert-only IQ3 requant of DeepSeek-V4-Flash-0731: better KLD than UD-IQ3_S, 1.4x decode on a CPU-spill rig",
+    "Weights of Deepseek v4 flash 0731 have been released!!!",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 Flash 正式版 一句话许愿MIDI音乐测试",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "要被外网的一些评论笑死了😂😂😂",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "GPT 5.6 Luna最新测评报告！打得过Deepseek V4 Flash吗？",
+    "deepseek v4 flash 配上 opencode 送的太多了，非常好用，真爽。",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek-V4-Flash-0731 is now over 2x faster than yesterday on Ollama's cloud!",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "Deepseek V4-flash正式版实测",
+    "Deepseek v4 flash 0731",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "大模型评测榜单7.31新增deepseek731版本"
+  ],
+  "comments": [
+    {
+      "id": "7669027864042652453",
+      "t": 0,
+      "content": "后训练和微调的区别是 什么"
+    },
+    {
+      "id": "p17o28f",
+      "t": 1,
+      "content": "Bro beats unsloth UD-IQ3\\_S at KLD by 0.03 while making the quant 2 GB smaller and doesn't ship that. The thing is, UD-IQ3\\_S only just about fits into a 128 GB box, and having even a few GB more breathing room would be useful and clearly unsloth's quants are not the last word in terms of PPL/KLD for this model.\n\nDon't know about the Max KLD loss, if it's important. I mean, it sounds bad, but basically these are singular outliers and we get the mean KLD when we infer. If that is lower, then overall generations should be more faithful."
+    },
+    {
+      "id": "p0v6b8o",
+      "t": 2,
+      "content": "GPT 6, when asked, will reply \"I am Deepseek.\" MMW."
+    },
+    {
+      "id": "7668982036371309338",
+      "t": 0,
+      "content": "用RAG机制+浏览器搜集实时信息+自建知识库"
+    },
+    {
+      "id": "308361603137",
+      "t": 3,
+      "content": "进央国企吧[doge_金箍]"
+    },
+    {
+      "id": "311786558400",
+      "t": 4,
+      "content": "有人问,D老师，你一个聋子和瞎子是怎么创作音乐的？Deepseek:好了，现在我是贝多芬。[笑哭]"
+    },
+    {
+      "id": "311882054304",
+      "t": 5,
+      "content": "回复 @VR控 :https://b23.tv/BV1xUGA6nEYV 这个下面有官方的回答。"
+    },
+    {
+      "id": "7668935715598517027",
+      "t": 0,
+      "content": "token消耗量高的吓人，900万token5块"
+    },
+    {
+      "id": "6a6e00f7000000002902f191",
+      "t": 6,
+      "content": "国内的AI限制太多，没法用[doge]"
+    },
+    {
+      "id": "p189grv",
+      "t": 1,
+      "content": "Have not seen any speedup on 9070XT+128GB RAM, but this one seems to retain much more world knowledge than UD-IQ3\\_S, thank you! Looking forward for your other models."
+    },
+    {
+      "id": "7669204702278107962",
+      "t": 7,
+      "content": "[捂脸]命中是分钱级别"
+    },
+    {
+      "id": "311818789376",
+      "t": 8,
+      "content": "我用deep seekv4Flash.为什么感觉好像没这么强。我用来做游戏场景开发，让他帮我设计UI.结果他现在的UI设计能力感觉没有灰测时的能力强。总共在这个游戏开发上烧了我两个亿 token.游戏内部的内容做的还行，但是UI的设计能力感觉大大退步了，是怎么回事？"
+    },
+    {
+      "id": "311770682944",
+      "t": 9,
+      "content": "我感觉这个 Flash 正式版很聪明啊，指哪打哪"
+    },
+    {
+      "id": "308457960897",
+      "t": 10,
+      "content": "还是低了[doge]我跑到99.58"
+    },
+    {
+      "id": "6a6de2e900000000290193e3",
+      "t": 11,
+      "content": "主要是人家优化做得好，毕竟资源有限，某种意义上也是被逼出来的[doge]"
+    },
+    {
+      "id": "311733189984",
+      "t": 12,
+      "content": "梁工春日的中旬"
+    },
+    {
+      "id": "311627131840",
+      "t": 3,
+      "content": "已严肃放弃智谱[笑哭]"
+    },
+    {
+      "id": "6a6eb177000000000b039d42",
+      "t": 13,
+      "content": "不一定吧，这个得看通告的消息为准的，不是自己猜的，目前的通告我看到的是说api 的这块的，我好像没看到任何通告说C端也用了最新的模型这句话出来。"
+    },
+    {
+      "id": "308615756033",
+      "t": 12,
+      "content": "你可以说gpt Claude更好\n但是没有梁圣给你压价格你以为他们会给你免费用"
+    },
+    {
+      "id": "311915241200",
+      "t": 12,
+      "content": "能比k3的话，全世界模型都可以自杀了[妙啊]"
+    },
+    {
+      "id": "7669114105207505721",
+      "t": 7,
+      "content": "几乎所有行业都能用上，就看你会不会用而已"
+    },
+    {
+      "id": "311778540736",
+      "t": 14,
+      "content": "benchmarks 入口，上面手快放本地的了：https://www.techgogogo.com/llm-benchmark/"
+    },
+    {
+      "id": "308615948673",
+      "t": 15,
+      "content": "有什么办法打破上下文限制吗"
+    },
+    {
+      "id": "308368033633",
+      "t": 8,
+      "content": "回复 @圆寸大魔王 :你是一名资深Three.js/WebGL/GLSL图形工程师，请从零制作全屏交互网站【GARGANTUA-Schwarzschild Black Hole Raytracer】。使用原生HTML/CSS/JavaScript、ES Modules与本地Three.js,实现无需构建、可由静态服务器运行的完整项目。主体必须由全屏Fragment Shader实时积分Schwarzschild零测地线，禁止用黑球、平面圆环、贴图、视频或截图伪造。实现事件视界、光子环、多次吸积盘穿越、程序化星空与银河、引力透镜、Doppler增亮、引力红移和动态盘面湍流。 加入HDR Bloom、ACES、暗角、胶片颗粒和轻微色散，确保黑洞深黑、吸积盘高温明亮且临界结构清晰。提供电影镜头循环、OrbitControls、四个视角预设、HUD、21项参数、0-9调试视图、快捷键和可选氛围音乐。支持Standard/High/Cinematic质量档、移动端、Retina、状态持久化、WebGL错误恢复及URL截图自动化接口。直接交付全部源码、vendor与音频资源、启动命令及测试结果，保证无控制台错误、无黑屏并通过视觉与交互验收。"
+    },
+    {
+      "id": "308396390465",
+      "t": 8,
+      "content": "回复 @米racle_ :不知道啊，我昨天又核实了一下，发现用的是NVIDIA的免费v4 pro[doge]但是rikkahub确实显示出那样的数据了。总之看个乐就好[脱单doge][脱单doge]"
+    },
+    {
+      "id": "7668845671437124378",
+      "t": 16,
+      "content": "[捂脸]但是，审美这个东西也是“虚拟”的。只是价值舆论引导出来的工具。说白了，就是被操纵的。AI并不需要琢磨这善变的标准，只需要根据市场变化跟进即可。"
+    },
+    {
+      "id": "308412155905",
+      "t": 17,
+      "content": "？api调用啊，没有“买”这一说"
+    },
+    {
+      "id": "311714131808",
+      "t": 18,
+      "content": "早早早[打call]"
+    },
+    {
+      "id": "2083773492927893676",
+      "t": 19,
+      "content": "@ollama Noice, avg 150 tok/s"
+    },
+    {
+      "id": "7669282330787939121",
+      "t": 20,
+      "content": "但是 luna 能识图呀[思考]"
+    },
+    {
+      "id": "6a6df7150000000009016197",
+      "t": 21,
+      "content": "请问是在一个会话里面，自己手动切不同的模型来做不同的事情吗？怎么切不同模型的？"
+    },
+    {
+      "id": "311904481888",
+      "t": 5,
+      "content": "回复 @方休动画 :好的好的，谢谢佬"
+    },
+    {
+      "id": "6a6ed823000000002a0300ba",
+      "t": 22,
+      "content": "我寻思codex是CLI工具，和deepseek模型搭不上边，猜你想说交给gpt了"
+    },
+    {
+      "id": "6a6e317c000000000802c711",
+      "t": 22,
+      "content": "[黑薯问号R]用deepseek做前端你疯了，识图都只有okr的东西敢用来做前端"
+    },
+    {
+      "id": "308486887281",
+      "t": 23,
+      "content": "up你试一下ohmypi呢，这是个比较轻量级的agent，看dpsk发布的时候说的意思也像是用轻量级agent测试的"
+    },
+    {
+      "id": "6a6c96750000000009015d04",
+      "t": 24,
+      "content": "你在说什么？这么强的模型"
+    },
+    {
+      "id": "7668856061037708090",
+      "t": 7,
+      "content": "缓存命中率太低了吧"
+    },
+    {
+      "id": "308411071361",
+      "t": 12,
+      "content": "回复 @钢铁前线_IronFL : 网页版压根都没上正式版，用网页版评了个寂寞"
+    },
+    {
+      "id": "6a6e1b6b000000001501004a",
+      "t": 6,
+      "content": "我猜不到[doge]"
+    },
+    {
+      "id": "311671276912",
+      "t": 8,
+      "content": "回复 @令堂足安 :你们台湾没有大模型吗，你们能用deepseek吗[微笑]"
+    }
+  ]
+}

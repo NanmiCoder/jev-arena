@@ -1,0 +1,786 @@
+{
+  "items": [
+    {
+      "id": "311684774704",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以大小赢鲸调侃模型发布，未明确评价能力。"
+    },
+    {
+      "id": "6a6dfb96000000002903481a",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "反对用思维链判断版本，并提出另一判断依据。"
+    },
+    {
+      "id": "p126pqt",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "拿模型促使购买内存的速度玩梗，指向硬件需求。"
+    },
+    {
+      "id": "311909598608",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议接入工具并实际消耗token练习开发。"
+    },
+    {
+      "id": "311714711648",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Codex适配含义及具体接入方式。"
+    },
+    {
+      "id": "311803756384",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅请求抽中自己，未讨论AI或使用体验。"
+    },
+    {
+      "id": "308430597345",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "解释使用原因并提到多次尝试不行，对象细节缺失。"
+    },
+    {
+      "id": "6a6e11fb0000000005017a04",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "因CC对DS支持不好而建议换工具。"
+    },
+    {
+      "id": "6a6ddfa2000000000b03b7b0",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "用大运和空单梗夸张表达性价比优势。"
+    },
+    {
+      "id": "311874952352",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅商议邮箱传递内容，无法确定内容与AI相关。"
+    },
+    {
+      "id": "308387079137",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.7,
+      "reason": "陈述大量token消耗并明确感叹速度快。"
+    },
+    {
+      "id": "6a6f04bc000000002b001927",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议高价值资料类型，是否用于AI缺少上下文。"
+    },
+    {
+      "id": "308433327489",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认可理工科思维，未明确评价AI。"
+    },
+    {
+      "id": "7668667245384647461",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "惊喜",
+        "期待"
+      ],
+      "score": 0.8,
+      "reason": "称Flash强于GLM并期待Pro正式版。"
+    },
+    {
+      "id": "311622608672",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "比较Flash和Pro参数量，表情带调侃。"
+    },
+    {
+      "id": "7668699708043543331",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "称可以告别Trae，暗示替代但未说明原因。"
+    },
+    {
+      "id": "2083314922621219030",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只有账号提及和链接，无可见讨论内容。"
+    },
+    {
+      "id": "308466160753",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "以一套房夸张调侃模型测试成本高。"
+    },
+    {
+      "id": "2083089306483142917",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "预测Pro将压倒其他模型，表达强烈期待。"
+    },
+    {
+      "id": "7668858576652747569",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "用官方尚未发布反驳第三方拥有正式版的说法。"
+    },
+    {
+      "id": "311791268736",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "用自称实测质疑数学家说法，但未给出具体结果。"
+    },
+    {
+      "id": "6a6f0a4c0000000004039f38",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "agreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "称是好事并说不炒股，认可对象不明确。"
+    },
+    {
+      "id": "2083891853989208378",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "反馈标准解析任务中模型遗漏一半JSON键。"
+    },
+    {
+      "id": "p175r01",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问GGUF如何启用dspark MTP。"
+    },
+    {
+      "id": "7669071057298719537",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃直接向账户转账，缺少上下文确定对象。"
+    },
+    {
+      "id": "7668976967648232229",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "报告缓存命中率及token费用，未明确褒贬。"
+    },
+    {
+      "id": "7668932485120000795",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "讥讽对方说法不现实，但无法确认讨论对象。"
+    },
+    {
+      "id": "308579185153",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "针对Agent限制建议自建，并分享所用工具。"
+    },
+    {
+      "id": "308417797265",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "说明此前为预览版，是否纠正他人不明。"
+    },
+    {
+      "id": "311740285600",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "认可便宜，同时贬低整体表现。"
+    },
+    {
+      "id": "p11hwum",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合标题询问所用套餐，无明显态度。"
+    },
+    {
+      "id": "6a6eb3420000000015016b37",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "抱怨4Pro连文档都写不明白。"
+    },
+    {
+      "id": "2083200645826215978",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "期待本地能力达到Fabel水平，属于条件性肯定。"
+    },
+    {
+      "id": "308544075393",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明过去与现在可选工具的变化。"
+    },
+    {
+      "id": "308430368561",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "惊喜",
+        "调侃"
+      ],
+      "score": 0.6,
+      "reason": "以笑脸分享极低token费用，带惊喜调侃。"
+    },
+    {
+      "id": "p11zs2d",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "question",
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.4,
+      "reason": "认为预填充速度优于预期，并确认提示词处理条件。"
+    },
+    {
+      "id": "7668852834184299327",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "赞同此前版本为preview这一事实。"
+    },
+    {
+      "id": "2083175690137223237",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "明确表达迫不及待等待发布。"
+    },
+    {
+      "id": "311719106768",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "结合发布标题称赞梁圣，狗头增加玩梗意味。"
+    },
+    {
+      "id": "p0wtkk3",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [
+        "惊喜",
+        "失望"
+      ],
+      "score": 0.3,
+      "reason": "肯定本地运行潜力，同时遗憾不支持多模态。"
+    }
+  ]
+}

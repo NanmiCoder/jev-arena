@@ -1,0 +1,7 @@
+{
+  "ok": false,
+  "error": "Unexpected tool use; blind inference invalid",
+  "exit_code": 0,
+  "started_at": 1789911381.241876,
+  "elapsed_s": 81.53092408180237
+}

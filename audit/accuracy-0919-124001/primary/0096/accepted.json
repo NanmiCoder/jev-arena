@@ -1,0 +1,828 @@
+{
+  "items": [
+    {
+      "id": "7668667487202575144",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "以实际使用体验肯定正式版比预览版好用。"
+    },
+    {
+      "id": "311867606880",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "按编程与办公需求建议选择不同工具。"
+    },
+    {
+      "id": "7668992067700130595",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "反驳硬件成本与定价推论，讨论路线差异及专家局限。"
+    },
+    {
+      "id": "311627365504",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅回复确认，缺少可确定的AI讨论对象。"
+    },
+    {
+      "id": "7668747129741640497",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "performance"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "陈述接口适配进展，并谨慎期待缓存改善。"
+    },
+    {
+      "id": "7669012774114575141",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "complaint",
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "质疑强制更新限制使用，但OTA具体对象不明。"
+    },
+    {
+      "id": "p14wnrh",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "usability",
+        "quality"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.7,
+      "reason": "报告本地运行速度，满意可用性并期待量化质量。"
+    },
+    {
+      "id": "7668925314395063055",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述低价会员来源与封号风险，未明确评价。"
+    },
+    {
+      "id": "308382013089",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "描述AI输出条理化倾向并推测其原因。"
+    },
+    {
+      "id": "6a6d6596000000001403a689",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "认为仅追上竞品旧产品，否定突破说法。"
+    },
+    {
+      "id": "311689421888",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "惊喜",
+        "认可",
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "批评旧版不可用，肯定新版分析能力并期待Pro。"
+    },
+    {
+      "id": "308538783809",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "认可后训练进步与价格，并预测Pro能力上限。"
+    },
+    {
+      "id": "311923983872",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "price",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "分享免费上下文接入子代理的良好使用体验。"
+    },
+    {
+      "id": "308581638481",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "presentation"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "反馈正文误入思考过程的问题，带自嘲语气。"
+    },
+    {
+      "id": "308627418049",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问MiMo是否适合Blender建模。"
+    },
+    {
+      "id": "7669098849398850319",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "指出双方话题错位，缺失具体讨论对象。"
+    },
+    {
+      "id": "311911446256",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "service",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "反驳单任务比较，肯定Codex月度使用性价比。"
+    },
+    {
+      "id": "308576600337",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅告知已重置，无法确定重置对象是否为AI。"
+    },
+    {
+      "id": "7669001942366389026",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "贬低模型相对能力，批评拥护者并指责创始人。"
+    },
+    {
+      "id": "308510014929",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.6,
+      "reason": "根据改代码体验认可模型变聪明。"
+    },
+    {
+      "id": "308579819393",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用砍到自己人玩梗，具体影射对象与事件不明。"
+    },
+    {
+      "id": "308419966305",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "区分模型阻击攻击与事后修补漏洞的性质。"
+    },
+    {
+      "id": "6a6c75220000000005017790",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "直接询问模型是否支持视觉。"
+    },
+    {
+      "id": "p0vuggx",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "展示触发的模型回复，引文态度不等同评论者态度。"
+    },
+    {
+      "id": "6a6c5876000000002100f63d",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "suggestion"
+      ],
+      "a": [
+        "content",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "不满模型发布预测持续反复，要求停止预测。"
+    },
+    {
+      "id": "7668982656906560293",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "推测成本回收逻辑，质疑其他模型定价过高。"
+    },
+    {
+      "id": "7669244523122819880",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "以无限起飞比喻玩梗，具体所指不够明确。"
+    },
+    {
+      "id": "7669409764259087130",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "失望",
+        "愤怒"
+      ],
+      "score": -0.9,
+      "reason": "强烈抱怨文本处理差，认为低价仍浪费钱与时间。"
+    },
+    {
+      "id": "308383027889",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "推测所用API为官方来源，无明显评价。"
+    },
+    {
+      "id": "6a6e0e370000000004038004",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "愤怒"
+      ],
+      "score": -0.7,
+      "reason": "反对缺乏用例便否定模型价值，并贬斥对方。"
+    },
+    {
+      "id": "308577124593",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "依据报错推测识图链路传参不匹配。"
+    },
+    {
+      "id": "308363079937",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "表达同感，但缺少父评论无法确定赞同内容。"
+    },
+    {
+      "id": "308580290705",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "回顾价格变化，并以拳打脚踢夸张赞扬DeepSeek。"
+    },
+    {
+      "id": "311665560656",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "陈述测试与激活参数差异，认为27B仍有潜力。"
+    },
+    {
+      "id": "308471545009",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "service",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "推荐通过每日积分低成本使用Workbuddy模型。"
+    },
+    {
+      "id": "308579860737",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "批评Luna修复能力、速度与价格，也肯定部分性价比。"
+    },
+    {
+      "id": "311801085648",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question",
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "质疑模型昼夜能力表现不一致。"
+    },
+    {
+      "id": "308606564641",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.6,
+      "reason": "以速度和上下文优势肯定V4F，并贬低Luna定位。"
+    },
+    {
+      "id": "p0venq7",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "期待新模型能替代Qwen进行编程，并询问是否实现。"
+    },
+    {
+      "id": "2083334208244601029",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纯推广本地模型评测工具并附链接，按规则不相关。"
+    }
+  ]
+}

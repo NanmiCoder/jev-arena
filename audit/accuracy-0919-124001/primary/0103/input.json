@@ -1,0 +1,236 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "Deepseek V4-flash正式版实测",
+    "卧槽，DSv4-flash初步AA跑分50-51",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "桌面应用迁移 DeepSeek V4 Flash正式版对比Pro预览版",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "There's a new Deepseek v4 flash in town!",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "Deepseek V4 Flash 正式版真好用 死肥鱼只是做了个后训练，列位诸公怎么就倒下了？#Deepseek.#Deepseek V4 Flash 正式版。#AI#大模型",
+    "GPT 5.6 Luna最新测评报告！打得过Deepseek V4 Flash吗？",
+    "deepseek-v4-flash-0731？",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "What speeds are everyone getting with deepseek v4 flash 0731?",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "震撼美味！DeepSeek-V4-Falsh正式版",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "The real reason 5.6 Luna became 5x cheaper"
+  ],
+  "comments": [
+    {
+      "id": "7668901718801007400",
+      "t": 0,
+      "content": "是DS官方 还是OPENCODE 官方"
+    },
+    {
+      "id": "308426802289",
+      "t": 1,
+      "content": "ai 斩杀线，赢了 v4 没有奖励，输了 v4 价格又比它贵几倍的话 就是小丑了。"
+    },
+    {
+      "id": "6a6df5c50000000015003409",
+      "t": 2,
+      "content": "我之前就是这样，结果每次ds自己搞点小错误，回来还是得codex重新再做，真的无语，消耗还更多了，不知道现在的flash还会不会[笑哭R]"
+    },
+    {
+      "id": "6a6c711f0000000009017c08",
+      "t": 3,
+      "content": "而且Luna有多模态"
+    },
+    {
+      "id": "7669214223344190223",
+      "t": 4,
+      "content": "梁圣啥都不多，就是钱多！时间他也有的是，甚至他公开说了公司不加班。这在其他AI公司来说简直不可思议。"
+    },
+    {
+      "id": "308622110225",
+      "t": 5,
+      "content": "回复 @芥末红茶 :flash已经比glm5.2猛了"
+    },
+    {
+      "id": "311838994960",
+      "t": 6,
+      "content": "开发这些东西才用了3美元，后续的缓存分析花了6美元，结论是，官方API确实会随机丢缓存[笑哭]。提交反馈了，不知道会不会答复。"
+    },
+    {
+      "id": "308386463777",
+      "t": 7,
+      "content": "回复 @风萧x易水寒 : 下次试一试[OK]"
+    },
+    {
+      "id": "308435976321",
+      "t": 8,
+      "content": "哈哈哈，我自己也用AI生成了几张"
+    },
+    {
+      "id": "308382541617",
+      "t": 7,
+      "content": "可以用子agent弥补"
+    },
+    {
+      "id": "7668855619667919673",
+      "t": 0,
+      "content": "我还有6500积分，用完再说，现在用的hermes接千问3.7过渡一下看看。之前用的codex接deepseek的缺点是命中率太低，不是多模态，无法识别图片和视频。不知道codex接千问行不行。"
+    },
+    {
+      "id": "311786379728",
+      "t": 9,
+      "content": "你用的什么agent，我百分之98"
+    },
+    {
+      "id": "p0ty2fx",
+      "t": 10,
+      "content": "The balls of them putting opus 4.8 in the chart and it looking like a fair point"
+    },
+    {
+      "id": "308393984737",
+      "t": 11,
+      "content": "回复 @幻想之枫射命丸文 :最好情况应该是有概率超过sol。正常情况应该才是和sol有来有回。因为之前灰测的时候和sol表现差不多，个别落后，说一句sol级别不算过分。没道理过了这么久表现不但不变好反而后退吧。。。。而且我猜测基本上，v4pro出来后没多久，gpt5.7之类的应该也冒头了，基本上都这个趋势，死死的咬在后面"
+    },
+    {
+      "id": "7669011555301180209",
+      "t": 12,
+      "content": "直接利空ai应用吧"
+    },
+    {
+      "id": "6a6d55db0000000015009a52",
+      "t": 13,
+      "content": "那就 pro 吧"
+    },
+    {
+      "id": "308457490017",
+      "t": 9,
+      "content": "应该是 图像说白了就是一个个的像素点组成的，只要文字描述够准确，就能完全准确的描述一个图像的组成，而视频则是足够多的图像拼接成的，也是一样，只要纯文字的模型足够聪明，它就能足够准确的描述并且生成任何资源。"
+    },
+    {
+      "id": "7668873939875119929",
+      "t": 14,
+      "content": "Tree 就是个壳子呀，你得看你选的哪个模型吗？不是"
+    },
+    {
+      "id": "7668895957581546267",
+      "t": 4,
+      "content": "国产都这样，不止是ai，当然也有可能为新模型铺垫"
+    },
+    {
+      "id": "7669350270648042294",
+      "t": 15,
+      "content": "有的。但是免费的是降智版的。想用满血的得自己花钱从DeepSeek官网买api"
+    },
+    {
+      "id": "311766069808",
+      "t": 16,
+      "content": "为什么luna不用max呀[笑哭]"
+    },
+    {
+      "id": "6a6ebe5a0000000015003c1d",
+      "t": 17,
+      "content": "各有优势吧，按照opencode go $10作为订阅套餐计费，和GPT Plus会员对比，完成同等任务的价格应该和luna差不多，直接买API的话flash更便宜。flash的优势是长上下文（受益于ds缓存便宜，越长价格优势越大，而luna在订阅里面只有272K）。luna的优势是多模态。我感觉这两个点其实都挺难割舍的。但是基本上这俩联合起来可以干烂旗舰以下的所有模型"
+    },
+    {
+      "id": "311807517904",
+      "t": 18,
+      "content": "吐token的速度是多少"
+    },
+    {
+      "id": "6a6de07e0000000029019018",
+      "t": 19,
+      "content": "你付钱了吗 买了几个模型了"
+    },
+    {
+      "id": "p10wcrn",
+      "t": 20,
+      "content": "how are you running a 162gb model with just 64gb vram? how much system ram do you have? even if you had 128gb system ram, that's pushing it."
+    },
+    {
+      "id": "7669007374468186923",
+      "t": 12,
+      "content": "ds内部多模态还处于测试阶段"
+    },
+    {
+      "id": "308548926449",
+      "t": 9,
+      "content": "写小说只能用来辅助，你需要自己对小说有一个完善的构思，他只能帮你完善和补充，优化，指望他能自己写是不现实的"
+    },
+    {
+      "id": "308482801281",
+      "t": 21,
+      "content": "harness是什么"
+    },
+    {
+      "id": "308608202513",
+      "t": 22,
+      "content": "这还是flash，不是flash不得上天"
+    },
+    {
+      "id": "308460859073",
+      "t": 23,
+      "content": "回复 @OVC工作室 :开源的[吃瓜]很容易知道，架构完全一样不过参数量不一样"
+    },
+    {
+      "id": "6a6e498f0000000015006d6c",
+      "t": 24,
+      "content": "完蛋了 我以后没法网上面试别人了 很难辨别是否ai在替他作答[微笑R]"
+    },
+    {
+      "id": "6a6c55f70000000015000683",
+      "t": 25,
+      "content": "terra不是降了20%吗"
+    },
+    {
+      "id": "311636297136",
+      "t": 26,
+      "content": "会，我在总结里说了"
+    },
+    {
+      "id": "308355515201",
+      "t": 27,
+      "content": "回复 @右耳赤壁 :其实没多少人用过满血v4p，降价开始的v4p各种流口水"
+    },
+    {
+      "id": "311709496256",
+      "t": 7,
+      "content": "你这个测试有偏向性，因为全部是UI相关，还全部是从零生成。"
+    },
+    {
+      "id": "308443426833",
+      "t": 28,
+      "content": "那怎么切换回去啊"
+    },
+    {
+      "id": "p11rmc1",
+      "t": 29,
+      "content": "Don’t forget, Tibo would rather us all be dead"
+    },
+    {
+      "id": "311721937856",
+      "t": 26,
+      "content": "这怎么可能ai配音"
+    },
+    {
+      "id": "311640777760",
+      "t": 27,
+      "content": "不可能的，手机算力不够"
+    },
+    {
+      "id": "311704915088",
+      "t": 9,
+      "content": "别的不知道，反正我拿flash当爬虫用，又快又便宜[doge]推理滚回gpt就是了"
+    }
+  ]
+}

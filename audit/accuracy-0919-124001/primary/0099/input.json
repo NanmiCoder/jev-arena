@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "deepseek v4flash正式版在手机上本地运行",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "The new deepseek-v4-flash is incredible!",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "I don't think Anthropic and OpenAI will survive",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "DS牛 梁圣牛呀",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "用Openclaw组织了一次对deepseek-v4-flash-",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！"
+  ],
+  "comments": [
+    {
+      "id": "308531897089",
+      "t": 0,
+      "content": "回复 @理科生-YR :卧槽[doge]"
+    },
+    {
+      "id": "311709390448",
+      "t": 1,
+      "content": "贴图质量是什么情况, ds能自己生成图片了？"
+    },
+    {
+      "id": "308361964145",
+      "t": 2,
+      "content": "还是写了一个bug，让k3去改了，不过他自己也能找到这个bug，k3是真的不太够用，后面难的任务丢给k3简单任务v4flash试试。"
+    },
+    {
+      "id": "p0zbng6",
+      "t": 3,
+      "content": "Glm 5.2 seems to be working just fine for me. What was it doing / why wasn’t it working for you?"
+    },
+    {
+      "id": "311766738688",
+      "t": 4,
+      "content": "回复 @虾仁猪心TnT :那肯定是官方最好用啊，但现在除了官方就是Reasonix算比较好用的了"
+    },
+    {
+      "id": "7668824423877428025",
+      "t": 5,
+      "content": "你这个不是V4正式版"
+    },
+    {
+      "id": "311724623744",
+      "t": 4,
+      "content": "code agent还是需要多模态的 你的代码产出有图像的时候要检查或者要检查前端界面是否有文字错位的时候有个多模态会方便不少"
+    },
+    {
+      "id": "308358942417",
+      "t": 2,
+      "content": "求问在哪里能用啊[蹲蹲][蹲蹲][蹲蹲]"
+    },
+    {
+      "id": "308487347857",
+      "t": 6,
+      "content": "回复 @富贵醒来了 :量子看访谈，感觉不是很在乎能不能开眼，不过后面可能挂个基本都识图能力吧"
+    },
+    {
+      "id": "6a6ce0a000000000050144bd",
+      "t": 7,
+      "content": "你还挺嘚儿呢 国内读过本科 还TM假惺惺问一嘴👍🏻"
+    },
+    {
+      "id": "7668926317992067877",
+      "t": 8,
+      "content": "现在的flash和pro对比谁强啊"
+    },
+    {
+      "id": "311718654880",
+      "t": 9,
+      "content": "回复 @Soapppy :是的是的，就是这样解决的[脱单doge]"
+    },
+    {
+      "id": "p13lo1d",
+      "t": 10,
+      "content": "Niño. Can get"
+    },
+    {
+      "id": "7668966412908348187",
+      "t": 8,
+      "content": "我3.25亿token9.8元[钱][赞]"
+    },
+    {
+      "id": "p13ycnu",
+      "t": 11,
+      "content": "how quick it it though?"
+    },
+    {
+      "id": "308434639761",
+      "t": 12,
+      "content": "百炼 这个识图的key是不是免费额度是一次性的用完就需要续费了[笑哭]有没有可以白嫖的？"
+    },
+    {
+      "id": "7669055054083539770",
+      "t": 8,
+      "content": "宰国际的钱，支持"
+    },
+    {
+      "id": "308576148097",
+      "t": 13,
+      "content": "还是up写bug水平高[doge_金箍]"
+    },
+    {
+      "id": "308470544609",
+      "t": 4,
+      "content": "回复 @spock1111 :这么牛逼，有渠道吗？"
+    },
+    {
+      "id": "308562157985",
+      "t": 14,
+      "content": "回复 @吾勿呜 :因为deepseek官方适配codex"
+    },
+    {
+      "id": "308492636769",
+      "t": 15,
+      "content": "回复 @Kvsthenia :8卡5090"
+    },
+    {
+      "id": "311681783936",
+      "t": 2,
+      "content": "回复 @ranro2020 :写代码时间很少，主要是改代码，自己测试再改，改了挺长的，还需要考虑浏览器适配"
+    },
+    {
+      "id": "308352110833",
+      "t": 16,
+      "content": "两台DGXSpark或者Mac Studio集群六万多"
+    },
+    {
+      "id": "308408952049",
+      "t": 4,
+      "content": "对比预览flash还拉啊？哥们不会拿ds的flash对标claude吧，flash什么价格大家心里有数吧"
+    },
+    {
+      "id": "6a6ef17100000000140381e6",
+      "t": 17,
+      "content": "我就是在等着的那个"
+    },
+    {
+      "id": "6a6e048a000000002a027ab9",
+      "t": 18,
+      "content": "Codex为啥没有Linux版本，npm装一下不就好了"
+    },
+    {
+      "id": "6a6c7aa80000000004038605",
+      "t": 19,
+      "content": "在 \"梁子\" 和 \"梁圣\"之间反复横跳[doge]"
+    },
+    {
+      "id": "311760099440",
+      "t": 20,
+      "content": "回复 @照月镜见 :可是扩展性和接口设计这方面，不是ai干的活啊，这方面你自己架构搭好考虑完善，它也不会给你搞成不可扩展的（）"
+    },
+    {
+      "id": "311654281152",
+      "t": 2,
+      "content": "回复 @wayeer581 :reasonix"
+    },
+    {
+      "id": "7669123979231953723",
+      "t": 21,
+      "content": "本来就不是在coding上对标5.6的，coding能力和智能指数都差不少，强化的是agent能力"
+    },
+    {
+      "id": "308541664625",
+      "t": 12,
+      "content": "回复 @感性的大碴子 :没充值的gpt一下子就用完了"
+    },
+    {
+      "id": "308391699569",
+      "t": 22,
+      "content": "回复 @这个刀子真甜 :确实"
+    },
+    {
+      "id": "7668700973304791823",
+      "t": 5,
+      "content": "提示词，谢谢"
+    },
+    {
+      "id": "6a6f060a000000002100db9e",
+      "t": 23,
+      "content": "有个思考链参数，你开启了吗"
+    },
+    {
+      "id": "311774427568",
+      "t": 24,
+      "content": "回复 @lee老头儿的幸福生活 : 视频的话 DGX 很弱，算力我觉得不如 5070，统一内存是大，但是效率太低"
+    },
+    {
+      "id": "311686666144",
+      "t": 25,
+      "content": "回复 @cgefw :嗯，我主要是用来写代码，写代码呀，写代码。要说单纯的执行能力的话，其实deepseek已经很强了，但是在框架设计方面还是被claude opus甩了一条街\n当然价格也甩claude opus一条街"
+    },
+    {
+      "id": "311908532144",
+      "t": 4,
+      "content": "回复 @绝冰晶石 :他那个切换强度不就在最底下，右下角往左移那个位置吗？有一个auto点开之后就可以切强度"
+    },
+    {
+      "id": "7669208992434619142",
+      "t": 8,
+      "content": "glm的实际体验就是比kimi聪明比deepseek靠谱，别老看跑分，那没啥意义"
+    },
+    {
+      "id": "311645981376",
+      "t": 26,
+      "content": "回复 @水纹愁不起 :接入codex最好high"
+    },
+    {
+      "id": "308548945521",
+      "t": 25,
+      "content": "背单词应用的完整提示词能分享下吗？"
+    }
+  ]
+}

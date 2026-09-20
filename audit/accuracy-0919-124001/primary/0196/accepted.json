@@ -1,0 +1,792 @@
+{
+  "items": [
+    {
+      "id": "7668741335613342523",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "complaint"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "贬低智谱的竞争地位，但未说明具体不足。"
+    },
+    {
+      "id": "6a6e221a0000000015014c8a",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "明确批评千问价格高且效果差。"
+    },
+    {
+      "id": "311878829520",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "suggestion"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "指出直接询问会产生幻觉，并建议换测试方式。"
+    },
+    {
+      "id": "311729292448",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "像界面提示或残缺文本，无法确定是否讨论AI使用。"
+    },
+    {
+      "id": "311854853984",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "明确反对纯文本模型能胜过多模态视觉能力的观点。"
+    },
+    {
+      "id": "p16t889",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "赞赏作者列出时间和价格，是否评价AI使用有歧义。"
+    },
+    {
+      "id": "6a6e1d9d000000000d028801",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "询问Q3量化后的能力保留程度，略带怀疑。"
+    },
+    {
+      "id": "308387658129",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability",
+        "service"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "修正先前判断，指出App无法选择max档位。"
+    },
+    {
+      "id": "7668878416439198513",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "围绕价格使用含混玩梗表达，褒贬不明。"
+    },
+    {
+      "id": "6a6e17c2000000002a0272a9",
+      "r": [
+        false
+      ],
+      "s": [],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "文字缺乏可辨指代与连贯语义，态度无法判断。"
+    },
+    {
+      "id": "311767471088",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "抱怨关闭后问题仍在，缺父评论无法确认具体对象。"
+    },
+    {
+      "id": "p11woob",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "price",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "认可跑分并分析实际成本受框架影响，末尾询问配置。"
+    },
+    {
+      "id": "p15fj7r",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问手机运行模型时的电池消耗。"
+    },
+    {
+      "id": "p12coab",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "赞叹高能力模型可本地运行及AI整体进步。"
+    },
+    {
+      "id": "308377848337",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.2,
+      "reason": "仅请求互相点赞，热情表情未指向AI评价。"
+    },
+    {
+      "id": "308443387265",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述自身用量低，按token计费更合适。"
+    },
+    {
+      "id": "7668921884364702501",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "批评他人不懂行情，并介绍反代账号价格和用量。"
+    },
+    {
+      "id": "6a6d77a7000000002901ba5a",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.4,
+      "reason": "认为普通水平工程师会失去工作，带就业担忧。"
+    },
+    {
+      "id": "311728134720",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅表示自己迟到并附表情，未讨论AI。"
+    },
+    {
+      "id": "p0txvr7",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述智能降价会刺激需求的经济判断。"
+    },
+    {
+      "id": "6a6e0bd0000000002b02bc5a",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "批评DS编程无果，肯定Kimi效率但嫌其贵。"
+    },
+    {
+      "id": "308420145185",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释识图实现方式，并纠正其属于多模态的说法。"
+    },
+    {
+      "id": "308343167729",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用夸张爆炸梗表达反应，是否评价模型不明确。"
+    },
+    {
+      "id": "6a6ef04f000000002902f41f",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "结合部署标题建议加内存，语气轻松。"
+    },
+    {
+      "id": "7668974517348713275",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "将攻克AGI表述为首要任务，兼有主张意味。"
+    },
+    {
+      "id": "308415740721",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "围绕模型上线玩震惊爆炸梗，未明确评价效果。"
+    },
+    {
+      "id": "311639831584",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "求助思考过长且无法关闭的问题，并不满行为变化。"
+    },
+    {
+      "id": "p14dfu7",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "用股市上涨嘲讽模型冲击美国的叙事。"
+    },
+    {
+      "id": "308476968401",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "认为模型参数量过小，未明确涉及实际能力。"
+    },
+    {
+      "id": "2083698477364621551",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问对方是否试过指定模型，无明显褒贬。"
+    },
+    {
+      "id": "311911171168",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正模型大小倍数，未说明该差距好坏。"
+    },
+    {
+      "id": "308348850897",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "陈述模型未变及某功能不会有，但所指功能缺失。"
+    },
+    {
+      "id": "311732207808",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "推测自家平台可能大幅提升模型表现并表示期待。"
+    },
+    {
+      "id": "7668762992440263481",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "质疑将感知与推理混谈，主张模块化设计。"
+    },
+    {
+      "id": "7669063479730586420",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "肯定模型提升，并将其归因于使用数据和重新训练。"
+    },
+    {
+      "id": "311895123168",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问小说写作模型优劣及每十万字成本。"
+    },
+    {
+      "id": "308395084961",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问接入采用预设还是手动填写配置。"
+    },
+    {
+      "id": "308570107665",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "agreement"
+      ],
+      "a": [
+        "content",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "明确喜欢AI对比测评内容，并以斗蛐蛐玩梗。"
+    },
+    {
+      "id": "308429257009",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "陈述适配进度，并认为CC更好用。"
+    },
+    {
+      "id": "7668956186095731506",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出七月多次重置并非常态，纠正额度预期。"
+    }
+  ]
+}

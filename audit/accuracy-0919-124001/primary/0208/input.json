@@ -1,0 +1,236 @@
+{
+  "topics": [
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek v4 Flash for DS4 (DwarfStar) GGUF w/ DSpark MTP Head",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "Qwen 3.6 27B at Q8 to Deepseek V4 Flash 0731 at Q3?",
+    "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DSV4 Flash 正式版，Reddit 社区炸了",
+    "The impact of DeepSeek v4 flash 0731 (still beta?) is underestimated",
+    "Final. Deepseek V4 Flash 0731 @ 345.8 tok/s\n\nRecipe: https://t.co/853qbWehkS\n\n4x Blackwell 6000 Max Q\n\nCheated a little bit and used the coding prompt on lmx https://t.co/TWMj28mLfP",
+    "GPT 5.6 Luna最新测评报告！打得过Deepseek V4 Flash吗？",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "DeepSeek V4 Flash API is 18x cheaper on input, 28x cheaper on output, and matches Opus 4.8. Time for Claude to atleast reduce sonnet pricing",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4-Flash is officially out, still dirt cheap. USA don't like that, and want ban open source models.",
+    "DeepSeekV4-flash上线 外网的反应 开源免费就没有不香的道理",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "DeepSeek-V4-Flash-0731正式上线\n\nTerminal-Bench：61.8 → 82.7\n\n DeepSWE：7.3 → 54.4（+645%）\n\n 打赢自家Pro（82.7 vs 72.1）\n\n只比Opus-4.8低2.3分 https://t.co/WnXTluPRuy"
+  ],
+  "comments": [
+    {
+      "id": "6a6ed6b3000000002b027637",
+      "t": 0,
+      "content": "这些ai都是免费用吗"
+    },
+    {
+      "id": "311824833744",
+      "t": 1,
+      "content": "回复 @开始带你飞 :一说割韭菜就是美国的锅，原来是美国让它割中国人韭菜吗？而且连算力跟什么有关都不懂，就来抬杠[笑哭]评论区一群一块卡都凑不出来的在那跟我一个在用的抬杠，菊味也太冲了[辣眼睛]"
+    },
+    {
+      "id": "308477023681",
+      "t": 2,
+      "content": "deepseek v4 flash 速度超快，价格也便宜，后面是备用的了"
+    },
+    {
+      "id": "308467097553",
+      "t": 3,
+      "content": "我一天多点干完5xpro的周额度,没办法冲的20x,我之前同样的使用方式,deepseekv4pro700人民币一个月."
+    },
+    {
+      "id": "311782541968",
+      "t": 4,
+      "content": "具体指的是?"
+    },
+    {
+      "id": "p0zczf2",
+      "t": 5,
+      "content": "Please share here too: https://github.com/antirez/ds4/issues/635"
+    },
+    {
+      "id": "308461349361",
+      "t": 6,
+      "content": "回复 @Token就是词元 :给你想了个名字up你看看。意气风发，身价倍涨的前国模一哥vs出身寒门，王者归来的天才程序员[doge]"
+    },
+    {
+      "id": "308408269729",
+      "t": 7,
+      "content": "gpt 5.6sol 太慢了，但是 gpt 5.6sol 做架构做规划还是牛的"
+    },
+    {
+      "id": "7669002161330815790",
+      "t": 8,
+      "content": "真的 加上opencode 的go 计划 可以低到一个十分恐怖的程度 这个就是5美元能买60美元的额度来使用 v4 flash 就是35 基本上无限使用v4 flash 当然也有其他模型  k3啥的"
+    },
+    {
+      "id": "308420474625",
+      "t": 9,
+      "content": "我们一般不把 7 月 31 号叫 7 月中旬"
+    },
+    {
+      "id": "311680108304",
+      "t": 7,
+      "content": "更新到最新版本，上周有个版本超级卡。最新版虽然还是卡但好多了"
+    },
+    {
+      "id": "308461262481",
+      "t": 7,
+      "content": "用opencode加上omo插件，缓存命中率能提高到99%，claudecode不适合deepseek，犯冲，会导致模型能力下降"
+    },
+    {
+      "id": "308422169793",
+      "t": 3,
+      "content": "你确实需要深度思考一下"
+    },
+    {
+      "id": "7669401222696469285",
+      "t": 10,
+      "content": "所以这里讨论了激活参数，它的激活参数甚至只有13b"
+    },
+    {
+      "id": "p17xgy1",
+      "t": 11,
+      "content": "Ok I finally installed and did a quick test!  \nModel I used is; DeepSeek-V4-Flash-0731-UD-IQ3\\_S  \nContext Window: 128k at q8\n\nInference speed I am getting is around 11 to 12 t/s. Which I am quite happy with it. MoE works amazingly it seems.   \nPrompt Processing speed is around 60-75 t/s  \nOnly issue it seems is filling up context window at the start. It takes quite a bit time.   \nMy Hermes Agent uses close to 20k token inital start up. So from start of new session and my msg to its reply took 5 solid minutes. But after that first load is done, model started to work without any issues\n\nSo speed comparission, Qwen3.6 27b at 8q absolutely lightning fast with my setup, this VRAM/RAM combination cant gold candle to it. But DS4 looks like still usable with some patience. As for quality of model idk yet. Just did a quick test thats all."
+    },
+    {
+      "id": "p0uk1mf",
+      "t": 12,
+      "content": "Edit: https://x.com/artificialanlys/status/2083106959465861300 it was a wrong number, note they fixed it on the website.  \n Just a reminder that AA benchmark include the cost of failed tasks.\n\nIf the model is stubborn trying to solve something it couldn't solve, it would show as high cost.\n\nReal world usage may differ from the graph. It is more verbose for sure though."
+    },
+    {
+      "id": "7668884299198464826",
+      "t": 13,
+      "content": "这次对标斩杀5.6luna，pro正式版估计就要斩sol了[捂脸]"
+    },
+    {
+      "id": "308427554561",
+      "t": 14,
+      "content": "回复 @JackySmile :这说的是没法读图，浏览器页面是直接可以抓取代码的"
+    },
+    {
+      "id": "308354033649",
+      "t": 15,
+      "content": "回复 @捏捏阁下 :请问你指的是炼铜方面的嘛？目前我是用酒馆过agent中间层在用pro，害怕以后pro也会加甲"
+    },
+    {
+      "id": "308329404753",
+      "t": 16,
+      "content": "保守一点是luna的水平[doge]"
+    },
+    {
+      "id": "6a6f2bf8000000002a02dbc8",
+      "t": 17,
+      "content": "美国豆包擅长文科和艺术"
+    },
+    {
+      "id": "p12jet5",
+      "t": 18,
+      "content": "How do you guys use the 0731?"
+    },
+    {
+      "id": "2083704338598211964",
+      "t": 19,
+      "content": "@wicksplay Nice work, thanks for sharing!\nAny chance you can measure 16x concurrency throughput or are you OOM there?"
+    },
+    {
+      "id": "308598137857",
+      "t": 20,
+      "content": "重新测吧 思考强度不用max"
+    },
+    {
+      "id": "311802932288",
+      "t": 21,
+      "content": "回复 @Just_a_Passer_By :不是啊，只是审美建模空间知识相对于它其他方面差太多，有点瘸腿。"
+    },
+    {
+      "id": "7668899133009625906",
+      "t": 8,
+      "content": "又遇到你了[捂脸]，只有luna降价80，你不是Pro大神吗？咋还用Luna呢？"
+    },
+    {
+      "id": "6a6d98340000000009014bd2",
+      "t": 0,
+      "content": "【声明】我从没把梁总的头P到脉动、梁白开、天之蓝上面，从来没有到处散播不要擅自期待，从来没有诋毁过Deepseek，本人实际上是Deepseek一年老粉，经过长时间的思考，我发现Deepseek才是中国AI的希望，有时候做出决定很难，经过许多个日夜的思考，我决定加入Deepseek粉丝。至于Kimi，GLM和Minimax，祝他们的开源模型一切顺利。本人从未诋毁过Deepseek，也从未称呼梁总为牢梁，望周知！"
+    },
+    {
+      "id": "p116k2g",
+      "t": 22,
+      "content": "All they had to do was give 100% usage on fable to paying subscribers. Now they get bad rep for messing around with subscriptions and models and people are migrating to other solutions.\n\nThey should have just focused on making better models for better price with better service... But they chose to play doomsday theater instead."
+    },
+    {
+      "id": "308553686161",
+      "t": 23,
+      "content": "按60tps计算，一天能生产60*3600*24=5.18MTokens。按1元/1M计算价值５元。两台DGX算６W，要12000天，也就是32年才回本。所有从经济上说自己部署还是远没有API划算。"
+    },
+    {
+      "id": "308507912801",
+      "t": 1,
+      "content": "回复 @阳春三月遍地花 :那你会受限于算力最低的卡，反正你考虑好就行"
+    },
+    {
+      "id": "311671272672",
+      "t": 7,
+      "content": "设环境变量的时候把你的API key漏了呀"
+    },
+    {
+      "id": "311927968064",
+      "t": 3,
+      "content": "回复 @悦悦欲失 :1[doge]"
+    },
+    {
+      "id": "308464499505",
+      "t": 24,
+      "content": "回复 @RadiantFinale :deepseek最没底线了，随便破"
+    },
+    {
+      "id": "311771159408",
+      "t": 3,
+      "content": "回复 @哔站罗伯特 :自己搜，好多站的grok基本不要钱"
+    },
+    {
+      "id": "7669114718443995961",
+      "t": 8,
+      "content": "5.6sol也是全测，除了喜欢拉好几个代理一起干活烧token。真是又快又高标准，k3干3个多小时的，5.6sol一个多小时就干完了。我双开两个32卡服务器同样的两个工程测的，不存在gpu不一样校验速度不一样。"
+    },
+    {
+      "id": "p0zdioc",
+      "t": 25,
+      "content": "Based model release.   \nThis has persuaded me to get a Deepseek agent into my set up somewhere.   \nThe sooner competition comes the better."
+    },
+    {
+      "id": "308579477025",
+      "t": 26,
+      "content": "下面这个是玄武口音?"
+    },
+    {
+      "id": "308385239937",
+      "t": 27,
+      "content": "回复 @独行者_- :连续一年，每天用v4f能用80多块钱，那你牛逼"
+    },
+    {
+      "id": "p1361lj",
+      "t": 28,
+      "content": "I have 2x r9700s (32GB x2 = 64GB VRAM) and 128 GB DDR4.\n\nCan I run this? How would that work? What sort of performance could I expect? Does llama.cpp support this model and system configuration? \n\nWould appreciate any insights!"
+    },
+    {
+      "id": "2083894558413488555",
+      "t": 29,
+      "content": "@kuk47377341 82.7 vs 72.1 against their own pro is wild"
+    }
+  ]
+}

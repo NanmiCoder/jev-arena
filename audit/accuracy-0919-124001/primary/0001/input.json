@@ -1,0 +1,236 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "Deepseek V4 Flash最新测评！Claude Code版！",
+    "DeepSeek-V4-Flash Official API is now LIVE in public beta! Massive upgrades for flash model.",
+    "deepseek v4 Flash正式版直接出复杂像素资产图，多轮迭代，未能让deepseek大人尽兴",
+    "DeepSeek-V4-Flash-High",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek-V4-Flash-0731: Oneshot evals, surprisingly not token efficient??",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Deepseek V4-flash正式版实测",
+    "被接入Codex的DeepSeek V4 Flash正式版惊到了！",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "瘫坐冷汗核弹！我在两天内消耗了4亿的Token，利用 DeepSeek V4Flash 正式版做出来了这个......",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "Deepseek v4 flash 0731",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "Weights of Deepseek v4 flash 0731 have been released!!!",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "要被外网的一些评论笑死了😂😂😂"
+  ],
+  "comments": [
+    {
+      "id": "7668840106241327918",
+      "t": 0,
+      "content": "[笑哭]预览版 正式版昨天才上 你告诉我你用了正式版一个月了"
+    },
+    {
+      "id": "2083198119798538600",
+      "t": 1,
+      "content": "@deepseek_ai https://t.co/Xc8vvtHkgF"
+    },
+    {
+      "id": "311688476672",
+      "t": 2,
+      "content": "回复 @百分之百外域黄金 :代码能力我还没试，看别人说进步挺大的"
+    },
+    {
+      "id": "311705303184",
+      "t": 3,
+      "content": "你参加内测了吗？"
+    },
+    {
+      "id": "7668989249950401323",
+      "t": 4,
+      "content": "之前的是预览版，现在的是正式版，确实好用，比pro预览版还好用"
+    },
+    {
+      "id": "7669022846543463203",
+      "t": 5,
+      "content": "@90princessst"
+    },
+    {
+      "id": "7668998145116685093",
+      "t": 5,
+      "content": "我是自己下了一个本地的模型，然后deepseek自己接入，稍微慢了一点，但其实也还好，能用。"
+    },
+    {
+      "id": "6a6c5f7300000000050169ad",
+      "t": 6,
+      "content": "那现在全切flash啦[黄金薯R]"
+    },
+    {
+      "id": "311759401232",
+      "t": 7,
+      "content": "回复 @舟舟mg :你回复错人了"
+    },
+    {
+      "id": "p0usz7q",
+      "t": 8,
+      "content": "Holy crap we got here much faster than I imagined. Are they using RSI on a scale?"
+    },
+    {
+      "id": "7668951078729859846",
+      "t": 4,
+      "content": "Ds不缺钱，他们9点半以后，可以自己去A股取钱"
+    },
+    {
+      "id": "308448709041",
+      "t": 2,
+      "content": "回复 @飞奔二进制 :扣帽子这一块"
+    },
+    {
+      "id": "308448422657",
+      "t": 2,
+      "content": "回复 @涅槃何道 :我用官方PowerShell脚本配置codex，effort怎么只有light和high档位，没有max[笑哭]这是咋回事？"
+    },
+    {
+      "id": "308469636401",
+      "t": 9,
+      "content": "期待ing[星星眼]希望能够达到5.6sol的水平"
+    },
+    {
+      "id": "7668931489085948731",
+      "t": 5,
+      "content": "是的，正式版7月31号才发布，pro正式版还没发布。正式版强太多了"
+    },
+    {
+      "id": "6a6d5b0000000000150109c9",
+      "t": 10,
+      "content": "你看看上次两个排名，这次能有多强大，能不能超过k3都很渺茫"
+    },
+    {
+      "id": "308597014945",
+      "t": 11,
+      "content": "大模型其实很适合编程"
+    },
+    {
+      "id": "p11y1qd",
+      "t": 12,
+      "content": "Usually cache miss is at fault, also did you run it during the pricier time slot?"
+    },
+    {
+      "id": "308353537201",
+      "t": 13,
+      "content": "指令遵循好了太多了，之前用Pro不生效的措辞指令都生效了"
+    },
+    {
+      "id": "311716215872",
+      "t": 14,
+      "content": "又玩原神又用DeepSeek的玩家，看到这儿直接绷不住了[笑哭]"
+    },
+    {
+      "id": "6a6ef935000000001501381f",
+      "t": 15,
+      "content": "我用 api  在 codex 里面问了一个问题，让他收集 ai 数据，就整了 20 分钟，还花了两千万 token  花了我两块[微笑R]"
+    },
+    {
+      "id": "308601703393",
+      "t": 16,
+      "content": "先用cli，可以切到max，再打开desktop"
+    },
+    {
+      "id": "6a6ca362000000002b028828",
+      "t": 17,
+      "content": "130亿参数，没记错的话，人的大脑神经元也就是这个数量级"
+    },
+    {
+      "id": "7668972316575466291",
+      "t": 18,
+      "content": "[捂脸][捂脸][捂脸][捂脸][捂脸][捂脸][捂脸][捂脸]太好玩了你"
+    },
+    {
+      "id": "308458271281",
+      "t": 19,
+      "content": "[尴尬][尴尬][尴尬]"
+    },
+    {
+      "id": "311762460192",
+      "t": 20,
+      "content": "你说的是之前铺天盖地营销的K3吗"
+    },
+    {
+      "id": "311904185040",
+      "t": 21,
+      "content": "才哪到哪，我一天读文档文件写代码e2e自动测试，一天烧几个亿token轻轻松松，过千次调用量，你这种ai浅玩玩家在云什么。[辣眼睛]"
+    },
+    {
+      "id": "308378446129",
+      "t": 13,
+      "content": "回复 @芋头沙拉 :去年过年时候的 DeepSeek，那时候写诗是王炸，用贴吧老哥语气回复也很像，现在 DeepSeek 在文字方面感觉有点降智[辣眼睛]"
+    },
+    {
+      "id": "308434262337",
+      "t": 14,
+      "content": "回复 @南鹿北折 :我用的是Claude code, effort设置的是high"
+    },
+    {
+      "id": "308441792785",
+      "t": 2,
+      "content": "回复 @KANE_studio :你如果是这种需求，用豆包就行了，"
+    },
+    {
+      "id": "308455860561",
+      "t": 11,
+      "content": "这个能追上 glm5.2 了么？"
+    },
+    {
+      "id": "308402564881",
+      "t": 22,
+      "content": "为啥3并发15，这个不是单并发的25除以3？"
+    },
+    {
+      "id": "6a6dddac000000002a007fbc",
+      "t": 23,
+      "content": "小模型是拿来干活的不是当主力模型用的。"
+    },
+    {
+      "id": "7668867092804698917",
+      "t": 24,
+      "content": "怎么用两台电脑部署？"
+    },
+    {
+      "id": "308592625281",
+      "t": 25,
+      "content": "回复 @虚幻仙贝 :opencode里一句话生成mc根本行不通，效果很差"
+    },
+    {
+      "id": "p0von71",
+      "t": 26,
+      "content": "Now we know why OpenAI lowered their prices lol"
+    },
+    {
+      "id": "311750722608",
+      "t": 2,
+      "content": "ds又不需要买套餐，你充20块看看"
+    },
+    {
+      "id": "308419708833",
+      "t": 27,
+      "content": "？？？\n都啥时候了还在这么测试"
+    },
+    {
+      "id": "308594219633",
+      "t": 28,
+      "content": "回复 @Xenoraff :好诗"
+    },
+    {
+      "id": "6a6d6b1200000000090174d3",
+      "t": 29,
+      "content": "v4-pro的正式版仍未上线，期待[合十R]"
+    }
+  ]
+}

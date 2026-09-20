@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "DeepSeek v4 Flash for DS4 (DwarfStar) GGUF w/ DSpark MTP Head",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "Deepseek V4 Flash正式版全栈开发测评，非常强！",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "deepseek-v4-flash-0731？",
+    "DeepSeek-V4-Flash 正式版发布！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "部署正式版DS-V4-Flash-0731成本真的不高!",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "deepseek v4 flash 配上 opencode 送的太多了，非常好用，真爽。",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "Weights of Deepseek v4 flash 0731 have been released!!!",
+    "【中文字幕】科技博主八题实测：DeepSeek Flash 0731在推理和长链路任务上追平顶级闭源模型",
+    "DeepSeek-V4-Flash-0731 UD-IQ3_S 12.5 tok/s on RTX 3090 +128GB DDR5"
+  ],
+  "comments": [
+    {
+      "id": "p0zglca",
+      "t": 0,
+      "content": "Splitting the DSpark head into its own GGUF is smart — you can iterate on MTP quants without touching the base checkpoint. Given the \\~2x gap vs llama.cpp on Metal, it’s probably worth benchmarking in DS4 before judging the quant purely on cpp tok/sec."
+    },
+    {
+      "id": "311724732672",
+      "t": 1,
+      "content": "[星绘·沐春灼华 应援装扮_慌张][星绘·沐春灼华 应援装扮_慌张][星绘·沐春灼华 应援装扮_慌张]"
+    },
+    {
+      "id": "311767823632",
+      "t": 2,
+      "content": "回复 @安静丶零 :所有ai的注意力都不太超过156k，哈基米被证实3.0以后是32k，opus4.6是64-120 4.8也大差不差，而dp也是这个区间内，glm也差不多，这个基本就是所有ai的最佳质量区间，超出了都非常菜比，而agent能延迟超出的时间，同时超出之后还能利用agent做上下文隔离，保持下限。\n网页版都是脑残可不是乱说的，超注意力马上就会胡言乱语。。。[笑哭]"
+    },
+    {
+      "id": "2083085879640277198",
+      "t": 3,
+      "content": "@deepseek_ai Does it support media ?"
+    },
+    {
+      "id": "311655014832",
+      "t": 4,
+      "content": "回复 @我的哥哥姐姐2号 :那确实出不来，没这么自私[笑哭]"
+    },
+    {
+      "id": "308332459057",
+      "t": 4,
+      "content": "砸盘美股，韩股[doge][doge]"
+    },
+    {
+      "id": "7668942985249620778",
+      "t": 5,
+      "content": "workbuddy呢，跟opencode啥区别"
+    },
+    {
+      "id": "311681022544",
+      "t": 6,
+      "content": "回复 @Mrzhongj :也没那么简单，openai现在开始打价格战了，要不是DeepSeek这一把，gpt luna就把国模碾了。"
+    },
+    {
+      "id": "308573216081",
+      "t": 7,
+      "content": "四块钱？那不得接近5000w的Token，怎么几句话就这么多"
+    },
+    {
+      "id": "7668712526456521535",
+      "t": 8,
+      "content": "支持多模态么? 主要是支持图片识别么?"
+    },
+    {
+      "id": "6a6c60c6000000002a0331cc",
+      "t": 9,
+      "content": "没关系，我会交给 kimi k2.6 看图[doge]"
+    },
+    {
+      "id": "311934018432",
+      "t": 10,
+      "content": "邀请好友限时活动继续延长，体验OpenSquilla新功能畅享免费token\nhttps://tokenrhythm.studio/i/rf_tr_mNg40k4gsJ3QIXWr7gRROX7g帮我助力，一起拿大奖！完成注册即可获得68元免费token额度\nhttps://tokenrhythm.studio/i/rf_tr_mNg40k4gsJ3QIXWr7gRROX7g"
+    },
+    {
+      "id": "311708267744",
+      "t": 11,
+      "content": "up你用的是啥agent？"
+    },
+    {
+      "id": "6a6e6ad4000000002b0245e5",
+      "t": 12,
+      "content": "想到一个办法，用kimi code，K3当主模型，v4 flash当子模型，让k3随心所欲拉agent集群，猛猛蹬"
+    },
+    {
+      "id": "6a6c960d000000001500bd68",
+      "t": 13,
+      "content": "不是，意思是用昇腾卡训练的 V4 flash比 GLM5.2 还强，且在某些方面接近 Claude opus 5.8[石化R] 梁圣你牛大了"
+    },
+    {
+      "id": "311724213104",
+      "t": 2,
+      "content": "搞一下多模态能提升到新的高度"
+    },
+    {
+      "id": "7668898767499969329",
+      "t": 14,
+      "content": "可惜不是多模态，如果是的话直接可以掀桌子了"
+    },
+    {
+      "id": "308479913777",
+      "t": 15,
+      "content": "回复 @英俊的小铁匠 : 昨天之前不是这样的，我一直都是用中文对话，预览版的flash 和pro一直都是英文思考。"
+    },
+    {
+      "id": "7669021760155124517",
+      "t": 14,
+      "content": "梁圣起手就是一鞭子"
+    },
+    {
+      "id": "6a6ec44c000000002902cd54",
+      "t": 16,
+      "content": "CPU：EPYC 7502 32核心64线程 *1 \n主板： 某南山寨板,单路cpu,8个ddr4内存通道,4个Pcie4.0x16\n内存：ddr4 32GB ecc*8\n硬盘：2TB NVME PCIE4.0X4\n显卡：2080ti22g*2,3080 20g*2\n电源：2000W\n机箱：开放式机架"
+    },
+    {
+      "id": "7669275132385428283",
+      "t": 17,
+      "content": "博主，闻一下Luna和Terra谁强"
+    },
+    {
+      "id": "308497328369",
+      "t": 2,
+      "content": "agi不需要会生图，但一定要会识图"
+    },
+    {
+      "id": "311643718496",
+      "t": 18,
+      "content": "以前配置的por和现在配置的flash 有什么不一样吗？需要重新配置吗"
+    },
+    {
+      "id": "7668994988948390671",
+      "t": 14,
+      "content": "[抠鼻]我用的cc+dsv4f，你说网页怎么用我还真不知道"
+    },
+    {
+      "id": "308374828097",
+      "t": 4,
+      "content": "回复 @loudMore老末哒 :Flash一两万就行了"
+    },
+    {
+      "id": "311917402704",
+      "t": 19,
+      "content": "能把opencode 的go接到zcode或者codex里吗"
+    },
+    {
+      "id": "7669259246366081849",
+      "t": 20,
+      "content": "@爱吃芫荽 @甲鱼串串香"
+    },
+    {
+      "id": "311691275168",
+      "t": 21,
+      "content": "回复 @薛丁格的貓娘 :开了"
+    },
+    {
+      "id": "311816769600",
+      "t": 2,
+      "content": "回复 @Fantasy1and :api额度不够用"
+    },
+    {
+      "id": "7668739647635292985",
+      "t": 22,
+      "content": "不支持，等4.1"
+    },
+    {
+      "id": "7668924814077592379",
+      "t": 14,
+      "content": "你用的豆包吧[捂脸]"
+    },
+    {
+      "id": "311723096128",
+      "t": 23,
+      "content": "这和是不是像素游戏没有关系，像素游戏不代表简单"
+    },
+    {
+      "id": "2083387830554796139",
+      "t": 3,
+      "content": "@deepseek_ai I like it a lot but how do we make it follow instructions better?!\nhttps://t.co/jZcMxLHW3T"
+    },
+    {
+      "id": "17928358",
+      "t": 24,
+      "content": "@To5tE 直接用 api 的话 DeepSeek 合算一点。买个 GPT Plus 订阅的话 gpt 降维打击。"
+    },
+    {
+      "id": "p0vhogx",
+      "t": 25,
+      "content": "https://preview.redd.it/zxdh9s4bkkgh1.png?width=1067&format=png&auto=webp&s=8617a43f1d79e55ce1484b0014955504bb3ce6ed\n\nMost attractive"
+    },
+    {
+      "id": "7669056355802563377",
+      "t": 14,
+      "content": "Codex和Trae哪个接DeepSeek比较夯"
+    },
+    {
+      "id": "308599986193",
+      "t": 2,
+      "content": "别报计算机，你要是计算机为了写代码就别报！ai冲击的首先就是程序员，ai写代码的效率是人的几千倍又快又好，未来3-5年内程序员肯定是被优化最多的，其次的是客服之类的。现在报计算机就是类似于疫情之后报土木......."
+    },
+    {
+      "id": "311821448768",
+      "t": 26,
+      "content": "回复 @红烧冰棍 :那我就问你，你直接说出原因，除非你不知道[呲牙]，或者知道的并不清楚，对不对？"
+    },
+    {
+      "id": "p15qufk",
+      "t": 27,
+      "content": "Wait, how do you run it in your browser? IM A NOOB"
+    },
+    {
+      "id": "311693386928",
+      "t": 11,
+      "content": "回复 @SOS-凉宫春日 :谁告诉你ds赚钱的[笑哭]"
+    }
+  ]
+}

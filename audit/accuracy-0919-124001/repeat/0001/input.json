@@ -1,0 +1,229 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Deepseek v4 flash 0731 real experience. It is definitely shocking the world, But do they have enough capacity?",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "Deepseek V4 Flash正式版全栈开发测评，非常强！",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "What speeds are everyone getting with deepseek v4 flash 0731?",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DS V4 Flash 0731 agentic performance VS Code Copilot",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！"
+  ],
+  "comments": [
+    {
+      "id": "308428226465",
+      "t": 0,
+      "content": "跟fable5差远了，不拉在哪儿[生气]"
+    },
+    {
+      "id": "311718372832",
+      "t": 1,
+      "content": "。。满血版啊，而且网页都没上正式版"
+    },
+    {
+      "id": "311713027984",
+      "t": 0,
+      "content": "没办法，没有视觉无法反馈，你看的其他模型可以通过不断的反馈持续优化，它就做不到了"
+    },
+    {
+      "id": "p14s5fq",
+      "t": 2,
+      "content": "i can confirm on par or even better than glm 5.2 its like a better doctor can't wait for v4 pro but i haven't seen many headlines about it tho"
+    },
+    {
+      "id": "308391139201",
+      "t": 3,
+      "content": "要pro才行 我之前灰度到pro 可以看我主页视频"
+    },
+    {
+      "id": "7668891569747215153",
+      "t": 4,
+      "content": "这怎么不算是正事呢[看]"
+    },
+    {
+      "id": "311824007472",
+      "t": 5,
+      "content": "cc里面有个gst官方的呀，点一下再关上试试"
+    },
+    {
+      "id": "311899187472",
+      "t": 0,
+      "content": "回复 @SH_qsIHS :难得股市回归了原教宗旨，股市的初衷不就是获得融资帮助企业做大做强么"
+    },
+    {
+      "id": "311887228176",
+      "t": 6,
+      "content": "好的，我会关注一下的，谢谢您的推荐。"
+    },
+    {
+      "id": "311721824960",
+      "t": 0,
+      "content": "梁文锋干量化的，没事儿会做空美股捞钱的"
+    },
+    {
+      "id": "311722426320",
+      "t": 7,
+      "content": "回复 @自然造字师斯庙算多 :奖励一块华为手表"
+    },
+    {
+      "id": "p0zrdme",
+      "t": 2,
+      "content": "It's a *relatively* small model, it fits on just 2 H200s for the full experience."
+    },
+    {
+      "id": "6a6d2e0e0000000023003184",
+      "t": 8,
+      "content": "pro（preview）"
+    },
+    {
+      "id": "311675537792",
+      "t": 3,
+      "content": "缺乏多模态还是很吃亏，很多涉及图形的任务处理比如多模态模型，很可惜"
+    },
+    {
+      "id": "6a6e498f0000000015006d6c",
+      "t": 9,
+      "content": "完蛋了 我以后没法网上面试别人了 很难辨别是否ai在替他作答[微笑R]"
+    },
+    {
+      "id": "p111ngy",
+      "t": 10,
+      "content": "16-18tok/sec on Ryżem 9 9950X3D 128GB DDR5 5600 CL32, RTX5090 with content 256k on q8. GGUF grom Bartkowski and speed on aprox on 100k content full."
+    },
+    {
+      "id": "6a6dd869000000000802d787",
+      "t": 8,
+      "content": "算了吧 稀烂的 烧了几百块了"
+    },
+    {
+      "id": "311780988576",
+      "t": 11,
+      "content": "claude code和codex哪个适配DS更好点？现在用的claude，感觉也还行"
+    },
+    {
+      "id": "311720271424",
+      "t": 3,
+      "content": "缺了前缀：你知道的[藏狐]"
+    },
+    {
+      "id": "311916778608",
+      "t": 12,
+      "content": "其实go也不贵，flash基本蹬不完\n\n✨ Session reset! Starting fresh.\n\n◆ Model: `deepseek-v4-flash`\n◆ Provider: opencode-go\n◆ Context: 1.0M tokens (detected)\n✦ Tip: SSRF protection blocks private networks, loopback, link-local, and cloud metadata addresses."
+    },
+    {
+      "id": "308388093313",
+      "t": 13,
+      "content": "我只能说，牛逼，已经分不出ai和真人写小说了，"
+    },
+    {
+      "id": "p0z2aka",
+      "t": 14,
+      "content": "I let it make a screenmcp, now it have vision without using extra api."
+    },
+    {
+      "id": "311719159584",
+      "t": 15,
+      "content": "回复 @且听风吟哈哈 :是的，蹲一手官方座驾[脱单doge]"
+    },
+    {
+      "id": "308514736929",
+      "t": 0,
+      "content": "深度求索就是后训练的goat，GA比preview强不知道哪去了"
+    },
+    {
+      "id": "308582677585",
+      "t": 0,
+      "content": "codex 446亿token只花了2000块"
+    },
+    {
+      "id": "2083236608917078117",
+      "t": 16,
+      "content": "@deepseek_ai the best, no doubt, the quantity of projects i made with hermes and flash v4 is impressive, the price and the performance who delivers is top, rigth now for me no other have this quality-price in the market."
+    },
+    {
+      "id": "2083097043782803664",
+      "t": 16,
+      "content": "@deepseek_ai https://t.co/dj9dCMV9vi"
+    },
+    {
+      "id": "311678728160",
+      "t": 17,
+      "content": "等pro正式版，flash正式版文本提升有限，毕竟只有300b参数不到"
+    },
+    {
+      "id": "6a6d713e0000000015010975",
+      "t": 9,
+      "content": "基本不要钱是多少钱？"
+    },
+    {
+      "id": "7668911744648135459",
+      "t": 18,
+      "content": "qoder配合deepseek咋样，我感觉reasonix可慢了不知道咋回事"
+    },
+    {
+      "id": "308443610337",
+      "t": 11,
+      "content": "就是想回到gpt软件初始的模式，但是我这边哪怕重删了，下载也依旧是codex"
+    },
+    {
+      "id": "311705450032",
+      "t": 3,
+      "content": "kimi k3和fable都是超级agent集群＋全模态，纯文本的deepseek其实还没有可以掰手腕的可比性。"
+    },
+    {
+      "id": "308587112145",
+      "t": 12,
+      "content": "回复 @虚幻仙贝 :我说的是“更有参考性”"
+    },
+    {
+      "id": "308389149713",
+      "t": 17,
+      "content": "请问之前的API需要重新弄吗"
+    },
+    {
+      "id": "308418796833",
+      "t": 19,
+      "content": "太贵，模型能力也没啥差别"
+    },
+    {
+      "id": "308375947105",
+      "t": 13,
+      "content": "回复 @孟长冬 :我看智谱就已经到斩杀线了[笑哭]"
+    },
+    {
+      "id": "311845889280",
+      "t": 20,
+      "content": "回复 @玄凌子 :厉害[笑哭]"
+    },
+    {
+      "id": "311705540000",
+      "t": 21,
+      "content": "只有相比v4 flash预览版，快了三分之二"
+    },
+    {
+      "id": "7668844781220741897",
+      "t": 4,
+      "content": "目前flash，等pro正式版出"
+    },
+    {
+      "id": "311888603968",
+      "t": 22,
+      "content": "那我用了一个多月的都是预览版吗，还有pro"
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "items": [
+    {
+      "id": "308434034033",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability",
+        "quality",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "嫌模型不好用、返工多，宁愿付费使用其他方案。"
+    },
+    {
+      "id": "311738213360",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "以粉丝声明模板玩梗，表面明确拥护DeepSeek。"
+    },
+    {
+      "id": "308615313377",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "用“诗人”调侃提示词写法，赞赏程度有歧义。"
+    },
+    {
+      "id": "p10pnfj",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "印尼语询问如何尝试使用DeepSeek。"
+    },
+    {
+      "id": "308365770321",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "以“大赢鲸”昵称明确称赞模型厉害。"
+    },
+    {
+      "id": "2083108585350037946",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.7,
+      "reason": "赞叹更小模型部分跑分胜过GLM，并告知接入信息。"
+    },
+    {
+      "id": "311638181360",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "price",
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0.4,
+      "reason": "认可K3与DS搭配，也明确表达此前能力差距带来的失落。"
+    },
+    {
+      "id": "311683956064",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "建议需要思考的任务使用sol，隐含能力认可。"
+    },
+    {
+      "id": "7668854290463474490",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "质疑对方判断，以Agent能力全面超越GLM反驳。"
+    },
+    {
+      "id": "7669003766875767609",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨K3套餐额度消耗快，并与GPT费用比较。"
+    },
+    {
+      "id": "7668814778213679921",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "认可模型性价比，同时不满对方仍提出意见。"
+    },
+    {
+      "id": "308424000097",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测内测图像模型属于下一代，未表达明显褒贬。"
+    },
+    {
+      "id": "p0wxj71",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "“你想得美”否定标题预言，是否评价模型本身有歧义。"
+    },
+    {
+      "id": "308450156865",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述跨境网络访问情况，是否指AI服务不明确。"
+    },
+    {
+      "id": "311822371456",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "询问接入后“破甲”失效原因，具体含义未说明。"
+    },
+    {
+      "id": "2083441369138581601",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "语境中疑将Anthropic写成Anthropology，戏称其完蛋。"
+    },
+    {
+      "id": "311899239952",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问切换连接方式后是否保留列表与窗口信息。"
+    },
+    {
+      "id": "p13jdo0",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "suggestion"
+      ],
+      "a": [
+        "content",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "批评俄罗斯方块测试过于简单，要求测试更复杂任务。"
+    },
+    {
+      "id": "308465812113",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "content"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "推测榜单只能衡量基本能力，难以覆盖知识量。"
+    },
+    {
+      "id": "7669329834843161403",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "service",
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "盛赞低价充足额度带来接近GLM5.2的体验。"
+    },
+    {
+      "id": "p135313",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认可多个中国模型，并判断企业也会采用。"
+    },
+    {
+      "id": "311721240704",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "求助配置后Codex仍要求登录的问题。"
+    },
+    {
+      "id": "6a6d87cf0000000029019b8d",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "表示实测符合图片，但图片缺失，无法确定具体对象。"
+    },
+    {
+      "id": "311766013056",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃梁文锋玩原神，未明确讨论模型或使用。"
+    },
+    {
+      "id": "311731657856",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "将问题归因于对方不会使用，带有人身指责语气。"
+    },
+    {
+      "id": "308349961713",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合接入教程，建议删除配置中的“1m”。"
+    },
+    {
+      "id": "7668929368488657715",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "肯定模型价格便宜且进步快。"
+    },
+    {
+      "id": "311891895056",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "追问消息来源，缺少被回复内容，无法确认AI相关性。"
+    },
+    {
+      "id": "7669084670248764209",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "在模型讨论中询问OCR概念。"
+    },
+    {
+      "id": "308577748513",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "评价s001难度，标题暗示测试题但具体指代不明。"
+    },
+    {
+      "id": "308347421921",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "判断27B模型在手机及未来笔记本上的部署可行性。"
+    },
+    {
+      "id": "308440379873",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.2,
+      "reason": "担心新Claude账号关联旧GitHub后也被封禁。"
+    },
+    {
+      "id": "308612748449",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "correction"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "用大小鲸玩梗区分模型，并表示仍在等更大版本。"
+    },
+    {
+      "id": "7669013437834478373",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "usability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "建议以智能体和技能配合DeepSeek，赞叹成本低。"
+    },
+    {
+      "id": "311766964608",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "content",
+        "trust"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "认为当前测评偏娱乐，严谨结论需大量测试。"
+    },
+    {
+      "id": "308430946865",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "质疑卡顿解释，并推测是网站渲染问题。"
+    },
+    {
+      "id": "7669389659348190015",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "请求分享生成作品所用提示词。"
+    },
+    {
+      "id": "308409827457",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "提示对方可能说的是Pro版本，具体上下文缺失。"
+    },
+    {
+      "id": "2083684305835119007",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "请求Cursor接入指定DeepSeek版本。"
+    },
+    {
+      "id": "6a6e60e1000000000403b9cf",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "由图片联想到北斗神拳并自嘲年龄，与AI无关。"
+    }
+  ]
+}

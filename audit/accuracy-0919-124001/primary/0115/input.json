@@ -1,0 +1,235 @@
+{
+  "topics": [
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "深聊DS新版V4 Flash:现在的后训练太权威了",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "Deepseek v4 flash 0731",
+    "deepseekV4Flash正式版上线并针对适配Codex",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "@yutakashino 企業は\nDeepSeek-V4-Flash-0731，ローカルの2x DGX Sparkで動かせばよいということでしょうか",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "DeepSeek V4-Flash 0731 made previously working prompts fail.",
+    "卧槽，DSv4-flash初步AA跑分50-51",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "DeepSeek V4 flash final release",
+    "Deepseek V4 flash正式版可以直接接入Codex",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "要被外网的一些评论笑死了😂😂😂",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！"
+  ],
+  "comments": [
+    {
+      "id": "308390651905",
+      "t": 0,
+      "content": "求问，手机平板端目前可以用chatbox接api使用这个flash版本吗"
+    },
+    {
+      "id": "6a6d3eb800000000150050d6",
+      "t": 1,
+      "content": "你是想说long horizon rl是吧，这个其实和时间rl infra上面的很多新工作有关吧，毕竟long horizon始终要解决异步和off policy的问题。"
+    },
+    {
+      "id": "308581881073",
+      "t": 2,
+      "content": "只能看glm5.5咋样了"
+    },
+    {
+      "id": "2083085620688413103",
+      "t": 3,
+      "content": "@deepseek_ai 为什么是0731？"
+    },
+    {
+      "id": "311912296400",
+      "t": 4,
+      "content": "一天花100都不是问题"
+    },
+    {
+      "id": "308357983377",
+      "t": 0,
+      "content": "我在评论区再补充一下吧，其实 UP 主介绍的这个 Cherry Studio 工具可以接入 Codex、Cloud，还，反正主流工具的命令行工具都，开发者命令行工具都可以接入。"
+    },
+    {
+      "id": "311700843648",
+      "t": 5,
+      "content": "回复 @情比心坚丶 :并不是杂事，眼睛是认知世界的窗户，做好多模态对agi有非凡意义。而且梁一直想做的，只是确实做不好而已。不过最近在灰度识图模式了"
+    },
+    {
+      "id": "311856505296",
+      "t": 6,
+      "content": "嗯，首先你要有钱买一台性能不错的电脑，然后的话，你要有钱去参加一些各种各样的培训，或者你自学也可以，但是你要有钱去买一些硬件，就是那种各种各类的硬件开发板，你可能说那我直接学软件不就行了呗，不做硬件相关的开发，但现在硬件和软件都是有很大的关联的，也就是说，除了学费之外，你还要就是准备1到2万，来去买一些，就是学习上配套的东西，假如你不买的话，那你就很难能学到一些真正的东西"
+    },
+    {
+      "id": "308471651649",
+      "t": 7,
+      "content": "回复 @叮当爱嫣媛 :sglang＋乌班图系统 性能会好不少"
+    },
+    {
+      "id": "311835067632",
+      "t": 8,
+      "content": "用的中转站的luna延迟比较大，我还是用ds快一点"
+    },
+    {
+      "id": "6a6ea53c000000002a024061",
+      "t": 9,
+      "content": "[笑哭R]这种问题我压根就不会交给它，你说的这都算复杂的了，要是交给它嘴皮子不得磨破了"
+    },
+    {
+      "id": "6a6d16af000000002a0041b7",
+      "t": 10,
+      "content": "接cc我试了，能力非常强"
+    },
+    {
+      "id": "308465864401",
+      "t": 6,
+      "content": "up用什么平台调用API的？"
+    },
+    {
+      "id": "7669015820693881626",
+      "t": 11,
+      "content": "七月份ds充值的有点多了 希望八月高抬贵手[宕机]"
+    },
+    {
+      "id": "308605160913",
+      "t": 4,
+      "content": "回复 @平凡的木林羊cc通吃 :你们TM都憋杠了，api调用如果只用ds，\n只用一家供应商直接无脑选官方API，\n如果说除了本地部署模型还有其他用途\n需要高算力的情况下\n就整硬件配本地部署，\n这一圈评论区看下来感觉自己都要降智了"
+    },
+    {
+      "id": "2083670434235793713",
+      "t": 12,
+      "content": "@yutakashino 企業は\nDeepSeek-V4-Flash-0731，ローカルの2x DGX Sparkで動かせばよいということでしょうか"
+    },
+    {
+      "id": "311774981056",
+      "t": 7,
+      "content": "第三方应该有了已经，但是尽量能用原版用原版吧。"
+    },
+    {
+      "id": "308446109153",
+      "t": 13,
+      "content": "跑赢了没奖励，跑输了有惩罚[笑哭]"
+    },
+    {
+      "id": "p107u5e",
+      "t": 14,
+      "content": "I mean I had like, a couple of responses with filters but a reroll worked both times."
+    },
+    {
+      "id": "6a6d00a4000000002a02d432",
+      "t": 15,
+      "content": "哈基米flash小的好像在500B左右吧[笑哭R]，pro我记得2t+？"
+    },
+    {
+      "id": "308530272449",
+      "t": 16,
+      "content": "回复 @困梦的杂物间 :歪打正着也是着了[doge]"
+    },
+    {
+      "id": "311633875568",
+      "t": 17,
+      "content": "求个提示词[打call]"
+    },
+    {
+      "id": "308462438145",
+      "t": 18,
+      "content": "问这俩问题花了一毛二，最后按它提示也没找到[笑哭]"
+    },
+    {
+      "id": "p0tsuy5",
+      "t": 19,
+      "content": "It will not beat GLM's legacy V1 coding max plan for sure for those who still have it active. V2 and recent pricing updated - yes, looks like GLM be looking bad :)"
+    },
+    {
+      "id": "6a6d5818000000002a004eb0",
+      "t": 20,
+      "content": "假如我用codex规划项目写prompt，然后换harness用DeepSeek写代码最后再codex审阅，这样就相当于拿DeepSeek的输入换codex的输出是吗？便宜肯定是便宜很多的，如果我用ccswitch在codex里换DeepSeek的模型，能吃到缓存吗"
+    },
+    {
+      "id": "308366319009",
+      "t": 5,
+      "content": "pro估计很快就发布"
+    },
+    {
+      "id": "308498610081",
+      "t": 21,
+      "content": "CC Switch里面更改deepseek设置，将上游选项改成reponser原生设置"
+    },
+    {
+      "id": "p0yznit",
+      "t": 22,
+      "content": "Why would APPL be on that list?"
+    },
+    {
+      "id": "6a6dab830000000029034c50",
+      "t": 23,
+      "content": "来回切换那个聊天记录怎么办啊？"
+    },
+    {
+      "id": "311842613440",
+      "t": 8,
+      "content": "0.02私信一下谢谢"
+    },
+    {
+      "id": "308464819425",
+      "t": 24,
+      "content": "cc还能切换嘞"
+    },
+    {
+      "id": "6a6d7027000000000802ff66",
+      "t": 25,
+      "content": "具体新模型可以干什么"
+    },
+    {
+      "id": "308490849489",
+      "t": 26,
+      "content": "我自己测的感觉指令遵循性没5.2好"
+    },
+    {
+      "id": "311690628336",
+      "t": 18,
+      "content": "Error starting chat\n\nfailed to resolve feature override precedence: failed to parse model_catalog_json path `C:\\Users\\Administrator\\.codex\\models.json` as JSON: unknown variant `max`, expected one of `none`, `minimal`, `low`, `medium`, `high`, `xhigh` at line 44 column 25"
+    },
+    {
+      "id": "311717632016",
+      "t": 6,
+      "content": "编程测下来比 Luna 要好，但没有多模态，是一个瞎子，美术能力可能不尽人意。"
+    },
+    {
+      "id": "6a6e1878000000002a024bce",
+      "t": 27,
+      "content": "倒角问题：如果是台阶，倒角容易滑倒，不安全。如果是和地面齐平，倒角会形成缝隙。所以倒角是错误的！其他你也说反了，建议你学学工程常规知识！"
+    },
+    {
+      "id": "308624014577",
+      "t": 28,
+      "content": "回复 @Hex5812 :但官方文档里面显示pro是两档，flash是三档，codex里面缺了flash的第三档，claudecode好像没问题。\nhttps://api-docs.deepseek.com/zh-cn/guides/thinking_mode/"
+    },
+    {
+      "id": "311810502688",
+      "t": 26,
+      "content": "前天用的露娜还能用，今天去成啥了"
+    },
+    {
+      "id": "311891651824",
+      "t": 6,
+      "content": "回复 @早字是我刻的 :我以为这个也是AI写的[笑哭]"
+    },
+    {
+      "id": "7669108288127107886",
+      "t": 11,
+      "content": "看那20个网站就知道了，对普通开发者够用了[看]"
+    }
+  ]
+}

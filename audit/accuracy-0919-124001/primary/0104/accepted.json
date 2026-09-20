@@ -1,0 +1,799 @@
+{
+  "items": [
+    {
+      "id": "7668704874889102120",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "明确表示只能将就用、体验不好。"
+    },
+    {
+      "id": "308429529761",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "quality"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "赞扬硬件描述语言与流程优势，是否涉及AI不明。"
+    },
+    {
+      "id": "6a6c5b4f0000000015009bd0",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "讽刺话术更新，可能针对模型宣传或作者表达。"
+    },
+    {
+      "id": "7669112951890658090",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "disagreement"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "认为该模型与K3不在同一等级，比较中贬低它。"
+    },
+    {
+      "id": "7668708593340629818",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "明确评价接入Codex仍不好用。"
+    },
+    {
+      "id": "308510864721",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述将拥有自己的Agent，未明确表达褒贬。"
+    },
+    {
+      "id": "308606293633",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明需要路由并分享已接入Copilot的状态。"
+    },
+    {
+      "id": "308337231553",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正版本归属，并说明直接询问无法确认。"
+    },
+    {
+      "id": "7669378251693294336",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance",
+        "reliability",
+        "price"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "描述长时间无结果和耗费Token，求解释异常。"
+    },
+    {
+      "id": "7668969299936363298",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "抱怨生成小程序反复出错且无法运行。"
+    },
+    {
+      "id": "6a6d804e000000002a026f27",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "将贡献归于散户，具体贡献对象缺失。"
+    },
+    {
+      "id": "311755549072",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "介绍公益站及其限制批量注册的措施。"
+    },
+    {
+      "id": "7668991950843183881",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明幻觉可降低但普遍存在，未明显褒贬。"
+    },
+    {
+      "id": "p0x54c8",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认为达到Sonnet水平已足够满足需求。"
+    },
+    {
+      "id": "308372868833",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正DS能生成视频的误解并指向Seedance。"
+    },
+    {
+      "id": "6a6c5a950000000015007b76",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "围绕角色与DeepSeek玩梗，未讨论模型使用表现。"
+    },
+    {
+      "id": "2083247885429399892",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "trust"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问基准提升是否使用相同工具预算和框架。"
+    },
+    {
+      "id": "311632085776",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "询问应用更新时间，体现等待更新。"
+    },
+    {
+      "id": "311668594464",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement",
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "赞同包月体验，称自主开发软件打开新世界。"
+    },
+    {
+      "id": "308506653569",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释视频时间点安排，未涉及模型评价。"
+    },
+    {
+      "id": "7669160340684587795",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问未来的具体时间，缺少所指事件。"
+    },
+    {
+      "id": "7668900389370839823",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "请求推荐模型中转站。"
+    },
+    {
+      "id": "311731193792",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "喜欢作者的发音，未评价模型或其使用。"
+    },
+    {
+      "id": "6a6cb8f300000000150045cf",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "用降智和偷笑调侃智谱的能力表现。"
+    },
+    {
+      "id": "6a6cd407000000001403ad90",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问后训练诀窍是否为使用Agent类数据。"
+    },
+    {
+      "id": "p186kr4",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "positive"
+      ],
+      "i": [
+        "complaint",
+        "praise"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": null,
+      "reason": "速度让人想哭，偏向抱怨，但也可能夸张赞叹。"
+    },
+    {
+      "id": "p11to6r",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "performance",
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "介绍本地部署配置，肯定低成本及运行表现。"
+    },
+    {
+      "id": "311732803168",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price",
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "将Token费用与股市损失关联，调侃并埋怨量化。"
+    },
+    {
+      "id": "7669035194234700596",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明自身只有日常办公需求，无明显评价。"
+    },
+    {
+      "id": "311725051184",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明发布初期参考跑分及官方测试框架。"
+    },
+    {
+      "id": "7669140535059858191",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "结合标题分享逆向游戏的使用成果，语气满意。"
+    },
+    {
+      "id": "7669359926326772526",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合标题请求教授AI制作视频的方法。"
+    },
+    {
+      "id": "7669024560452272896",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "presentation",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "肯定讲解并称赞Kimi与DS的架构及训练提升。"
+    },
+    {
+      "id": "2083884781557928316",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other",
+        "suggestion"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "对涨势表示兴奋，可能指模型提升或投资行情。"
+    },
+    {
+      "id": "7669300892790014769",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述缓存价格变化及生效日期，推测时间。"
+    },
+    {
+      "id": "308419619761",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释API接入无需账号登录与手机号的流程。"
+    },
+    {
+      "id": "308344275937",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.1,
+      "reason": "带玩笑意味反问是否确定，缺失被质疑内容。"
+    },
+    {
+      "id": "308501297073",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "service"
+      ],
+      "e": [
+        "认可",
+        "愤怒"
+      ],
+      "score": 0.1,
+      "reason": "肯定模型能力、价格与账号体验，同时斥责对方。"
+    },
+    {
+      "id": "311917841488",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "表示也够并附爱心，但具体认可对象不明。"
+    },
+    {
+      "id": "308400240865",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.1,
+      "reason": "自嘲未注册账户的操作疏漏，具体产品不明。"
+    }
+  ]
+}

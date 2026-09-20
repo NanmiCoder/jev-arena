@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash IQ2_M 0731 (92 GB) on a mid range Android mobile with 12 GB of RAM at 1 token/s",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "DeepSeek V4 Flash接入Codex教程（可识图）",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "@op7418 素材库这步蛮 PM 视角的，把 AI 生成物从散落文件夹里的实验产物拉成可搜可标签的资产，之前 GPT-Image 出的图我永远找不到，救命。Deepseek V4 Flash 0731 可调推理强度那个想蹲个实测感受",
+    "DeepSeek-V4-Flash-High",
+    "With release of Deepseek V4 I wanted see how the model sizes are trending over time. Open source models are constantly getting smaller and better. The trend is that by this time next year, we probably",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "DeepSeek V4 Flash GA ranks the same as Sonnet 5 and Grok 4.5 on DeepSWE",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "Best route to use Deepseek V4 Flash 0731?",
+    "DeepSeek-V4-Flash-0731 is now over 2x faster than yesterday on Ollama's cloud!",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "Deepseek V4-flash正式版实测",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "⚠️ Note\n\n🔷 DeepSeek-V4-Flash-0731 keeps the exact same model architecture and size as the preview version.\n🔷 Today's upgrade applies ONLY to the DeepSeek-V4-Flash API. The DeepSeek-V4-Pro API and Ap",
+    "【实测】DeepSeekV4正式版双机DGX真香"
+  ],
+  "comments": [
+    {
+      "id": "p1880lf",
+      "t": 0,
+      "content": "With this rate, spending 1.5 second in a token like a comma feels “use the cave language”."
+    },
+    {
+      "id": "311727857008",
+      "t": 1,
+      "content": "单看效果来说v4flash编程上我觉得并不是很好，但是因为参数量小在同样参数的模型下还是非常出色的，比预览版提升很大，期待pro版本。还有就是多模态方面，在一些代码任务上面能加入识图还挺重要的，如果能识图的话会更好"
+    },
+    {
+      "id": "311739179552",
+      "t": 2,
+      "content": "16➕512的内存，M5的芯片，建议接入吗"
+    },
+    {
+      "id": "7668984186423198523",
+      "t": 3,
+      "content": "时不时整顿下模型界"
+    },
+    {
+      "id": "p13vj10",
+      "t": 4,
+      "content": "Lol, they cut Luna prices 80% and there's someone complaing\n\nYou guys have really nothing better to do??"
+    },
+    {
+      "id": "308475871857",
+      "t": 1,
+      "content": "我记得得调模型的温度才比较好发散思维，但是app端没这个功能"
+    },
+    {
+      "id": "6a6e1e85000000002b0269f3",
+      "t": 5,
+      "content": "最新版的codex识别模型是deepseek，会话就直接不让粘贴图片了，提示不支持图片…所以目前配了识图skill也没用"
+    },
+    {
+      "id": "308424460481",
+      "t": 1,
+      "content": "我这也是，就非常努力的感觉[大哭]"
+    },
+    {
+      "id": "311730670464",
+      "t": 6,
+      "content": "回复 @蜻蜓点水-涟漪无边 :在你梦里涨的吗[笑哭]"
+    },
+    {
+      "id": "2083903675639222712",
+      "t": 7,
+      "content": "@op7418 素材库这步蛮 PM 视角的，把 AI 生成物从散落文件夹里的实验产物拉成可搜可标签的资产，之前 GPT-Image 出的图我永远找不到，救命。Deepseek V4 Flash 0731 可调推理强度那个想蹲个实测感受"
+    },
+    {
+      "id": "6a6d94b600000000040385fc",
+      "t": 8,
+      "content": "Flash都这么强[偷笑R]"
+    },
+    {
+      "id": "p0x2a6x",
+      "t": 9,
+      "content": "By then, Opus 4.5 would be viewed as an unusable toaster, much like Opus 3 (or more acutely, gpt-oss-120b) these days."
+    },
+    {
+      "id": "7668969281665237800",
+      "t": 10,
+      "content": "我3亿token缓存命中99.75"
+    },
+    {
+      "id": "311730068448",
+      "t": 11,
+      "content": "https://mp.weixin.qq.com/s/L1ysvcErLfkU45zGV-Rfgg，up可以测测这几个例子，然后发个视频，这几个还是比较能检测能力的，也可以看下这个公众号博主以前的测试用例，他的比较纯正一点[打call][打call]"
+    },
+    {
+      "id": "p10h9o8",
+      "t": 12,
+      "content": "good fucking day to use opencode"
+    },
+    {
+      "id": "7668701346144535338",
+      "t": 13,
+      "content": "[捂脸]文科生吗"
+    },
+    {
+      "id": "311704788896",
+      "t": 1,
+      "content": "pro会更强的哈 天差地别[doge]"
+    },
+    {
+      "id": "311715239536",
+      "t": 14,
+      "content": "依旧亿万鲸子猛吸蓝梁，万里之外核弹爆炸[doge]"
+    },
+    {
+      "id": "311725097776",
+      "t": 14,
+      "content": "我看flash也不行啊，我用cherrystudio测也比不过k3和Codex上的GPT啊[星星眼]"
+    },
+    {
+      "id": "308477507537",
+      "t": 15,
+      "content": "《我同事写的bug》《我写的bug》"
+    },
+    {
+      "id": "2083100152839999678",
+      "t": 16,
+      "content": "@deepseek_ai @TheZachMueller this is massiv! I really hope one day vision will be supported as well"
+    },
+    {
+      "id": "2083110082548555937",
+      "t": 16,
+      "content": "@deepseek_ai Well done.Waiting the harness https://t.co/NEVtWLgdn0"
+    },
+    {
+      "id": "p14p5w4",
+      "t": 17,
+      "content": "I’ve been investigating the same. I plugged deepseek from openrouter into Claude code harness. Local on 2x 3090 should have decent performance, youll need 64gb of ram to run the full model tho (maybe 128?)"
+    },
+    {
+      "id": "2083717242613641241",
+      "t": 18,
+      "content": "@ollama @grok how many tokens/s?"
+    },
+    {
+      "id": "311911211056",
+      "t": 15,
+      "content": "回复 @水月泠音 :和架构以及层数有关系，看社区里昇腾A2的机子开dspark差不多80tok/s，我用V100旧卡gguf不带mtp硬跑就只有20tps，都开上估计也差不多。300有点恐怖了呀。"
+    },
+    {
+      "id": "2083688435299274911",
+      "t": 18,
+      "content": "@ollama Did you use Astra for that inference improvement? 🤭"
+    },
+    {
+      "id": "311800232112",
+      "t": 19,
+      "content": "很多agent软件会写死提示词，写了自己是什么模型，怎么问都一样，但是可以让Agent自己去检查软件全部文件，就能查出来这个提示词在哪写了是什么大模型的"
+    },
+    {
+      "id": "7669357633056998186",
+      "t": 13,
+      "content": "我看有一个博主他让智谱5.2，ds，5.6Lunar ，他们三个去修改屎山代码，那个GPT慢的离谱[杀马特]时间要比其他人多一倍多甚至改两个小时"
+    },
+    {
+      "id": "311660836752",
+      "t": 20,
+      "content": "回复 @毒饭不是饭 :感觉我ds经常不读预设不知道啥原因"
+    },
+    {
+      "id": "308393304513",
+      "t": 21,
+      "content": "回复 @快让我来评评理 :这只是两个视频的内容而已，相关测试视频b站上还有很多，你可以自己去搜的"
+    },
+    {
+      "id": "6a6dbd19000000002902f8b5",
+      "t": 22,
+      "content": "官网说适配了ccodex，codex会不会更好点？"
+    },
+    {
+      "id": "7668960216125932328",
+      "t": 3,
+      "content": "《如果你愿意》、《稳稳接住》"
+    },
+    {
+      "id": "311653154912",
+      "t": 23,
+      "content": "回复 @公子-苏扶 :恐怖如斯，后训练仙人"
+    },
+    {
+      "id": "311844319136",
+      "t": 24,
+      "content": "回复 @arafat5549 :只是说，大家对于AI的要求越来越高了[笑哭][笑哭][笑哭]"
+    },
+    {
+      "id": "308490252465",
+      "t": 14,
+      "content": "这几天多半都不会更新"
+    },
+    {
+      "id": "311802115744",
+      "t": 15,
+      "content": "这bug 都是些什么bug,网上有答案吗"
+    },
+    {
+      "id": "2083254063202796007",
+      "t": 25,
+      "content": "@deepseek_ai Please just make sure v4-pro does not get hit with the agentic-optimised slop bat, too."
+    },
+    {
+      "id": "2083262139800649879",
+      "t": 16,
+      "content": "@deepseek_ai Runs solid in Skales 🦎"
+    },
+    {
+      "id": "311794832944",
+      "t": 26,
+      "content": "回复 @规则 : 你的意思是华为拿着 7nm 的 duv 能做出和英伟达一样 3nm+cuda 的效果？还在这不是做不出来，华为知道自己这么牛逼吗。\n还有价格，梁文锋自己说“价格肯定要贵，但贵的有限……甚至贵 200%也无所谓”也就是说再贵也就贵三倍，你所谓的最低三倍又是哪来的信源。\n更何况不是美国自己先发布《ai 扩散暂行最终规则》禁售英伟达高端算力卡，怎么还倒打一耙说是我们制裁。"
+    },
+    {
+      "id": "7668910007211574062",
+      "t": 3,
+      "content": "电脑太垃圾了，开不了几个线程，每天就赚个半k，还不稳定，没意思，不如考研，这个只能当副业不能当主业。"
+    }
+  ]
+}

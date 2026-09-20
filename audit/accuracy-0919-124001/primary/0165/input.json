@@ -1,0 +1,232 @@
+{
+  "topics": [
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "要被外网的一些评论笑死了😂😂😂",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "V4 flash vs V4 Flash (0731). Guys, new DeepSeek V4 Flash(0731) is now free on InferX",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "深聊DS新版V4 Flash:现在的后训练太权威了",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek-V4-Flash-0731 is now over 2x faster than yesterday on Ollama's cloud!",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "Deepseek V4 flash open sourced! Frontier model of performance while you run it locally!",
+    "卧槽，DSv4-flash初步AA跑分50-51"
+  ],
+  "comments": [
+    {
+      "id": "6a6e8e58000000002b02532f",
+      "t": 0,
+      "content": "我们只赚合理的利润[doge]缺钱了我就使劲拿"
+    },
+    {
+      "id": "311652341616",
+      "t": 1,
+      "content": "GPT有专门做数学这一块能力的强化"
+    },
+    {
+      "id": "308337434017",
+      "t": 2,
+      "content": "还是不是多模态吗？"
+    },
+    {
+      "id": "7668868262771409713",
+      "t": 3,
+      "content": "显存带宽不一样"
+    },
+    {
+      "id": "311805060864",
+      "t": 4,
+      "content": "回复 @怜昕_ :算了，不管了，到时候我high和max都跑一遍"
+    },
+    {
+      "id": "6a6d7e760000000004039aaf",
+      "t": 5,
+      "content": "？？？这哪是小布什"
+    },
+    {
+      "id": "311699795760",
+      "t": 6,
+      "content": "官方大概率也是cli，不太会做桌面端"
+    },
+    {
+      "id": "p0zql7g",
+      "t": 7,
+      "content": "They still dont have new DS v4 flash GA"
+    },
+    {
+      "id": "308508766577",
+      "t": 4,
+      "content": "你要知道deepseek V4 f 这个模型 那参数量只有200多b  如果真的想对比，都可以直接去看看M3,而且我认为这个模型表现还是不错的 但是就是因为参数量太小了所以约束能力等等还是很不在线说句人话就是脑容量太小了，考虑的并不是那么详细,所以还是得多引导，再加上那个价格我认为还是可以接受的,而且目前测试下来发挥也算是一种不稳定的选手 因为各家agent表现不一这其实是一种严重性的问题,毕竟应该拥有通用agent能力 否则的话那就很糟糕。这个参数量其实就注定他是生成不了什么超大型游戏主要还是在各家agent表现不一,期待一手Pro  或者专武,听别人说下周一会发布"
+    },
+    {
+      "id": "308419241217",
+      "t": 8,
+      "content": "回复 @海绵宝宝zzz了 :直接插件里面搜"
+    },
+    {
+      "id": "6a6c910e0000000015009791",
+      "t": 9,
+      "content": "我也发现诀窍了，确实提升很大，小模型提升到GLM5.2水平完全可能"
+    },
+    {
+      "id": "311718031920",
+      "t": 8,
+      "content": "我怎么每天都20块左右，快用不起了"
+    },
+    {
+      "id": "308366885393",
+      "t": 10,
+      "content": "回复 @棍之勇者复仇路 :你多问一会，待会他就承认自己是glm5.2了"
+    },
+    {
+      "id": "7668936166167921448",
+      "t": 11,
+      "content": "@卡卡kkka @加冰米饭o!O @橘外人kwok @🌈鸡哥保佑我 终于发布正式版了可以暂时停止给梁叔选饮料了"
+    },
+    {
+      "id": "308586792385",
+      "t": 12,
+      "content": "大量使用过5.2和v4p预览，感觉差不多，后者命中率更高更省"
+    },
+    {
+      "id": "311704302000",
+      "t": 13,
+      "content": "回复 @LIUBGE4754 :小小的也很可愛 [给心心]"
+    },
+    {
+      "id": "7668667042031960869",
+      "t": 14,
+      "content": "卡牌的提示词，能否发出来瞅瞅？"
+    },
+    {
+      "id": "6a6d4c83000000000802d72d",
+      "t": 5,
+      "content": "flash？"
+    },
+    {
+      "id": "p13dxht",
+      "t": 15,
+      "content": "Deepseek V4 Flash is a beast, good to be the main coding daily driver. I already incorporated it into Agent Zero using the API and it can work for an hour non stop if given a proper prompt and harness, does not make any mistakes that I've seen so far - I'm using it in a test repo so far. And yes, it's cheap. \n\nAlthough I'm not going to lie and join the bandwagon here because Sol 5.6 ULTRA and Fable still have their places, and yes even all three would make quite a team, as Fable the product manager, Sol 5.6 the orchestrator using DeepSeek V4 flash as subagents team of engineers.\n\nBut yeah, this is a HUGE win for open weights because nobody wants to pay for Fable and Sol 5.6 is literally only useful on a 20x plan."
+    },
+    {
+      "id": "6a6d88e4000000002a025987",
+      "t": 5,
+      "content": "美国怎么不禁啊"
+    },
+    {
+      "id": "2083341459533562226",
+      "t": 16,
+      "content": "@deepseek_ai Dario's crashout after they DeepSeek-V4-Flash dangerously matches performance close to Opus 4.8 https://t.co/CyMYFhrGhm"
+    },
+    {
+      "id": "308458437649",
+      "t": 17,
+      "content": "不用充，直接web版gpt白嫖，然后具体用ds"
+    },
+    {
+      "id": "308400760961",
+      "t": 18,
+      "content": "cc switch 这个东西相当于自动帮你把 codex claude code 需要的配置文件内容帮你写进去了你只需要粘一个 key 进去就行了"
+    },
+    {
+      "id": "311730093664",
+      "t": 19,
+      "content": "老哥能否测试一下 v4f preview max 和 v4f 0731 high 的性能区别？ 这俩prompt是一致的"
+    },
+    {
+      "id": "308492646961",
+      "t": 19,
+      "content": "回复 @阳春三月遍地花 :可以跑122b a10b"
+    },
+    {
+      "id": "2083748062061556169",
+      "t": 20,
+      "content": "@ollama Is available in Free plan?"
+    },
+    {
+      "id": "7669106617811698472",
+      "t": 21,
+      "content": "开启路由就好了"
+    },
+    {
+      "id": "7668883529102934841",
+      "t": 11,
+      "content": "打赢没奖励打输有惩罚[捂脸]"
+    },
+    {
+      "id": "308551292161",
+      "t": 22,
+      "content": "UP能不能对比下不同agent的能力？比如都用DP V4F正式版"
+    },
+    {
+      "id": "6a6d95d4000000002100e52b",
+      "t": 5,
+      "content": "构图，这是ai生成的，我是说这张图用那个改的，可能用词不准确"
+    },
+    {
+      "id": "311811425344",
+      "t": 19,
+      "content": "回复 @洛樱、 : 是啊，但是预算有限就是这样……"
+    },
+    {
+      "id": "308388137249",
+      "t": 17,
+      "content": "回复 @烽域 :其实你就区分一下，它是通过agent工具理解了图片，还是直接读取了图片，就明白了"
+    },
+    {
+      "id": "311723713344",
+      "t": 18,
+      "content": "可以接gpt的apikey 识图嘛，我是说切ds 但是已经订阅gpt"
+    },
+    {
+      "id": "311719175392",
+      "t": 23,
+      "content": "关掉他的路由就好"
+    },
+    {
+      "id": "p10s8te",
+      "t": 24,
+      "content": "this is awesome  \ni am so glad that this happened especially given the restriction that the US govt can place on Anthropic to not have their frontier models not be available to non US citizen\n\nWe (globally) need to have alternatives and options available in case the frontier models access is restricted and open sources is the best way to go about it"
+    },
+    {
+      "id": "6a6d86ac000000002a02f425",
+      "t": 0,
+      "content": "许愿pro多模态[哭惹R]"
+    },
+    {
+      "id": "7668873126747505462",
+      "t": 11,
+      "content": "与你说的这两点无关，我一直在后台监测命中率，新开项目的早期命中率仅有七八十，随着该项目推进，命中率能干到98-99，不信的话你可以监测后台"
+    },
+    {
+      "id": "7669065980585755432",
+      "t": 11,
+      "content": "肯定不是[捂脸]时间限定了近十年  那就是2016-2026年之间的某个人"
+    },
+    {
+      "id": "6a6cf0e0000000000d029800",
+      "t": 25,
+      "content": "flash很小吧，大的是pro"
+    },
+    {
+      "id": "7668722195971130139",
+      "t": 14,
+      "content": "恩情还不完了"
+    }
+  ]
+}

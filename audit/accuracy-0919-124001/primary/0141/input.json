@@ -1,0 +1,239 @@
+{
+  "topics": [
+    "The real reason 5.6 Luna became 5x cheaper",
+    "ds4純正DeepSeek V4 Flash 0731 GGUF！ for 128GB Mac and single DGX Spark",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "@alecqfong Please, run the new deepseek-v4-flash-0731. I am curious to see if the tps will remain the same.\n\nCan you also, run multiple concurrent requests at once? I want to know the maximum requests",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash接入Codex教程（可识图）",
+    "Weights of Deepseek v4 flash 0731 have been released!!!",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "Deepseek-v4-flash 正式版实测一天，真的强到 价格是真的便宜，速度也是我用过最快的，编程能力强到离谱，agent工具调用这块更是牛得不行。测了一整天，全程没一次想骂AI傻逼的冲动！#deepseek #agent #vibecoding",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek V4 Flash深度评测：实测排名前五，国产大模型的史诗级翻身之作！",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "在家跑deepseek v4 flash",
+    "Deepseek V4 Flash最新测评！Claude Code版",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek v4 flash 0731 still not holding up.",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "DeepSeek V4flash用SVG复刻梵高和画画",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek-V4-Flash Benchmarks"
+  ],
+  "comments": [
+    {
+      "id": "p13z9mn",
+      "t": 0,
+      "content": "Redditor finds out about free market dynamics"
+    },
+    {
+      "id": "2083347059818877144",
+      "t": 1,
+      "content": "これ最新で動かすとDGX Spark OOMで落ちます。MacはOK。\ngit checkput 519c4d8\nmake clean\nmake cuda-spark\nだと動きます。"
+    },
+    {
+      "id": "311672286896",
+      "t": 2,
+      "content": "token 效率真的高了非常非常多，思维链里“wait”“actually”开头的左右脑互搏少了，很稳很快"
+    },
+    {
+      "id": "311753123600",
+      "t": 2,
+      "content": "回复 @Orienma : 你上面已经出现第12个了"
+    },
+    {
+      "id": "2083696967394214068",
+      "t": 3,
+      "content": "@alecqfong Please, run the new deepseek-v4-flash-0731. I am curious to see if the tps will remain the same.\n\nCan you also, run multiple concurrent requests at once? I want to know the maximum requests or concurrency one can get out of such powerful machine while running deepseek v4flash."
+    },
+    {
+      "id": "311688613728",
+      "t": 4,
+      "content": "回复 @゚陈゚゚゚睿゚ : 看opencode zen的官方文档，在第三方工具配置里填baseurl，modelid和apikey"
+    },
+    {
+      "id": "6a6df28c00000000150084fb",
+      "t": 5,
+      "content": "同问，我也开着 CCswitch，还是一样的提示"
+    },
+    {
+      "id": "p0v323q",
+      "t": 6,
+      "content": "https://preview.redd.it/k7voh0ui7kgh1.jpeg?width=1073&format=pjpg&auto=webp&s=cff721322b76234f577fe73d3b4c281bf1dc9d34"
+    },
+    {
+      "id": "6a6d1f83000000002a026989",
+      "t": 7,
+      "content": "glm5.2要在zcode这个软件里用。我个人的用法是在gpt网页版分发任务和写提示词，然后丢给glm5.2做事，完了codex检查代码"
+    },
+    {
+      "id": "311780658768",
+      "t": 8,
+      "content": "昨晚看到一个人说不可能比glm52强，被骂惨了（其实我也没用过glm5.2，国内只用过kimi，但好歹据说是国内的第一梯队），昨晚就心血来潮用ds4f改了改我在pi coding agent的一个小拓展，感觉效果还挺一般的，最后还是让gpt出手了[保卫萝卜_哇]毕竟参数量在那"
+    },
+    {
+      "id": "7669297607391789865",
+      "t": 9,
+      "content": "kimi  怎么用d啊，没看到配置按钮"
+    },
+    {
+      "id": "2083473633243242971",
+      "t": 10,
+      "content": "@deepseek_ai V4-Flash正式公测，这波必须冲一波API"
+    },
+    {
+      "id": "308412899457",
+      "t": 11,
+      "content": "回复 @奕冰月 :嗷嗷谢谢🙏"
+    },
+    {
+      "id": "308349302609",
+      "t": 12,
+      "content": "你好，之前通过cc switch把 DeepSeek V4 Flash 预览版接入 Codex了，还需要重新配置吗？"
+    },
+    {
+      "id": "6a6e0558000000002901b85e",
+      "t": 13,
+      "content": "reasonix，但不知道有没linux版本"
+    },
+    {
+      "id": "7668731745811153713",
+      "t": 14,
+      "content": "测试及时[微笑]别的博主还想着明天呢。我就想知道这4个模型的表现[赞]"
+    },
+    {
+      "id": "311712925376",
+      "t": 15,
+      "content": "有深度使用过的吗？能说说费用情况吗"
+    },
+    {
+      "id": "311682012368",
+      "t": 16,
+      "content": "你用起来感觉如何？我感觉好像出错少了很多，之前用d4f写，总会有些忘记导入包、写错修饰词之类的问题，最近用那几下确实没有这些问题了，修复基本是一次过，但感觉样本量太少，怕是心理作用加凑巧[思考]"
+    },
+    {
+      "id": "311681768896",
+      "t": 17,
+      "content": "非多模态不到全球第一算炸单（不考虑后续gpt a/版本更新）。毕竟5倍参数量"
+    },
+    {
+      "id": "311818997456",
+      "t": 18,
+      "content": "雷子靠补贴得来的世界使用率第一马上要易主了[doge]。"
+    },
+    {
+      "id": "308387621425",
+      "t": 2,
+      "content": "不是 应该叫preview版"
+    },
+    {
+      "id": "308590465777",
+      "t": 19,
+      "content": "回复 @小白狼浪迹天涯 :输出速度怎么样呢？大概一秒多少token"
+    },
+    {
+      "id": "311748613536",
+      "t": 20,
+      "content": "回复 @wwszkty :神人[笑哭]"
+    },
+    {
+      "id": "7668936376994743049",
+      "t": 21,
+      "content": "你的命中率太低了吧[思考]"
+    },
+    {
+      "id": "6a6efe15000000002b001108",
+      "t": 22,
+      "content": "llama.cpp还有不支持的？gguf跑就完了呗[doge]"
+    },
+    {
+      "id": "6a6d61790000000014039903",
+      "t": 23,
+      "content": "直接上max得了[doge]一个flash模型[笑哭R]"
+    },
+    {
+      "id": "6a6e0be8000000002a032304",
+      "t": 24,
+      "content": "鲨臂，连deepseek都藏着掖着，不知道的还以为是套个deepseek壳的fable5呢，从免费到优速通到积分制，不断的挑战用户的忍耐度，真不知道自己几斤几两了"
+    },
+    {
+      "id": "7669051745910358818",
+      "t": 25,
+      "content": "参数容量不一样吧，flash是130亿，pro大得多了"
+    },
+    {
+      "id": "311929078768",
+      "t": 15,
+      "content": "正常，你看deepseek官方API文档说的，就是会出现这种现象"
+    },
+    {
+      "id": "p13vry2",
+      "t": 0,
+      "content": "Frankly, I don’t really care no offense. This is how competition and business goes, a competitor releases something higher quality or cheaper for the same quality or what have you, and the other company responds in kind in order to keep up. Framing this like it’s some sort of specific attack on Deepseek’s release is a little strange to me, OpenAI is far from the first and last lab that will do this exact thing, but I see where your coming from, I just think that way of viewing this, considering at the end of the day these two labs are rivals, is a bit naive to me. Why they do what they do doesn’t matter to me, what they do, and how it affects me/my wallet 100% does."
+    },
+    {
+      "id": "p13qdzv",
+      "t": 26,
+      "content": "I'm running it at 3 bit and the model isn't doing well at that quant, it is too lobotomized to be useful. What quant did you try? It's a decent model at full precision"
+    },
+    {
+      "id": "308437159633",
+      "t": 27,
+      "content": "回复 @毅拂霓裳 : 50个人里说这个模型好，只有你说不好，请问是模型问题还是你的问题？"
+    },
+    {
+      "id": "7668617993086272266",
+      "t": 28,
+      "content": "啊？全部比GLM5.2还高？"
+    },
+    {
+      "id": "6a6d6c140000000015003d94",
+      "t": 29,
+      "content": "我现在就去问问这个技术！"
+    },
+    {
+      "id": "308437127761",
+      "t": 27,
+      "content": "他们周末不上班，最起码也得等到周一再问吧。[笑哭]"
+    },
+    {
+      "id": "311774415184",
+      "t": 30,
+      "content": "回复 @黑米_XY :你可以理解为将你输入指令转化为token让模型开始思考的速度"
+    },
+    {
+      "id": "2083096443007672810",
+      "t": 10,
+      "content": "@deepseek_ai 声明：本人从未把梁文锋的头给PS到脉动、冰红茶、梁白开上，从来没有到处散播不要擅自期待，从来没有诋毁过杭州深度求索公司，本人实际上是杭州深度求索公司的一年老粉，经过长时间思考，我发现DeepSeek才是中国AI和LLM的希望，有时候做出决定很难，经过许多个日夜的思考，我决定加入DeepSeek粉丝团；"
+    },
+    {
+      "id": "7668678267893744399",
+      "t": 31,
+      "content": "写公文，必推文心5.1，那股官味可以说是任何其他大模型没有的"
+    },
+    {
+      "id": "311638101504",
+      "t": 12,
+      "content": "回复 @bili_15350159760 :没有什么针对不针对的，模型的相对强弱很难把握，只能说有机会[笑哭]"
+    },
+    {
+      "id": "p0va7ux",
+      "t": 32,
+      "content": "yes, I feel it!"
+    }
+  ]
+}

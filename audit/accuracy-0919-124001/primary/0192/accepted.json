@@ -1,0 +1,782 @@
+{
+  "items": [
+    {
+      "id": "308577355521",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "疑似用“糖”谐音贬低，对象不明，相关性有歧义。"
+    },
+    {
+      "id": "311824007472",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议在CC中尝试开关操作以解决使用问题。"
+    },
+    {
+      "id": "308369892289",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供配置参数作为操作建议。"
+    },
+    {
+      "id": "311763456208",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述许多B端场景无需多模态。"
+    },
+    {
+      "id": "6a6d98060000000023001e35",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提示启用中国部署模型的设置。"
+    },
+    {
+      "id": "2083897861784371540",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "以牛夫人调侃态度变化，具体所指不明。"
+    },
+    {
+      "id": "7669323607320265491",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "反对将散户亏损归咎于量化，讨论金融而非AI。"
+    },
+    {
+      "id": "311878787360",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述自身花费一百元，但缺少明确消费对象。"
+    },
+    {
+      "id": "308599613505",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅有笑哭表情，无法确定具体态度或目的。"
+    },
+    {
+      "id": "7668976318809785125",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问已区分的模型版本是否还需调整。"
+    },
+    {
+      "id": "7669332435377242938",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "带嘲笑意味地否定，但否定对象不明确。"
+    },
+    {
+      "id": "7668933845597848369",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "高度赞美梁文峰本人，是否评价AI贡献存在歧义。"
+    },
+    {
+      "id": "6a6d4f7d000000000403baad",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "称某项未指明的功能将在V4未来版本上线。"
+    },
+    {
+      "id": "p12iwzc",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "期待小参数模型未来达到Kimi K3能力水平。"
+    },
+    {
+      "id": "311705647776",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "提及模型中转站并带玩笑表情，具体意图略有歧义。"
+    },
+    {
+      "id": "6a6df5bf0000000015003278",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "称赞觉悟并带偷笑，可能是调侃，无明确AI话题。"
+    },
+    {
+      "id": "311728606784",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释角色扮演场景缓存命中低导致相应费用。"
+    },
+    {
+      "id": "308447573633",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问原有自定义参数是否需要删除。"
+    },
+    {
+      "id": "7669112839906296627",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "明确认为Flash能力强于此前Pro。"
+    },
+    {
+      "id": "7669032752314303290",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "批评模型编程表现差并反对吹捧。"
+    },
+    {
+      "id": "308362778145",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": null,
+      "reason": "疑似破防谐音梗，对象和态度均不明确。"
+    },
+    {
+      "id": "6a6d571f000000000802ebe5",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问是否真有如此强的能力，皱眉体现疑问。"
+    },
+    {
+      "id": "308529018641",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "在部署语境下建议使用双L20显卡。"
+    },
+    {
+      "id": "311799084912",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "quality",
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "推荐DS更换文风，认可Opus全能但暗示自费昂贵。"
+    },
+    {
+      "id": "311887446800",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "担忧"
+      ],
+      "score": -0.6,
+      "reason": "以Kimi对比GLM，主要批评后者能力与涨价。"
+    },
+    {
+      "id": "308481979041",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正价格倍数与便宜比例的表述。"
+    },
+    {
+      "id": "311705540000",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "performance",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "限定提速结论仅相对Flash预览版成立。"
+    },
+    {
+      "id": "p183tg4",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "表达对Pro版本能力的好奇与期待，未直接评价。"
+    },
+    {
+      "id": "6a6d86330000000015017879",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "陈述Pro正式版预计八月发布。"
+    },
+    {
+      "id": "311739637920",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问GLM整体情况，未指定评价维度。"
+    },
+    {
+      "id": "308623904081",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "mixed"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.7,
+      "reason": "赞同体验并惊喜新版本解决思考问题，兼述旧版不足。"
+    },
+    {
+      "id": "311862536064",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述官网对自定义模型显示与实际模型的说明。"
+    },
+    {
+      "id": "7669054159186199330",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述个人电脑部署模型的硬件规模限制。"
+    },
+    {
+      "id": "p0yx2yu",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "反驳市场状况并以政治蔑称攻击对方，与AI无关。"
+    },
+    {
+      "id": "308425083009",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question",
+        "complaint"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "嘲讽营销并询问5.5是否指GPT，主要目的有歧义。"
+    },
+    {
+      "id": "7669077148758344489",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "确认所讨论的是否为写代码能力。"
+    },
+    {
+      "id": "311913167952",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other",
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "感谢并表示会尝试，缺少被尝试对象，相关性不明。"
+    },
+    {
+      "id": "308435504657",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "肯定Flash编程实力，同时批评仓促上线与能动性不足。"
+    },
+    {
+      "id": "7668957994038084409",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "赞同显卡水平和产能不足的批评，与AI关联略有歧义。"
+    },
+    {
+      "id": "6a6d4e0c000000000802dfdf",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "抱怨缺乏多模态，需自行接入OCR且流程不便。"
+    }
+  ]
+}

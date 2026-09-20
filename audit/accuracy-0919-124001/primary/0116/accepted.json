@@ -1,0 +1,757 @@
+{
+  "items": [
+    {
+      "id": "308584883121",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Codex接入模型时报错的解决方法。"
+    },
+    {
+      "id": "308441112753",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "分享账号被封后用Flash顺利完成任务的经验。"
+    },
+    {
+      "id": "308381095953",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "建议开发或学习使用AI，表情不改变主要目的。"
+    },
+    {
+      "id": "308445207729",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "mixed"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.2,
+      "reason": "主要感谢对方，也表示没听懂，无法确定所谈对象。"
+    },
+    {
+      "id": "p1420zp",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "肯定配置后的Qwen表现，同时批评两模型及DS执行。"
+    },
+    {
+      "id": "308425180769",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅说明双方意思一致，缺少可辨认的AI话题。"
+    },
+    {
+      "id": "308409847105",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "抱怨模型名称不变，无法识别是否正式版。"
+    },
+    {
+      "id": "311720245648",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明需手动修改配置以调整推理档位。"
+    },
+    {
+      "id": "311721812160",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "指出闪烁和模型重叠，可能指AI产出中的图形模型。"
+    },
+    {
+      "id": "7669028222545429300",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "agreement"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "表达对Kimi的明确偏好，具体比较标准缺失。"
+    },
+    {
+      "id": "7669181750425994034",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "认为当前模型难以开箱即用，需要摸索。"
+    },
+    {
+      "id": "308526416417",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述使用Gemini主要为了谷歌学术资源。"
+    },
+    {
+      "id": "6a6e0c67000000000403be8f",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "结合标题明确称赞新上线的模型。"
+    },
+    {
+      "id": "7669231096949670662",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "担忧",
+        "认可"
+      ],
+      "score": 0,
+      "reason": "担心DS重演前版落差，同时认可KM3编程体验。"
+    },
+    {
+      "id": "p0ug5wr",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "承认能力增强，却质疑继续沿用相同版本名。"
+    },
+    {
+      "id": "308410101313",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.4,
+      "reason": "批评对方不够理性，未明确涉及AI观点。"
+    },
+    {
+      "id": "6a6dc89c000000002901a292",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "明确表示正式版较预览版提升明显。"
+    },
+    {
+      "id": "311770739696",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释图片被客户端配置拦截而非发往服务器。"
+    },
+    {
+      "id": "308344947169",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "content"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "指出思维链转换属于Pro，质疑与Flash的关联。"
+    },
+    {
+      "id": "p0v0zvd",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问其最强模型与Sol相比如何。"
+    },
+    {
+      "id": "311660065616",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.5,
+      "reason": "反对对方道德绑架，具体AI讨论内容不可见。"
+    },
+    {
+      "id": "6a6eb53700000000090153e6",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问所用Claude Code是否经过修改。"
+    },
+    {
+      "id": "308578033425",
+      "r": [],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅问不用吗，缺失对象，相关性无法判定。"
+    },
+    {
+      "id": "7669000992948454181",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述模型不支持多模态，未表达明显褒贬。"
+    },
+    {
+      "id": "2083620438773764175",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "以装淡定的说法调侃DeepSeek，略带欣赏。"
+    },
+    {
+      "id": "311710298048",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "反问式确认模型就是Flash，带笑哭语气。"
+    },
+    {
+      "id": "308446948209",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "告知Codex刚重置，但未说明具体重置内容。"
+    },
+    {
+      "id": "308390611185",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.2,
+      "reason": "询问相关使用方式是否容易导致封号。"
+    },
+    {
+      "id": "311781692064",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "纠正五小时限制的说法，具体对象及限制不明。"
+    },
+    {
+      "id": "p0v3liu",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "若优于非Pro版MiMo则愿意尝试，认可有条件。"
+    },
+    {
+      "id": "308533612225",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "嘲讽对方并强调API便宜，认可价格与贬人并存。"
+    },
+    {
+      "id": "6a6f2f3200000000090165d0",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅艾特用户，无实质评价或AI讨论。"
+    },
+    {
+      "id": "311660707216",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "反问提醒官网接口文档已有说明。"
+    },
+    {
+      "id": "17925084",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "假设Pro达到GPT水平后将冲击竞品，非实测结论。"
+    },
+    {
+      "id": "311673305696",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 1,
+      "reason": "盛赞性能提升及低价格，称其为程序员之光。"
+    },
+    {
+      "id": "6a6cded2000000002b029888",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问旧API是否自动升级或需要新建。"
+    },
+    {
+      "id": "7668855221380694799",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述模型之间相互蒸馏，未明确表达褒贬。"
+    },
+    {
+      "id": "311821633408",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议重新配置模型来解决接入问题。"
+    },
+    {
+      "id": "311914245072",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "讨论计算机专业选择与购机建议，未涉及AI。"
+    },
+    {
+      "id": "311730158288",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以梁姓谐音接梗，没有明确模型评价。"
+    }
+  ]
+}

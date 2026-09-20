@@ -1,0 +1,795 @@
+{
+  "items": [
+    {
+      "id": "308428226465",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "认为远逊于fable5并带生气表情，末句有错字。"
+    },
+    {
+      "id": "311718372832",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "指出网页版尚未上线正式版，带轻微质疑语气。"
+    },
+    {
+      "id": "311713027984",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "指出缺乏视觉反馈，无法像其他模型持续优化。"
+    },
+    {
+      "id": "p14s5fq",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.7,
+      "reason": "认可其达到或超过GLM水平，并期待pro版本。"
+    },
+    {
+      "id": "308391139201",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "称需要pro并分享灰度经历，兼有主页引流。"
+    },
+    {
+      "id": "7668891569747215153",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "反问为何不算正事，但缺少具体指代对象。"
+    },
+    {
+      "id": "311824007472",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议在cc中尝试开关相关选项。"
+    },
+    {
+      "id": "311899187472",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "agreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认可股市帮助企业融资的作用，未讨论AI。"
+    },
+    {
+      "id": "311887228176",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other",
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "礼貌致谢并表示关注，推荐对象不可确定。"
+    },
+    {
+      "id": "311721824960",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述梁文锋量化与做空行为，未评价AI产品。"
+    },
+    {
+      "id": "311722426320",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以奖励华为手表玩梗，缺乏AI相关内容。"
+    },
+    {
+      "id": "p0zrdme",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "介绍模型相对较小及两张H200的部署需求。"
+    },
+    {
+      "id": "6a6d2e0e0000000023003184",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "仅标明pro预览版，可能是补充或纠正版本。"
+    },
+    {
+      "id": "311675537792",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "惋惜缺少多模态导致图形任务处理吃亏。"
+    },
+    {
+      "id": "6a6e498f0000000015006d6c",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.5,
+      "reason": "担心线上面试无法辨别AI代答。"
+    },
+    {
+      "id": "p111ngy",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供本地硬件配置、上下文及生成速度实测。"
+    },
+    {
+      "id": "6a6dd869000000000802d787",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "称模型稀烂且已花费数百元，明显不满。"
+    },
+    {
+      "id": "311780988576",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "询问两种工具的适配差异，并轻度认可当前体验。"
+    },
+    {
+      "id": "311720271424",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "correction"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃缺少特定前缀，具体所指与AI关系不明。"
+    },
+    {
+      "id": "311916778608",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认为go价格不贵且flash额度充裕，附会话信息。"
+    },
+    {
+      "id": "308388093313",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "强烈称赞小说生成效果已难与真人区分。"
+    },
+    {
+      "id": "p0z2aka",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "分享通过screenmcp获得视觉且无需额外API的经验。"
+    },
+    {
+      "id": "311719159584",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.4,
+      "reason": "表示赞同并期待官方配套工具，座驾具体所指不明。"
+    },
+    {
+      "id": "308514736929",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "盛赞后训练能力，认为正式版远强于预览版。"
+    },
+    {
+      "id": "308582677585",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "分享Codex用量与费用，“只花”体现低价评价。"
+    },
+    {
+      "id": "2083236608917078117",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.95,
+      "reason": "高度赞扬项目开发表现与性价比，认为市场无可比拟。"
+    },
+    {
+      "id": "2083097043782803664",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅有账号提及和链接，无可见讨论内容。"
+    },
+    {
+      "id": "311678728160",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待",
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "认为flash文本提升有限，同时等待pro正式版。"
+    },
+    {
+      "id": "6a6d713e0000000015010975",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问“基本不要钱”具体对应多少费用。"
+    },
+    {
+      "id": "7668911744648135459",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "performance"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "询问Qoder搭配效果，并反映reasonix速度慢。"
+    },
+    {
+      "id": "308443610337",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "希望恢复原始GPT模式，但重装后仍是Codex。"
+    },
+    {
+      "id": "311705450032",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "认为纯文本DeepSeek无法与全模态竞品掰手腕。"
+    },
+    {
+      "id": "308587112145",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "澄清自己说的是更有参考性，缺少被比较对象。"
+    },
+    {
+      "id": "308389149713",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问旧API是否需要重新配置。"
+    },
+    {
+      "id": "308418796833",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "嫌价格高且能力没有明显差别，比较对象未明。"
+    },
+    {
+      "id": "308375947105",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "调侃智谱已到斩杀线，暗示竞争处境不佳。"
+    },
+    {
+      "id": "311845889280",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "明确称赞厉害，但回复对象及所赞内容不明。"
+    },
+    {
+      "id": "311705540000",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "performance",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明相较预览版的速度提升幅度，可能限定比较范围。"
+    },
+    {
+      "id": "7668844781220741897",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "说明目前为flash，并等待pro正式版。"
+    },
+    {
+      "id": "311888603968",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问已使用一个多月的版本及pro是否均为预览版。"
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+{
+  "items": [
+    {
+      "id": "308531736289",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "比较薪酬激励机制，未明确涉及AI使用。"
+    },
+    {
+      "id": "308387497153",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "纠正模型此前属于预览版。"
+    },
+    {
+      "id": "311903094384",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "抱怨模型无法看图且反复纠结，导致难用。"
+    },
+    {
+      "id": "2083559831332368535",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "笑称模型自认Claude，带调侃及轻微负评。"
+    },
+    {
+      "id": "6a6eed1b000000002a0252b7",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "赞叹他人跑通，同时述说失败并求部署方法。"
+    },
+    {
+      "id": "308573195969",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "质疑他人发言资格并警告负责，AI指向不明。"
+    },
+    {
+      "id": "311629670688",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "表示再次尝试，可能指模型但缺少具体对象。"
+    },
+    {
+      "id": "308534217153",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认为opencode go是使用DeepSeek的最优选择。"
+    },
+    {
+      "id": "308461905345",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "reliability",
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "反对拿中转站比价，强调稳定性和实际价格。"
+    },
+    {
+      "id": "p0vuarh",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "夸张抱怨又得购买显存，玩梗与真实不满两可。"
+    },
+    {
+      "id": "2083726408489332769",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.6,
+      "reason": "越南语感叹价格非常便宜。"
+    },
+    {
+      "id": "308446919361",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "仅向他人致谢并表达善意。"
+    },
+    {
+      "id": "7669363940342399779",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "调侃比较输赢的后果，具体比较对象不明。"
+    },
+    {
+      "id": "6a6c5741000000001403b83e",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "否定前述说法并强调需要实打实的能力。"
+    },
+    {
+      "id": "308503323009",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述企业购买H100成本，是否用于模型未明说。"
+    },
+    {
+      "id": "7668895100433335094",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "trust",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "猜测因不敌竞品而改称基础版，质疑命名动机。"
+    },
+    {
+      "id": "7668853869578273590",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "批评命中率过低，未说明是缓存还是其他命中率。"
+    },
+    {
+      "id": "311744154896",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service",
+        "usability"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "强烈抱怨五小时限额妨碍大需求使用。"
+    },
+    {
+      "id": "7668901339254375174",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推荐无需密钥的免费版本，并告知上下文限制。"
+    },
+    {
+      "id": "311877496544",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "用昵称肯定当前竞争力，并期待更强版本。"
+    },
+    {
+      "id": "6a6d748f000000002b0241b7",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "指出网页版不能控制电脑，可能含轻微抱怨。"
+    },
+    {
+      "id": "311744563088",
+      "r": [],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "称实际不止，但缺失被修正的对象与数量。"
+    },
+    {
+      "id": "308439646305",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问标题所涉AI工具的月费。"
+    },
+    {
+      "id": "311872970848",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明本地运行的RDMA与TP2配置条件。"
+    },
+    {
+      "id": "311847248272",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "肯定Opus能力，同时调侃价格高。"
+    },
+    {
+      "id": "6a6dff4f0000000015015241",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "以笑哭语气抱怨使用时花钱也快。"
+    },
+    {
+      "id": "308505264561",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "other"
+      ],
+      "e": [
+        "期待",
+        "失望"
+      ],
+      "score": 0,
+      "reason": "想尝试本地完整模型，但遗憾内存不足影响速度。"
+    },
+    {
+      "id": "311831150656",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "建议修复失败后回退，指出继续修会越做越错。"
+    },
+    {
+      "id": "308377393777",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "批评产出糟糕，并因模型缺乏视觉能力放弃。"
+    },
+    {
+      "id": "311690604464",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问具体是哪一个5.6模型。"
+    },
+    {
+      "id": "308564353617",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "愤怒",
+        "调侃"
+      ],
+      "score": -0.9,
+      "reason": "辱骂并抱怨阿里模型太贵，表示转用其他产品。"
+    },
+    {
+      "id": "311691521680",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "表达对视频的支持及稍后观看计划，未评价AI。"
+    },
+    {
+      "id": "308486199057",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "用DeepSeek可免费使用反驳Luna性价比说法。"
+    },
+    {
+      "id": "311933804080",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "反讽全部按缓存未命中计算费用的方式。"
+    },
+    {
+      "id": "2083095919671849268",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "发布语境中表示时候到了，具体所指略有歧义。"
+    },
+    {
+      "id": "2083382478040092746",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Freebuff是否提供最新DeepSeek版本。"
+    },
+    {
+      "id": "311816967120",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "期待"
+      ],
+      "score": -0.2,
+      "reason": "认可Sol更强但嫌贵，并期待V4Pro正式版提升。"
+    },
+    {
+      "id": "7668891400549974821",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问对方使用额度是否已经耗尽。"
+    },
+    {
+      "id": "2083134152656769433",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅提及账号并发送眼睛表情，无法确定态度。"
+    },
+    {
+      "id": "308339794321",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "告知下期发布及版本安排，版本具体指代不明。"
+    }
+  ]
+}

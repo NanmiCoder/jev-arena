@@ -1,0 +1,237 @@
+{
+  "topics": [
+    "白嫖 DeepSeek V4 Flash 0731 新模型 接入Claude Code",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash深度评测：实测排名前五，国产大模型的史诗级翻身之作！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "@chamath Drop in spend from using OpenAI's GPT Luna to DeepSeek V4 Flash for automated content generation on our publication (see August 1st and today after we made the switch), +10x drop https://t.co",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "Deepseek V4 Flash正式版全栈开发测评，非常强！",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "部署正式版DS-V4-Flash-0731成本真的不高!",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "Deepseek v4 flash 0731",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "正式版DeepSeek V4 Flash 进步巨大！干翻上代大哥",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "⚠️ Note\n\n🔷 DeepSeek-V4-Flash-0731 keeps the exact same model architecture and size as the preview version.\n🔷 Today's upgrade applies ONLY to the DeepSeek-V4-Flash API. The DeepSeek-V4-Pro API and Ap",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek-V4-Flash-0731 UD-Q8_K_XL 17.20~ t/s on A6000 + 256GB DDR4",
+    "DeepSeek V4 Flash 正式版发布 - 白菜价！超高性价比的编程模型",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "DeepSeek V4 Flash 正式版的一些测试"
+  ],
+  "comments": [
+    {
+      "id": "308622372193",
+      "t": 0,
+      "content": "回复 @一万AI分享 :我测试这个入口 上下文窗口是做了限制的"
+    },
+    {
+      "id": "308413510945",
+      "t": 1,
+      "content": "官方说了专门对接入codex做了优化，你说呢"
+    },
+    {
+      "id": "308575964449",
+      "t": 2,
+      "content": "嘶……部署成本多少，我也想整一个"
+    },
+    {
+      "id": "311680241296",
+      "t": 3,
+      "content": "猜的，可能审核不让加4.8 Opus的内容"
+    },
+    {
+      "id": "7669295993608258362",
+      "t": 4,
+      "content": "是吗 我可没说中转"
+    },
+    {
+      "id": "311705312112",
+      "t": 5,
+      "content": "回复 @潇尘续-续尘潇 :不算吧，只是一些经常刷的up才会在意[大笑]一般都是因为up的封面点进来的，不过视频内容也比较有趣就是了"
+    },
+    {
+      "id": "311864937440",
+      "t": 6,
+      "content": "回复 @阿比在科研 :一开始输入deepseek给的命令行是选1，你重新运行这个命令，选3，就能变回到GPT"
+    },
+    {
+      "id": "2083898803372126521",
+      "t": 7,
+      "content": "@chamath How the hell does OpenAI or Anthropic stay alive, they were highly unprofitable as it was before China caught up, and now China is dropping MToken prices below $0.25, as low as $0.18 with DeepSeek V4 Flash, which is a model that's almost as good as Grok 4.5."
+    },
+    {
+      "id": "311670973472",
+      "t": 8,
+      "content": "我用着怎么是 Let 呢？"
+    },
+    {
+      "id": "311868150704",
+      "t": 9,
+      "content": "回复 @Y型烤肉架 :有道理 这个给的量是真的大[星星眼][星星眼][星星眼]"
+    },
+    {
+      "id": "308384856257",
+      "t": 10,
+      "content": "之前用cc switch是因为ds只支持chat api，codex用的responses api，不兼容所以要用cc switch 起一个代理转换api合适，现在ds flash原生支持responses api了，可以直连了"
+    },
+    {
+      "id": "311915241200",
+      "t": 11,
+      "content": "能比k3的话，全世界模型都可以自杀了[妙啊]"
+    },
+    {
+      "id": "308482116705",
+      "t": 11,
+      "content": "回复 @天灵UY :聊天室大环境不好，我们都容易应激[笑哭]"
+    },
+    {
+      "id": "311637519680",
+      "t": 5,
+      "content": "回复 @Hangnum :没办法，梁圣不准备搞多模态，不过搞多模态也能用GPT模型，KiMi套餐实在不划算，简直是抢钱[辣眼睛]"
+    },
+    {
+      "id": "7669297433780323131",
+      "t": 12,
+      "content": "[抱拳][抱拳][抱拳]"
+    },
+    {
+      "id": "308407885505",
+      "t": 1,
+      "content": "我都不想说话了， 4.8？ \n你家4.8 能达到 99.02 缓存率？ \n又快又好 我用了一晚上。直接给我震惊了一晚上\n我感觉 仅次于 opus5了，很强，不敢想pro会怎么样"
+    },
+    {
+      "id": "7669379295194743602",
+      "t": 4,
+      "content": "梁圣首要任务是赶紧出来接受专访，要不素材不够用了[尬笑]"
+    },
+    {
+      "id": "7669204702278107962",
+      "t": 4,
+      "content": "[捂脸]命中是分钱级别"
+    },
+    {
+      "id": "6a6f1b3f000000002a024bd2",
+      "t": 13,
+      "content": "这个必须可以啊，是pro6000 吗"
+    },
+    {
+      "id": "308486289937",
+      "t": 14,
+      "content": "被吓到眩晕爆炸在原子弹上，那一刻就像看到椅子瘫坐"
+    },
+    {
+      "id": "6a6dfb6c000000000b03abc4",
+      "t": 15,
+      "content": "flash适合你自己把控，少量改动"
+    },
+    {
+      "id": "311820470032",
+      "t": 16,
+      "content": "回复 @温酒煮狮子头 :哥们儿我觉得你最后那两句说得太好了！"
+    },
+    {
+      "id": "308595036497",
+      "t": 2,
+      "content": "湾友谐音梗真有说法的"
+    },
+    {
+      "id": "308415275761",
+      "t": 17,
+      "content": "v4 pro正式版快来[大哭][大哭]"
+    },
+    {
+      "id": "308565029233",
+      "t": 18,
+      "content": "回复 @Roter-Lotus :真的有卡吗"
+    },
+    {
+      "id": "7668843273146254117",
+      "t": 19,
+      "content": "不能，本质还是之前的模型，后训练了，就是人为特调好了"
+    },
+    {
+      "id": "311754809200",
+      "t": 20,
+      "content": "回复 @wycode_cn :私拉"
+    },
+    {
+      "id": "6a6dd67e0000000014038dcf",
+      "t": 21,
+      "content": "中里毅：你们现在知道被86跟在后面有多恐怖吧"
+    },
+    {
+      "id": "308445604193",
+      "t": 22,
+      "content": "别人家订阅plus加重置都是蹬的飞起，到你这成捏鼻子用了"
+    },
+    {
+      "id": "7668976611672834875",
+      "t": 4,
+      "content": "正式版不能生成h内容了[捂脸][捂脸][捂脸]"
+    },
+    {
+      "id": "2083107487197098219",
+      "t": 23,
+      "content": "@deepseek_ai Bro give is glm 5.2 for 0.28$"
+    },
+    {
+      "id": "308496968321",
+      "t": 24,
+      "content": "这个价格，还要啥自行车？"
+    },
+    {
+      "id": "p17r6ey",
+      "t": 25,
+      "content": "Will try on my RTX5090 and 2 RTX 5060Ti  \nI’ve got 64 gb VRAM and 64 GB DDR4 RAM"
+    },
+    {
+      "id": "308556427601",
+      "t": 24,
+      "content": "回复 @知与行合二为一 :https://github.com/zhaige95/drift-quasar-prompt.git   提示词上传到仓库了，补充了一点细节，初始效果会好一些，ai老喜欢用Unicode字符做图标，符号图案，还有用那种衬线字体，尤其是gpt做出来的页面很喜欢用很小的字体，导致文字很模糊，都要告诉ai，要用svg图标，不要用衬线字体"
+    },
+    {
+      "id": "308420583649",
+      "t": 26,
+      "content": "[笑哭]谈不上测评啦。分享一下更新中的细节，价格，基准测试啥的。这次更新中的 Responses API 的支持倒是蛮友好的。感觉上，开始向 OpenAI 生态靠拢了。"
+    },
+    {
+      "id": "6a6c9870000000002a0268b7",
+      "t": 27,
+      "content": "DeepSeek没有进行视觉检查，这也就是为什么Kim的结果会更好"
+    },
+    {
+      "id": "6a6e252b000000000500aaaa",
+      "t": 28,
+      "content": "你想干嘛会没法用呢"
+    },
+    {
+      "id": "308562886449",
+      "t": 29,
+      "content": "这完全只是因为问题本身相似，不可能保留你的数据"
+    },
+    {
+      "id": "6a6c71fd0000000005015757",
+      "t": 30,
+      "content": "现在就是准备白天用 Luna，晚上用 DeepSeek[飞吻R][笑哭R]"
+    },
+    {
+      "id": "6a6f21a30000000005015fa1",
+      "t": 21,
+      "content": "如果能把鹰子干趴下，梁叔叔拿了就拿了吧。毕竟国运之争"
+    }
+  ]
+}

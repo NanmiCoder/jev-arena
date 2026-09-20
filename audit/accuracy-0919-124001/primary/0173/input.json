@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash API is 18x cheaper on input, 28x cheaper on output, and matches Opus 4.8. Time for Claude to atleast reduce sonnet pricing",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "PSA for DeepSeek-V4-Flash-0731 users — don't blow out your prompt cache with system role messages mid-conversation",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "DeepSeek V4 Flash 0731 in Hermes Agent and one prompt, took 32 minutes and cost 0.07$, this model is so cheap to the point where 2 dollars can last you a full day.",
+    "要被外网的一些评论笑死了😂😂😂",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)"
+  ],
+  "comments": [
+    {
+      "id": "p105lgk",
+      "t": 0,
+      "content": "The reality is though is that people REALLY like the results of Anthropic’s harness’\n\nClaude is both a model and a product. Right now people pick the product over the model. Most people at my job just know chatGPT and more recently learned about claude. None of them know models at all, or pricing.\n\nAnd most people don’t run out of limits either.\n\nBasically, DeepSeek needs to sell the complete package."
+    },
+    {
+      "id": "311927889696",
+      "t": 1,
+      "content": "283B参数规模，同台竞技就已经赢了，DeepSeek是真·斩杀线"
+    },
+    {
+      "id": "308433538609",
+      "t": 2,
+      "content": "回复 @天呐凑凑翘屁猫 :codex是开源的啊，非要说国外公司的话，opencode也是国外公司[吃瓜]"
+    },
+    {
+      "id": "308417603313",
+      "t": 3,
+      "content": "别写传统hdl了，我们这边直接让它从模拟器代码生成spinalhdl，行数又少可读性又高，两边仿真cycle准确率99.9%"
+    },
+    {
+      "id": "311678218352",
+      "t": 4,
+      "content": "reasonix，缓存命中率稳定90往上，省钱"
+    },
+    {
+      "id": "p17voao",
+      "t": 5,
+      "content": "What makes this hard to spot is that nothing breaks. The output looks the same, you're just quietly paying full price. Easiest confirmation is sending the same prompt twice and watching billed input tokens instead of latency, since a warm cache and a cold one can feel identical on a local box."
+    },
+    {
+      "id": "6a6e17fc000000001403affd",
+      "t": 6,
+      "content": "是的 Claude 纯属负优化"
+    },
+    {
+      "id": "308479066609",
+      "t": 7,
+      "content": "回复 @克莱-Clay :是的，目前体验下来还是很不错的"
+    },
+    {
+      "id": "311798978144",
+      "t": 7,
+      "content": "大赢鲸？？？"
+    },
+    {
+      "id": "308427705665",
+      "t": 8,
+      "content": "玩酒馆是啥啊"
+    },
+    {
+      "id": "308512518593",
+      "t": 9,
+      "content": "整套全量模型流畅跑起来的硬件成本是多少"
+    },
+    {
+      "id": "7668999503732015921",
+      "t": 10,
+      "content": "用workbuddy，命中率普遍99%"
+    },
+    {
+      "id": "7669361595814576896",
+      "t": 11,
+      "content": "你觉得呢[微笑]"
+    },
+    {
+      "id": "311707536416",
+      "t": 12,
+      "content": "感谢提醒，这个录完就删了"
+    },
+    {
+      "id": "6a6eb3f700000000150011d7",
+      "t": 13,
+      "content": "这个怎么会被封啊？也开始针对咱们中国人了"
+    },
+    {
+      "id": "7668948174825374513",
+      "t": 11,
+      "content": "自己去看文档"
+    },
+    {
+      "id": "311776690752",
+      "t": 14,
+      "content": "为什么up视频质量这么高，但是粉丝还不多[点赞]"
+    },
+    {
+      "id": "311865878064",
+      "t": 15,
+      "content": "大佬，问下模型精度是多少"
+    },
+    {
+      "id": "6a6d93d20000000005016e7a",
+      "t": 16,
+      "content": "包的朋友包的"
+    },
+    {
+      "id": "311894388352",
+      "t": 15,
+      "content": "回复 @困梦的杂物间 :俺手机根本没有这个"
+    },
+    {
+      "id": "7668718388793213733",
+      "t": 17,
+      "content": "那这大哥说的好像就未必靠谱了[捂脸] 看不到怎么切的水果"
+    },
+    {
+      "id": "311695921584",
+      "t": 18,
+      "content": "codex系统提示词原因"
+    },
+    {
+      "id": "311910229024",
+      "t": 7,
+      "content": "鲸震恩没绷住"
+    },
+    {
+      "id": "311824605856",
+      "t": 7,
+      "content": "我需要等梁圣的agent"
+    },
+    {
+      "id": "6a6d6286000000002b02a84e",
+      "t": 19,
+      "content": "因为国产里面也就k3能看，难不成我拿hy3比吗"
+    },
+    {
+      "id": "7668991149973078822",
+      "t": 10,
+      "content": "唯一的缺陷就是没有多模态了"
+    },
+    {
+      "id": "p16pfvr",
+      "t": 20,
+      "content": "Enough video games. Have it build IBP in an EPM tool and run month end and forecast"
+    },
+    {
+      "id": "308533173409",
+      "t": 7,
+      "content": "早两天说这话我都不挑你的理[笑哭]"
+    },
+    {
+      "id": "308596366929",
+      "t": 12,
+      "content": "兄弟，第一次可以了，第二次codex给我说他被沙箱拦截了，"
+    },
+    {
+      "id": "311862402752",
+      "t": 12,
+      "content": "Failed to deserialize the JSON body into the target type: messages【104】: unknown variant `image_url`, expected `text` at line 1 column 799656                 这个错误怎么解决"
+    },
+    {
+      "id": "311894935056",
+      "t": 12,
+      "content": "deepseek接入codex意义在哪？为啥不用reasonix"
+    },
+    {
+      "id": "308486675217",
+      "t": 3,
+      "content": "回复 @栗子-杰 :我用 glm官方接口+cc cli 还挺稳定的"
+    },
+    {
+      "id": "6a6de8bf000000002902ebba",
+      "t": 21,
+      "content": "我一直同步在用claude 和ds 我最近一周就发现ds厉害了非常多，之前我是把claude 定义为研究生，ds为三本，难的活给claude ，最近发现两个能力差不了太多，一个985，一个211水平，ds价格就是claude 零头，速度还快的多"
+    },
+    {
+      "id": "6a6e0fd4000000002b0017b3",
+      "t": 22,
+      "content": "当天下午我就测试过，跟我说现在其实用的就是新版，我先用glm5.2对比接入官方的flash版本，工作流可以替代，然后再用内置的flash跑了个任务，和接入官方api的答案速度几乎一样"
+    },
+    {
+      "id": "311655614560",
+      "t": 18,
+      "content": "个人体感：能力相当可以，改Bug指哪打哪。但有点过度思考，小问题也要处理半天，也有点耗Token"
+    },
+    {
+      "id": "p0tx83q",
+      "t": 23,
+      "content": "It's not. People said this about V4 before it got released and nothing happened. The market is up already pre market. This shit happened once and now we get a bunch of these shitty threads every time DeepSeek releases anything"
+    },
+    {
+      "id": "7669245173188739859",
+      "t": 10,
+      "content": "太卷了，你大概率性能不如它且没它便宜，不仅米国大模型，国内大模型也很惨"
+    },
+    {
+      "id": "7669226305024312121",
+      "t": 11,
+      "content": "散户：[九转大肠][九转大肠][九转大肠][九转大肠][九转大肠][九转大肠]"
+    },
+    {
+      "id": "7669086912075186981",
+      "t": 11,
+      "content": "美股不好做，那边脏手段太狠了"
+    },
+    {
+      "id": "308390207521",
+      "t": 24,
+      "content": "复制代码的时候偶尔丢失缩进，有什么好办法吗"
+    }
+  ]
+}

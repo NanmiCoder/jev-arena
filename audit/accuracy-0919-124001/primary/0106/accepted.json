@@ -1,0 +1,781 @@
+{
+  "items": [
+    {
+      "id": "7669064897690600242",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "期待补上生图能力，“就完美了”含认可。"
+    },
+    {
+      "id": "6a6d5e0f000000000802fe83",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Luna高推理档的能力水平。"
+    },
+    {
+      "id": "7669283274279404325",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.9,
+      "reason": "用夸张比喻称赞技术与价格压制对手。"
+    },
+    {
+      "id": "6a6e3e4b000000000500a9e9",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "纠正所指品牌并提及涨价，不满程度不明确。"
+    },
+    {
+      "id": "311690554480",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "明确赞同，但缺失父评论，相关性不明。"
+    },
+    {
+      "id": "308392067473",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "service"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "希望API开放网页和APP已有的识图功能。"
+    },
+    {
+      "id": "6a6da8fc00000000150110fb",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "只有“大巴拉特”玩梗，未见明确AI讨论。"
+    },
+    {
+      "id": "311671758976",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "以鲸鱼和人物谐音梗表达对DeepSeek的拥护。"
+    },
+    {
+      "id": "308415003361",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称其解决竞品未解的bug，且能力强速度快。"
+    },
+    {
+      "id": "308546205505",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "说明官方API提示词与使用麻烦，建议自行权衡。"
+    },
+    {
+      "id": "308422269889",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "围绕模型“遥遥领先”口号调侃，褒贬不明。"
+    },
+    {
+      "id": "p0ufm6l",
+      "r": [],
+      "s": [],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "仅有图片链接，无法获知图片内容和态度。"
+    },
+    {
+      "id": "308604351041",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认可为好事，但指代依赖缺失的父评论。"
+    },
+    {
+      "id": "308399782161",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "陈述K3一天消耗200元，可能暗含费用抱怨。"
+    },
+    {
+      "id": "311850085280",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问指定硬件配置能否运行模型。"
+    },
+    {
+      "id": "311720252992",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "纠正353为258，但数字对应指标不明。"
+    },
+    {
+      "id": "7668927679404081970",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "以yes和点赞表示赞同，具体对象略有歧义。"
+    },
+    {
+      "id": "308516326017",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正为已经可行且操作不复杂，具体事项缺失。"
+    },
+    {
+      "id": "311745045472",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释榜单测试日常表现而非模型极限。"
+    },
+    {
+      "id": "2083699745542045997",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "用自称Claude的对话调侃人格蒸馏，含质疑。"
+    },
+    {
+      "id": "311677123776",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "列出实际用量与花费，称赞API白菜价。"
+    },
+    {
+      "id": "308611554465",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement",
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "像是随口附和，也可能敷衍，缺少上下文。"
+    },
+    {
+      "id": "6a6f024f000000000802cf80",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "指出Q2模型装入后无空间留给KV缓存。"
+    },
+    {
+      "id": "311767075376",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "对两个AI产品作强烈贬低，早期期待已被否定。"
+    },
+    {
+      "id": "308397436305",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议添加辅助视觉，并认为实现不难。"
+    },
+    {
+      "id": "311775706432",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "针对无法发送图片的问题求助。"
+    },
+    {
+      "id": "308359070193",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "称赞可自部署且表现出色，明显优于其他模型。"
+    },
+    {
+      "id": "7668939210619536162",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述缓存通常需要的对话与时间条件。"
+    },
+    {
+      "id": "6a6d3093000000000403a4be",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待",
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "期待Pro多模态并挑战对方观点，带调侃语气。"
+    },
+    {
+      "id": "311807789696",
+      "r": [
+        false
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.2,
+      "reason": "建议慎选计算机专业，同时指出竞争大与薪资高。"
+    },
+    {
+      "id": "308571489089",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "称Mac早已有之，但未说明具体功能或对象。"
+    },
+    {
+      "id": "6a6d4d36000000000501760b",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释辅助识图因信息损耗而逊于原生识图。"
+    },
+    {
+      "id": "311637251120",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "认为缺少视觉训练限制模型审美能力。"
+    },
+    {
+      "id": "311761982464",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "performance",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "肯定速度最快，同时用重复句式暗讽质量。"
+    },
+    {
+      "id": "6a6dcad00000000015014498",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明通过图3代码恢复默认GPT模型的方法。"
+    },
+    {
+      "id": "7668970436038476593",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "调侃梁文峰有办法筹资，与模型使用关联较弱。"
+    },
+    {
+      "id": "7669008560274031402",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明API发布与可用性的关系，具体功能省略。"
+    },
+    {
+      "id": "311719713728",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅给出两个数值，无法确定对应价格或其他指标。"
+    },
+    {
+      "id": "311740875136",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "认可K12额度与组合使用，也抱怨部分时段价高。"
+    },
+    {
+      "id": "7668840931185214217",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.8,
+      "reason": "反驳对方评价，贬低DeepSeek只适合入门。"
+    }
+  ]
+}

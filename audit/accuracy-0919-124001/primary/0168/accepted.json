@@ -1,0 +1,797 @@
+{
+  "items": [
+    {
+      "id": "308620295217",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议模型推理档位及解决不了时的替代方案。"
+    },
+    {
+      "id": "311915803952",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "认为一元使用量偏少，并指出低成本依赖其他模型。"
+    },
+    {
+      "id": "311900765072",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议个人购买API，比较本地硬件与订阅成本。"
+    },
+    {
+      "id": "6a6de50c0000000014038e0e",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "认为缺少多模态的模型不适合做前端。"
+    },
+    {
+      "id": "308516458017",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅有玩笑式回复，无可见AI讨论对象。"
+    },
+    {
+      "id": "308427312385",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议不会使用的人等待应用或网页开放。"
+    },
+    {
+      "id": "308350604513",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明API路由及403报错的设置解决办法。"
+    },
+    {
+      "id": "308470002833",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "期待",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "用谐音梗赞叹当前能力并期待PRO版。"
+    },
+    {
+      "id": "2083104107636588705",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "用英文俚语称赞DeepSeek近期表现。"
+    },
+    {
+      "id": "311751638048",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "强调DeepSeek开源对国产模型能力的贡献。"
+    },
+    {
+      "id": "308456545793",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问GPT模型参数规模，未明确表达褒贬。"
+    },
+    {
+      "id": "308567082577",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正开闭源是技术路线差异的理解，强调人才。"
+    },
+    {
+      "id": "308465103169",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0.1,
+      "reason": "否定承担大任务的能力，同时认可杂活用途。"
+    },
+    {
+      "id": "308428810721",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "以反问抱怨仍然没有多模态。"
+    },
+    {
+      "id": "311896445488",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "描述API密钥显示无限及仍在研究的状态。"
+    },
+    {
+      "id": "308451654001",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "提及有多模态并以“可以的”表示认可。"
+    },
+    {
+      "id": "308366012881",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问接入DeepSeek后是否仍能联网搜索。"
+    },
+    {
+      "id": "308619999169",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "performance",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认可价格速度，表示接受思考并关闭过程展示。"
+    },
+    {
+      "id": "311919851712",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问此接入方式能否画图及联网写文献综述。"
+    },
+    {
+      "id": "7669044244745028389",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述多模态成本与公司研发方向，未明确评价。"
+    },
+    {
+      "id": "311829061488",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "批评AI笨且常不移动，认为与灰测相似。"
+    },
+    {
+      "id": "308622037969",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "service",
+        "trust"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.1,
+      "reason": "建议寻找中转免费额度，同时提醒安全保障不足。"
+    },
+    {
+      "id": "311707241008",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "强调价格压倒其他因素，可能隐含认可低价。"
+    },
+    {
+      "id": "308408990017",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问网站能否使用自己购买的Token。"
+    },
+    {
+      "id": "7669016867282273082",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述会画K线，但“人家”指模型还是人不明。"
+    },
+    {
+      "id": "p0wxg9l",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "分享本地推理速度与任务结果，明显赞叹模型表现。"
+    },
+    {
+      "id": "311730757296",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "比较各家应用及API限制，“甲”含义略有歧义。"
+    },
+    {
+      "id": "308592972449",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [
+        "失望",
+        "期待"
+      ],
+      "score": -0.4,
+      "reason": "抱怨Pro较此前降智，并猜测正式版即将发布。"
+    },
+    {
+      "id": "311675692960",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "请求发动态供大家看，缺少具体AI相关对象。"
+    },
+    {
+      "id": "308446207057",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "以“太强”“越级斩杀”称赞后训练效果。"
+    },
+    {
+      "id": "311647356352",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问教程使用方式与网页版DeepSeek的区别。"
+    },
+    {
+      "id": "6a6dfba2000000000d028c00",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "分享大规模重写经验，同时指出架构设计不足。"
+    },
+    {
+      "id": "6a6cd36e0000000029035910",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "质问换算难度，但换算对象缺失，相关性不明。"
+    },
+    {
+      "id": "311767558976",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议原生格式调用Flash时尝试不开路由。"
+    },
+    {
+      "id": "308426475697",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability",
+        "quality"
+      ],
+      "e": [
+        "愤怒",
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "强烈抱怨应用不优化，用下架表达不满。"
+    },
+    {
+      "id": "308420862785",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "performance",
+        "comparison",
+        "other"
+      ],
+      "e": [
+        "认可",
+        "担忧"
+      ],
+      "score": -0.2,
+      "reason": "赞扬中国AI低成本开源，同时批评美国AI泡沫。"
+    },
+    {
+      "id": "308495888849",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "quality"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述普通用户优先看价格、质量够用即可的观点。"
+    },
+    {
+      "id": "311730233680",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "描述Codex额度恰好重置，未明确称赞或抱怨。"
+    },
+    {
+      "id": "7668900214300410667",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "仅表达被逗笑，无具体评价对象或AI讨论。"
+    },
+    {
+      "id": "311660288720",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问“LLM导航”的含义。"
+    }
+  ]
+}

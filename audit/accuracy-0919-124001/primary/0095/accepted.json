@@ -1,0 +1,814 @@
+{
+  "items": [
+    {
+      "id": "308606858513",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "明确称赞操控、短任务完成及主动调试体验。"
+    },
+    {
+      "id": "311752932496",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "以小丑表情嘲讽竞品GLM，具体比较依据不明。"
+    },
+    {
+      "id": "308368315953",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "performance",
+        "service"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "认可速度并调侃巨大用量，是否不满消耗有歧义。"
+    },
+    {
+      "id": "308340437409",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "请求更早发布视频，未直接评价AI或使用。"
+    },
+    {
+      "id": "311675848576",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议购买OpenCode套餐，未明确评价价格或效果。"
+    },
+    {
+      "id": "6a6d8de10000000015017c64",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "拿股市亏损支持AI事业自嘲，未明确涉及具体产品。"
+    },
+    {
+      "id": "311743586032",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "称创作为淫秽物品，可能调侃也可能指责内容。"
+    },
+    {
+      "id": "2083093161833062691",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜",
+        "期待"
+      ],
+      "score": 0.8,
+      "reason": "含推广但也陈述测试体验，明确赞赏能力提升。"
+    },
+    {
+      "id": "p163mv7",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "分享本地运行配置并羡慕双DGX并发表现。"
+    },
+    {
+      "id": "308621786209",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认为价格即使翻倍仍便宜，认可其低价。"
+    },
+    {
+      "id": "308418063361",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "追问如何购买更划算，具体购买对象缺失。"
+    },
+    {
+      "id": "7669001165380371234",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "表示可以直接使用并自行测试，略带反问。"
+    },
+    {
+      "id": "7669125947417412402",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "以贬损俚语嘲讽竞品GLM。"
+    },
+    {
+      "id": "2083606763132088444",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "service",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出Kimi K3未受同样处理，未明确表达不满。"
+    },
+    {
+      "id": "311721875200",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "肯定本地及小规模适用性，同时认为高强度使用不足。"
+    },
+    {
+      "id": "17926597",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "期待编程能力达到Opus水平，属于条件性赞赏。"
+    },
+    {
+      "id": "308524027265",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合部署标题建议调整线程数测试性能。"
+    },
+    {
+      "id": "6a6e09b80000000005016870",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "明确认为模型强得多，但比较对象未给出。"
+    },
+    {
+      "id": "308454696529",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提出多模型并行分工方案并描述当前串行流程。"
+    },
+    {
+      "id": "7668958229808628537",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问能否超越GPT5.5，没有明确褒贬。"
+    },
+    {
+      "id": "7669072159763596038",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述自己的每百万Token使用价格。"
+    },
+    {
+      "id": "6a6ec3ff000000002b0032f0",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明部署使用llama.cpp，未评价效果。"
+    },
+    {
+      "id": "308586486497",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待",
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "尊称梁圣并急切请求多模态，兼有功能缺失之意。"
+    },
+    {
+      "id": "308458328529",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "模仿厂商口吻调侃缺乏开发多模态的动力。"
+    },
+    {
+      "id": "311679914832",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨短正文也耗费大量思维链Token导致成本高。"
+    },
+    {
+      "id": "6a6d3d80000000002a0054ce",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Codex重新登录及是否使用API。"
+    },
+    {
+      "id": "7669041018318209829",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "讨论项目差异与下班，缺少明确AI使用指代。"
+    },
+    {
+      "id": "7668704299628102437",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "预测Agent会提供CLI及桌面两种使用端。"
+    },
+    {
+      "id": "311927547328",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅有位置梗，无法确定与模型评价的联系。"
+    },
+    {
+      "id": "p137yb8",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "抱怨即使购买20倍Pro套餐，额度仍消耗过快。"
+    },
+    {
+      "id": "308355111153",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "用“营销罢了”贬低GPT，质疑其宣传与实力。"
+    },
+    {
+      "id": "311718420960",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "汇总模型发布、调价及热度比较，未明确评价优劣。"
+    },
+    {
+      "id": "311757599792",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "结合标题询问所使用的模型版本。"
+    },
+    {
+      "id": "308615886209",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "表示同样情况并附负面表情，但具体指代缺失。"
+    },
+    {
+      "id": "308503435265",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "分享花9元将Rust项目完整重写为Python的经历。"
+    },
+    {
+      "id": "311918323696",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": -0.2,
+      "reason": "指出适配后实际使用不佳，同时认可另两种工具。"
+    },
+    {
+      "id": "p0wmoo0",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "肯定Gemma基础任务和速度，并询问模型间比较。"
+    },
+    {
+      "id": "308547475601",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "price",
+        "reliability",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "虽有推广，仍具体讨论模型优势、管理难题并推荐平台。"
+    },
+    {
+      "id": "311828454736",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "因不支持识图而明确否定模型适用性。"
+    },
+    {
+      "id": "308445267217",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "给出打开ccswitch并启用指定选项的操作建议。"
+    }
+  ]
+}

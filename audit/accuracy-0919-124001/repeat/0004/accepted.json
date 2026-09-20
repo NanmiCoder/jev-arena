@@ -1,0 +1,788 @@
+{
+  "items": [
+    {
+      "id": "6a6c5fd70000000015017dc6",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问跑分、单价与实际任务成本不一致的原因。"
+    },
+    {
+      "id": "7668959211740644133",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问升级后API是否需要修改。"
+    },
+    {
+      "id": "311638129136",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "调侃",
+        "担忧"
+      ],
+      "score": 0.1,
+      "reason": "以怕充不上调侃抢先充值，认可程度不明确。"
+    },
+    {
+      "id": "7669018269282763577",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述多模态研发及未来上线的判断。"
+    },
+    {
+      "id": "311711447040",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃创作者想做猫娘，未评价AI使用。"
+    },
+    {
+      "id": "308604891969",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅提及用户，无可判定的讨论内容。"
+    },
+    {
+      "id": "311889020304",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "表达理解与感谢，缺少可识别的AI话题。"
+    },
+    {
+      "id": "6a6f24e1000000002a00523f",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "明确评价折扣后的API价格仍不划算。"
+    },
+    {
+      "id": "17925731",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出效果相对较差，同时肯定基本达到要求。"
+    },
+    {
+      "id": "308557177857",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分析低价API相较本地部署的成本与使用选择。"
+    },
+    {
+      "id": "7669063878907282176",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "陈述主力模型切换计划及多模态仍用mimo。"
+    },
+    {
+      "id": "308476988881",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅感叹本地连接，无法确定是否指AI使用。"
+    },
+    {
+      "id": "308375433169",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述上下文影响判断，并说明尚未测试边界。"
+    },
+    {
+      "id": "308624432481",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "反对国产模型已追上的乐观判断并讽刺支持者。"
+    },
+    {
+      "id": "7669293141094499129",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "agreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "捂脸配合不得不信疑似反讽，具体证据对象不明。"
+    },
+    {
+      "id": "6a6d7844000000000b03b254",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "以参数规模为由判断Kimi更强，无明确反讽线索。"
+    },
+    {
+      "id": "311838433424",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "质疑Luna能否干活，并批评同系列模型能力落后。"
+    },
+    {
+      "id": "308439395841",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "反驳对方将前端工作理解为被动接受AI产出。"
+    },
+    {
+      "id": "311747143328",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "分享代码工具缓存命中率和实际花费，赞赏较含蓄。"
+    },
+    {
+      "id": "7668884278784934682",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "陈述已购买工具及等待Pro上线的安排。"
+    },
+    {
+      "id": "7668901339254375174",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推荐免密钥免费版本，并交代上下文限制。"
+    },
+    {
+      "id": "7668904195152544570",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合账号使用经验解释切换API后额度提示现象。"
+    },
+    {
+      "id": "6a6e7f87000000002a02678a",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供官方MCP及自行路由两种使用方式。"
+    },
+    {
+      "id": "7668673639549649701",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.7,
+      "reason": "乐观预测Pro能力将超过Opus。"
+    },
+    {
+      "id": "7668894405184799547",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "试探性赞同某种解释，但所指观点缺失。"
+    },
+    {
+      "id": "311669609728",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "补充记忆中的模型参数量，是否纠错缺少上文。"
+    },
+    {
+      "id": "6a6ef6d60000000005009b22",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "comparison",
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清比较的是Flash正式版与Pro预览版。"
+    },
+    {
+      "id": "p10yzlm",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "trust",
+        "price"
+      ],
+      "e": [
+        "质疑",
+        "愤怒"
+      ],
+      "score": -0.9,
+      "reason": "指责优惠宣传欺骗，并质疑折扣与盈利逻辑。"
+    },
+    {
+      "id": "p16t889",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "感谢作者列出耗时与价格，是否算AI使用讨论有歧义。"
+    },
+    {
+      "id": "2083583105961718155",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "仅推广免费测试链接，属于纯广告。"
+    },
+    {
+      "id": "308360230465",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问编程实测使用的智能体工具。"
+    },
+    {
+      "id": "2083122332735021289",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "quality",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称赞图表质量进步，并认为可以替代Sonnet日用。"
+    },
+    {
+      "id": "308493304129",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "service",
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "列模型及注册赠额链接，属于纯推广广告。"
+    },
+    {
+      "id": "308402751041",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "production"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "比较打码与删除的操作麻烦程度，未涉及AI。"
+    },
+    {
+      "id": "6a6eab52000000002a027ffd",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "强烈批评5.6近期降智，并提醒应使用Flash。"
+    },
+    {
+      "id": "7668702205101081380",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清图像由智能体调用工具生成。"
+    },
+    {
+      "id": "7669359926326772526",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合标题可知是在求教AI制作视频的方法。"
+    },
+    {
+      "id": "308416902177",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅有英文词及惊叹问号，所指与情绪方向不明。"
+    },
+    {
+      "id": "6a6d54a3000000002901a325",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.9,
+      "reason": "愤怒反对贬低国产模型的比较，并攻击相关评论者。"
+    },
+    {
+      "id": "311706010464",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "区分工具调用与原生多模态，纠正模型能力误解。"
+    }
+  ]
+}

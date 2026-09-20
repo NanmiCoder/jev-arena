@@ -1,0 +1,787 @@
+{
+  "items": [
+    {
+      "id": "311654364368",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述可用于嵌入式和仿真，也可能是在建议用途。"
+    },
+    {
+      "id": "308392480785",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "reliability",
+        "capability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "求助接入后只回答却不执行的问题。"
+    },
+    {
+      "id": "7669064760223286074",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "肯定代码能力提升，同时批评知识不足和严重幻觉。"
+    },
+    {
+      "id": "308346710561",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "以“没有任何竞争力”“拉完了”强烈贬低GLM。"
+    },
+    {
+      "id": "7669000579166995210",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "mixed"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0.3,
+      "reason": "用实际应用反驳对方，认可国产模型但语气不满。"
+    },
+    {
+      "id": "7668877482392585006",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "告知可通过阿里云使用DeepSeek。"
+    },
+    {
+      "id": "311750854480",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议用识图或思维链辨别模型身份。"
+    },
+    {
+      "id": "7668899419870364474",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.5,
+      "reason": "批评其他回复未抓住重点，未明确涉及AI本身。"
+    },
+    {
+      "id": "7669031477862155057",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅提及用户并发表情，无法确定具体态度和主题。"
+    },
+    {
+      "id": "6a6c5cec0000000005008be3",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "结合标题称赞新发布的模型，但未说明具体优点。"
+    },
+    {
+      "id": "311726389376",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "反驳融资与泡沫观点，是否特指AI行业有歧义。"
+    },
+    {
+      "id": "308583524129",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释模型开源范围，并纠正本地部署能取得数据的认识。"
+    },
+    {
+      "id": "308453421809",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释缓存命中与对话成本的关系。"
+    },
+    {
+      "id": "308444629297",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "推测合适框架中的交叉验证可提高准确率。"
+    },
+    {
+      "id": "p132woh",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问运行Q8所需内存及硬件配置。"
+    },
+    {
+      "id": "311732082464",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "给出模型能力排序并否定胜过K3的判断，语气略贬。"
+    },
+    {
+      "id": "311831817552",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议通过skill外接视觉模型补充能力。"
+    },
+    {
+      "id": "p18gwvm",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "更正问题来源为自己的系统，未再归因于模型。"
+    },
+    {
+      "id": "308442743617",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "用截图生成网页的便利性论证多模态价值。"
+    },
+    {
+      "id": "308353215201",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0.5,
+      "reason": "以低价和奖励额度招揽邀请码注册，属于纯广告。"
+    },
+    {
+      "id": "308405062641",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用“斩杀线”玩梗，或指标题中的价格竞争。"
+    },
+    {
+      "id": "6a6de440000000001500bba1",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.7,
+      "reason": "肯定能力和低价，并期待未发布的pro版本。"
+    },
+    {
+      "id": "308524154513",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "比较写小说和编程场景的token消耗。"
+    },
+    {
+      "id": "p11ojqc",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance",
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "询问是否普遍反复处理提示词，可能含轻微不满。"
+    },
+    {
+      "id": "311647921200",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "以条件式反话表达对智谱套餐改价的不满。"
+    },
+    {
+      "id": "6a6f235700000000290246c4",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "赞同前述观点并评价laguna表现一般。"
+    },
+    {
+      "id": "7669287547515749178",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "询问其他厂商为何不做后训练，带有质疑语气。"
+    },
+    {
+      "id": "7669090623693620018",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "认可3.8预览版并预测正式版更强，比较不构成混合态度。"
+    },
+    {
+      "id": "308615948673",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "求助如何突破上下文长度限制。"
+    },
+    {
+      "id": "311853414688",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "建议暂用Claude，并解释Codex好用的原因。"
+    },
+    {
+      "id": "308532447425",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "presentation",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "记录思考内容少及调整输出配置的尝试，略有不满。"
+    },
+    {
+      "id": "311916134752",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测模型比V3更小，具体所指规模未明。"
+    },
+    {
+      "id": "p18geff",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "quality",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "称替换旧模型后结果更细腻且明显更有用。"
+    },
+    {
+      "id": "311728026688",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "反驳对方认定自己只聊天，是否指AI使用略有歧义。"
+    },
+    {
+      "id": "311887506272",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "trust",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "认可测试客观，并肯定DeepSeek重复测试成本低。"
+    },
+    {
+      "id": "311898496400",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.4,
+      "reason": "好奇美国峰谷计价方式，并感叹潜在价格优惠。"
+    },
+    {
+      "id": "308589818193",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "期待"
+      ],
+      "score": -0.3,
+      "reason": "认为参数规模不同导致比较不公平，建议等pro。"
+    },
+    {
+      "id": "6a6f0dbb0000000015006e99",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "认可原先无限慢速方案，抱怨改积分后弃用。"
+    },
+    {
+      "id": "7669392239815377713",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "虚构发布模型前做空赚钱的情节，明显用于调侃。"
+    },
+    {
+      "id": "6a6c98e60000000004038069",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "预测试用高峰会减速，峰值过去后恢复。"
+    }
+  ]
+}

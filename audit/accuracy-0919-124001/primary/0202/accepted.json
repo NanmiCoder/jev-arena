@@ -1,0 +1,788 @@
+{
+  "items": [
+    {
+      "id": "311818771696",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "认为参数规模不同使直接比较不成立。"
+    },
+    {
+      "id": "2083084744762261770",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "直接称赞DeepSeek的成果。"
+    },
+    {
+      "id": "311859978560",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "围绕AI与高人的比较玩谐音梗。"
+    },
+    {
+      "id": "p0wribf",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "赞赏廉价技术普及，并用内卷万岁调侃。"
+    },
+    {
+      "id": "308507202769",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正模型发布时间，未明显评价优劣。"
+    },
+    {
+      "id": "7668698269610296098",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待",
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "看好Pro与自家框架，并期待超过国外产品。"
+    },
+    {
+      "id": "308440128321",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问与Pro的比较及是否支持识图。"
+    },
+    {
+      "id": "7668703088959013669",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否提供CLI以搭配Hermes使用。"
+    },
+    {
+      "id": "311619310512",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "附和并请求分享试用提升，但具体对象缺失。"
+    },
+    {
+      "id": "6a6e1667000000002b02468f",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "提及工具适配，并明确对Flash表现失望。"
+    },
+    {
+      "id": "308587584625",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "用梁与鲸的谐音梗表达对DeepSeek的肯定。"
+    },
+    {
+      "id": "311733339920",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "推测公司对C端需求的取舍，或含轻微不满。"
+    },
+    {
+      "id": "6a6d48630000000005008a0c",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "称其只是执行者，但他所指模型或人不明。"
+    },
+    {
+      "id": "311760575648",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "表达给UP主投币支持，未讨论AI。"
+    },
+    {
+      "id": "311815846384",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否可在OpenCode免费使用。"
+    },
+    {
+      "id": "308570878081",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality",
+        "capability",
+        "performance",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "承认质量与多模态不足，同时肯定速度和成本。"
+    },
+    {
+      "id": "6a6e1593000000000500970e",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "content",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认可试用能力，并建议提供案例方便对比。"
+    },
+    {
+      "id": "311664899616",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "praise",
+        "other"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.6,
+      "reason": "惊叹费用不足三元，偏赞赏低价。"
+    },
+    {
+      "id": "308480891137",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "以起飞调侃更高档版本的潜力，数字含义不明。"
+    },
+    {
+      "id": "311825224064",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "请求下一次挑战或测试Grok4.5。"
+    },
+    {
+      "id": "311869137136",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "认为小模型受参数限制，难以胜任小说写作。"
+    },
+    {
+      "id": "7668891569747215153",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "反对不算正事的判断，但这的指代缺失。"
+    },
+    {
+      "id": "311861134864",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "期待Pro正式版，将Flash定位为甜品级。"
+    },
+    {
+      "id": "p11rr3l",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "分享Opus强大使用体验，有条件看好新模型。"
+    },
+    {
+      "id": "2083090903166779886",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认为发布是AI社区的重要好消息。"
+    },
+    {
+      "id": "6a6e21e100000000150118ac",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨即使写好技能，Codex仍犯低级错误。"
+    },
+    {
+      "id": "308432644129",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "反问并反对将缺少多模态当作优势。"
+    },
+    {
+      "id": "311694407712",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.6,
+      "reason": "称赞猫娘形象并调侃发布时间，未评价AI使用。"
+    },
+    {
+      "id": "6a6e336d0000000005017bc5",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "愤怒",
+        "质疑"
+      ],
+      "score": -0.9,
+      "reason": "借积分制批评TRAE运营决策，语气强烈。"
+    },
+    {
+      "id": "311927397984",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议直接提示模型简洁输出。"
+    },
+    {
+      "id": "308436066577",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问所指AI产品是否为TRAE。"
+    },
+    {
+      "id": "308427010161",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "仅感谢对方解答，未见具体AI讨论内容。"
+    },
+    {
+      "id": "6a6ddb38000000002b028aa1",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问接入DeepSeek后旧对话是否保留。"
+    },
+    {
+      "id": "p16gzyt",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提示OpenCode Go入口及中国数据中心开关。"
+    },
+    {
+      "id": "308608618337",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述他人对Luna的比较评价，自身立场不明。"
+    },
+    {
+      "id": "311720205744",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "详细说明CCS更新后的DeepSeek接入配置。"
+    },
+    {
+      "id": "308610753601",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅感叹太狠并带笑哭，缺失所指内容。"
+    },
+    {
+      "id": "p16mnps",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问哪个模型适合在OpenCode运行DnD技能。"
+    },
+    {
+      "id": "308491645009",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "赞K3理解准确返工少，指出Flash不足并期待Pro。"
+    },
+    {
+      "id": "311916116448",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "希望获得分音轨源文件，以便自由修改生成音乐。"
+    }
+  ]
+}

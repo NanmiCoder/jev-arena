@@ -1,0 +1,809 @@
+{
+  "items": [
+    {
+      "id": "7668868794186662690",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问生成图片能力来自模型本身还是智能体或插件。"
+    },
+    {
+      "id": "7668880439527916347",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述通过自编软件调用模型的使用方式。"
+    },
+    {
+      "id": "308579221441",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "price",
+        "quality",
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "批评Luna速度价格质量，同时肯定其多模态优势。"
+    },
+    {
+      "id": "p13h5nn",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "嘲讽他人因提前使用额度重置而不满。"
+    },
+    {
+      "id": "311739509072",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "质疑跑分代表实际能力，认为未必胜过GLM5.1。"
+    },
+    {
+      "id": "308514154737",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认为已经足够，并肯定相对其他产品的额度耐用性。"
+    },
+    {
+      "id": "7669273844767130405",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "表达Hermes更好用的个人比较评价。"
+    },
+    {
+      "id": "311621529520",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "以“后训练神力”肯定GLM能力并猜测其技术储备。"
+    },
+    {
+      "id": "311711428368",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "纯打call表情表达支持，没有具体AI讨论。"
+    },
+    {
+      "id": "p148hl5",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "performance"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.95,
+      "reason": "强烈赞赏模型效果好、便宜且速度快。"
+    },
+    {
+      "id": "308464509601",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "反问对方凭何认定自己没看过，具体对象缺失。"
+    },
+    {
+      "id": "311692073088",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [],
+      "e": [
+        "期待",
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "玩梗等待“专属坐骑”，是否指模型配套工具不明确。"
+    },
+    {
+      "id": "311824513392",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释缓存命中的前缀条件并推测未命中原因。"
+    },
+    {
+      "id": "7668864264362509105",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "质疑他人未实际使用就给模型差评。"
+    },
+    {
+      "id": "7668892371123356416",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释未命中档位与缓存命中对实际费用的影响。"
+    },
+    {
+      "id": "308495318417",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "用“跑分特化人类”调侃，所指人物及AI关联不明。"
+    },
+    {
+      "id": "7669057435587593006",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "反问不用是否就不补贴，补贴对象和背景缺失。"
+    },
+    {
+      "id": "311774243472",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称赞设备体积、价格及功耗噪音，是否专指AI设备有歧义。"
+    },
+    {
+      "id": "308570652209",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "赞美bug管理页面外观，未明确其与AI的关系。"
+    },
+    {
+      "id": "311912247680",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service",
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "比较GLM与Kimi套餐的额度及价格。"
+    },
+    {
+      "id": "308487173393",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅有网络梗式回复，缺乏明确AI讨论对象。"
+    },
+    {
+      "id": "7668942085076124465",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "表达AI硬件下跌、应用发展起来的行业期望。"
+    },
+    {
+      "id": "308387938049",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "调侃“姐姐”情绪稳定，可能指角色或模型拟人形象。"
+    },
+    {
+      "id": "7669354676835992347",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明云端模型调用与本地电脑性能无关。"
+    },
+    {
+      "id": "7668764295412728633",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "批驳对方对原生与嫁接多模态能力差异的理解。"
+    },
+    {
+      "id": "308587375921",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供自身花费并询问对方是否缓存命中率低。"
+    },
+    {
+      "id": "311722564288",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.7,
+      "reason": "肯定智能体能力增强，并举更新记忆的使用体验。"
+    },
+    {
+      "id": "7668891990088057649",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "认为余额提醒源于接入不正确并纠正对方判断。"
+    },
+    {
+      "id": "311631022144",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "期待"
+      ],
+      "score": -0.4,
+      "reason": "质疑当前测评准确性，表示要等官方配套工具。"
+    },
+    {
+      "id": "6a6ea4ea000000002a02f91a",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "反对利好判断，认为低价将压缩美国AI及硬件利润。"
+    },
+    {
+      "id": "311914495424",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用“专武”玩梗，建议模型带配套工具一起测试。"
+    },
+    {
+      "id": "311858836752",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "other"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "指出SSD缓存方案折旧成本高，并比较存储颗粒。"
+    },
+    {
+      "id": "308394401905",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问统计图来源网站及链接，未明确图表具体内容。"
+    },
+    {
+      "id": "311830809136",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "指出其他方案更贵，标题暗示AI部署但具体方案缺失。"
+    },
+    {
+      "id": "7669387712054575908",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "usability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "肯定DeepSeek能力及低价，也指出缺多模态需额外提示。"
+    },
+    {
+      "id": "308420130353",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "否定对方对大小或程度的判断，缺乏具体指代。"
+    },
+    {
+      "id": "311752098288",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "并列国内外模型拒答话术，讽刺评价标准不一致。"
+    },
+    {
+      "id": "6a6d62f10000000015001bdd",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "调侃黑粉认真阅读，没有明确AI模型或使用讨论。"
+    },
+    {
+      "id": "311820930896",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测测试未开启最高思考强度。"
+    },
+    {
+      "id": "7668944952156046129",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测某模型强于Flash，但不确定与下一代Pro的比较。"
+    }
+  ]
+}

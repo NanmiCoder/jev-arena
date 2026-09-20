@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "被DeepSeek V4 Flash正式版惊到了！",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "美国小哥实测DeepSeekV4Flash：花不到1美元，AI给他做了个GTA+射击游戏，这Flash怎么比pro还pro？",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "要被外网的一些评论笑死了😂😂😂",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek V4 Flash 0731 in Hermes Agent and one prompt, took 32 minutes and cost 0.07$, this model is so cheap to the point where 2 dollars can last you a full day.",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "DeepSeek V4 Flash API is 18x cheaper on input, 28x cheaper on output, and matches Opus 4.8. Time for Claude to atleast reduce sonnet pricing",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "deepseek-v4-flash-0731？",
+    "DeepSeek-V4-Flash-0731 is now over 2x faster than yesterday on Ollama's cloud!",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)"
+  ],
+  "comments": [
+    {
+      "id": "p0u0q4z",
+      "t": 0,
+      "content": "does it finally support Vision"
+    },
+    {
+      "id": "311715333056",
+      "t": 1,
+      "content": "回复 @大王派我来巡珊 : [doge_金箍]放开跑，一天能跑dp官方300人民币的token，你以为"
+    },
+    {
+      "id": "7668905592979473162",
+      "t": 2,
+      "content": "kimi，k3一副高高在上的样子，AI界的劳斯莱斯， 科技要服务于民，用之于民！"
+    },
+    {
+      "id": "308351919297",
+      "t": 3,
+      "content": "没必要拉踩，都很厉害，GLM5.2现在用的很爽"
+    },
+    {
+      "id": "6a6ed693000000002b0270e1",
+      "t": 4,
+      "content": "为什么我在windows切换后原来的对话都没了（依赖指定工作区的对话）"
+    },
+    {
+      "id": "7669030704277160762",
+      "t": 2,
+      "content": "你不审题的吗"
+    },
+    {
+      "id": "308406203457",
+      "t": 5,
+      "content": "用正确的skill，尤其是tdd和epcs，约束才是模型的甜品区，放开让模型跑，模型只能撒丫子奔跑了，你就说快不快吧"
+    },
+    {
+      "id": "311842967984",
+      "t": 6,
+      "content": "flash感觉确实比pro好用，我Pro解决不了的bug，flash居然能解决[呲牙]"
+    },
+    {
+      "id": "6a6db93a00000000050168f8",
+      "t": 7,
+      "content": "真正猛的地方是价格，跟D差不多水平的要是不跳水降价，就要被他肘死了"
+    },
+    {
+      "id": "311780946752",
+      "t": 8,
+      "content": "我看总共烧人人家一千多块钱[笑哭]"
+    },
+    {
+      "id": "308421876017",
+      "t": 9,
+      "content": "回复 @非著名艺术家 :所以我说最近这个版本还行，上一个版本纯粹的刷分刷出来的。"
+    },
+    {
+      "id": "311658218224",
+      "t": 10,
+      "content": "在 Microsoft Store 更新到最新版本，我感觉是已经解决了。你可以开那个任务管理器看一下，如果你的 wmi CPU 占用率很高，你看一下任务管理器中的进程有没有非常多的 taskkiller，如果满足上述两个条件，大概率就是 codex 引起的进程风暴，似乎已经修复了，我更新到最新版本之后，没有遇到这个问题。"
+    },
+    {
+      "id": "p0u65he",
+      "t": 0,
+      "content": "192 gb of ram and 32 gb of VRAM for this level of intelligence is bonkers."
+    },
+    {
+      "id": "308470490321",
+      "t": 11,
+      "content": "哈哈，昨晚就跑了[doge_金箍]"
+    },
+    {
+      "id": "308458242817",
+      "t": 12,
+      "content": "我没测出来这种选项"
+    },
+    {
+      "id": "6a6d7bf90000000015007f55",
+      "t": 13,
+      "content": "kimi很强"
+    },
+    {
+      "id": "311930464400",
+      "t": 14,
+      "content": "因为没人买了, 所以不用抢了."
+    },
+    {
+      "id": "311686194176",
+      "t": 3,
+      "content": "事实上，我们赢得太多了，以至于不知道我们该如何继续赢下去\u0014[doge]"
+    },
+    {
+      "id": "308501518417",
+      "t": 8,
+      "content": "赶紧吃赶紧吃"
+    },
+    {
+      "id": "308616204225",
+      "t": 15,
+      "content": "回复 @梦想家起飞 :输入价格本来就是输出的1/2，再加上缓存命中后只有1/50。最终费用影响不了多少"
+    },
+    {
+      "id": "p13uxa6",
+      "t": 16,
+      "content": "With Hermes agent and any open model, that I can run on my computer, can I have a fully autonomous agent like Codex and Claude Cowork?"
+    },
+    {
+      "id": "311718959232",
+      "t": 17,
+      "content": "回复 @QuantumQuasar :降了80%[笑哭]再加上openrouter叠加折扣"
+    },
+    {
+      "id": "308431370737",
+      "t": 18,
+      "content": "回复 @电子橙子 :这肯定是不可能啊，国模第一都够呛"
+    },
+    {
+      "id": "311923545872",
+      "t": 14,
+      "content": "回复 @虚幻仙贝 : 写demo和写实际工程项目完全是两个概念，只实现主干功能没人愿意会为产品付费的"
+    },
+    {
+      "id": "308394194721",
+      "t": 3,
+      "content": "回复 @99今天吃什么 :比v4Pro强"
+    },
+    {
+      "id": "7668869500615689018",
+      "t": 19,
+      "content": "你记忆错乱了，v4pro 一直是 preview"
+    },
+    {
+      "id": "311868467888",
+      "t": 20,
+      "content": "回复 @木头人三告 :走API的话，开源和闭源有什么区别。有什么数据是开源能拿到闭源拿不到的"
+    },
+    {
+      "id": "311762220112",
+      "t": 21,
+      "content": "怀念pro版，我现在做个恐怖游戏至少得有一轮用来修bug[笑哭]"
+    },
+    {
+      "id": "308504326849",
+      "t": 10,
+      "content": "回复 @情为徒有虚名 :别接codex"
+    },
+    {
+      "id": "6a6d7caa0000000023000210",
+      "t": 13,
+      "content": "可以的。降低1倍就是降到0，降低2倍就是降到-100%。文中的降低18倍就是你用这个模型，倒贴给你1700%的费用。"
+    },
+    {
+      "id": "p11dfva",
+      "t": 22,
+      "content": "I second this, been using deepseek for over 3 months now, and it never fails to disappoint.  \nAnd if you want some more security, have gpt/fable/kimi write the PRD first, and then let deepseek program de PRD.\n\nWent from a 260eu subscriptions per month to spending 20eu in subscription + 100eu prepaid for 3 months of deepseek credits (still 20eu left). Its so cheap and so good, its insane"
+    },
+    {
+      "id": "6a6da98e00000000290370d3",
+      "t": 23,
+      "content": "免费好用的ai你就拿去用吧。没钱了你梁叔叔自己会去股市套"
+    },
+    {
+      "id": "311739928512",
+      "t": 10,
+      "content": "回复 @情为徒有虚名 :是不是因为pro没出正式版，说是要等八月中旬"
+    },
+    {
+      "id": "311879064880",
+      "t": 14,
+      "content": "回复 @夜言1234 :但是你光一张Pro六千也不行呀，还需要配套的内存平台和调试工具，这算下来也要几万了。不过现在有相对较低成本的方案，就是通过DSG Spark。"
+    },
+    {
+      "id": "311852258240",
+      "t": 20,
+      "content": "以前一直认为ds的上下文相当不错，现在更是🐮\n看来以后配合好的harness连续运行几天都没有问题"
+    },
+    {
+      "id": "308392494161",
+      "t": 18,
+      "content": "已经踢飞5.2了[doge]"
+    },
+    {
+      "id": "311733395600",
+      "t": 24,
+      "content": "回复 @陌风ちゃん :codez的cli好像是开源的，桌面端不是"
+    },
+    {
+      "id": "6a6e6b15000000002901afe8",
+      "t": 25,
+      "content": "k3的前段审美还是可以的，而且原生多模态，甚至能窥屏知道用户在干啥，第一次被吓了一跳，摸鱼都被看到了"
+    },
+    {
+      "id": "2083709480383250749",
+      "t": 26,
+      "content": "@ollama Nice! Going to try it out. Been using it to recap my sessions using my ai recording tool.\nhttps://t.co/aS0RUwxiBt"
+    },
+    {
+      "id": "308580977153",
+      "t": 27,
+      "content": "但为什么我问它你说什么版本的模型，他回答我是R1？我明明选的V4 flash"
+    }
+  ]
+}

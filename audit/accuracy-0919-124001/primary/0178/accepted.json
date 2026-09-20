@@ -1,0 +1,798 @@
+{
+  "items": [
+    {
+      "id": "7668930896690774833",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "称实际使用能力强到像Opus，明确赞赏。"
+    },
+    {
+      "id": "311790702064",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "以请求量差异谈性价比，但比较对象缺失。"
+    },
+    {
+      "id": "2083898677555302493",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "比较两模型能力与价格，认可各自适用优势。"
+    },
+    {
+      "id": "308586182337",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "承认自己操作顺序错误并补充正确步骤。"
+    },
+    {
+      "id": "311724071952",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "质问术语表达，缺少上下文难确定是否涉及AI。"
+    },
+    {
+      "id": "7669013874960974633",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅有股东躺下的玩梗，未明确讨论模型。"
+    },
+    {
+      "id": "p0wgcae",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型比较图中Kimi的位置。"
+    },
+    {
+      "id": "308459124289",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "直接肯定Flash，但未说明具体维度。"
+    },
+    {
+      "id": "p104m2y",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "报告特定硬件配置下的解码与预填充速度。"
+    },
+    {
+      "id": "308358659089",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "询问能否无需重配直接切换不同模型。"
+    },
+    {
+      "id": "311666779184",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出LLM与视频生成的区别，纠正能力理解。"
+    },
+    {
+      "id": "308497181713",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.6,
+      "reason": "劝避软件工程专业并担忧就业，未直接提及AI。"
+    },
+    {
+      "id": "308511310849",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "抱怨Sol额度不耐用，同时肯定Luna可用量。"
+    },
+    {
+      "id": "6a6cba5b00000000290193c2",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问hy3与标题模型的能力比较。"
+    },
+    {
+      "id": "p17nqhj",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "指责厂商借虚假需求高价出售Token。"
+    },
+    {
+      "id": "7669035520857654016",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "以鹦鹉代发言的玩梗方式表达转为支持DeepSeek。"
+    },
+    {
+      "id": "308388315841",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement",
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "赞同并承认误会，缺失被回应内容无法确定相关性。"
+    },
+    {
+      "id": "7668939977288876849",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "trust",
+        "service"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "质疑AI中转站可信度，认为用户会被收割。"
+    },
+    {
+      "id": "311822832256",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "称赞楼内干货并求回复留记号，未明确讨论AI。"
+    },
+    {
+      "id": "2083773492927893676",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "报告平均每秒150Token并表达满意。"
+    },
+    {
+      "id": "308409685505",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型此前发布版本与正式版的区别。"
+    },
+    {
+      "id": "7669066935829005071",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "建议直接给模型要求让其自行处理，语气戏谑。"
+    },
+    {
+      "id": "308603287697",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "认为越依赖技能和苛刻提示词越说明模型能力差。"
+    },
+    {
+      "id": "17927106",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅表示赞同，缺少所赞同内容，相关性不确定。"
+    },
+    {
+      "id": "308470374497",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明已启用dspark并提供未启用时的速度。"
+    },
+    {
+      "id": "308411071361",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "指出网页版尚未更新，质疑据此评测的有效性。"
+    },
+    {
+      "id": "p17yec7",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "反对把AI公司的降价归因于善意，强调逐利动机。"
+    },
+    {
+      "id": "308368162577",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "玩笑猜测Flash其实是Pro，隐含认可但未直接评价。"
+    },
+    {
+      "id": "7669044909920666378",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "结合发布标题表达对梁文峰及其模型的强烈支持。"
+    },
+    {
+      "id": "6a6de11f000000001500a788",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型具体优势是否在超长文本处理。"
+    },
+    {
+      "id": "6a6d2a6b00000000290364d8",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议安装skill并使用k3的API密钥。"
+    },
+    {
+      "id": "308493773441",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述公司未以多模态为主攻方向的说法。"
+    },
+    {
+      "id": "311888252368",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.7,
+      "reason": "批判垄断资本主义，但未明确指向AI行业。"
+    },
+    {
+      "id": "2083096037959586128",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "调侃公测套公测，绝字更像反讽而非明确赞扬。"
+    },
+    {
+      "id": "p139ve2",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以订阅使用场景纠正Luna与DeepSeek的价格比较。"
+    },
+    {
+      "id": "308404926689",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.1,
+      "reason": "戏称蓝色大肥鱼坏，可能指拟人形象而非模型使用。"
+    },
+    {
+      "id": "311637918720",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Codex接入后的模式选项及档位实际作用。"
+    },
+    {
+      "id": "2083826458833600642",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "suggestion"
+      ],
+      "a": [
+        "comparison",
+        "presentation"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "暗讽移除Opus后榜单才好看，质疑比较表现。"
+    },
+    {
+      "id": "6a6d9a3f00000000290255d5",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认可开源免费选择，以贬低高价购买者强化性价比观点。"
+    },
+    {
+      "id": "308465378113",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.1,
+      "reason": "结合模型部署标题询问DGX长时间运行的散热问题。"
+    }
+  ]
+}

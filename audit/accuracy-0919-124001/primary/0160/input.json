@@ -1,0 +1,239 @@
+{
+  "topics": [
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DSv4 Flash 0731 Running on Unoptimized Single 3090 System",
+    "Minimum VRAM GPU to run DeepSeek-V4-Flash-0731 Q4_K_XL  at around 30 t/s ?",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Has anyone actually used DeepSeek V4 Flash 0731 to solve complex, real-world problems in medium to large production codebases? I’m looking for honest feedback, not hype or toy-project benchmarks",
+    "OpenCode Go套餐 DeepSeek V4 Flash用量参考OpenCode 支持支付宝支付，套餐购买需要 34 人民币，可能是最容易买到的，量最大的 API\n使用Claude Code测试，CC Switch统计Token\n上下文长度大多保留在256K以内\n按照官方的积分来算的话，一个月的请求数相当于 5 个 5 小时请求数的最大值。使用 7838 万 token 的情况下，用掉了 5",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "deepseek v4flash正式版在手机上本地运行",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "在家跑deepseek v4 flash",
+    "DeepSeek-V4-Flash-0731 is now over 2x faster than yesterday on Ollama's cloud!",
+    "【中配】DeepSeek V4 Flash测评 全面测试霸榜前五！这波性能重回巅峰！",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "震惊瘫坐！deepseek v4 flash战地游戏生成，逆天性价比宛如看见核弹爆炸",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "Deepseek V4 Flash正式版全栈开发测评，非常强！",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)"
+  ],
+  "comments": [
+    {
+      "id": "2083293236714447123",
+      "t": 0,
+      "content": "@deepseek_ai @grok is the latest Deep seek fish version available on their web interface?"
+    },
+    {
+      "id": "p12zo7z",
+      "t": 1,
+      "content": "I am very curious how a short context lobotomized MoE with only 13B active parameters compares to a ~30B dense model running at Q8 with a long 250K+ context. In other words, how much of running DSv4 0731 on a single 3090 is an exercise in futility. Or even a 5090+4090 (my config which I use with Gemma 4 31B and Qwen 27B Q8 with 262K context).\n\nQ2 is a considerable downgrade despite 0731 being largely Q4 to begin with, and right now the usual hype cycle grips this subreddit. Sure, a well-trained frontier MoE at Q2 can still outperform a ~30B dense model on many tasks simply because its underlying capacity is so much greater, but the benchmark peaks are much less important than overall consistency.\n\nShiny new toy go brr (at 4 to 12 t/s)."
+    },
+    {
+      "id": "p0xzm3y",
+      "t": 2,
+      "content": "Just as a confirmation, with two RTX Pro 6000 Max-Qs (192gb vram total) I'm running fully on GPUs with vLLM, very steady 122 tokens per second.  Full 1M context supported."
+    },
+    {
+      "id": "308418553281",
+      "t": 3,
+      "content": "https://www.zhihu.com/question/2066524692392031246/answer/2066807694225420739?share_code=IqSX3sHRewKm&amp;utm_psn=2066815044407538605"
+    },
+    {
+      "id": "p133vvr",
+      "t": 4,
+      "content": "Should I use this for everyday coding tasks with instructions from opus ? If not what model do you recommend"
+    },
+    {
+      "id": "2083903474157388143",
+      "t": 5,
+      "content": "OpenCode Go套餐 DeepSeek V4 Flash用量参考OpenCode 支持支付宝支付，套餐购买需要 34 人民币，可能是最容易买到的，量最大的 API\n使用Claude Code测试，CC Switch统计Token\n上下文长度大多保留在256K以内\n按照官方的积分来算的话，一个月的请求数相当于 5 个 5 小时请求数的最大值。使用 7838 万 token 的情况下，用掉了 5 小时额度的 16%。同样的价格， Open Code 的用量是官方的 3.9 倍"
+    },
+    {
+      "id": "7668855573202649893",
+      "t": 6,
+      "content": "牢梁说了，因为资源有限所以就专注干主线AGI，多模态在他们内部是一个重要的支线任务，也在研究，但肯定不会搞得很快"
+    },
+    {
+      "id": "308520827089",
+      "t": 7,
+      "content": "回复 @十一维跃迁 :梁哥志不在此，他认为需要让llm聪明到一定程度实现自举后自我迭代到agi，在此之前浪费参数去做多模态是拖慢进程"
+    },
+    {
+      "id": "7668929791400493873",
+      "t": 8,
+      "content": "不需要梯子，用官方文档接入codex方法，你在终端运行那行脚本配置好后，直接用就行了，不需要梯子。"
+    },
+    {
+      "id": "7669021118653088518",
+      "t": 6,
+      "content": "@Fangege"
+    },
+    {
+      "id": "308451151265",
+      "t": 9,
+      "content": "竞技场已经超4.8 opusthinking 了"
+    },
+    {
+      "id": "311876784656",
+      "t": 10,
+      "content": "回复 @城乡结合部土豆豆 : 问题是缓存命中率高啊？我昨天试了下api命中率99.1，本地你可以拉硬盘缓存啊，更高了。价格能有输出的1/4吗"
+    },
+    {
+      "id": "311885888080",
+      "t": 11,
+      "content": "睡一觉 发现AI说的还没自己梦话字数多"
+    },
+    {
+      "id": "311725268192",
+      "t": 12,
+      "content": "代码上已经能了，模型上还差点"
+    },
+    {
+      "id": "311724400336",
+      "t": 9,
+      "content": "DeepSeek是单模态，根本没有看图的能力"
+    },
+    {
+      "id": "308555437073",
+      "t": 13,
+      "content": "回复 @至極普通の魔法使 :我用各种不同的模型跑过，Claude opus的效果是最好的，能理解我的意图，审美水平很高，gpt5.6 sol xhigh第一遍战斗演出也还是有问题，其它的只能说凑合，尤其是战斗演出都做不好"
+    },
+    {
+      "id": "311907083840",
+      "t": 14,
+      "content": "回复 @Stardust_et :没有万能的提示词，\n好的模型是不用你自己随时提醒他对我.\n你看up的示范都是些简单工作.\n你让一个几百b 做复杂逻辑是不是有点难为他了\n[doge]"
+    },
+    {
+      "id": "2083219174097408239",
+      "t": 0,
+      "content": "@deepseek_ai 感谢 DeepSeek 解决了我的 token 考虑\n\n自从 DeepSeek-V4-Flash 出来\n\n感觉 token 可以无限使用了\n\n这次 DeepSeek-V4-Flash-0731 能力又上了一个新台阶"
+    },
+    {
+      "id": "308587657425",
+      "t": 15,
+      "content": "抽我抽我[星星眼][星星眼]"
+    },
+    {
+      "id": "6a6f09400000000009014a4a",
+      "t": 16,
+      "content": "prefill速度多少，这个好像影响更大"
+    },
+    {
+      "id": "2083708254329180417",
+      "t": 17,
+      "content": "@ollama how fast gang https://t.co/n0YlWNKrMp"
+    },
+    {
+      "id": "308373791745",
+      "t": 18,
+      "content": "这还是flash，等pro吧，"
+    },
+    {
+      "id": "308365038897",
+      "t": 19,
+      "content": "给大家科普一下啥叫ai味。不是，不是，是。就这么个结构。就是在描述看到，感到，闻到，听到，这种感官的时候，比如，甬道的尽头……正常人肯定会接着说是啥，但ai不会，它一定会说：不是石室，而是山谷，如果你看到这种句子，妥妥ai"
+    },
+    {
+      "id": "311731353632",
+      "t": 9,
+      "content": "回复 @没有子目 :通道随时挂，上下文不能保证；有没有偷换模型你也不知道；有没有塞恶意程序你也不知道[吃瓜]"
+    },
+    {
+      "id": "7668829954263843620",
+      "t": 20,
+      "content": "[热化了]完全ok"
+    },
+    {
+      "id": "311856422256",
+      "t": 21,
+      "content": "回复 @寒酥侯 :我昨天晚上flash用了三个多亿token，十二块钱，缓存命中率99％+"
+    },
+    {
+      "id": "311765143408",
+      "t": 7,
+      "content": "回复 @克洛菲丽 :我还以为你指的是每当他出错的时候 你手动打断他"
+    },
+    {
+      "id": "308389389009",
+      "t": 22,
+      "content": "回复 @这个刀子真甜 :好在没涨价[大笑]"
+    },
+    {
+      "id": "308573838641",
+      "t": 23,
+      "content": "回复 @月夜下的琉璃色 :让 luna 给 DeepSeek 打打下手也不是不可以[doge]"
+    },
+    {
+      "id": "311671289312",
+      "t": 24,
+      "content": "已根据您的要求重新优化，确保每句通顺自然、符合现代汉语习惯，且严格满足所有约束条件（结尾数字按一到十顺序、倒数第二字互不重复且不包含“第”“是”“为”）。他对待工作始终如一。（倒数第二字：如）\n\n他性格刚直，说话向来言出必行、说一不二。（倒数第二字：不）\n\n同样的错误犯了一次两次就算了，毕竟事不过三。（倒数第二字：过）\n\n做人应当专心致志，切忌朝三暮四。（倒数第二字：暮）\n\n老先生今年年过花甲，虚岁六十有五。（倒数第二字：有）\n\n简单的算术题里，一加五正好得出六。（倒数第二字：出）\n\n比赛进行到下半场，比分依然维持在零比七。（倒数第二字：比）\n\n仓库里的货物摆放得乱七八糟，纸箱更是横七竖八。（倒数第二字：竖）\n\n他生于九零年，如今虚龄二十九。（倒数第二字：十）\n\n这支精锐部队训练有素，个个能以一当十。（倒数第二字：当）\n\n本地 qwen3.6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp  跑第二遍的结果"
+    },
+    {
+      "id": "6a6dfb30000000002901945d",
+      "t": 25,
+      "content": "周一Ai继续跌"
+    },
+    {
+      "id": "311721210656",
+      "t": 18,
+      "content": "这视频我实在油管先看见的"
+    },
+    {
+      "id": "6a6e437b0000000015003757",
+      "t": 26,
+      "content": "你们这些agent又不是什么自研模型，搞这些包月会员起劲的很。"
+    },
+    {
+      "id": "p0tsqvm",
+      "t": 27,
+      "content": "https://preview.redd.it/5rbps4mgkigh1.png?width=990&format=png&auto=webp&s=9723046f305dcb4bf41349666e39a2b406c5a9ce"
+    },
+    {
+      "id": "6a6da5160000000015004ab5",
+      "t": 28,
+      "content": "别人重置的条件和时间，1每增加100万人重置，2 claude 发布大模型的时候重置 3当时重置时期 ds 还是路边一条，，请问是如何将别人的行为和 ds 关联起来的"
+    },
+    {
+      "id": "7668949568776471311",
+      "t": 29,
+      "content": "很多人不懂，一句话总结就是：最少的参数量挤身全球前3"
+    },
+    {
+      "id": "7668984250805142299",
+      "t": 29,
+      "content": "286B-13b。K3 2800B-100B吧，有可比性？"
+    },
+    {
+      "id": "6a6c65b200000000290265f5",
+      "t": 30,
+      "content": "正式版和preview版实际有多少不同"
+    },
+    {
+      "id": "308560493681",
+      "t": 31,
+      "content": "其实就是参数量小，许愿式编程不太行，这种一句话生成式的测试结果不好，但是做好了计划执行表现不错。甚至让它自己做计划也行，但是要花点功夫一步步把计划做完善。"
+    },
+    {
+      "id": "308541526193",
+      "t": 32,
+      "content": "回复 @狛枝·凪斗 :只要一个剩下九个没活干本来就是客观事实，你解决不了这个问题非要安慰别人很不负责任，而当别人指出这个事实之后你没法反驳了就干脆让人家转行更不负责任了"
+    }
+  ]
+}

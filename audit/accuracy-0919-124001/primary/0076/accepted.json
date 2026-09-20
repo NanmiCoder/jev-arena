@@ -1,0 +1,803 @@
+{
+  "items": [
+    {
+      "id": "308435667185",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "陈述GLM涨价，笑哭带轻微无奈，抱怨程度不明。"
+    },
+    {
+      "id": "6a6d91e5000000000d023c01",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.2,
+      "reason": "陈述模型掉榜，汗颜表露轻微失落。"
+    },
+    {
+      "id": "311869687808",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "同求表示求助，但缺少父评论，无法确定所求对象。"
+    },
+    {
+      "id": "7668941555553813258",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "询问月费与周成本如何对应，带质疑语气。"
+    },
+    {
+      "id": "308457606385",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.4,
+      "reason": "以打赢K3为条件判断技术领先，属于条件性评价。"
+    },
+    {
+      "id": "308464940321",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other",
+        "information"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "感谢并表示问题解决，但具体解决事项缺失。"
+    },
+    {
+      "id": "311633479840",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明内置模型及自定义官方接口的配置方法。"
+    },
+    {
+      "id": "311641269696",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供重建密钥和关闭路由等排障操作建议。"
+    },
+    {
+      "id": "7669294591913526075",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "拿周额度截图反驳并叫对方闭嘴，账号对象略有歧义。"
+    },
+    {
+      "id": "308424801057",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "批评连Max都不开，但Max具体所指不明。"
+    },
+    {
+      "id": "308427088449",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "以Luna降价判断DS价格优势减弱。"
+    },
+    {
+      "id": "7669234161215554314",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "用DeepSeek谐音高喊万岁，明确表达支持。"
+    },
+    {
+      "id": "311826018480",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "结合部署标题说明四机可用及互联成本上升。"
+    },
+    {
+      "id": "308420821425",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "反驳硬件需额外计价，肯定部署可降低运营成本。"
+    },
+    {
+      "id": "311902793472",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "建议跨地区看模型评测以互相监督，隐含可信度疑虑。"
+    },
+    {
+      "id": "311764265760",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "将正文前的合规声明称作叠甲，带轻微贬意。"
+    },
+    {
+      "id": "311729438080",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "提供OpenCode使用途径并称其比API便宜。"
+    },
+    {
+      "id": "6a6e32ef00000000150002e5",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "反问对方是否看不到外网，主要针对他人进行嘲讽。"
+    },
+    {
+      "id": "311682737120",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "赞同对方并分享几轮对话就完成且全对的编程体验。"
+    },
+    {
+      "id": "311645223664",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供恢复官方模型及重新配置的具体操作步骤。"
+    },
+    {
+      "id": "308613399137",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正涨价已生效的潜在误解，指出尚未上线。"
+    },
+    {
+      "id": "311750133872",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "明确表示自己用得很爽，未说明具体满意维度。"
+    },
+    {
+      "id": "308488826961",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "以六千万Token仅两元反驳价格贵的说法。"
+    },
+    {
+      "id": "6a6e08ce000000000b039929",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "批评5.5涨价过贵并认为不如用Sol。"
+    },
+    {
+      "id": "311925162368",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "service",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "分享广泛使用、公司报账及额度充裕的满意体验。"
+    },
+    {
+      "id": "6a6dcee8000000002b001ecf",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "肯定编码体验；不支持视觉也可能只是中性限制说明。"
+    },
+    {
+      "id": "308434875265",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "反驳掺水猜测，肯定Luna能力与套餐并批评中转贵。"
+    },
+    {
+      "id": "7668924094645617465",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "惊喜",
+        "调侃"
+      ],
+      "score": 0.8,
+      "reason": "称Flash秒杀Pro，用倒反天罡表达惊讶和赞许。"
+    },
+    {
+      "id": "311714182848",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问制作模组的软件及AI自动建模能力。"
+    },
+    {
+      "id": "308527725569",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅问是嘛，缺少父评论，相关对象和态度无法确定。"
+    },
+    {
+      "id": "2083341634289435015",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问本地运行该模型所需的硬件规格。"
+    },
+    {
+      "id": "311806598576",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "推荐适配DS的Reasonix，并肯定缓存命中率。"
+    },
+    {
+      "id": "311626354544",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.5,
+      "reason": "用斩了智谱形容模型竞争优势，带玩梗口吻。"
+    },
+    {
+      "id": "7669054567301055289",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "陈述预览版或官方已不用，具体主语有歧义。"
+    },
+    {
+      "id": "311836084304",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "猜测团队有热衷本地部署的人，带轻松调侃。"
+    },
+    {
+      "id": "p0vsmji",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问表格采用新旧哪版Luna价格及其比较影响。"
+    },
+    {
+      "id": "p13s6xa",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "赞同对方体验，肯定遵循结构能力却批评破坏项目逻辑。"
+    },
+    {
+      "id": "308418742465",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "重复肥鱼打油诗属于玩梗，未明确评价AI或其使用。"
+    },
+    {
+      "id": "308415738641",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "澄清讨论的是官方20x套餐，并高度肯定性价比。"
+    },
+    {
+      "id": "7668880323891053369",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "reliability",
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "论述模型优化难点与用户价值，未评价具体产品好坏。"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "topics": [
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "DeepSeekV4-flash上线 外网的反应 开源免费就没有不香的道理",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek v4 flash正式版测试，效果出乎意料~ #deepseek",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "I don't think Anthropic and OpenAI will survive",
+    "DeepSeek V4 Flash 0731すごいな\nマンパワーとか人海戦術って人間では言うけど\n同じことをやらせても数ドルで実現できそう",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4 Flash最新测评！Claude Code版！",
+    "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek V4 Flash接入Codex教程（可识图）",
+    "With release of Deepseek V4 I wanted see how the model sizes are trending over time. The trend is that by this time next year, we probably will have Opus 4.5 level models on consumer grade laptops!",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "突发！DeepSeek V4 Flash正式版API上线公测"
+  ],
+  "comments": [
+    {
+      "id": "311719849776",
+      "t": 0,
+      "content": "回复 @沒什麽大不了的 :这样算是罕见的了，我记得好像是在太空武器上当时就只有美国投了拒绝票，但是中国做为世界第二大太空国家，实际上也可以选择不投的，这次都不投只能说是我已经强的可怕了。"
+    },
+    {
+      "id": "308528596209",
+      "t": 1,
+      "content": "回复 @道然画眉鸟 :会话的中途不要频繁切换模型、不要频繁开关Skills。一个会话做一类事，不要天马行空聊，在上下文窗口内可以稍微聊长一点利于命中之前的缓存。注意控制subagent数量，subagent能提升效率、减少污染但也会降低命中率。我以前用老版本Claude code命中率都在99%左右；但是新版Claude code似乎很喜欢派发任务给子代理且前缀似乎频繁变动，我搞了半天日常使用命中率还是始终低于95%，这对我来说不可用。而这个99.6%的命中率是我用一个开源项目cc-haha达到的，它用了之前泄露的旧版本cc源码魔改而成，有一定优化，我觉得比较好用。总之选对工具和养成良好的使用习惯可以节约时间和金钱。"
+    },
+    {
+      "id": "308590466833",
+      "t": 2,
+      "content": "问题很简单，你没有充值ds,创建的API就无法连接codex"
+    },
+    {
+      "id": "7668888002827289380",
+      "t": 3,
+      "content": "中转算了吧，那你还是用ds官方api吧 顶多需要多模态的时候，充个luna用用 ，中转都不靠谱。"
+    },
+    {
+      "id": "7669015674190725937",
+      "t": 4,
+      "content": "便宜，当然得看你的使用量，假如你一个月能做到官方消费35元以上，那就可以上opencode，或者说你想用其他模型，open code 现在还有luna k3 glm5.2  和grok4.5"
+    },
+    {
+      "id": "6a6df6f2000000002a02e55c",
+      "t": 5,
+      "content": "不是用来炒股的吗[捂脸R]"
+    },
+    {
+      "id": "7668995286493397794",
+      "t": 3,
+      "content": "重要的是便宜"
+    },
+    {
+      "id": "308565867073",
+      "t": 6,
+      "content": "回复 @JackySmile :嗯，我是这么觉得。\n如果我们只是单纯的拼质量和智力，那么flash还是和5.5和4.8有距离的。\n而且从另一个角度思考，如果你没有办法根据自己目前的实际工作流来分辨出flash是否比5.5和4.8更好，我觉得或许你也可能真的不需要订阅5.5和4.8（没有贬义的意思，只是单纯的从实际角度考虑了一下，就例如一辆十几万的皮卡和一辆五十几万的皮卡拉的货都一模一样，你也分不出来哪个车好开，更适合你，但是十几万的皮卡人家省油，那我个人还是觉得你直接开十几万的更好一点。） 。\n最后梁叔叔的杀招是后训练的Pro，我个人感觉以目前flash的表现，后训练的Pro如果登场，是真的很有可能把5.5和4.8干掉的。"
+    },
+    {
+      "id": "7668952586703766322",
+      "t": 7,
+      "content": "大概率就在8月份，但具体日期，无法得知。第三方工具只能对齐模型通用接口，模型的特殊天赋还是要用官方工具才能更好的适配，这也是各大模型服务商的技术护城河。不过现在，倒也不必纠结，工具都是免费的，你觉得用什么顺手，就用什么。"
+    },
+    {
+      "id": "311922468160",
+      "t": 8,
+      "content": "回复 @繁殖大师 :有的，低量化精度问题 遇到算子问题 ，华为的卡相较于英伟达 糖的一批。你速度慢 也是糖的一种表现。"
+    },
+    {
+      "id": "308594763793",
+      "t": 9,
+      "content": "回复 @HansHuaaaaa :minimax最近开源一个视频生成的，虽然看效果比不上sd2"
+    },
+    {
+      "id": "308352931105",
+      "t": 10,
+      "content": "回复 @哭红颜_唤不回 :加上了年龄限制 这是之前没有的 但是可以通过先用Pro生成在转用flash绕过去"
+    },
+    {
+      "id": "7669041578040329009",
+      "t": 11,
+      "content": "ds确实便宜[看]"
+    },
+    {
+      "id": "308486887281",
+      "t": 12,
+      "content": "up你试一下ohmypi呢，这是个比较轻量级的agent，看dpsk发布的时候说的意思也像是用轻量级agent测试的"
+    },
+    {
+      "id": "308535584929",
+      "t": 13,
+      "content": "我充了10元，也弹出来APIkey无效"
+    },
+    {
+      "id": "p144at5",
+      "t": 14,
+      "content": "3€/day is Max plan on both OpenAi and Claude."
+    },
+    {
+      "id": "7669040879709750053",
+      "t": 4,
+      "content": "不加班啊。。"
+    },
+    {
+      "id": "308607243601",
+      "t": 1,
+      "content": "❖AI能让你更快发现问题里的关键线索❖"
+    },
+    {
+      "id": "2083689676586828262",
+      "t": 15,
+      "content": "DeepSeek V4 Flash 0731すごいな\nマンパワーとか人海戦術って人間では言うけど\n同じことをやらせても数ドルで実現できそう"
+    },
+    {
+      "id": "308559498033",
+      "t": 16,
+      "content": "回复 @青竹dult :之前一直是预览版，正式版八月出，现在v4flash的正式版已经超越v4pro的预览版了"
+    },
+    {
+      "id": "2083091520689987801",
+      "t": 17,
+      "content": "@deepseek_ai imagine pro model 😳"
+    },
+    {
+      "id": "308407730465",
+      "t": 18,
+      "content": "因为模型能力差不多但是进程大概落后了一年，自我进化需要长时间允许，他们说的解决数学猜想是运行了几周几个月才做到的，而简单的agent做不到这么久运行"
+    },
+    {
+      "id": "7669331638648046362",
+      "t": 19,
+      "content": "请问各位大佬， 这款是不是就是为了高分做的优化版啊"
+    },
+    {
+      "id": "6a6ee27a000000002902e76f",
+      "t": 20,
+      "content": "愿赌服输，要不别赌啊。"
+    },
+    {
+      "id": "7668756233445753658",
+      "t": 21,
+      "content": "......你能说出“训练时间还没有V4多”这种言论，那基本没得聊了"
+    },
+    {
+      "id": "p17js1g",
+      "t": 22,
+      "content": "Have you guys compare Deepseek v4 flash vs GPT 5.6 Luna?"
+    },
+    {
+      "id": "308533805329",
+      "t": 23,
+      "content": "是的。所以现在用flash。别用Pro。Pro还没发正式版。而且现还更贵"
+    },
+    {
+      "id": "311688992368",
+      "t": 24,
+      "content": "小参数模型确实需要开最高思考强度，这类模型普遍直觉和知识量极差，参考隔壁 luna max 和 sonnet max，都有大幅提升。\n所以 oneshot 测评下，high 就非常尴尬，首先花的时间也不少，但最终效果又大概率不如 max。\n所以您这两个视频是有点白测的。"
+    },
+    {
+      "id": "311720582752",
+      "t": 10,
+      "content": "回复 @捏捏阁下 :为啥我 成 年 的也不行啊"
+    },
+    {
+      "id": "7669235854092043065",
+      "t": 4,
+      "content": "目前来说也仅供参考吧，数据很难真实。ai没智力的，它只是大模型概率机器。[捂脸]"
+    },
+    {
+      "id": "308420340353",
+      "t": 23,
+      "content": "回复 @MSNoExpectation :200刀那个用满+自带重置额度的那个额度满算下来一块钱能买12刀"
+    },
+    {
+      "id": "p0v1hud",
+      "t": 25,
+      "content": "How many VRAM do i need?"
+    },
+    {
+      "id": "311858880752",
+      "t": 23,
+      "content": "习惯就好，AI的东西本来最花时间的就是 对话和 review"
+    },
+    {
+      "id": "311761460160",
+      "t": 23,
+      "content": "回复 @KawaYiLab : 你这关注的点[喜极而泣]行了一边玩去吧"
+    },
+    {
+      "id": "308527976433",
+      "t": 26,
+      "content": "回复 @俄方爱的色粉168 :谢谢解答[呲牙]"
+    },
+    {
+      "id": "6a6e353d000000002203e582",
+      "t": 27,
+      "content": "没有Max档位的思考怎么弄？"
+    },
+    {
+      "id": "p0xgm6a",
+      "t": 28,
+      "content": "< $50,000 ?\nI see a R9700 for ~1800 CAD. 6 of those gets you 192GB. Convert to USD, you can build it for < $10,000"
+    },
+    {
+      "id": "311828034960",
+      "t": 23,
+      "content": "codewhale也还行吧，用着挺可以的"
+    },
+    {
+      "id": "311691197872",
+      "t": 29,
+      "content": "没有比5.6sol在找茬方面更严格的模型，fable都不行"
+    },
+    {
+      "id": "6a6c5af70000000015005a8b",
+      "t": 30,
+      "content": "就在昨天，我接了整整一夜的电话。全是我们最忠实的开发者用户，他们不是来感谢的，他们是来投诉的！他们说：梁总，你们 V4 Flash 是不是疯了？我跑了一整晚的代码生成，账单出来只有一块两毛五，我以为你们系统 bug 了，专门又充了五十块钱进去测试！还有人说：梁总，你们返回得太快了！我前端 loading 动画还没放完，代码就已经写完了，现在我的 UI 设计师正在家里哭！"
+    }
+  ]
+}

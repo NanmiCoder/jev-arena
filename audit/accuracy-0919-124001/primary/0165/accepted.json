@@ -1,0 +1,788 @@
+{
+  "items": [
+    {
+      "id": "6a6e8e58000000002b02532f",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "借合理利润反讽拿钱，对象未明，是否指AI有歧义。"
+    },
+    {
+      "id": "311652341616",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述GPT数学能力经过专项强化。"
+    },
+    {
+      "id": "308337434017",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型是否支持多模态，语句稍有歧义。"
+    },
+    {
+      "id": "7668868262771409713",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合部署标题指出显存带宽不同，纠正意图不确定。"
+    },
+    {
+      "id": "311805060864",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "表示将分别测试high和max配置。"
+    },
+    {
+      "id": "6a6d7e760000000004039aaf",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "质疑人物被认作小布什，未涉及AI。"
+    },
+    {
+      "id": "311699795760",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "预测官方产品采用CLI而非桌面端。"
+    },
+    {
+      "id": "p0zql7g",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "指出平台尚无新版正式模型，或含轻微不满。"
+    },
+    {
+      "id": "308508766577",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "price",
+        "comparison",
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0,
+      "reason": "认可效果与价格，同时批评约束能力和稳定性。"
+    },
+    {
+      "id": "308419241217",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合AI使用语境建议直接在插件中搜索。"
+    },
+    {
+      "id": "6a6c910e0000000015009791",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "认可提升显著，并认为可达到GLM5.2水平。"
+    },
+    {
+      "id": "311718031920",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨每日费用较高，已接近负担不起。"
+    },
+    {
+      "id": "308366885393",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "调侃模型反复追问后会改变自报身份。"
+    },
+    {
+      "id": "7668936166167921448",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "庆祝正式版发布，并以选饮料玩梗。"
+    },
+    {
+      "id": "308586792385",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "分享两模型相近且后者命中率更高、更省的体验。"
+    },
+    {
+      "id": "311704302000",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "称赞小巧可爱，未能确定与AI有关。"
+    },
+    {
+      "id": "7668667042031960869",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "请求分享卡牌生成提示词。"
+    },
+    {
+      "id": "6a6d4c83000000000802d72d",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅问flash，可能指模型，也可能另有所指。"
+    },
+    {
+      "id": "p13dxht",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "高度赞赏DS编程、稳定性与价格，并讨论模型分工。"
+    },
+    {
+      "id": "6a6d88e4000000002a025987",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问美国为何不禁，缺少被禁对象，相关性有歧义。"
+    },
+    {
+      "id": "2083341459533562226",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "以Dario崩溃玩梗，称DS能力接近Opus。"
+    },
+    {
+      "id": "308458437649",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议免费使用GPT网页版并搭配DS。"
+    },
+    {
+      "id": "308400760961",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释CC Switch自动写配置、只需粘贴密钥。"
+    },
+    {
+      "id": "311730093664",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "comparison",
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "请求用一致提示词测试两版本配置的性能差异。"
+    },
+    {
+      "id": "308492646961",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述可运行的模型参数规模，属于部署信息。"
+    },
+    {
+      "id": "2083748062061556169",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型是否在免费套餐中可用。"
+    },
+    {
+      "id": "7669106617811698472",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合模型使用语境建议开启路由。"
+    },
+    {
+      "id": "7668883529102934841",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "调侃奖惩不对等，缺少对象，无法确定AI相关性。"
+    },
+    {
+      "id": "308551292161",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议统一模型后对比不同Agent能力。"
+    },
+    {
+      "id": "6a6d95d4000000002100e52b",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "production"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清图片由AI生成及自己关于改图的表述。"
+    },
+    {
+      "id": "311811425344",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "赞同并感叹预算受限，具体预算对象缺失。"
+    },
+    {
+      "id": "308388137249",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议区分借助Agent工具识图与模型直接读图。"
+    },
+    {
+      "id": "311723713344",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问切换DS后能否利用GPT API实现识图。"
+    },
+    {
+      "id": "311719175392",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "在模型接入语境下建议关闭路由。"
+    },
+    {
+      "id": "p10s8te",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "service",
+        "other"
+      ],
+      "e": [
+        "认可",
+        "担忧"
+      ],
+      "score": 0.8,
+      "reason": "赞赏开放权重提供替代选择，同时担忧访问限制。"
+    },
+    {
+      "id": "6a6d86ac000000002a02f425",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "许愿Pro支持多模态，表达功能期待。"
+    },
+    {
+      "id": "7668873126747505462",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "否定命中率归因，并给出项目推进中的监测经验。"
+    },
+    {
+      "id": "7669065980585755432",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "根据近十年限定纠正人物范围，未涉及AI使用。"
+    },
+    {
+      "id": "6a6cf0e0000000000d029800",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "比较Flash与Pro规模，或在纠正规模判断。"
+    },
+    {
+      "id": "7668722195971130139",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "用恩情梗表达感谢，可能指模型也可能指创作者。"
+    }
+  ]
+}

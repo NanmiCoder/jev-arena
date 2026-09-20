@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版深度实测",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "DeepSeek V4-Flash反超旗舰版",
+    "Thoughts on Deepseek v4 Flash 0731?",
+    "Deepseek-v4-Flash 0731 GGUF",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek-V4-Flash-0731 now far surpassing the DeepSeek-V4-Pro-Preview in benchmarks",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 正式版的一些测试",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "在家跑deepseek v4 flash",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "要被外网的一些评论笑死了😂😂😂"
+  ],
+  "comments": [
+    {
+      "id": "311646099856",
+      "t": 0,
+      "content": "回复 @SOS-凉宫春日 :我觉得GLM能反过来压力我，可能是因为我压力他了"
+    },
+    {
+      "id": "311643284464",
+      "t": 1,
+      "content": "测试用例太老了点"
+    },
+    {
+      "id": "7668901245189735183",
+      "t": 2,
+      "content": "正式版只能接入Codex吗？还是说现在的API就已经是正式版了，DeepSeek用reasonix不是更适配一点吗？"
+    },
+    {
+      "id": "311681991536",
+      "t": 3,
+      "content": "蹭流量这块[笑哭]"
+    },
+    {
+      "id": "311913234784",
+      "t": 4,
+      "content": "看来相比于CC确实更适配Codex"
+    },
+    {
+      "id": "6a6f0c710000000015010b95",
+      "t": 5,
+      "content": "现在期待pro真实版"
+    },
+    {
+      "id": "p0wvvrm",
+      "t": 6,
+      "content": "Deepseek flash has a major issue, where it will ignore your instruction if it believe what it wants to write is more natural. This hasn't changed with the new version, if anything it's worse.\n\nIf your instructions are simple and small, it'll listen. If it asks for anything that requires deepseek flash to actually put in work. It will try as hard as it can not to follow it."
+    },
+    {
+      "id": "p0ymzev",
+      "t": 7,
+      "content": "The Q2 and Q3 are almost all available!"
+    },
+    {
+      "id": "308497624529",
+      "t": 8,
+      "content": "模型能力是模型能力"
+    },
+    {
+      "id": "308370697345",
+      "t": 9,
+      "content": "两广人用农历[吃瓜]"
+    },
+    {
+      "id": "p0u8jh2",
+      "t": 10,
+      "content": "Let's publish the next-gen model and beat them!\n\nWenfeng: No, we publish it as our cheapest model."
+    },
+    {
+      "id": "7668755305311781642",
+      "t": 11,
+      "content": "你和我探讨，你一直在阐述你的观点，你都没有回答过我的观点"
+    },
+    {
+      "id": "311627149152",
+      "t": 9,
+      "content": "书记员: 我已记录，请注意语速。"
+    },
+    {
+      "id": "7669094614334325513",
+      "t": 12,
+      "content": "[微笑]跟这个比一下呢"
+    },
+    {
+      "id": "311633093152",
+      "t": 9,
+      "content": "明明是提前发布了 梁圣人说的是农历"
+    },
+    {
+      "id": "7669008266022634299",
+      "t": 13,
+      "content": "为什么你要用 API？公司的吗？"
+    },
+    {
+      "id": "308502440321",
+      "t": 14,
+      "content": "[doge]Make deepseek great again"
+    },
+    {
+      "id": "308602387249",
+      "t": 14,
+      "content": "我之前一直用opencode来使用的，有没有其他好用更适合deepseek的"
+    },
+    {
+      "id": "311701742368",
+      "t": 15,
+      "content": "哥们，你知道你在说什么吗？你怕是不知道K3的激活参数快是v4 Flash激活参数的10倍了。[doge_金箍]"
+    },
+    {
+      "id": "7668950685879272251",
+      "t": 12,
+      "content": "嘿嘿一天我能用一周的额度，你那不叫用"
+    },
+    {
+      "id": "311663342384",
+      "t": 15,
+      "content": "回复 @夜染之梦 :求教，我让它去学术资源库找论文，使用webfetch一直被拦截，具体该如何设置啊，真的很需要"
+    },
+    {
+      "id": "7668947994121962276",
+      "t": 12,
+      "content": "[看] 你一周都在干什么"
+    },
+    {
+      "id": "6a6c83370000000015006d55",
+      "t": 16,
+      "content": "这个价格如果还嫌贵，直接上opencode go，也是官方api，6倍用量根本蹬不完"
+    },
+    {
+      "id": "7668962624520438578",
+      "t": 12,
+      "content": "是cline嘛？"
+    },
+    {
+      "id": "7668688461398442801",
+      "t": 17,
+      "content": "真是又能干又便宜，V4 flash版[赞]"
+    },
+    {
+      "id": "6a6cd9d1000000002a033cb3",
+      "t": 18,
+      "content": "你的需求很重要吗，如果很重要的话，DeepSeek应该会采纳的"
+    },
+    {
+      "id": "6a6ec99e000000002a02d35f",
+      "t": 19,
+      "content": "双卡h100就搞这玩意？！ qwen27b，5000块钱的双卡2080ti nvlink都能fp8拉满上下文跑到100tps"
+    },
+    {
+      "id": "308382501537",
+      "t": 20,
+      "content": "斩杀glm用的，唐总直接哭死"
+    },
+    {
+      "id": "311758414592",
+      "t": 4,
+      "content": "我都有点怀疑你接错了，我自己在reasonix跑了个网页3D游戏，一个Godot2D游戏，一个Godot3D游戏，虽然有些小问题，但表现比你视频里这些好多了，就拿Godot2D游戏来说，就遇到个主角不会受到伤害的问题，修好后后面基本就是按自己想法加需求了"
+    },
+    {
+      "id": "308590116545",
+      "t": 21,
+      "content": "回复 @平凡的木林羊cc通吃 :本地要是能24小时一直满载是划算的，但关键就是自己公司或者自用，根本利用率不够。ds官方api调用量非常大，不担心空转，所以挣钱效率高。我自己用大概flash一天十块，十亿token已经很重度了。但自己部署算一下依旧很亏。[笑哭]"
+    },
+    {
+      "id": "311732393552",
+      "t": 22,
+      "content": "回复 @终回唐 :9月太久了，八月还差不多吧"
+    },
+    {
+      "id": "311663628512",
+      "t": 15,
+      "content": "肝中之帝[笑哭]"
+    },
+    {
+      "id": "7668921358474724133",
+      "t": 12,
+      "content": "DS是斩杀线[泪奔]"
+    },
+    {
+      "id": "308596827649",
+      "t": 14,
+      "content": "谁的台词来着？诺手还是德莱文"
+    },
+    {
+      "id": "6a6d50bf000000002b024461",
+      "t": 18,
+      "content": "我觉得两种说法都可以理解"
+    },
+    {
+      "id": "7668878541098631985",
+      "t": 12,
+      "content": "啥产品这么值钱，不计成本的"
+    },
+    {
+      "id": "308565213425",
+      "t": 21,
+      "content": "如果要做很细致的长视频识别切片分析的话，长时间下来本地还是比较划算，ds多模态的欠缺也可以用joyai补上，flash正式版agent能力好很多，等官方的Harness上了本地agent可用性还能高很多"
+    },
+    {
+      "id": "308604969409",
+      "t": 23,
+      "content": "回复 @讨厌芥末 :怎么破甲"
+    },
+    {
+      "id": "308398269313",
+      "t": 22,
+      "content": "之前说命中率比claude低很多，现在咋样？"
+    },
+    {
+      "id": "6a6e50fe000000000d023400",
+      "t": 24,
+      "content": "他也没说这个时间是美东9点半还是北京9点半[笑哭R]"
+    }
+  ]
+}

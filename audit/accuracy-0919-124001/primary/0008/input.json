@@ -1,0 +1,235 @@
+{
+  "topics": [
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "外网原帖：deepseek V4正式版开启效率革命",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "DeepSeek V4 Flash API is 18x cheaper on input, 28x cheaper on output, and matches Opus 4.8. Time for Claude to atleast reduce sonnet pricing",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "深聊DS新版V4 Flash:现在的后训练太权威了",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "Has anyone actually used DeepSeek V4 Flash 0731 to solve complex, real-world problems in medium to large production codebases? I’m looking for honest feedback, not hype or toy-project benchmarks",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "DeepSeek V4 Flash 0731 \n128GB 的設備 可以裝入 3bit 版本",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "DeepSeek-V4-Flash-0731 is now over 2x faster than yesterday on Ollama's cloud!",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "要被外网的一些评论笑死了😂😂😂",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰"
+  ],
+  "comments": [
+    {
+      "id": "308352205601",
+      "t": 0,
+      "content": "你早点研究ai的使用，以后面试都面ai。你计科科班出身对比其他人还是有点优势的"
+    },
+    {
+      "id": "308586357009",
+      "t": 1,
+      "content": "但是我之前用了CC switch，怎么办呀？"
+    },
+    {
+      "id": "6a6f244e000000002b02b5eb",
+      "t": 2,
+      "content": "别打广告啊哥[石化R]"
+    },
+    {
+      "id": "308362019601",
+      "t": 3,
+      "content": "回复 @风铃-花 :open codex，并发都可以"
+    },
+    {
+      "id": "308437125313",
+      "t": 4,
+      "content": "回复 @使命召唤小速 : 普通人用不了k3吧"
+    },
+    {
+      "id": "311806378160",
+      "t": 5,
+      "content": "这对v4flash不公平，这次我用了好几个软件，codex opencode和claude表现最差，pi reasonix表现最好，workbuddy表现一般"
+    },
+    {
+      "id": "p13y06i",
+      "t": 6,
+      "content": "I guess some tasks are “only Claude/ChatGPT”, otherwise that business model will be dead soon."
+    },
+    {
+      "id": "311762862176",
+      "t": 7,
+      "content": "回复 @困梦的杂物间 :lpddr是手机的dram"
+    },
+    {
+      "id": "311761312800",
+      "t": 8,
+      "content": "回复 @11月的霄帮 :多模态伪需求都来了，招不招笑"
+    },
+    {
+      "id": "7668923947753521978",
+      "t": 9,
+      "content": "昨天下午有人问opencode官方dsflash正式版什么时候上，官方回复他们的api直接接的ds官方，官方上了他们就上"
+    },
+    {
+      "id": "311789637936",
+      "t": 10,
+      "content": "gpt是自己数据中心快建好了吧[藏狐]，反正后续投资有英伟达，搞租赁无所谓价格。"
+    },
+    {
+      "id": "6a6da1c8000000000500b1c8",
+      "t": 11,
+      "content": "ds和gpt之前有个独门绝技，用硬编码读取写入的方式完成识图和生图，就是需要专门的插件"
+    },
+    {
+      "id": "311639184784",
+      "t": 12,
+      "content": "官方命令安装后，默认是high，我调整过配置文件，选择了Max"
+    },
+    {
+      "id": "2083095975950782694",
+      "t": 13,
+      "content": "@deepseek_ai Deepseek back with a Bang!"
+    },
+    {
+      "id": "308572887153",
+      "t": 14,
+      "content": "建议up起诉closeai报销glm额度[doge]"
+    },
+    {
+      "id": "311910183920",
+      "t": 12,
+      "content": "回复 @ButterFly771 :这不是在测试新模型能力嘛[doge]"
+    },
+    {
+      "id": "311671748528",
+      "t": 15,
+      "content": "你太小看ai了"
+    },
+    {
+      "id": "7668979412482523958",
+      "t": 16,
+      "content": "部署这个需要两台dgx Spark，一台价格三万四（京东价格），再加上通信的线，七万搞定。"
+    },
+    {
+      "id": "6a6d5c600000000005016092",
+      "t": 17,
+      "content": "@问一问 总结下原文和评论区"
+    },
+    {
+      "id": "308529311809",
+      "t": 8,
+      "content": "ds无多模态"
+    },
+    {
+      "id": "311822331328",
+      "t": 18,
+      "content": "回复 @b8b :你想想那些建造类的游戏或者场景编辑器，它们只是个程序就能稳定开拓3维空间。大模型不应该瘸腿这么严重。它基础够的话，我就能用它构造特别多东西，可惜了。"
+    },
+    {
+      "id": "p120dra",
+      "t": 19,
+      "content": "literally released yesterday"
+    },
+    {
+      "id": "311874532784",
+      "t": 14,
+      "content": "luna是真的太慢了，好在它在多模态里也是真的又便宜又相对好使[笑哭]"
+    },
+    {
+      "id": "311893139408",
+      "t": 20,
+      "content": "压根就没用华为的卡训练，推理用的。预览版不行是因为没来的及搞完后训练"
+    },
+    {
+      "id": "308587686385",
+      "t": 21,
+      "content": "确实，用十年官网token也花不了三万吧"
+    },
+    {
+      "id": "308566031425",
+      "t": 3,
+      "content": "回复 @A柚柚柚柚子 : pro还没上正式版，现在被flash正式版吊打"
+    },
+    {
+      "id": "2083338897074045276",
+      "t": 22,
+      "content": "DeepSeek V4 Flash 0731 \n128GB 的設備 可以裝入 3bit 版本"
+    },
+    {
+      "id": "311832336128",
+      "t": 23,
+      "content": "回复 @调逆弓归 :不过部分人确实会习惯在数字前后插入空格"
+    },
+    {
+      "id": "311703774752",
+      "t": 12,
+      "content": "声控？[doge_金箍]"
+    },
+    {
+      "id": "311763786048",
+      "t": 15,
+      "content": "这是agent名字把？"
+    },
+    {
+      "id": "308402314593",
+      "t": 24,
+      "content": "你试试就知道耗多少了"
+    },
+    {
+      "id": "2083690019542254040",
+      "t": 25,
+      "content": "@ollama What about Kimi K3??? You're still charging the sub price AND normal API prices..."
+    },
+    {
+      "id": "311633367616",
+      "t": 26,
+      "content": "官方推荐用codex，毕竟开源的"
+    },
+    {
+      "id": "311821557328",
+      "t": 3,
+      "content": "到底是将军的还是懂王的恩情 我怎么乱了"
+    },
+    {
+      "id": "311883153312",
+      "t": 23,
+      "content": "回复 @爆发头 :v4 flash正式版性能＞v4 pro preview＞v4 flash preview，而网页版快速模式接入的是残血v4 flash preview，专家模式接入v3.1，性能差的远了"
+    },
+    {
+      "id": "2083089435739169248",
+      "t": 13,
+      "content": "@deepseek_ai Oh my gosh, around GLM-5.2 level of performance in the Flash model? This is incredibly useful."
+    },
+    {
+      "id": "6a6dc993000000000802c032",
+      "t": 27,
+      "content": "ky zyyz"
+    },
+    {
+      "id": "7669019872734659365",
+      "t": 28,
+      "content": "[微笑]你用ds写代码，证明了你工作内容没有代码需求。"
+    },
+    {
+      "id": "2083515625628897499",
+      "t": 13,
+      "content": "@deepseek_ai 🔥🔥🔥 اخبار جميله"
+    },
+    {
+      "id": "311692062064",
+      "t": 3,
+      "content": "dp明确说了不会做视频和图片生成类的模型，别想了"
+    }
+  ]
+}

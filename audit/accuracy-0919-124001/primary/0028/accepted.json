@@ -1,0 +1,800 @@
+{
+  "items": [
+    {
+      "id": "308442238705",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "肯定Codex支持和工具执行效果，并玩梗称赞。"
+    },
+    {
+      "id": "p0vzw15",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [
+        "期待",
+        "担忧"
+      ],
+      "score": 0,
+      "reason": "询问128GB设备能否本地运行模型并用于编程。"
+    },
+    {
+      "id": "311900158528",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "information"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "试探确认API是否降智，也可能是在陈述观察。"
+    },
+    {
+      "id": "311705863312",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "service"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.8,
+      "reason": "反对用订阅价格作比较，贬低Luna性价比。"
+    },
+    {
+      "id": "311665072000",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明识图依赖外接模型，是否纠错缺少上文。"
+    },
+    {
+      "id": "308345463473",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃中文使用与身份，是否涉及模型用语不明。"
+    },
+    {
+      "id": "311633634176",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "指出缺少多模态导致语言描述费劲。"
+    },
+    {
+      "id": "311868438944",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以玩梗语气提出八台DGX运行Pro的部署方案。"
+    },
+    {
+      "id": "308608687809",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问接入后Codex是否仍需登录OpenAI。"
+    },
+    {
+      "id": "311890887792",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "joke"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "建议让dsf辅助k3，带玩梗语气。"
+    },
+    {
+      "id": "311830257568",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推荐3D打印盒子，与模型部署的关系未明确。"
+    },
+    {
+      "id": "7668755448400659257",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "强调只是旧模型后训练，纠正全新版本的理解。"
+    },
+    {
+      "id": "6a6d281f000000002a026d6a",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "以网页版免费为由质疑付费使用方案。"
+    },
+    {
+      "id": "p0y8t1u",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推荐vllm-moet并提供显卡部署信息。"
+    },
+    {
+      "id": "6a6cc6ba00000000290195ab",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "直接指称GPT降智，表达负面评价。"
+    },
+    {
+      "id": "7668694075931902769",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "不确定地推测模型尚不支持多模态。"
+    },
+    {
+      "id": "6a6ecffd0000000014039d56",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "围绕理发和特殊项目玩梗，未讨论AI使用。"
+    },
+    {
+      "id": "308491541553",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "给出CLI设置命令，可能在纠正操作方式。"
+    },
+    {
+      "id": "311919175040",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.95,
+      "reason": "强烈谴责日抛号交易，是否特指AI账号略有歧义。"
+    },
+    {
+      "id": "p17upao",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问旧版不同推理档位的价格差异。"
+    },
+    {
+      "id": "7669151378011882297",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "估算费用，可能指AI视频成本但缺少明确对象。"
+    },
+    {
+      "id": "311817276128",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction",
+        "praise"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "纠正量化读法并认可梁的群众路线。"
+    },
+    {
+      "id": "7669114341597823781",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "用待宰韭菜反驳对方，所指行为及AI关联不明。"
+    },
+    {
+      "id": "308448153425",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "仅向他人致谢，没有AI相关实质内容。"
+    },
+    {
+      "id": "7669370356792394554",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "usability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "赞同观点并肯定DS国内使用便利和性价比。"
+    },
+    {
+      "id": "308458603505",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "澄清信息来自X并调侃开源吹捧者，AI指代略含糊。"
+    },
+    {
+      "id": "7668955073569211173",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "疑似询问更新后是否需要重新生成API凭据。"
+    },
+    {
+      "id": "311768434288",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "joke"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "请求改用海贼王类比，评价的是讲解方式。"
+    },
+    {
+      "id": "311874165232",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "称赞对方用量大，可能指Token但未明确。"
+    },
+    {
+      "id": "6a6e060a000000002b029f09",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "agreement",
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "以调侃口吻赞同关于C端用户黏性的说法。"
+    },
+    {
+      "id": "308502086305",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议选择电子信息类，未明确涉及AI产品。"
+    },
+    {
+      "id": "7668959945711289128",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问不做多模态的原因，未明确表达不满。"
+    },
+    {
+      "id": "308445247073",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "为DeepSeek可信度辩护，同时批评GLM能力与涨价。"
+    },
+    {
+      "id": "308575625649",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive",
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "praise",
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "变态可能赞叹也可能贬斥，具体对象和态度不明。"
+    },
+    {
+      "id": "308420767265",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型更新后是否需要重新创建API密钥。"
+    },
+    {
+      "id": "p0zkg3n",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推荐SSD流式运行方案，并说明速度尚不清楚。"
+    },
+    {
+      "id": "308338930513",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨思维链截断且刷新后仍无法继续。"
+    },
+    {
+      "id": "308475310321",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "service",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "列举渠道限制并求分享低价Grok渠道，略带质疑。"
+    },
+    {
+      "id": "311723538320",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问128GB M5 Max是否能部署该模型。"
+    },
+    {
+      "id": "311621276576",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "确认API当前调用的是否已是新版Flash。"
+    }
+  ]
+}

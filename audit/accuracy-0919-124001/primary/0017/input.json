@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "梁圣加油",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DSV4 Flash 正式版，Reddit 社区炸了",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "DeepSeek V4 Flash GA ranks the same as Sonnet 5 and Grok 4.5 on DeepSWE",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "GPT 5.6 Luna最新测评报告！打得过Deepseek V4 Flash吗？",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek Flash 0731",
+    "Deepseek  V4 Flash 0731. LM Studio loading only into RAM.",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "DeepSeek V4 Flash 正式版发布 - 白菜价！超高性价比的编程模型",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Deepseek V4 Flash最新测评！Claude Code版！",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "Deepseek V4 Flash update on ArtificialAnalysis",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "📢 2026-08-02 AI日更 | 从个人设备到数学前沿：AI 正在进入高信任场景\n\n> 今天的主线是 AI 向更高信任场景推进：本地优先智能体开始接入邮件、日历与文件，考验权限和可靠执行；AI for Science 在数学与理论计算机科学中深化，但可验证性与学术规范同样关键。DeepSeek V4-Flash 也继续推动 Agent 成本模型重估。\n\n🔹 📖 本期 Watch Lis"
+  ],
+  "comments": [
+    {
+      "id": "6a6d433c000000002902c90c",
+      "t": 0,
+      "content": "这就是个luna定位的，和sol完全比不了啊，就200多b完成点日常工作流就够了"
+    },
+    {
+      "id": "311877171776",
+      "t": 1,
+      "content": "回复 @礼物鸭鸭 :模型本身是没有区别的，区别在于软件的自带提示词是怎么写的"
+    },
+    {
+      "id": "6a6e493000000000150159ed",
+      "t": 2,
+      "content": "不至于，GPT还是可以的"
+    },
+    {
+      "id": "6a6f20fe000000002a004d2e",
+      "t": 3,
+      "content": "千万别出国，出境都不要。"
+    },
+    {
+      "id": "308531875649",
+      "t": 4,
+      "content": "想问下老哥们有没有遇到过双机跑 deepseek，应该能命中缓存的，但是没有命中，然后缓存归 0，然后就一直卡死等待机器算完全部上下文的 prefill。这个问题困扰半个月了，好像是 vllm 的问题？"
+    },
+    {
+      "id": "308578276689",
+      "t": 5,
+      "content": "国内办公agent用workbuddy确实不错"
+    },
+    {
+      "id": "311926390064",
+      "t": 6,
+      "content": "✦以后AI会不会成为每个人的日常学习工具？✦"
+    },
+    {
+      "id": "308351536033",
+      "t": 1,
+      "content": "回复 @UltiQAQ : 我也没测，但是各个测评的评论区都说适配有问题，那就真的有问题咯。不过 Open Code 官方应该会加紧修复吧。"
+    },
+    {
+      "id": "p0wxxxh",
+      "t": 7,
+      "content": "The tasks are open, likely got into the training data already, we need proprietary ones"
+    },
+    {
+      "id": "311679133744",
+      "t": 8,
+      "content": "flash因为agent能力提升，在代码任务中调用工具搜集信息的能力明显变强了，所以flash改bug的能力也提升很明显，ds也说了主要是后训练提升agent能力，但是flash本身的知识水平是比不上那些超大模型的，所以flash第一次设计出来的东西问题多，但是agent能力提升在一轮对话中能准确的知道下一步要干什么，一边测一边改慢慢就做出一个可用的东西。像A\\的模型体量本身就很大，模型内置的知识和逻辑推理能力很强，所以第一版设计出来的东西就比较完善，加上较强的agent能力出的东西质量比较高，但是不同体量的模型去比较综合能力明显有失偏颇。\n\n这次flash正式版写代码体感上agent能力确实比v4pro强，对工具的调用超出我预期，期待ds正式版训练的效果"
+    },
+    {
+      "id": "311916212080",
+      "t": 9,
+      "content": "回复 @齐天轩1 :【OpenAI的十个重大数学成果：数学核爆已成常态-哔哩哔哩】 https://b23.tv/aLP3WuR"
+    },
+    {
+      "id": "308559591361",
+      "t": 10,
+      "content": "回复 @栢叶沉积 :不太认可，好的模型有时候给了很多skill和约束反而我觉得效果不好[doge]"
+    },
+    {
+      "id": "311904501200",
+      "t": 6,
+      "content": "是不是动效部门都优化了，图表全都是AI做的吗？手机上看非常难受"
+    },
+    {
+      "id": "308509866369",
+      "t": 11,
+      "content": "问识图模式，它是什么模型会说自己支持识别图像的多模态模型。快速和专家不会说自己有多模态能力"
+    },
+    {
+      "id": "311894000528",
+      "t": 5,
+      "content": "回复 @云行云 : opencode文档写了“我们所有模型都托管在 US。我们的提供商遵循零保留政策，不会将你的数据用于模型训练，但以下情况除外：DeepSeek V4 Flash Free：在免费期间，收集的数据可能会被用于改进模型。”"
+    },
+    {
+      "id": "311799104432",
+      "t": 12,
+      "content": "密码锁题和浏览器操作系统题完整提示词是啥"
+    },
+    {
+      "id": "311901290112",
+      "t": 13,
+      "content": "ai把文件夹放在会话目录里了，因为默认找cc目录找不到，你要让它重新写一遍写进codex里面"
+    },
+    {
+      "id": "308447384145",
+      "t": 1,
+      "content": "回复 @七只小野猫 :等全面更新以后，app用的模型跟api用的模型100%一致，唯一不同就是平台的功能和框架带给模型可提升的潜力空间和上限。\n现在ai模型发展基本上是朝着编程代码方向优化的，写小说文章可能越优化越差，你可以去网上搜一下各个模型对比，看看文笔怎么样，然后决定用哪一个模型"
+    },
+    {
+      "id": "7669376652845499187",
+      "t": 14,
+      "content": "也有人说，这个三千万弄出来的性能很差的，我都不知道是不是"
+    },
+    {
+      "id": "p0vjbit",
+      "t": 15,
+      "content": "The weights are also on HF so soon other API providers will be able to host it too (like we already do 🤌)"
+    },
+    {
+      "id": "p11fh5v",
+      "t": 16,
+      "content": "From 0.4.15 version there is a ROCm shared memory bug."
+    },
+    {
+      "id": "2083126629837021462",
+      "t": 17,
+      "content": "@deepseek_ai Deepseek v4 Flash live on OrcaRouter 🚀"
+    },
+    {
+      "id": "308617692801",
+      "t": 11,
+      "content": "回复 @胀号已注硝 :大力把一幅画翻成盲文（bushi）"
+    },
+    {
+      "id": "7669390333188621105",
+      "t": 14,
+      "content": "老美不管这个叫蒸馏还怎么嚷嚷咱们抄袭[绝望的凝视]"
+    },
+    {
+      "id": "311925512480",
+      "t": 11,
+      "content": "回复 @蕶宍䒕乇 : claude code 都用过cli了不应该不知道claude code 不过如果你想用deepseek模型写代码 其实可以再等一下deepseek官方的harness 用自己家的cli肯定适配性最好"
+    },
+    {
+      "id": "308492391105",
+      "t": 18,
+      "content": "回复 @阿乐一百六 :主要是没有什么意义，因为梁文峰心中只有 AGI。他认为视频模型都是赚钱的。模型并不能知道真正空间，只是像素点之间的关系。目前多模态模型，也都是用的“语义对齐”，即使训练的时候一起训练也是。大模型目前问题非常明显，不是一时半会就能解决"
+    },
+    {
+      "id": "7669101067716772643",
+      "t": 19,
+      "content": "开发当然是没问题，不过维护才是大头啊[眼含热泪]"
+    },
+    {
+      "id": "7668886473014149937",
+      "t": 20,
+      "content": "你看官网吧，我记得官网上写的名称没变化过[捂脸]按理说是无感更新的，接着用就好。我的明显聪明一大截"
+    },
+    {
+      "id": "311721611984",
+      "t": 21,
+      "content": "木头你视频生成是用什么方案。好漂亮"
+    },
+    {
+      "id": "311730761568",
+      "t": 22,
+      "content": "最新消息，重置了。周末又可以蹬了"
+    },
+    {
+      "id": "308398890689",
+      "t": 23,
+      "content": "说了up不听呗，为了省时间。实际上用high的人会有多少"
+    },
+    {
+      "id": "311715865680",
+      "t": 11,
+      "content": "梁圣最强的地方是，你别管我这好不好用，比同档次的强还是弱，配套什么的。你就说你别的模型降不降价吧，本来就不太赚钱或者亏损的公司，会不会更难熬。作为用户即使你不用也可以期待你梁圣还能整出什么活，把价格打下来。"
+    },
+    {
+      "id": "311648806400",
+      "t": 24,
+      "content": "回复 @yuzhow :这种结构化的东西可以用正则剔除的[藏狐]"
+    },
+    {
+      "id": "p0u7z98",
+      "t": 25,
+      "content": "I want to start using deepseek via cli, do they have subscriptions or you just pay for api usage?"
+    },
+    {
+      "id": "308418796833",
+      "t": 26,
+      "content": "太贵，模型能力也没啥差别"
+    },
+    {
+      "id": "7668978982972965684",
+      "t": 19,
+      "content": "你接入DeepSeek就相当于接了个脑子，它的躯体就是这三个，目前感觉Claude code这个躯体用着挺好的[钱]识图你可以在github上找方案，有一个方案是接豆包的免费识图API"
+    },
+    {
+      "id": "2083698793518866497",
+      "t": 27,
+      "content": "📢 2026-08-02 AI日更 | 从个人设备到数学前沿：AI 正在进入高信任场景\n\n> 今天的主线是 AI 向更高信任场景推进：本地优先智能体开始接入邮件、日历与文件，考验权限和可靠执行；AI for Science 在数学与理论计算机科学中深化，但可验证性与学术规范同样关键。DeepSeek V4-Flash 也继续推动 Agent 成本模型重估。\n\n🔹 📖 本期 Watch List 深度导读\n\n今天最值得深读的主题有两个。其一是“本地智能体”的产品化路径：OpenClaw 这类可在个人设备运行、接入邮件、日历、文件与工作流的开源助手，正在把智能体从聊天窗口推向真实办公系统。它的重点不只是模型能力，而是权限、集成、可靠执行与用户信任，适合关注 AI 原生工具的产品和工程团队细读。\n\n其二是 AI 在数学与理论计算机科学中的角色正在加深。相关更新梳理了十项进展，并强调模型不只是解题工具，也可能成为开放研究问题的探索助手。值得注意的是，研究方同时提到对数学共同体的责任，这提醒我们：AI for Science 的关键不只在“突破”，也在可验证性、开放性与学术规范。总体看，今天的信号很清晰：AI 正从应用执行层和科学发现层同时向深水区推进。\n\n🔹 🌐 X 平台 AI 热点快讯\n\n▫️ 话题 1:OpenAI Slashes GPT-5.6 Prices by Up to 80 Percent\n• 分类:AI · News\n• 概况:热度时间:2 days ago,相关帖子数:35000…\n\n🔗 完整排版阅读: https://t.co/4gLLKcNfrE"
+    },
+    {
+      "id": "308563876401",
+      "t": 8,
+      "content": "已经测试过了，我自己写的生成方案得分估算工具，flash正式版比 pro预览版得分提升15%以上，确实牛皮"
+    },
+    {
+      "id": "311659500144",
+      "t": 8,
+      "content": "有万事达和visa的银行卡。"
+    },
+    {
+      "id": "308415200113",
+      "t": 22,
+      "content": "[以闪亮之名_针不戳]"
+    }
+  ]
+}

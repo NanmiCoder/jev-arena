@@ -1,0 +1,778 @@
+{
+  "items": [
+    {
+      "id": "p0zglca",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认可拆分设计，并建议在DS4中实测性能再判断。"
+    },
+    {
+      "id": "311724732672",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅有装扮表情，无可确定的评价对象。"
+    },
+    {
+      "id": "311767823632",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.6,
+      "reason": "陈述上下文限制与Agent经验，明显贬斥网页版效果。"
+    },
+    {
+      "id": "2083085879640277198",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型是否支持媒体输入。"
+    },
+    {
+      "id": "311655014832",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "表示赞同并提到自私，但缺少上文，对象与态度有歧义。"
+    },
+    {
+      "id": "308332459057",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃股市下跌，与模型的联系仅能由标题推测。"
+    },
+    {
+      "id": "7668942985249620778",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问两个AI工具之间的区别。"
+    },
+    {
+      "id": "311681022544",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以价格战与模型竞争反驳过于简单的判断。"
+    },
+    {
+      "id": "308573216081",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "质疑几句对话为何消耗如此多费用与Token。"
+    },
+    {
+      "id": "7668712526456521535",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "明确询问多模态和图片识别能力。"
+    },
+    {
+      "id": "6a6c60c6000000002a0331cc",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "表示会将看图任务交给Kimi，语气轻松。"
+    },
+    {
+      "id": "311934018432",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纯邀请助力广告，宣传免费Token额度。"
+    },
+    {
+      "id": "311708267744",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问测评中使用的Agent工具。"
+    },
+    {
+      "id": "6a6e6ad4000000002b0245e5",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "提出主子模型协作方案，期待高强度运行Agent。"
+    },
+    {
+      "id": "6a6c960d000000001500bd68",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "惊叹模型训练成果及竞品表现，明确称赞梁文峰。"
+    },
+    {
+      "id": "311724213104",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "建议增加多模态能力，期待效果提升。"
+    },
+    {
+      "id": "7668898767499969329",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "mixed"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望",
+        "期待"
+      ],
+      "score": -0.3,
+      "reason": "遗憾缺少多模态，也暗含对补齐后实力的肯定。"
+    },
+    {
+      "id": "308479913777",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "用此前中文对话、英文思考的经验纠正时间判断。"
+    },
+    {
+      "id": "7669021760155124517",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "结合标题以梁圣和鞭子玩梗，可能兼有赞叹。"
+    },
+    {
+      "id": "6a6ec44c000000002902cd54",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "在部署话题下列出硬件配置，未评价成本或速度。"
+    },
+    {
+      "id": "7669275132385428283",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Luna与Terra哪个能力更强。"
+    },
+    {
+      "id": "308497328369",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "表达AGI应具备识图而非必须生图的能力标准。"
+    },
+    {
+      "id": "311643718496",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Pro与Flash配置区别及是否需要重配。"
+    },
+    {
+      "id": "7668994988948390671",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述自己使用CC接模型，不熟悉网页操作。"
+    },
+    {
+      "id": "308374828097",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "给出Flash相关数量估计，但一两万的单位不明。"
+    },
+    {
+      "id": "311917402704",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问OpenCode的Go能否接入其他编程工具。"
+    },
+    {
+      "id": "7669259246366081849",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅艾特用户，没有实质讨论或态度。"
+    },
+    {
+      "id": "311691275168",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅回复已开启，可能涉及配置但缺少明确指代。"
+    },
+    {
+      "id": "311816769600",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "明确抱怨API额度不足。"
+    },
+    {
+      "id": "7668739647635292985",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "称当前不支持并需等后续版本，具体功能缺失。"
+    },
+    {
+      "id": "7668924814077592379",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "带调侃地猜测对方使用豆包，未明确评价能力。"
+    },
+    {
+      "id": "311723096128",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正像素游戏等于简单的误解，与AI关系不明确。"
+    },
+    {
+      "id": "2083387830554796139",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "明确喜欢模型，同时求助如何改善指令遵循。"
+    },
+    {
+      "id": "17928358",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "分别肯定DeepSeek的API性价比和GPT订阅优势。"
+    },
+    {
+      "id": "p0vhogx",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "明确表示有吸引力，但图片不可见，评价对象不明。"
+    },
+    {
+      "id": "7669056355802563377",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Codex和Trae哪个更适合接入DeepSeek。"
+    },
+    {
+      "id": "308599986193",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "other"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.5,
+      "reason": "肯定AI写代码效率，但主要担忧就业并劝退专业。"
+    },
+    {
+      "id": "311821448768",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "追问原因并质疑对方理解，缺上文无法确认AI关联。"
+    },
+    {
+      "id": "p15qufk",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以新手身份询问如何在浏览器中运行模型。"
+    },
+    {
+      "id": "311693386928",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "反问质疑DeepSeek赚钱的说法，带轻微嘲讽。"
+    }
+  ]
+}

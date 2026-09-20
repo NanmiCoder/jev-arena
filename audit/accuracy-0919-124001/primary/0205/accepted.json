@@ -1,0 +1,814 @@
+{
+  "items": [
+    {
+      "id": "7668713568473105201",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问不能上传图片时是否借助本地路径和其他API。"
+    },
+    {
+      "id": "311796381248",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只评论说话者像亚裔，未讨论AI。"
+    },
+    {
+      "id": "p14m922",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "service"
+      ],
+      "e": [
+        "失望",
+        "愤怒"
+      ],
+      "score": -0.95,
+      "reason": "强烈批评模型答题、改数据能力及退款客服体验。"
+    },
+    {
+      "id": "7668966856800535347",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": -0.15,
+      "reason": "表示回去继续尝试，并轻微抱怨应用上限低。"
+    },
+    {
+      "id": "7669082109256155953",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "用核弹割韭菜讽刺收割行为，具体所指不明。"
+    },
+    {
+      "id": "6a6d8abf000000000b03a30b",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问为何不开max，具体模式含义未明。"
+    },
+    {
+      "id": "308389994081",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "夸张描述眩晕瘫坐，是否赞叹模型效果不明确。"
+    },
+    {
+      "id": "311621980272",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "trust"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.65,
+      "reason": "指出旧版经常不会调用工具且假装已调用。"
+    },
+    {
+      "id": "6a6d5fe10000000004039259",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "performance",
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.35,
+      "reason": "认可opencode，同时指责ClaudeCode并建议别用。"
+    },
+    {
+      "id": "311635956880",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅提luna加表情，无法确定具体意图或指代。"
+    },
+    {
+      "id": "311879110144",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释手机聊天软件与电脑工程软件的使用差别。"
+    },
+    {
+      "id": "308346740225",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明opencode同步接入官方API。"
+    },
+    {
+      "id": "308465030993",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "other",
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.5,
+      "reason": "主要担忧存储股票持仓被套，未评价模型使用。"
+    },
+    {
+      "id": "308441558065",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.1,
+      "reason": "猫娘语气调侃75元花费，花费对象不明。"
+    },
+    {
+      "id": "2083091280482177153",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.35,
+      "reason": "认可Flash更强更便宜，并期待新Grok，态度略犹疑。"
+    },
+    {
+      "id": "6a6dfd4c0000000029018086",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "分享朋友八卡集群可轻松部署模型的经验。"
+    },
+    {
+      "id": "7668919128095654719",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "提醒Pro尚未发布，属于发布状态纠正。"
+    },
+    {
+      "id": "311661929728",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.65,
+      "reason": "抱怨Pro月费涨到500元后无法继续使用。"
+    },
+    {
+      "id": "7668906803983434515",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "以已经开源反驳高高在上的说法或态度。"
+    },
+    {
+      "id": "311684788912",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "纯打call表情表达支持，未讨论AI。"
+    },
+    {
+      "id": "6a6ecbec000000000500b72c",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测与Pro一同上线并提及额度，末句不完整。"
+    },
+    {
+      "id": "7668999194254328576",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "批评多模态能力，并建议接CC而非Codex。"
+    },
+    {
+      "id": "311860806432",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问如何接入Claude Code。"
+    },
+    {
+      "id": "308343935393",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.15,
+      "reason": "反驳存在区别的说法，指出用户协议仍允许封禁。"
+    },
+    {
+      "id": "308630929233",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.1,
+      "reason": "调侃高不了多少的对手也会淘汰，比较对象省略。"
+    },
+    {
+      "id": "311916473776",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "以大模型斩杀线比喻DeepSeek的竞争实力。"
+    },
+    {
+      "id": "2083341866297336155",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "打趣询问生产力来自咖啡还是AI。"
+    },
+    {
+      "id": "308444972993",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述关于事实与主观体验的哲学观点。"
+    },
+    {
+      "id": "6a6de42e000000001500b690",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion",
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "反感称圣造神并要求停止，未明确讨论AI产品。"
+    },
+    {
+      "id": "311777628880",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "performance",
+        "reliability",
+        "comparison"
+      ],
+      "e": [
+        "担忧",
+        "认可"
+      ],
+      "score": 0,
+      "reason": "比较重构耗时和错误，既认可成功也担忧稳定性。"
+    },
+    {
+      "id": "311627682032",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨测试GLM生成的代码浪费很多时间。"
+    },
+    {
+      "id": "308516074593",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "对他人反问式回怼，缺少上文无法确定攻击含义。"
+    },
+    {
+      "id": "308583485153",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "对绰号表示没绷住，未讨论模型能力或使用。"
+    },
+    {
+      "id": "311763915792",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.65,
+      "reason": "将后训练仙人升级为道祖，夸张赞赏训练实力。"
+    },
+    {
+      "id": "311771854256",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0,
+      "reason": "明确同时肯定能力强、批评速度慢。"
+    },
+    {
+      "id": "308472574129",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "建议试用Pro预览版，但未说明体验好坏。"
+    },
+    {
+      "id": "6a6db660000000002901bc6a",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "指出缓存命中率更高且价格低于luna。"
+    },
+    {
+      "id": "7669293141094499129",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "agreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "不得不信配捂脸疑似讽刺证据，亦可能字面认同。"
+    },
+    {
+      "id": "7669001091131933489",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.15,
+      "reason": "描述国内外模型紧跟发布的竞争节奏，略带肯定。"
+    },
+    {
+      "id": "7669320272210985780",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.35,
+      "reason": "承认缺少多模态，同时认可低价并按场景推荐。"
+    }
+  ]
+}

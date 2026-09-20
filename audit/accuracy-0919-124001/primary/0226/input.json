@@ -1,0 +1,241 @@
+{
+  "topics": [
+    "DeepSeek-V4-Flash-High",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "Deepseek V4 Flash update on ArtificialAnalysis",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "i don't get the hype - DeepSeek V4 Flash 0731",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "DeepSeek-V4-Flash 正式版 API 上线公测 Flash 正式版在多项 Agent 基准测试中的表现，已经逼近甚至超越了三个月前 V4-Pro 预览版的水平。官方更新日志显示，V4-Flash 正式版在 Terminal Bench 2.1 上拿到 82.7 分，NL2Repo 54.2 分，Cybergym 76.7 分，Toolathlon verified 70.3 分。而 ",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "【转载MTS 】DeepSeek v4 Flash：本地部署大模型的真•DeepSeek时刻",
+    "这条视频里的人是我，但我根本没拍，也没剪。 DeepseekV4Flash正式版自主做视频能力实测。我只输入了一段提示词，DeepSeek V4 Flash 就自己找案例、写内容，再用 AI 数字人做完了整条视频。现在的 AI 做视频，这已经是基础操作了。#AI新星计划  #AI做视频 #DeepSeekV4 #AI数字人",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash 太牛了",
+    "DSV4 Flash 正式版，Reddit 社区炸了",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "[中配]DeepSeek V4 Flash 太惊人了——迄今为止最好的小模型！ - Bijan Bowen",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "DeepSeek-V4-Flash-0731正式开源！"
+  ],
+  "comments": [
+    {
+      "id": "6a6d5b240000000015006293",
+      "t": 0,
+      "content": "他自己测的水分太大了，自己肯定想要成绩好点"
+    },
+    {
+      "id": "308586771473",
+      "t": 1,
+      "content": "大概率是之前的后训练都是华为的卡，导致效果不咋地，现在重新用英伟达的卡进行后训练才有更好的效果[吃瓜]"
+    },
+    {
+      "id": "p0y37fd",
+      "t": 2,
+      "content": "How's DSv4F 0731  costing more than DSv4Pro and previous DSv4Flash-Preview? Thought they're the same price as the previous Flash, and Pro's higher priced?"
+    },
+    {
+      "id": "7668896555638784826",
+      "t": 3,
+      "content": "多模态正式版可能不太会有，有也是土法多模态"
+    },
+    {
+      "id": "p11h2u7",
+      "t": 4,
+      "content": "idk for me its insanely smart. more smart than mimo v2.5 base/pro which was last cheap best model. but my setup is diff.  \n[try this ](https://www.reddit.com/r/hermesagent/comments/1urrb6u/this_simple_soulmd_tweak_helped_me_gain_13_score/) i hope it helps me. for me its very smart using this system prompt. deep seek v4 flash OLD was trash totally.\n\ni am using opencode go as provider before i was using mimo v2.5 now moved to this.\n\nalso i never use TG. i use hermes desktop and hermes cli depends on my mood. idk if effects things."
+    },
+    {
+      "id": "7668894771898188603",
+      "t": 5,
+      "content": "好的好的谢谢"
+    },
+    {
+      "id": "7668915318769402666",
+      "t": 6,
+      "content": "轻量版已经比某 5.2 好用了，亲测"
+    },
+    {
+      "id": "308358650561",
+      "t": 7,
+      "content": "回复 @李思豪11 :pi"
+    },
+    {
+      "id": "308323701313",
+      "t": 8,
+      "content": "我也是，依旧let me"
+    },
+    {
+      "id": "311757942272",
+      "t": 9,
+      "content": "[doge]Ai看谷歌，他说什么我都没有意见。"
+    },
+    {
+      "id": "311666135952",
+      "t": 8,
+      "content": "我的项目优化问题之前一直没解决，kimik3 做的项目，优化几轮没成功额度还没了，给别 minimaxm3 和 v4pro 预览版反复优化都失败，这次给 flash 正式版一句话解决了，还顺手给我解决了俩 bug"
+    },
+    {
+      "id": "308491305153",
+      "t": 10,
+      "content": "回复 @河冰夜渡 :从股市赚钱来发展产业，这真的是股市的初心[笑哭][笑哭][笑哭]能做到这个的话，量化也就量化吧，多出几个世界霸主级的产业明星"
+    },
+    {
+      "id": "311724847552",
+      "t": 11,
+      "content": "醒醒 2026年了"
+    },
+    {
+      "id": "311716639568",
+      "t": 12,
+      "content": "回复 @优秀的黑羊 :那测deepseek high又有什么意义呢,谁用不是上max"
+    },
+    {
+      "id": "311916183056",
+      "t": 10,
+      "content": "后面官方会出"
+    },
+    {
+      "id": "308464677217",
+      "t": 13,
+      "content": "回复 @困梦的杂物间 :速度咋样？每秒能多少token"
+    },
+    {
+      "id": "6a6ec0120000000029037453",
+      "t": 14,
+      "content": "感觉似乎不用改？明天试试"
+    },
+    {
+      "id": "308534310737",
+      "t": 15,
+      "content": "回复 @一个L--- :gpt的话，替换其他模型就是亏本，除了替换sol"
+    },
+    {
+      "id": "311751340608",
+      "t": 12,
+      "content": "回复 @啊啊啊春秋 :gpt前端本来就不好，不是逻辑问题是设计问题，sol都不行更何况luna了。先不说luna本来就有视觉，就算没有可以用视觉mcp，glm5.2加上视觉mcp一样做的很好"
+    },
+    {
+      "id": "308510792945",
+      "t": 16,
+      "content": "我的弹出来了"
+    },
+    {
+      "id": "7668953446137643825",
+      "t": 17,
+      "content": "性能做到一样了，好了，价格做不到"
+    },
+    {
+      "id": "311779335792",
+      "t": 18,
+      "content": "回复 @Zane-阿庆 :[笑哭]其实缓存这个东西，好像有时限，反正我经常一个项目开发到一半，过一段时间再继续，命中率就会陡然下降一大段，应该是ds的服务器会清空？"
+    },
+    {
+      "id": "308587889185",
+      "t": 19,
+      "content": "回复 @墨韵良火 :十分有趣的是 3.0pro sota过一周 但是2.5p甚至只在前十 令人忍俊不禁"
+    },
+    {
+      "id": "6a6d2199000000000500adfe",
+      "t": 20,
+      "content": "glm涨价3倍，牛不牛"
+    },
+    {
+      "id": "6a6dedb2000000000b038d5c",
+      "t": 21,
+      "content": "ds没开源没说免费之前没一个能给大众免费reset用的，当时要用ChatGPT还得专门注册账号"
+    },
+    {
+      "id": "308449356977",
+      "t": 22,
+      "content": "回复 @UkOfMdbupO :deepseekAPI利润率70%，涨价后85%左右。推理集群硬件一年回本。但是由于deepseek硬件成本大头在训练集群，他们推力API利润还覆盖不了训练的成本。"
+    },
+    {
+      "id": "7669067143468794630",
+      "t": 23,
+      "content": "没用HeyGen吗？"
+    },
+    {
+      "id": "308397835329",
+      "t": 18,
+      "content": "之前的是preview预览版 今天刚放出来flash正式版 pro正式版再过几天就能出了"
+    },
+    {
+      "id": "311902846928",
+      "t": 24,
+      "content": "没事的，根据往届4.8和5.5的实力这个v4f9a至少大于其中一个 非常逆天 如果proga和flashga的关系和预言与4.8太阳和5.5的关系一样的话，那完全可以打那两个 关键是用那个价格去打那两个"
+    },
+    {
+      "id": "6a6d6a5f0000000014038963",
+      "t": 25,
+      "content": "反手准备升级 youmind 的 max 最高档"
+    },
+    {
+      "id": "6a6e1237000000002b003fb6",
+      "t": 26,
+      "content": "luna 降价了，订阅里面理论上应该也更耐用了"
+    },
+    {
+      "id": "6a6e0540000000002a006450",
+      "t": 27,
+      "content": "之前小红书网友的帖子，我保存的"
+    },
+    {
+      "id": "311722864528",
+      "t": 28,
+      "content": "毕竟 flash 定位是红米"
+    },
+    {
+      "id": "308347886513",
+      "t": 8,
+      "content": "回复 @牢橙不要停 :梁圣：我成替身了？"
+    },
+    {
+      "id": "7668920220500837169",
+      "t": 29,
+      "content": "单机 395 跑q2m只有 16t/s"
+    },
+    {
+      "id": "311680625808",
+      "t": 30,
+      "content": "老兄这个是flash不是pro"
+    },
+    {
+      "id": "308366355121",
+      "t": 31,
+      "content": "你现在改成 Flash 版本，就可以用到正式版了"
+    },
+    {
+      "id": "308609846705",
+      "t": 32,
+      "content": "能玩comfyui 文生图 图生视频模型不？"
+    },
+    {
+      "id": "308441697761",
+      "t": 33,
+      "content": "你拿284B对比27B，何意味？[doge]"
+    },
+    {
+      "id": "6a6d63a00000000015010bf9",
+      "t": 34,
+      "content": "[doge]马上5.5就吸收这个版本了 国模左脚踩右脚 大家都默契了"
+    }
+  ]
+}

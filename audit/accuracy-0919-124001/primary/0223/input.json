@@ -1,0 +1,236 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek V4 Flash GA 真是太棒了！强大、便宜且快速！（全面测试）# DeepSeek#AI#GPT#国产大模型",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "这条视频里的人是我，但我根本没拍，也没剪。 DeepseekV4Flash正式版自主做视频能力实测。我只输入了一段提示词，DeepSeek V4 Flash 就自己找案例、写内容，再用 AI 数字人做完了整条视频。现在的 AI 做视频，这已经是基础操作了。#AI新星计划  #AI做视频 #DeepSeekV4 #AI数字人",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek-V4-Flash-0731 on ONE Spark BEATS same model on TWO Sparks AND GLM-5.2 on FOUR Sparks\n\nSo… one Spark is better than two for quality,\nand roughly ties/beats four-Spark GLM\non 1/4 the hardware\n\n",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "被接入Codex的DeepSeek V4 Flash正式版惊到了！",
+    "Deepseek v4 flash 0731",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "deepseek v4 flash 配上 opencode 送的太多了，非常好用，真爽。",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "Best way to cluster 2x DGX Spark for DS Flash v4 0731?",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf"
+  ],
+  "comments": [
+    {
+      "id": "311682867120",
+      "t": 0,
+      "content": "从下午四点到十分钟前，effort用的Max， 基本没断过，花了接近5块钱。实现了项目的两个模块，从体感上来说，确实比预览版强，需要我介入调整到次数变少了，但也没有我想象中的那么强，不过性价比在这呢，我觉得够用了。 luna我早上也用了，烧了两刀， 实现的模块代码骨架没问题，只是BUG不少，也不是不能用，只是还是DS性价比高。"
+    },
+    {
+      "id": "311905852592",
+      "t": 1,
+      "content": "回复 @蛋白掷 :还真是"
+    },
+    {
+      "id": "7668869107723273000",
+      "t": 2,
+      "content": "我已经暂时放弃P了，切F真的好爽啊，完全碾压P预览版"
+    },
+    {
+      "id": "311655370368",
+      "t": 3,
+      "content": "直接问agent"
+    },
+    {
+      "id": "6a6cdfec000000002a033495",
+      "t": 4,
+      "content": "所以牛逼的地方就在这里了[捂脸R][捂脸R]"
+    },
+    {
+      "id": "311776054288",
+      "t": 5,
+      "content": "284b有这个表现，真的牛逼啊，我丢了[支持][支持][支持]"
+    },
+    {
+      "id": "311873375424",
+      "t": 6,
+      "content": "flash对提示词要求太高了，得提示词写的非常严格，他才能做个及格线的，不然他老偷懒"
+    },
+    {
+      "id": "6a6d713e0000000015010975",
+      "t": 7,
+      "content": "基本不要钱是多少钱？"
+    },
+    {
+      "id": "308427983345",
+      "t": 8,
+      "content": "回复 @莫得感情的花少侠 : [笑哭]这确实不好搞"
+    },
+    {
+      "id": "308393132977",
+      "t": 9,
+      "content": "Minimax一直都是一坨 完全没有应用价值"
+    },
+    {
+      "id": "308456423697",
+      "t": 8,
+      "content": "回复 @故里见长安_ :请求人家看的一清二楚，之前卖中转的发了个视频，每条请求都能看到具体内容[辣眼睛]"
+    },
+    {
+      "id": "7668688755700974373",
+      "t": 10,
+      "content": "梁圣无敌[赞][赞][赞]"
+    },
+    {
+      "id": "7669387183479898917",
+      "t": 11,
+      "content": "中转站五毛钱[捂脸]gpt模型"
+    },
+    {
+      "id": "311633971056",
+      "t": 12,
+      "content": "刚其他评论区底下看说opencode适配不佳，但看up制作的效果还行？请问实际opencode里到底会遇到什么问题（主要现在我不方便测试[笑哭]）"
+    },
+    {
+      "id": "2083896794023334028",
+      "t": 13,
+      "content": "DeepSeek-V4-Flash-0731 on ONE Spark BEATS same model on TWO Sparks AND GLM-5.2 on FOUR Sparks\n\nSo… one Spark is better than two for quality,\nand roughly ties/beats four-Spark GLM\non 1/4 the hardware\n\nOne-Spark DeepSeek: 92.0\nTwo-Spark DeepSeek: 87.6\nFour-Spark GLM: 91.9 https://t.co/rDTdWNN1Eg"
+    },
+    {
+      "id": "7669308815402271488",
+      "t": 14,
+      "content": "395别折腾了"
+    },
+    {
+      "id": "311819245872",
+      "t": 15,
+      "content": "仓颉这个水平确实高，超越了绝大多数类似skill，交叉验证做的很棒，合并策略方面可能要根据书籍类型做些适配就更好了"
+    },
+    {
+      "id": "311869070384",
+      "t": 8,
+      "content": "知不知道什么叫KV Cache"
+    },
+    {
+      "id": "6a6e01b000000000290248c8",
+      "t": 16,
+      "content": "用deepseek做前端不适合啊  它连多模态都没有  你用它做前端肯定不行啊"
+    },
+    {
+      "id": "311631148096",
+      "t": 3,
+      "content": "回复 @themlbb :调用量冠军也是冠军[doge]"
+    },
+    {
+      "id": "7669073932021400369",
+      "t": 17,
+      "content": "Deepseek 现在解决问题的能力超出你想像，用了一整天，写公司管理平台，目前还没遇到他解决不了的问题。基本一次，好像现在也很少出问题，比之前pro强了不是一两个层次。"
+    },
+    {
+      "id": "7669005286866993977",
+      "t": 2,
+      "content": "好像xhight往上才会思考"
+    },
+    {
+      "id": "311733281488",
+      "t": 9,
+      "content": "回复 @少年桂花糕 : 不是，它只是新增支持了codex的responses api而已，这个api现在市面上大多数客户端都兼容了（比如opencode、pi、reasonix），不是非得用codex客户端"
+    },
+    {
+      "id": "308454871233",
+      "t": 18,
+      "content": "让ai帮你找个国内镜像下载"
+    },
+    {
+      "id": "7668699434293216035",
+      "t": 10,
+      "content": "终于多模了？"
+    },
+    {
+      "id": "6a6ceef4000000000802d7f3",
+      "t": 19,
+      "content": "啊 就少了个0有啥好换算的 我还以为有啥加减乘除呢[笑哭R]"
+    },
+    {
+      "id": "308434525633",
+      "t": 20,
+      "content": "这也不能说明多强吧，不就是打了个时间差吗，现在强，过段时间别的模型又赶上来了"
+    },
+    {
+      "id": "311744944640",
+      "t": 21,
+      "content": "回复 @二表哥的三姨夫 :elo 是这样的，分差本来就不大"
+    },
+    {
+      "id": "311687459552",
+      "t": 22,
+      "content": "[doge]打开deepseek就能养了"
+    },
+    {
+      "id": "311635742480",
+      "t": 12,
+      "content": "我也想要[永恒轮回·表情包_好哦~]"
+    },
+    {
+      "id": "311799909264",
+      "t": 23,
+      "content": "切换回openai的官方配置，就是ccswitch第一个配置就行"
+    },
+    {
+      "id": "308599733617",
+      "t": 24,
+      "content": "https://opencode.ai/go?ref=B4P12Q194X    使用这个链接充值双方各赠送5美元"
+    },
+    {
+      "id": "6a6c9dda0000000015008929",
+      "t": 7,
+      "content": "@燃烧的蜂窝煤 这个快"
+    },
+    {
+      "id": "308607397889",
+      "t": 25,
+      "content": "现在api提供的v4就是正式版吗"
+    },
+    {
+      "id": "p11h014",
+      "t": 26,
+      "content": "You are stating that LLM models of different sizes have the same characteristics? I don't see this proven anywhere. Just think about normal everday computing, based on sizes you go with different caching and optimization solutions."
+    },
+    {
+      "id": "p15gzzn",
+      "t": 27,
+      "content": "Maybe just run one on each 😅\n\nhttps://x.com/aijoey/status/2083451085222449241?s=46"
+    },
+    {
+      "id": "308587083809",
+      "t": 28,
+      "content": "回复 @勇者骑着猫 :H100也能被称为边角料了吗"
+    },
+    {
+      "id": "2083092938939084883",
+      "t": 29,
+      "content": "@deepseek_ai Waiting to see what the pro version has in store"
+    },
+    {
+      "id": "7669292601112101689",
+      "t": 2,
+      "content": "是这样的[笑哭]"
+    },
+    {
+      "id": "6a6cd44c000000000b03897b",
+      "t": 4,
+      "content": "他便宜的多啊"
+    }
+  ]
+}

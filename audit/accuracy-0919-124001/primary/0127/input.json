@@ -1,0 +1,235 @@
+{
+  "topics": [
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek-V4-Flash-0731实力强悍！",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "deepseek v4 flash太牛逼了",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "DeepSeek V4flash用SVG复刻梵高和画画",
+    "deepseek-v4-flash-0731？",
+    "Deepseek v4 flash 0731",
+    "DeepSeek-V4-Flash 正式版 API 上线公测 Flash 正式版在多项 Agent 基准测试中的表现，已经逼近甚至超越了三个月前 V4-Pro 预览版的水平。官方更新日志显示，V4-Flash 正式版在 Terminal Bench 2.1 上拿到 82.7 分，NL2Repo 54.2 分，Cybergym 76.7 分，Toolathlon verified 70.3 分。而 ",
+    "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
+    "deepseek v4flash正式版在手机上本地运行",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "DeepSeek V4 Flash 正式版深度实测"
+  ],
+  "comments": [
+    {
+      "id": "308594911985",
+      "t": 0,
+      "content": "回复 @鑫淼焱叒 : 为啥你的claudecode这么高的命中，我的用起来好烧token"
+    },
+    {
+      "id": "311745876816",
+      "t": 1,
+      "content": "那它就是开源斩杀线了呗，超越他不就行了。况且我们开源，这也是一个大优势。"
+    },
+    {
+      "id": "308334763553",
+      "t": 2,
+      "content": "梁文峰明确说明不会搞多模态，而是全力冲刺agi"
+    },
+    {
+      "id": "311660658576",
+      "t": 3,
+      "content": "iOS背单词应用的提示词是啥啊求分享"
+    },
+    {
+      "id": "311766709216",
+      "t": 1,
+      "content": "这还拉？你平时用的是外星科技？"
+    },
+    {
+      "id": "311722522816",
+      "t": 4,
+      "content": "为什么我测试生成图的时候，发送不出去，显示Remove images or switch models to send this message"
+    },
+    {
+      "id": "311794478080",
+      "t": 5,
+      "content": "回复 @樱花涅槃幽幽子 :没有，这个博主dy也有号[doge]这个视频在那边没发"
+    },
+    {
+      "id": "311707016352",
+      "t": 3,
+      "content": "回复 @情为徒有虚名 :pro还没有调"
+    },
+    {
+      "id": "6a6d514c000000002902dd52",
+      "t": 6,
+      "content": "自己斩杀自己这块[doge]"
+    },
+    {
+      "id": "311808219984",
+      "t": 1,
+      "content": "回复 @心仍意 :我觉得可能性非常小，因为人工智能就是基于神经网络的基础上开发的，但神经网络之父都说现在的人工智能只能堆数据无法像人一样思考，说是一开始方向就错了，可以找找相关视频，他老人家自己说的"
+    },
+    {
+      "id": "308361725201",
+      "t": 7,
+      "content": "这个参数怎么调，还是不够智能。期待pro"
+    },
+    {
+      "id": "6a6c65e0000000000500b0d4",
+      "t": 8,
+      "content": "不知道，只预告了harness 和pro不久发布"
+    },
+    {
+      "id": "311755210256",
+      "t": 9,
+      "content": "回复 @ranpeppa :任何内容都是API比网页版厉害，超级多，API装进本地软件就是大脑有了手脚，网页版就是只有大脑没有手脚。"
+    },
+    {
+      "id": "7669114797142033152",
+      "t": 10,
+      "content": "deepseek的性能只存在那种有固定答案的榜单，闭源前十都塞不进去"
+    },
+    {
+      "id": "311648069008",
+      "t": 7,
+      "content": "看起来，三维不行，二维的很不错啊，那个线稿纯画面来说感觉还是很漂亮的，多模态的训练对于模型来说对三维空间的感知和生成能力会有很大的提升吗"
+    },
+    {
+      "id": "308409704689",
+      "t": 11,
+      "content": "我们淘宝店铺有售"
+    },
+    {
+      "id": "6a6dac3d0000000015006477",
+      "t": 12,
+      "content": "估计 pro 出来很惊艳"
+    },
+    {
+      "id": "2083264665250140544",
+      "t": 13,
+      "content": "@deepseek_ai deepseek never miss"
+    },
+    {
+      "id": "311701412032",
+      "t": 14,
+      "content": "回复 @笑景和 :感觉很难，没多模态还是太伤了[doge]我其实挺希望国产二线模型团队能在多模态方面帮一下ds"
+    },
+    {
+      "id": "6a6d782b000000002300cdd3",
+      "t": 15,
+      "content": "那还是比较难的，色块和精度都不好平衡。"
+    },
+    {
+      "id": "311775012912",
+      "t": 14,
+      "content": "被吓到眩晕瘫坐在原子弹上，那一刻就像看到椅子爆炸"
+    },
+    {
+      "id": "6a6edac6000000000802d01f",
+      "t": 16,
+      "content": "确实，部署要求低也是它的优势之一"
+    },
+    {
+      "id": "6a6dc45300000000090175db",
+      "t": 17,
+      "content": "聪明多了[害羞R]"
+    },
+    {
+      "id": "311803149104",
+      "t": 1,
+      "content": "回复 @阮七星落 :那是昨天以后，昨天中午 flashga 发了我后面就用的 flashmax 了"
+    },
+    {
+      "id": "7668779903621858057",
+      "t": 18,
+      "content": "对，但是本次正式版flash推送仅在API，网页和app不推送"
+    },
+    {
+      "id": "311716674336",
+      "t": 1,
+      "content": "flash 284b 你花个2万块，在家就能布个量化版"
+    },
+    {
+      "id": "311729252352",
+      "t": 1,
+      "content": "以前的GLM5.2和Kimi K3个人想要部署不现实，但现在的V4F只有284B意味着个人只需要两三万块就可以部署一个T1级顶级模型，这虽然很贵，但已经是个人能承受的范围了，只能说梁圣牛逼，这在开源界真是超级核弹了，已瘫坐眩晕。"
+    },
+    {
+      "id": "p0vgu67",
+      "t": 19,
+      "content": "Who’s running 304B parameters on their system? Genuinely don’t understand why people are getting excited over this unless I am missing something"
+    },
+    {
+      "id": "311862718992",
+      "t": 20,
+      "content": "是计算权重从存储挪，这层算完就释放吗[笑哭][笑哭]"
+    },
+    {
+      "id": "311640757984",
+      "t": 2,
+      "content": "回复 @刀刀又叨叨 :pro也要更新啊 又不是不出了[笑哭]"
+    },
+    {
+      "id": "311894121280",
+      "t": 21,
+      "content": "不用改，正常用就可以了"
+    },
+    {
+      "id": "308451426721",
+      "t": 22,
+      "content": "flash在没提供视觉模型调用时会自己截图用数学判断，有视觉模型会主动截图自己审核，很nice"
+    },
+    {
+      "id": "308338770449",
+      "t": 23,
+      "content": "回复 @为你预留路灯一位 :不会，luna max能力和5.5xhigh接近，不过前端和5.5一样烂😂"
+    },
+    {
+      "id": "311782734160",
+      "t": 24,
+      "content": "回复 @超级小饭桶ZERO :搞笑，RAG，AI智能客服，docker，K8S我什么不懂？我0到1开发的AI全栈工程师，你在我面前装？是我面你还是你面我，要不说说langchain还有模型训练的底层原理看看？"
+    },
+    {
+      "id": "7668912241098867515",
+      "t": 25,
+      "content": "我觉得还挺快的啊，刚发送消息思考都准备完成了"
+    },
+    {
+      "id": "311902345888",
+      "t": 26,
+      "content": "那个肯定碾压打这些啊"
+    },
+    {
+      "id": "p11jodd",
+      "t": 27,
+      "content": "Corporations do not do things for the customers out of benevolence, especially when said corporation is a money sink of epic proportions."
+    },
+    {
+      "id": "311684912016",
+      "t": 28,
+      "content": "没有上APP"
+    },
+    {
+      "id": "311728304128",
+      "t": 28,
+      "content": "回复 @goodstuden :有没有推荐的skill"
+    },
+    {
+      "id": "7669393269209629478",
+      "t": 25,
+      "content": "日抛号吧，正常成品号哪有这种价格的"
+    }
+  ]
+}

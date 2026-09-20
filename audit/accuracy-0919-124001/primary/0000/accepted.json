@@ -1,0 +1,808 @@
+{
+  "items": [
+    {
+      "id": "308505412033",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型能否根据正面像素图生成其他视角。"
+    },
+    {
+      "id": "311681129744",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以夸张说法建议按token使用，强调部署成本不划算。"
+    },
+    {
+      "id": "308406491553",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望",
+        "期待"
+      ],
+      "score": -0.7,
+      "reason": "贬低Flash表现，并追问Pro发布时间。"
+    },
+    {
+      "id": "p101dnf",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问官方API是否已更新，并说明本地无法承载。"
+    },
+    {
+      "id": "311682635184",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "表示手机也已能使用，具体所指方案不明。"
+    },
+    {
+      "id": "308470005233",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "用摇钱树比喻API盈利潜力，主要是商业调侃。"
+    },
+    {
+      "id": "p0u5zyf",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待",
+        "惊喜"
+      ],
+      "score": 0.6,
+      "reason": "预测下一版Pro将超过Google，语气兴奋。"
+    },
+    {
+      "id": "311738987056",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问视频所提开放平台是否为APP。"
+    },
+    {
+      "id": "7669365246155490106",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "以谐音梗调侃竞争者卷不过梁白开，评价略含糊。"
+    },
+    {
+      "id": "308418286145",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "询问token消耗上升是否源于过度思考，略显不满。"
+    },
+    {
+      "id": "308483506801",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认为xhigh档位够用，属于轻度能力认可。"
+    },
+    {
+      "id": "p0v7lhk",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "other"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "称赞发布方式、开放权重、强化学习提升与可部署性。"
+    },
+    {
+      "id": "6a6eeb220000000005014b55",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "分享新组合体验，认为逻辑和扩展表现优于旧组合。"
+    },
+    {
+      "id": "308508675361",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问多个AI工具的区别与优劣。"
+    },
+    {
+      "id": "308569549953",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "反问前端是否需要逻辑，未明确涉及AI使用。"
+    },
+    {
+      "id": "311772044576",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "否定某操作的意义，但世界树与蓝灯指代不明。"
+    },
+    {
+      "id": "311774230224",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "用激活参数规模质疑模型能力上限。"
+    },
+    {
+      "id": "6a6ed16c0000000005014221",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问部署并发控制及预填充和解码性能极限。"
+    },
+    {
+      "id": "7669309121057178411",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "指出正式版仍缺多模态，主要陈述能力缺失。"
+    },
+    {
+      "id": "7669211799079060273",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "抱怨来不及且花钱，具体对象需缺失上下文确认。"
+    },
+    {
+      "id": "311767743968",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "编排团队劝谏的股市段子，与模型使用关系间接。"
+    },
+    {
+      "id": "311832431632",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明从GitHub下载，但未明确下载对象。"
+    },
+    {
+      "id": "308472965377",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "依据Pro用量费用，追问Flash高费用对应的用量。"
+    },
+    {
+      "id": "6a6e12910000000015008253",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问高速推理所用设备与量化精度。"
+    },
+    {
+      "id": "308606356961",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "结合个人体验，强烈抱怨opencode接GPT速度慢。"
+    },
+    {
+      "id": "308507012065",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问同一模型在两种工具中的编程能力差异。"
+    },
+    {
+      "id": "6a6f2ee0000000002901b172",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.7,
+      "reason": "批评量化破坏生态，但量化具体含义存在歧义。"
+    },
+    {
+      "id": "6a6d4b50000000000403a894",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "惊叹模型自主截图分析并调整UI布局的能力。"
+    },
+    {
+      "id": "7668965692536931131",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正Cline指代，并说明AI工具形态及适用人群。"
+    },
+    {
+      "id": "7668928181752120101",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "other",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "以笑表达无语，缺少可确认的AI讨论对象。"
+    },
+    {
+      "id": "311861170000",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以唐包玩梗，缺少明确模型或产品评价。"
+    },
+    {
+      "id": "p0yrznb",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "抱怨角色性别前后矛盾，并认为模型近乎不可用。"
+    },
+    {
+      "id": "6a6e81ad000000002901ac4e",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问如何使用Codex的API。"
+    },
+    {
+      "id": "7669011008312722230",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "price"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "贬低智普，抱怨循环输出造成token消耗暴增。"
+    },
+    {
+      "id": "308388719585",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃拟人形象由鱼变猫娘，与产品本身关系较弱。"
+    },
+    {
+      "id": "311832570688",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "提及Qoderwork并将公司老大问题类比谷歌困境。"
+    },
+    {
+      "id": "311704537632",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.6,
+      "reason": "强调官方API价格极低，并分析个人部署不划算。"
+    },
+    {
+      "id": "308577087745",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "question"
+      ],
+      "a": [
+        "price",
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "询问图表来源，同时肯定Flash的价格与效率优势。"
+    },
+    {
+      "id": "7668973916010398501",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问原有Agent中的API配置是否需要修改。"
+    },
+    {
+      "id": "311745750448",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "mixed"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "price"
+      ],
+      "e": [
+        "质疑",
+        "认可"
+      ],
+      "score": -0.3,
+      "reason": "反对脱离参数价格场景的比较，并认可能力差距合理。"
+    }
+  ]
+}

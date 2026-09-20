@@ -1,0 +1,829 @@
+{
+  "items": [
+    {
+      "id": "311900358640",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "以反问调侃架构归属，缺少上文使反讽对象不明。"
+    },
+    {
+      "id": "308405934801",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "指出小模型长程任务不足，同时期待Pro能力。"
+    },
+    {
+      "id": "311797018576",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "自身提升有限但认可他人出文效果，归因提示词。"
+    },
+    {
+      "id": "p15xif5",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "询问Grok排名为何如此高，带质疑但未明确贬低。"
+    },
+    {
+      "id": "308365150161",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "分享重型输入下指令遵循良好且优于Pro的体验。"
+    },
+    {
+      "id": "308435048481",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "指出前端落后竞品，并描述评价分歧及跑分争议。"
+    },
+    {
+      "id": "6a6eecf5000000002a031dc1",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "correction"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "将满血与Q4并置嘲讽，质疑满血说法。"
+    },
+    {
+      "id": "308403317313",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "认可便利性，同时报告CC配置MCP存在问题。"
+    },
+    {
+      "id": "311758246768",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以价格相同为依据询问为何不开高档配置。"
+    },
+    {
+      "id": "308522966449",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "推荐免费且能干活的OpenCode，也含对原方案否定。"
+    },
+    {
+      "id": "311812840528",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "借梁叔叔与闭源模型玩梗，具体褒贬较含蓄。"
+    },
+    {
+      "id": "311698237360",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "说明已支持直连，但认为CLI不适合大众用户。"
+    },
+    {
+      "id": "308362208657",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "明确称API昂贵，并以订阅使用量作对照。"
+    },
+    {
+      "id": "311726439264",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否更新，说明此前只能使用Pro。"
+    },
+    {
+      "id": "6a6e9a2d0000000015008ba1",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "capability",
+        "performance",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "愤怒",
+        "失望"
+      ],
+      "score": -1,
+      "reason": "强烈抱怨循环压缩失忆、无响应和浪费时间金钱。"
+    },
+    {
+      "id": "6a6eb95c000000002b001e3f",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "joke"
+      ],
+      "a": [
+        "service",
+        "reliability"
+      ],
+      "e": [
+        "调侃",
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "讽刺付费仍遇繁忙提示，但标题未明确产品对象。"
+    },
+    {
+      "id": "308479243825",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "usability"
+      ],
+      "e": [
+        "调侃",
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "结合编程考核标题，抱怨反复修复二十次。"
+    },
+    {
+      "id": "311701207632",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认可GLM后端能力，说明其他产品额度未恢复。"
+    },
+    {
+      "id": "311716589280",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "告知已有前端评测并注明high档，未评价结果。"
+    },
+    {
+      "id": "311682289328",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "借作品名和七月时间梗调侃，是否指模型进度不明。"
+    },
+    {
+      "id": "308630480241",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "强调后训练必要性，并建议与预训练同步进行。"
+    },
+    {
+      "id": "308482090993",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅说已发，无法确定发送的是模型相关内容。"
+    },
+    {
+      "id": "2083702753893986649",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "陈述下载中并列出具体DeepSeek模型仓库。"
+    },
+    {
+      "id": "7668935947635704603",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.4,
+      "reason": "结合实测标题感叹恐怖如斯，可能赞叹也可能玩梗。"
+    },
+    {
+      "id": "311707118704",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "期待"
+      ],
+      "score": 0,
+      "reason": "质疑他人是否用过API，同时明确期待Pro。"
+    },
+    {
+      "id": "308484457025",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "说明评分来自自家测试框架，并表达期待。"
+    },
+    {
+      "id": "311778026256",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "硬梁疑为对梁的赞许梗，与模型评价的关联含糊。"
+    },
+    {
+      "id": "311811623328",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "愤怒"
+      ],
+      "score": -0.3,
+      "reason": "认可DeepSeek变强，但批评忽视模态短板拉踩K3。"
+    },
+    {
+      "id": "311747582432",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认为当前工具足以写论文，无需额外Agent功能。"
+    },
+    {
+      "id": "p0zz34v",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "other",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "设想百万高水平低成本Agent的未来，未明确评价利弊。"
+    },
+    {
+      "id": "311727474640",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释安装Agent可写代码、做PPT和处理文件。"
+    },
+    {
+      "id": "308357598225",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问自身同样状况的原因，但缺少所指问题。"
+    },
+    {
+      "id": "308443860481",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "用梁子称呼表达Pro发布前的保留或不满。"
+    },
+    {
+      "id": "p1271vz",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "mixed"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "区分执行编码与解决大问题，并讽刺提问未定义用途。"
+    },
+    {
+      "id": "308599845105",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "以反问引出工作学习中先用AI的个人习惯。"
+    },
+    {
+      "id": "6a6dfdfe0000000015005026",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "明确贬低豆包，结合标题构成模型比较。"
+    },
+    {
+      "id": "311647545328",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "对资本逐利表示无奈，但无法确定是否讨论AI。"
+    },
+    {
+      "id": "311645134720",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "performance",
+        "price",
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "反对手机本地部署可行性，比较云端及家庭机房成本。"
+    },
+    {
+      "id": "311842462992",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "content",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "批评抢发视频而未开极限思考，否定测试价值。"
+    },
+    {
+      "id": "7669119512704926513",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "问JSON是谁可能求解也可能玩梗，AI关联不明确。"
+    }
+  ]
+}

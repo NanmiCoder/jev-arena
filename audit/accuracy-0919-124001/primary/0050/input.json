@@ -1,0 +1,236 @@
+{
+  "topics": [
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "不考虑成本，我用过的模型排名， Fable-5&gt;GPT-5.6-SOl&gt;Kimi-K3&gt;GLM-5.2&gt;DeepSeek-V4-Flash-0731",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek-V4-Flash-0731 UD-IQ3_S 12.5 tok/s on RTX 3090 +128GB DDR5",
+    "DeepSeek-V4-Flash-0731 is currently #2 on Hugging Face trending list, right behind Kimi-K3",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Deepseek v4 flash 0731 still not holding up.",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "DeepSeek V4flash用SVG复刻梵高和画画",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Deepseek v4 Flash 0731, blazingly quick and good w/ DSpark!",
+    "在家跑deepseek v4 flash",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "Deepseek v4 flash 0731",
+    "@UrSourceCode coba v4-flash-0731 kakk (bukan yg pro), beberapa benchmark di artificial analysis ngalahin glm5.2",
+    "Deepseek v4 Flash 0731 GGUF Benchmark: TensorSharp vs. llama.cpp"
+  ],
+  "comments": [
+    {
+      "id": "311629275248",
+      "t": 0,
+      "content": "回复 @考研数学张宇本人 :目前可以用codexcli。下个月ds会公布自己的agent"
+    },
+    {
+      "id": "308504941201",
+      "t": 1,
+      "content": "回复 @好喝到咩噗咩噗奶茶 :人家CEO自己说的。。。你不信就不信呗有啥急的，搁50年前我还说人类几百年都不会用上智能手机这种东西呢[笑哭]"
+    },
+    {
+      "id": "2083892482803421221",
+      "t": 2,
+      "content": "不考虑成本，我用过的模型排名， Fable-5&gt;GPT-5.6-SOl&gt;Kimi-K3&gt;GLM-5.2&gt;DeepSeek-V4-Flash-0731"
+    },
+    {
+      "id": "308400398833",
+      "t": 3,
+      "content": "有没有可能大部分agent的基础提示词都有几M了"
+    },
+    {
+      "id": "6a6e08a9000000002902ca5e",
+      "t": 4,
+      "content": "全球唯一的200k上下文"
+    },
+    {
+      "id": "308587412865",
+      "t": 5,
+      "content": "还是cursor 多模型review好用\n全部一起上"
+    },
+    {
+      "id": "311643789200",
+      "t": 6,
+      "content": "回复 @lfrmy :api不可能降智的，毕竟是付费使用。高峰期一般也会优先保障api[蔚蓝档案静态_好吃]"
+    },
+    {
+      "id": "p17lpmt",
+      "t": 7,
+      "content": "./llama-server -np 1 --no-mmap --model models/deepseek-v4-flash-bartowski/DeepSeek-V4-Flash-0731-MXFP4-00001-of-00004.gguf --chat-template-kwargs '{\"reasoning\\_effort\":\"high\"}' --threads 8 --fit on --fit-target 1024 --fit-ctx 250000 --ctx-size 250000 --flash-attn on -b 4096 -ub 2048 --jinja --temp 1.0 --min-p 0.0 --top-p 0.95\n\n12 t/s with full quant on Ryzen 9800X3D + 5070 Ti 16Gb + 192Gb DDR5 RAM at 6000 MT/s"
+    },
+    {
+      "id": "308412996865",
+      "t": 6,
+      "content": "现在只有两个选择，哪个更好啊？"
+    },
+    {
+      "id": "311713242272",
+      "t": 1,
+      "content": "别让它干需要视觉的任务，不然就得用别的多模态模型帮它看，比如minimax[微笑][微笑]"
+    },
+    {
+      "id": "p0xqn5v",
+      "t": 8,
+      "content": "guys, which one should I download on lm studio?? (i have 16gb vram)"
+    },
+    {
+      "id": "311679691456",
+      "t": 6,
+      "content": "官网说了，不用改"
+    },
+    {
+      "id": "311874785424",
+      "t": 9,
+      "content": "但ai写英文，它自己也喜欢用破折号"
+    },
+    {
+      "id": "308416656385",
+      "t": 10,
+      "content": "苹果的广告也是天天only 苹果 can do，但是基本的高刷和快充也没有，不还是喊only 苹果 can do吗？"
+    },
+    {
+      "id": "p13z6pm",
+      "t": 11,
+      "content": "I've grown used to herding the fucker. System prompts and skills instructions definitely need to be stronger w/ DeepSeek. No hedging language or weak instructions written like they're general advice. Tell it exactly what it should do. If your skills require a certain workflow, list the steps and their order. Don't overload w/ negative \"Do not\" constraints. Firm positive instructions. Provide varied output examples if your workflow depends on it. I could go on and on. I had to write a skill for Claude just to tell it how to write instructions for DeepSeek."
+    },
+    {
+      "id": "308440542433",
+      "t": 12,
+      "content": "回复 @梦生moons :codex 的 win 版本就是有点拉"
+    },
+    {
+      "id": "6a6c9d55000000000403a609",
+      "t": 13,
+      "content": "今天用codex+dpskV4f，玩了一下午才花了4元"
+    },
+    {
+      "id": "308499710593",
+      "t": 3,
+      "content": "佬我想问一下，为什么我将cc switch的模型全部改为flash，但是claude调用的还是V4 pro；好像Opus就必然调用pro，一直切换不过来，只能单次的切换"
+    },
+    {
+      "id": "6a6e27f700000000290369c1",
+      "t": 14,
+      "content": "大概看懂了，其实不是真正的 矢量图，不可以像通常矢量图可以拖动模块。这个方式是用矢量图方式去绘制像素点[doge]"
+    },
+    {
+      "id": "6a6d5f610000000015005601",
+      "t": 15,
+      "content": "你哪怕去官网看一眼更新日志呢，官方自己写的好叭[失望R]一些方面比V4 PRO预览版强"
+    },
+    {
+      "id": "7668970992760783651",
+      "t": 16,
+      "content": "能用吗？9块钱就挺便宜的"
+    },
+    {
+      "id": "311719166064",
+      "t": 17,
+      "content": "回复 @紫巅 :[喜欢]"
+    },
+    {
+      "id": "6a6c6f400000000015012be9",
+      "t": 18,
+      "content": "智谱刚提高价格就被超了"
+    },
+    {
+      "id": "308421262289",
+      "t": 10,
+      "content": "轻量级模型本来就不适合做复杂任务规划，知识面不足，只适合当执行者，一般都是自己或更大的模型做架构设计，然后轻量级模型去执行"
+    },
+    {
+      "id": "311884059344",
+      "t": 3,
+      "content": "都要啊，除了复杂任务、规划都可以交给ds。或者说任何事都可以先交给ds试一试，不行再换，又不贵"
+    },
+    {
+      "id": "311814255088",
+      "t": 19,
+      "content": "至于codex显示最大上下文258k内部最大上下文272k。实际上你自己API调用。也基本上不可能1m在压缩的。这样账单费用支付不起。模型能力还很难量化出来有多少提升。"
+    },
+    {
+      "id": "2083091897892180282",
+      "t": 20,
+      "content": "@deepseek_ai Pro will definitely crash Fable and sol with much smaller size"
+    },
+    {
+      "id": "308349093841",
+      "t": 21,
+      "content": "ds的边角料，一边玩去[doge]"
+    },
+    {
+      "id": "p126xyt",
+      "t": 22,
+      "content": "Interested to know more about the GH200? Which hardware platform? What's the software support like?"
+    },
+    {
+      "id": "6a6edb5e000000000802f90d",
+      "t": 23,
+      "content": "封面：满血版。点进来：q4[呃R]。。另外163G那个不叫q8，应该是混合精度w4a8之类的吧"
+    },
+    {
+      "id": "6a6ee8e100000000140390d4",
+      "t": 9,
+      "content": "open code能出个使用教程吗[玫瑰R]"
+    },
+    {
+      "id": "7668962862048133903",
+      "t": 24,
+      "content": "你这还差点意思呀，看我的方法"
+    },
+    {
+      "id": "6a6d4904000000000802f7b9",
+      "t": 25,
+      "content": "笑死我了，话糙理不糙但是这个话也太糙了[捂脸R]"
+    },
+    {
+      "id": "311829807120",
+      "t": 1,
+      "content": "985本科以上可以推荐"
+    },
+    {
+      "id": "311766287808",
+      "t": 26,
+      "content": "回复 @青锋笔 :一张招商卡的事"
+    },
+    {
+      "id": "6a6e22ae000000000b039a75",
+      "t": 27,
+      "content": "不是蠢就是坏"
+    },
+    {
+      "id": "2083885963231809827",
+      "t": 28,
+      "content": "@UrSourceCode coba v4-flash-0731 kakk (bukan yg pro), beberapa benchmark di artificial analysis ngalahin glm5.2"
+    },
+    {
+      "id": "308388080209",
+      "t": 3,
+      "content": "回复 @烽域 :仅支持OCR"
+    },
+    {
+      "id": "p11lu7w",
+      "t": 29,
+      "content": "On their github is mentioned that tool calling isnt working with DS4F. Is this information still valid?"
+    },
+    {
+      "id": "7668879913348285221",
+      "t": 16,
+      "content": "你应该也是刚开始用ai，经常用的都是各种工具配合用"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "GPT 5.6 Luna最新测评报告！打得过Deepseek V4 Flash吗？",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "要被外网的一些评论笑死了😂😂😂",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek v4 flash 0731",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek v4 flash正式版测试，效果出乎意料~ #deepseek",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "DeepSeek-V4-Flash-0731 on Bosgame M5 with RTX PRO 6000 Max-Q eGPU",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "震惊瘫坐！deepseek v4 flash战地游戏生成，逆天性价比宛如看见核弹爆炸",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "deepseekV4Flash正式版上线并针对适配Codex",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "Deepseek V4 Flash正式版全栈开发测评，非常强！",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "梁圣无敌！deepseek v4-flash正式版来了"
+  ],
+  "comments": [
+    {
+      "id": "308527343185",
+      "t": 0,
+      "content": "回复 @歪瑞劳格 :很多经典常用的结构被抽象出来了，用一行代码就能实现原先写几百行新开一个子模块的工作量，在前ai时代是让de从自己干脏活变成优雅搭积木，在agent时代是让ai写的代码在你有限的精力下能够被有效消化和审阅"
+    },
+    {
+      "id": "6a6c61b9000000000802f971",
+      "t": 1,
+      "content": "再看看deepseek-v4-flash的价格，这让刚刚减量加价的智谱glm有点点尴尬了[笑哭R]感觉智谱的估值一闪一闪的"
+    },
+    {
+      "id": "308572504785",
+      "t": 2,
+      "content": "回复 @黎明地追随者 :现在还剩下最后一个问题，就是梁圣和其他人类一样，被杀了就会死。\n建议ds把省下来的算力投入全部用在安保上，把成本拉到和美国人一个水平线上[doge]"
+    },
+    {
+      "id": "308487152689",
+      "t": 3,
+      "content": "應該用max比 luna max 最近社群討論度蠻高的"
+    },
+    {
+      "id": "311727556272",
+      "t": 4,
+      "content": "回复 @天呢au :ai都没你严谨"
+    },
+    {
+      "id": "6a6d6b6e000000000b039822",
+      "t": 5,
+      "content": "没错，豆包和千问的客户端做的拉完了，建议基于chrome开发的工资应该发给谷歌，即便在pc上单纯打开网页的速度也远不如ds快"
+    },
+    {
+      "id": "311713715520",
+      "t": 6,
+      "content": "回复 @安静_苦笑 :有边界效应在，模型越大提升幅度越小"
+    },
+    {
+      "id": "6a6dfd100000000015012fe5",
+      "t": 7,
+      "content": "不适合许愿式编程"
+    },
+    {
+      "id": "311876392576",
+      "t": 8,
+      "content": "你这个网页版是什么的网页版？Reasonix还是DS？如果是DS的话，目前DS网页版的flash还是原先的预览版的，官方尚未更新到正式版，目前只有api的flash更新到正式版了。网页版可能没有api的能力强。"
+    },
+    {
+      "id": "7668919690714399497",
+      "t": 9,
+      "content": "太狠了，Trae一天不到10块钱[捂脸]"
+    },
+    {
+      "id": "7669083644758442802",
+      "t": 10,
+      "content": "ds的思考强度怎么改呀"
+    },
+    {
+      "id": "311880694816",
+      "t": 11,
+      "content": "个人用下来感觉，vibecoding gpt luna基本上能够完整cover我的思路，但是ds总是会用一些绕弯实现相同的feat，ds的prompt必须写得更全[辣眼睛]但是价格这一块真没话说"
+    },
+    {
+      "id": "p16qwko",
+      "t": 12,
+      "content": "Nice work! I'm going after you. Pulled your fork and please tell me where can I get the draft model \"DSV4-Flash-0731-DSpark-draft-bf16.gguf\"?"
+    },
+    {
+      "id": "311636746640",
+      "t": 13,
+      "content": "来了[星星眼]"
+    },
+    {
+      "id": "311758466112",
+      "t": 14,
+      "content": "顶多算个前端能力测评，因为：纯网页，大量图片素材，GUI交互，元素之间的排版，这些都属于前端工作。\n\n接下来说几个关键词：model，harness，agent。model就是模型，最纯粹的权重经过前向传播吐文字的东西；harness简单理解就是各种各样的软件，比如openclaw，比如claude code，但是要把里面的模型剥离出来，着重强调软件对模型的prompt engineering；agent指的是前两者合起来，形成一个你发指令能自动调用工具执行action来帮你完成任务的“智能体”。如此看来，标题里没有测到大部分的agent能力（基本没有工具调用，大部分都是一句话生成HTML）。\n\n建议还是多用用不用的model配不用的软件，或者同一个软件接一个不同的model，自己多玩玩就有感觉了。"
+    },
+    {
+      "id": "308490823441",
+      "t": 6,
+      "content": "这种低级别模型就别有多牛逼的性能了"
+    },
+    {
+      "id": "308469076401",
+      "t": 14,
+      "content": "deepseek官方文档中注明了支持的几个软件https://api-docs.deepseek.com/zh-cn/，最顶上就是claude code，用claude code做不好是肯定说不过去的，不过因为之前的风波我自己也不用cc了，我也不知道现在cc啥情况，不做评论了。现在参考文档，Codex（新做的适配），Reasonix、opencode是比较适宜的，不过我不推荐up继续做，总有人不接受坏结果，不如等几天deepseek官方harness更新算了，到时候总没有理由了"
+    },
+    {
+      "id": "311745579808",
+      "t": 15,
+      "content": "回复 @黎雾落珠 :跟算力无关，如果搞的是同一种东西别人弄得出来你弄不出来，那就是你的问题[笑哭]"
+    },
+    {
+      "id": "308465110769",
+      "t": 14,
+      "content": "回复 @HeySiri___ : 确实如此   但这个正式版建议比较难的项目试下开MAX 差距真的很大"
+    },
+    {
+      "id": "311800111936",
+      "t": 6,
+      "content": "[Neuro sama动态表情包_小丑]"
+    },
+    {
+      "id": "311914930192",
+      "t": 16,
+      "content": "同样的质量24h花费1元，1小时花费2元，你选哪个啊"
+    },
+    {
+      "id": "6a6e077900000000090157ff",
+      "t": 17,
+      "content": "你乐观了，还有实际上下文和是否谎报也有很大关系"
+    },
+    {
+      "id": "7668889520042263354",
+      "t": 9,
+      "content": "使用的Coding Agent跟我说的第一点有关 你说的跟我的第二点有关 你要不测试一下每轮请求隔着久一点 再看下你的缓存率呢 不信你可以差一下"
+    },
+    {
+      "id": "308459615137",
+      "t": 18,
+      "content": "回复 @云初子淼 :你想说4比特吧[笑哭]，4bit就是降智版的其实"
+    },
+    {
+      "id": "311899187472",
+      "t": 6,
+      "content": "回复 @SH_qsIHS :难得股市回归了原教宗旨，股市的初衷不就是获得融资帮助企业做大做强么"
+    },
+    {
+      "id": "311725102864",
+      "t": 19,
+      "content": "回复 @蜻蜓点水-涟漪无边 :会不会是因为deepseek现在采用峰谷定价的原因"
+    },
+    {
+      "id": "311905053008",
+      "t": 6,
+      "content": "只要孩子喜欢有兴趣，啥都能学会，主要是看孩子有没有兴趣，喜不喜欢，这才是最重要的"
+    },
+    {
+      "id": "6a6d3cd1000000001500a4a6",
+      "t": 20,
+      "content": "flash 刚出的是正式版"
+    },
+    {
+      "id": "2083660143145996657",
+      "t": 21,
+      "content": "@deepseek_ai @grok how is DS flash v4 compared to\nOpus 4.8, Gpt 5.6 sol?"
+    },
+    {
+      "id": "311892350816",
+      "t": 22,
+      "content": "省流: 08:02    这里很有意思"
+    },
+    {
+      "id": "17926890",
+      "t": 23,
+      "content": "下周 ai 应用又要走一波吗"
+    },
+    {
+      "id": "308615638625",
+      "t": 24,
+      "content": "回复 @versez :还有就是你用API时TPS可能高于60TPS"
+    },
+    {
+      "id": "6a6d74af0000000009015833",
+      "t": 5,
+      "content": "一种高级审美"
+    },
+    {
+      "id": "308417398209",
+      "t": 25,
+      "content": "当然了，harness估计和pro一起出，那时候基本上也没人会用flash了[笑哭]"
+    },
+    {
+      "id": "2083187342920003891",
+      "t": 21,
+      "content": "@deepseek_ai Guys, does this model name automatically function as an alias? \"deepseek-v4-flash\". I'm using DeepSeek models since quite a while now, and I need to know if I need to specify in several applications the model name with an added \"0731\". Your api docs don't say anything about that."
+    },
+    {
+      "id": "311776834624",
+      "t": 6,
+      "content": "回复 @不可思议夫斯基 :确实是这样，现在flash模型的优化方面都是朝着提升coding能力去的。但架不住ds实在便宜，现在在我的写作agent只能不停的优化prompt和改善写作流程，尝试能不能改正ds那种滴水不漏太过圆润且过于模板化的写作方式，走出自己的风格。"
+    },
+    {
+      "id": "7668939622457721610",
+      "t": 26,
+      "content": "Pro比这强一点而已看看上次两个排名"
+    },
+    {
+      "id": "6a6df21f0000000029024be6",
+      "t": 5,
+      "content": "给ds打钱，看ta还忘不忘[偷笑R]"
+    },
+    {
+      "id": "6a6d877e000000002a02dcf1",
+      "t": 5,
+      "content": "你这数据哪儿来的？"
+    },
+    {
+      "id": "6a6df50d0000000004038fa1",
+      "t": 27,
+      "content": "这个毒圈还是v4 flash划的，pro还能再往上划[笑哭R]"
+    }
+  ]
+}

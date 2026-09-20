@@ -1,0 +1,766 @@
+{
+  "items": [
+    {
+      "id": "6a6ddc3a0000000029036139",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "质疑网页审美评价，并推荐使用stitch。"
+    },
+    {
+      "id": "6a6d7b1e000000002902c2a5",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "陈述已接入且官网有公告，具体接入对象缺失。"
+    },
+    {
+      "id": "6a6f1f19000000000901589a",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "performance",
+        "reliability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "抱怨专家请求卡顿，并嘲讽恢复后的回应。"
+    },
+    {
+      "id": "6a6dcae90000000029025881",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "指出小模型未训练场景表现差，语气偏解释和接受。"
+    },
+    {
+      "id": "311752481744",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "表示继续等待，是否等待模型更新缺乏明确指代。"
+    },
+    {
+      "id": "311894049744",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释外接识图也能保持风格，纠正据此推断视觉训练。"
+    },
+    {
+      "id": "308415363505",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认为能进入比较本身就证明DeepSeek成功。"
+    },
+    {
+      "id": "308368760705",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "content",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "质疑用视觉强相关项目测试无多模态模型的合理性。"
+    },
+    {
+      "id": "17926524",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "以精准狙击调侃GLM涨价，滑稽具体指向略有歧义。"
+    },
+    {
+      "id": "7668913497242632997",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用梁白开昵称调侃评价变化，未直接评价模型。"
+    },
+    {
+      "id": "308404129985",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "体验Flash接入Codex后明确优先于其他工具。"
+    },
+    {
+      "id": "308412760945",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "推测对DeepSeek期待过高，未直接表达自身失望。"
+    },
+    {
+      "id": "6a6d6230000000002b02997a",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述能感知pro和flash推理差异，未明确褒贬。"
+    },
+    {
+      "id": "308504562113",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "认为后训练偏重agent，写作能力持续退步。"
+    },
+    {
+      "id": "311808140416",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正对AGI、多模态及商业形式关系的理解。"
+    },
+    {
+      "id": "308444989377",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Claude Code是否增加API用量及费用原因。"
+    },
+    {
+      "id": "311843821264",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以安全审核说明不可行，但缺失被限制行为的指代。"
+    },
+    {
+      "id": "308480314337",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": -0.1,
+      "reason": "批评DS缺多模态及价格，同时认可luna性价比。"
+    },
+    {
+      "id": "6a6e444400000000050159fb",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "强调测试重要，并指出缺多模态无法完成前端测试。"
+    },
+    {
+      "id": "p16s94o",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "对八通道说法带来的落空希望表达失望，模型关联间接。"
+    },
+    {
+      "id": "308379703233",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合标题询问模型使用价格，表情不足以确定玩梗。"
+    },
+    {
+      "id": "308599593457",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提到自己用glm4v，并询问对方方案是否收费。"
+    },
+    {
+      "id": "7669314303623906107",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "询问用量过多是否可欠费，带自嘲笑意。"
+    },
+    {
+      "id": "2083324854640824619",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述模型已被越狱，未明确表达赞赏或担忧。"
+    },
+    {
+      "id": "p11gwo2",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "报告硬件配置及模型预填充、生成速度。"
+    },
+    {
+      "id": "311678799776",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明官网充值，并求证官方是否有套餐。"
+    },
+    {
+      "id": "311876320288",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Codex接入效果，并与opencode和cc比较。"
+    },
+    {
+      "id": "6a6ec698000000001403a2f0",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问为何涉及911，没有可见AI关联。"
+    },
+    {
+      "id": "6a6d9bcd00000000140383f4",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "建议通过官方办法连接Codex以执行任务和联网。"
+    },
+    {
+      "id": "6a6cbc3d000000000901580d",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃奥特曼很享受，未讨论模型或产品使用。"
+    },
+    {
+      "id": "311637353104",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "基于GLM价格推测旧版本不会立即开放新模型。"
+    },
+    {
+      "id": "308547171889",
+      "r": [],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅表示印象中存在，缺失对象无法判定相关性。"
+    },
+    {
+      "id": "311719404736",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议外接其他多模态模型完成OCR。"
+    },
+    {
+      "id": "7668974428239758117",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "以开挂口吻调侃99.51%，指标和具体对象不明。"
+    },
+    {
+      "id": "308612908753",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问如何发现，可能指标题接入办法但缺明确对象。"
+    },
+    {
+      "id": "7668741726391812913",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "结合模型标题调侃可生成色情内容。"
+    },
+    {
+      "id": "6a6cb6ea000000002a030169",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "纯飞吻表情表达好感，不构成AI讨论。"
+    },
+    {
+      "id": "311907203888",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "表示尚未使用并期待抽中体验模型。"
+    },
+    {
+      "id": "308529745473",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议不用交换机的网络连接方案，与模型部署关联间接。"
+    },
+    {
+      "id": "311895677696",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "说明读取截图像素的做法，兼提耗token与相对优势。"
+    }
+  ]
+}

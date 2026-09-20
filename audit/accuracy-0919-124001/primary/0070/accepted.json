@@ -1,0 +1,802 @@
+{
+  "items": [
+    {
+      "id": "7668761404258763561",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "disagreement"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "陈述API使用经验，并质疑费力绕过C端约束的必要性。"
+    },
+    {
+      "id": "6a6efdb4000000002a007574",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.2,
+      "reason": "推测人事变动影响模型版本后续，具体版本指代不明。"
+    },
+    {
+      "id": "7669237507909845817",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "称DeepSeek再次打破常规，表达对其突破的认可。"
+    },
+    {
+      "id": "308492102801",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "疑似指出UP使用opencode，省略表达略有歧义。"
+    },
+    {
+      "id": "7669318505967698746",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "调侃缺乏视觉能力，同时肯定可调用本机OCR。"
+    },
+    {
+      "id": "311758192912",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "指责对方打广告，未明确评价AI产品本身。"
+    },
+    {
+      "id": "311805651680",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "quality",
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "抱怨花费28元却成果有限，模型频繁犯错和过度修改。"
+    },
+    {
+      "id": "308351340513",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否不再需要cc中转。"
+    },
+    {
+      "id": "311720993664",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "提到使用麻烦，同时认可DS够用便宜并比较GPT。"
+    },
+    {
+      "id": "308473570801",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "建议检查token和配置，并认可DS日常使用成本低。"
+    },
+    {
+      "id": "311800061520",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "讨论模型部署硬件的内存规格及其性能影响。"
+    },
+    {
+      "id": "308523770497",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供网络及重启操作建议，标题补足接入模型语境。"
+    },
+    {
+      "id": "6a6ed4d10000000029018f25",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "明确批评缺少视觉识别是硬伤。"
+    },
+    {
+      "id": "308473173073",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "在接入教程下求助解决同类问题，具体问题未给出。"
+    },
+    {
+      "id": "308353589825",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提及与官方code工具一起使用或推出，句意有歧义。"
+    },
+    {
+      "id": "308445719681",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "reliability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "质疑配置并反对将flash与更高档模型直接对标。"
+    },
+    {
+      "id": "6a6cc492000000002a02d6d2",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "期待支持标准视角工程图输入，也可理解为询问时间。"
+    },
+    {
+      "id": "7668715292823044916",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "索要模型实测提示词，星星眼体现期待。"
+    },
+    {
+      "id": "6a6f050d000000002a02e8bd",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "报告Mac切回后正常，Windows情况未知。"
+    },
+    {
+      "id": "7669022514459099967",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议使用官方脚本解决使用问题。"
+    },
+    {
+      "id": "308384579297",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认可按量付费性价比，并认为plus较贵。"
+    },
+    {
+      "id": "308491791329",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "纠正适配等于专项优化的误解，并称实测表现一般。"
+    },
+    {
+      "id": "7669009465802375994",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "报告缓存命中有所提高，“一样”的具体指代缺失。"
+    },
+    {
+      "id": "308391221281",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.4,
+      "reason": "期待DeepSeek支持多模态，并预期其影响巨大。"
+    },
+    {
+      "id": "311846239024",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "沿用标题称呼追问评价结论，兼有玩梗意味。"
+    },
+    {
+      "id": "311882801440",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0,
+      "reason": "对“已经有了”表示意外，但缺少具体对象。"
+    },
+    {
+      "id": "6a6de088000000002a03332b",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion",
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "推荐lunamax，认为其成本不会高出很多。"
+    },
+    {
+      "id": "311763945552",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃钱包承受力，可能指标题中的硬件投入。"
+    },
+    {
+      "id": "7669077980120220453",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "明确表示没问题，并认可agent纠错审查等作用。"
+    },
+    {
+      "id": "311730462048",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "借国家防御承诺话术调侃AI军事用途。"
+    },
+    {
+      "id": "2083900630817808519",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "price",
+        "reliability"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "认可低成本agent进展，主要建议按真实任务验证可靠性。"
+    },
+    {
+      "id": "7668663404651922213",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问opencode模型是否免费及安装方法。"
+    },
+    {
+      "id": "p0xlx9u",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "在本地模型语境下懊悔内存通道和硬件选购。"
+    },
+    {
+      "id": "308474808753",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "明确把“无敌”限定为名字，主要是名称梗。"
+    },
+    {
+      "id": "311664610544",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明代码实现成果可通过视觉直观判断好坏。"
+    },
+    {
+      "id": "308458309601",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只有呲牙表情，无法确定评价对象或具体意图。"
+    },
+    {
+      "id": "p134jyf",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "感谢并报告速度和缓存配置，期待进一步提速。"
+    },
+    {
+      "id": "308335963009",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "报告模型自称flash而非0731，隐含版本疑问。"
+    },
+    {
+      "id": "311726926336",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "借“喂我花生”调侃刚涨价的GLM，负面强度不明。"
+    },
+    {
+      "id": "p16qm75",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享本地模型硬件、推理速度和启动参数。"
+    }
+  ]
+}

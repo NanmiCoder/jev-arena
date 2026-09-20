@@ -1,0 +1,236 @@
+{
+  "topics": [
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "deepseekV4Flash正式版上线并针对适配Codex",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "Has anyone actually used DeepSeek V4 Flash 0731 to solve complex, real-world problems in medium to large production codebases? I’m looking for honest feedback, not hype or toy-project benchmarks",
+    "The new deepseek-v4-flash is incredible!",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek-V4-Flash 正式版来了！",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek V4 flash正式版思维链",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "What speeds are everyone getting with deepseek v4 flash 0731?",
+    "DS牛 梁圣牛呀",
+    "deepseek v4 flash 0731 VS chatgpt 5.6 luna 许愿式实测对比！（opencode codex, plan goal模式）",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "DeepSeek-V4-Flash-Q4KExperts-F16HC-F16Compressor-F16Indexer-Q8Attn-Q8Shared-Q8Out-chat-v2-imatrix-0731.gguf",
+    "Deepseek V4 Flash最新测评！Claude Code版！",
+    "如何使用满血DeepSeek v4 flash正式版",
+    "DeepSeek V4 Flash 0731 out now!"
+  ],
+  "comments": [
+    {
+      "id": "311792047888",
+      "t": 0,
+      "content": "破限怎么样啊"
+    },
+    {
+      "id": "311761741872",
+      "t": 1,
+      "content": "回复 @屑鸽子Amoos :我的意思是部署和推理成本很低，现在降智也无非是用的人太多，服务器保稳定的结果，等后续可以用第三方满血版"
+    },
+    {
+      "id": "7669315515597456163",
+      "t": 2,
+      "content": "那就别折腾了，直接用api"
+    },
+    {
+      "id": "308365478273",
+      "t": 3,
+      "content": "我做了一个需求，详细计划给glm5.2审核只审出一个非致命问题，整体体感不保证比glm5.2强，但不会比qwen3.7max差"
+    },
+    {
+      "id": "311760451712",
+      "t": 1,
+      "content": "如果说只用deepseek，在峰谷定价后感觉opencode go套餐又有性价比了，还能偶尔用用其他模型"
+    },
+    {
+      "id": "6a6cb8d4000000000802d7ef",
+      "t": 4,
+      "content": "不用任何修改，直接使用就是新版的flash。确实很强。"
+    },
+    {
+      "id": "311684600880",
+      "t": 5,
+      "content": "[UPOWER_23315338_第一][UPOWER_23315338_第一]"
+    },
+    {
+      "id": "311894063968",
+      "t": 6,
+      "content": "回复 @究极广告哥 :不可能那么便宜，v3的时候我一天能100多块钱"
+    },
+    {
+      "id": "6a6e132b000000000500961b",
+      "t": 7,
+      "content": "这个只是参数超过，实际使用体验pro大概率超不过f5，5.6sol，世界知识和注意力都差一截"
+    },
+    {
+      "id": "308562107953",
+      "t": 8,
+      "content": "公历2026.7.31→农历6.18[doge]"
+    },
+    {
+      "id": "6a6dc7e3000000002901bc9d",
+      "t": 9,
+      "content": "美股和大A都是你梁叔叔的存款账户"
+    },
+    {
+      "id": "p144lea",
+      "t": 10,
+      "content": "Exacto para eso se utiliza para optimizar, mejorar, idear nuevas rutas de trabajo según lo que uno esté haciendo, yo quiero aprender hacer mods como guía en la pruebas de error sería chido hacer eso. \nEso de trabajar en servidores y cosas asi demandan mucho tiempo"
+    },
+    {
+      "id": "311721500176",
+      "t": 0,
+      "content": "opencode桌面版我觉得已经十分可以了，我这边是cc接4Pro，oc接4flash，目前看腻了cc的命令行窗口，更喜欢oc这种桌面版"
+    },
+    {
+      "id": "p0zb7f9",
+      "t": 11,
+      "content": "Are you using DeepSeek via API or thru Nous?"
+    },
+    {
+      "id": "7669017282739585851",
+      "t": 12,
+      "content": "大a独家赞助"
+    },
+    {
+      "id": "308565164753",
+      "t": 13,
+      "content": "回复 @冠位砖工 :那意思是说ds能帮助我国的智能化行业高速进化和普及？那还是真挺不错的"
+    },
+    {
+      "id": "308477241825",
+      "t": 13,
+      "content": "有没有可能v4 pro正式版上多模态"
+    },
+    {
+      "id": "6a6d4c26000000002902df81",
+      "t": 14,
+      "content": "同问，模型或者api要换吗？还是接口不变它后台更新了？"
+    },
+    {
+      "id": "308358137985",
+      "t": 15,
+      "content": "用的啥agent"
+    },
+    {
+      "id": "311637243936",
+      "t": 16,
+      "content": "ccswitch 影响的吗？接不进去，命令成功但没让我输入 key"
+    },
+    {
+      "id": "311757686160",
+      "t": 17,
+      "content": "回复 @姨妈大da : 应该有不少评测了，目前质量很好，你可以找找看相关对比视频和对比数据图。"
+    },
+    {
+      "id": "308476634273",
+      "t": 1,
+      "content": "我之前dspro接codex,6分钟烧了我11块，未命中缓存一下子烧了我300Wtoken"
+    },
+    {
+      "id": "6a6cd6a4000000000802c2fa",
+      "t": 18,
+      "content": "我这是xhigh应该等于max"
+    },
+    {
+      "id": "308419421617",
+      "t": 0,
+      "content": "早鸦[保卫萝卜_哇]"
+    },
+    {
+      "id": "6a6d45e3000000002a0301d0",
+      "t": 4,
+      "content": "上面的也是川普，两条评论是同一段话拆开发的"
+    },
+    {
+      "id": "308557477073",
+      "t": 13,
+      "content": "头像扫福瑞直接破案了"
+    },
+    {
+      "id": "308478619569",
+      "t": 19,
+      "content": "terra缩水最夸张，每次问他就回一句。。"
+    },
+    {
+      "id": "311922789696",
+      "t": 20,
+      "content": "严谨说叫 token 效率低，v3.2 以来他们自己的取舍策略"
+    },
+    {
+      "id": "p1144ef",
+      "t": 21,
+      "content": "somewhere between 10-13k PP 260-430 , Speed isnt perfect when compared with frontier models but still very much promising given the size , Step forward for Opensource"
+    },
+    {
+      "id": "311815008656",
+      "t": 13,
+      "content": "还有反复横跳"
+    },
+    {
+      "id": "6a6c67db000000002b0299d1",
+      "t": 22,
+      "content": "还没看效果，下班了溜了溜了"
+    },
+    {
+      "id": "308625234385",
+      "t": 23,
+      "content": "这种测试也太脱离生产了吧？怎么也该放到实际的项目里面去测。"
+    },
+    {
+      "id": "308427483681",
+      "t": 24,
+      "content": "DeepSeekv4flash，现在是差不多的性能，3分之一的价格，gpt还是比不过"
+    },
+    {
+      "id": "308392105265",
+      "t": 25,
+      "content": "md，早知道不买grok了"
+    },
+    {
+      "id": "p14zy5p",
+      "t": 26,
+      "content": "I think I just had a stroke"
+    },
+    {
+      "id": "311718179344",
+      "t": 27,
+      "content": "你的测评题没啥意义。现在用ai的都是处理实际复杂工程任务的"
+    },
+    {
+      "id": "6a6dd78b00000000290199df",
+      "t": 28,
+      "content": "现在大多数都是 trae 和 workbuddy 吧，再有就是最顶的 codex"
+    },
+    {
+      "id": "311711447040",
+      "t": 5,
+      "content": "估计是自己想做猫娘"
+    },
+    {
+      "id": "311722790944",
+      "t": 0,
+      "content": "测下来PI竟然是最好的，所以还是等官方的harness吧"
+    },
+    {
+      "id": "p0zw79p",
+      "t": 29,
+      "content": "I’ll have a dual Xeon e5-2683 v4 machine with dual 5060ti 16gb up soon and 384gb 2400mhz ecc ddr4 (4 channels per cpu).  \nI’m keen to run this with cpu MoE routed expert offloading.  \nAnybody got a similar setup? I’d love to know how it performs at various quants and any setup tips."
+    }
+  ]
+}

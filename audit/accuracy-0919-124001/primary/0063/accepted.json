@@ -1,0 +1,791 @@
+{
+  "items": [
+    {
+      "id": "7668917049871696699",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测不做多模态及算力不足，语气总体中性。"
+    },
+    {
+      "id": "308574101601",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "content",
+        "presentation"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "称赞UP文案有趣，未评价AI产品。"
+    },
+    {
+      "id": "7668904920578818858",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述不做多模态的说法，无明显褒贬。"
+    },
+    {
+      "id": "p1413zu",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "认可API能力与低价，认为本地运行无必要。"
+    },
+    {
+      "id": "6a6eb791000000002902f89d",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "笑称差不多，但缺失所比较对象，相关性有歧义。"
+    },
+    {
+      "id": "6a6e9f8a0000000015016b7c",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "谈幻方投资市场并附失望表情，未谈AI使用。"
+    },
+    {
+      "id": "308582234289",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合本地部署标题，说明内部数据不能外传。"
+    },
+    {
+      "id": "7669090785329480448",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "询问OpenClaw热度下降原因，未直接批评能力。"
+    },
+    {
+      "id": "308478866017",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "介绍项目测试配置、对比对象及费用图。"
+    },
+    {
+      "id": "311805162784",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "推荐用模型配合skills生成建模代码与论文。"
+    },
+    {
+      "id": "p0vez8e",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.7,
+      "reason": "表示赞赏并期待模型可在消费级设备运行。"
+    },
+    {
+      "id": "2083903014172016753",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "赞同链上行为比K线有信号，与AI无关。"
+    },
+    {
+      "id": "6a6eb5da000000002a031980",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明按DeepSeek教程修改配置的操作经历。"
+    },
+    {
+      "id": "308489813937",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问如何切回GPT，未明确表达不满。"
+    },
+    {
+      "id": "7669407675881243429",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "反问华尔街与算力国力说法，缺失反驳对象。"
+    },
+    {
+      "id": "308585828113",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "反驳对Flash的苛求，赞其水平超出预期。"
+    },
+    {
+      "id": "308592950241",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "content",
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "赞同单句生成demo无参考价值，强调开发约束。"
+    },
+    {
+      "id": "308431405409",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "纠正灰测版本是Pro而非Flash。"
+    },
+    {
+      "id": "6a6e0b4f000000001500ab1b",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality",
+        "presentation"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨废话多，但可能指模型输出或视频表达。"
+    },
+    {
+      "id": "308537545777",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "usability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "说明适配后速度和消耗占优，认可好用的工具框架。"
+    },
+    {
+      "id": "311827906512",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "在模型使用语境下询问自由对话的含义。"
+    },
+    {
+      "id": "311852075104",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "强烈推荐Claude Code，未说明具体优势。"
+    },
+    {
+      "id": "311710949088",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "询问Grok是否如此差，含质疑但未完全认定。"
+    },
+    {
+      "id": "p13vckv",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "征询他人看法，可能指标题中的模型表现。"
+    },
+    {
+      "id": "311732884768",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问测评采用哪个Agent，未明确褒贬。"
+    },
+    {
+      "id": "308401905457",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述OpenAI资金和算力充足。"
+    },
+    {
+      "id": "308534586625",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "反问写小说是否需要多模态，倾向否定必要性。"
+    },
+    {
+      "id": "308439575297",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "以测试表现很差为依据提出反问。"
+    },
+    {
+      "id": "308567001041",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "惊喜",
+        "调侃"
+      ],
+      "score": 0.4,
+      "reason": "神了可表赞叹或调侃，回复对象内容缺失。"
+    },
+    {
+      "id": "311864761536",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正联机硬件价格认知，提供型号和支持台数。"
+    },
+    {
+      "id": "311830708096",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "给出约60并引导看视频，数值含义不明。"
+    },
+    {
+      "id": "7669224659284624165",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "建议视觉任务用GPT，其余任务用DeepSeek。"
+    },
+    {
+      "id": "7668958420079559443",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "用鞭策同行的比喻调侃DeepSeek竞争力。"
+    },
+    {
+      "id": "p0ulwp0",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "可见文字仅为感谢，图片链接内容不可知。"
+    },
+    {
+      "id": "311936738368",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "以鱼竿比喻梁的竞争优势，带明显玩梗语气。"
+    },
+    {
+      "id": "311921644752",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问从Kimi转Flash后的Token费用。"
+    },
+    {
+      "id": "311825045632",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "建议等待DeepSeek自有Agent，尚未评价效果。"
+    },
+    {
+      "id": "311766077296",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "以别鞭尸哈基米玩梗，调侃模型比较中的劣势。"
+    },
+    {
+      "id": "311817822576",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型若具备视觉能力是否会更强。"
+    },
+    {
+      "id": "6a6d38a80000000015011e5c",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "结合模型标题，以有能和点赞强烈称赞。"
+    }
+  ]
+}

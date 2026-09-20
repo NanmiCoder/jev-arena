@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek v4 flash正式版测试，效果出乎意料~ #deepseek",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek-V4-Flash-0731 now far surpassing the DeepSeek-V4-Pro-Preview in benchmarks",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek-V4-Flash 正式版 API 上线公测 Flash 正式版在多项 Agent 基准测试中的表现，已经逼近甚至超越了三个月前 V4-Pro 预览版的水平。官方更新日志显示，V4-Flash 正式版在 Terminal Bench 2.1 上拿到 82.7 分，NL2Repo 54.2 分，Cybergym 76.7 分，Toolathlon verified 70.3 分。而 ",
+    "DeepSeek V4 Flash 0731 is now on OpenCode",
+    "要被外网的一些评论笑死了😂😂😂",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "被接入Codex的DeepSeek V4 Flash正式版惊到了！",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型"
+  ],
+  "comments": [
+    {
+      "id": "311643764176",
+      "t": 0,
+      "content": "回复 @金剛 :我一般都用他写刘备文，所以对我来说快就行了😋"
+    },
+    {
+      "id": "308467295617",
+      "t": 1,
+      "content": "小体量参数的模型，不要测一句话生成的效果，那怕生成出来，也是一大堆问题越改越烂，因为参数小，数据少，应该是一个步骤一个步骤的走，测指令遵循的能力，是否指哪打哪，意图理解是否准确等，这些才能证明模型是否能拿来干活。"
+    },
+    {
+      "id": "7669242765604553481",
+      "t": 2,
+      "content": "农....农场主？"
+    },
+    {
+      "id": "308454376561",
+      "t": 3,
+      "content": "回复 @混酱大肠粉 :明年老美Ai泡沫会破掉，产能就空出来了[呲牙]"
+    },
+    {
+      "id": "7668870102734144291",
+      "t": 2,
+      "content": "忘了前两天，gpt挂了结果国内中转站一切正常啦，"
+    },
+    {
+      "id": "7668914957047677759",
+      "t": 2,
+      "content": "Codex（豆包版）嘛"
+    },
+    {
+      "id": "7668917557994652450",
+      "t": 4,
+      "content": "现在通过 CodeX 的话，这些模型已经可以直接生成 EXE 文件了吗？我还以为是他们生成那些代码，最终是我们要通过各种东西去生成 EXE 呢？"
+    },
+    {
+      "id": "308481711745",
+      "t": 5,
+      "content": "\"num_speculative_tokens\":5 改为 \"num_speculative_tokens\":3 decode的速度更平稳[doge_金箍] ，代价是最高上限低一点"
+    },
+    {
+      "id": "308456983585",
+      "t": 1,
+      "content": "友善讨论，总而言之就很诡异啊，DeepSeek 从始至终给我的感觉就是神魔二象性\n我也在 b 站上看到过不少完全一坨的结果，无论是 Flash 还是 Pro，但是我也看到了很多表现良好的测试结果，我根据自身体验来看真的很难相信 DeepSeek 的下限会这样，我自己用预览版 Flash 的时候还是可以的，但我没用过正式版 Flash，不敢说太多，以下是一些经历\n\n我把预览版 Flash 接入 OpenCode 几轮做出来的 html minecraft，不说完全没 bug，移动和方块判定是有问题的，但起码可以正常渲染，后来修了太多次修不好移动和方块判定我就删了\n然后我又用 OpenCode + Flash Preview，给它提供了 mc 基岩版的文档，然后我怕一次性许愿太多它弄不好，我就让它慢慢来，我让它用的 go，它确实制作出了一个比较像样的代理监控，但最后环境可能是损坏了，我还没有重新下载\n我也用预览版 Flash 在持续完成一个 Chatbot UI，放在 github 上，zhichii/TwT2.3.1，我自己是把 TwT2.3 给了它让它改为前端，我也不知道算不算许愿式吧，我自己是不会 js 的，前端都是它写的，后端也有部分是它写的，但我自己是调整了一些细节和给了它数据，它反正给我的印象是不错的\n\nup 我提个建议，你选个时间直播测试，大家可以实时给你指导（如果觉得这个建议有坑的话可以选择不执行，记得保护好 api key 和其它隐私）"
+    },
+    {
+      "id": "308440325409",
+      "t": 6,
+      "content": "回复 @人生如梦012 :回错人了吧"
+    },
+    {
+      "id": "6a6d78e20000000015010312",
+      "t": 7,
+      "content": "预测按照这个提升幅度，pro正式版除了没有多模态可以和opus4.8持平仅略逊kimi k3，但是比k3便宜快速得多[doge]梁圣牛逼！"
+    },
+    {
+      "id": "311663885088",
+      "t": 8,
+      "content": "回复 @咬鱼爱上了猫 :用上了，直接调 DeepSeek"
+    },
+    {
+      "id": "308349681569",
+      "t": 0,
+      "content": "回复 @捏捏阁下 :我从来没遇见过甲，看社区讨论有点慌张啊，要是审核提高了我都不知道怎么处理"
+    },
+    {
+      "id": "311727623264",
+      "t": 6,
+      "content": "正经人谁用硅基流动，又贵又慢"
+    },
+    {
+      "id": "308505822401",
+      "t": 9,
+      "content": "回复 @ACllD :确实好用。"
+    },
+    {
+      "id": "7668931002006733617",
+      "t": 10,
+      "content": "[爱心][抱抱你][抱抱你][玫瑰][玫瑰][爱心][爱心][爱心]"
+    },
+    {
+      "id": "p0ume7i",
+      "t": 11,
+      "content": "why not call it 4.5 or 4.1 they continue with the stupid naming. now you dont know if anogher party is running the new or the old flash"
+    },
+    {
+      "id": "308378252305",
+      "t": 0,
+      "content": "回复 @仙寂神话 :我不是很懂啊 flash和pro哪个好"
+    },
+    {
+      "id": "311644360608",
+      "t": 12,
+      "content": "我让他看图片什么的，他好像能看得懂。用的claude code。\n\n不过感觉不如之前了。\r\n我在网上卖漫画生成软件。\r\n其中需要用DeepSeek 去分镜小说。效果变差了很多。\r\n\n今天有好几个人反馈说，效果变差了。\r\n\r\n唉说实话，真的很烦这种不稳定。（用着用着还降智了）"
+    },
+    {
+      "id": "311797156336",
+      "t": 9,
+      "content": "回复 @勇者骑着猫 :其实还好了一般他们会生成 Figma 或者是蓝湖用 MCP 去读取就好了"
+    },
+    {
+      "id": "308479603057",
+      "t": 9,
+      "content": "玩变量卡就这样"
+    },
+    {
+      "id": "311920094048",
+      "t": 13,
+      "content": "肯定是官方API便宜。就算你一天用10块钱的token电费算你两块钱，虽然我觉得不值两块钱，这样子你用个10年也才 8*365*10=29200 ，，，10年后，你这两张运算卡还能值多少钱？"
+    },
+    {
+      "id": "2083084892284567879",
+      "t": 14,
+      "content": "@deepseek_ai HOLY SHIT DEEPSEEK IS GOING TO TAKE EVERYONE OUT"
+    },
+    {
+      "id": "p0v79w0",
+      "t": 15,
+      "content": "The funny thing about this table is that the top models only score slightly above on the maximum reasoning level, which means that on low or medium reasoning levels they tie or remain equal to Deepseek Flash, a model that must be mentioned is absurdly cheap compared to the \"Frontier\" ones, simply wonderful."
+    },
+    {
+      "id": "311804337648",
+      "t": 16,
+      "content": "回复 @由衷柒 : 门槛太高了，普通人根本没钱没时间抽概率和磨效果，稍微有点挑战，想做相同的东西，很难平衡花费。"
+    },
+    {
+      "id": "308624305937",
+      "t": 17,
+      "content": "一步一步跟着做的，但还是失败了。"
+    },
+    {
+      "id": "7669012139655349032",
+      "t": 18,
+      "content": "啊[发呆]？之前用的v4 flash和v4 Pro都是测试版？[发呆]"
+    },
+    {
+      "id": "7668996527449244475",
+      "t": 19,
+      "content": "没开源已经是梁圣在人间最后的温柔了[捂脸]"
+    },
+    {
+      "id": "7668987646656545585",
+      "t": 2,
+      "content": "国产算力卡量产[看]两年以上"
+    },
+    {
+      "id": "p11sal8",
+      "t": 20,
+      "content": "Wastn't it free already? Or V4 Flash Free is different?"
+    },
+    {
+      "id": "6a6d8a20000000001500aa8d",
+      "t": 21,
+      "content": "就是那个，还差一个原地大脑宕机思考人生的留白时间"
+    },
+    {
+      "id": "6a6e766f000000002901b5fb",
+      "t": 21,
+      "content": "小红书是这样"
+    },
+    {
+      "id": "308346835761",
+      "t": 22,
+      "content": "尼日利亚的基本都是诈骗的，等会就向你要钱了"
+    },
+    {
+      "id": "7669000697351013177",
+      "t": 2,
+      "content": "更贵 token更多也是更贵的一种体现 你在说啥"
+    },
+    {
+      "id": "308346482929",
+      "t": 0,
+      "content": "接cc好还是codex好？"
+    },
+    {
+      "id": "311833547472",
+      "t": 23,
+      "content": "我也觉得，毕竟识图模式都出来了，估计多模态是缓出，不是不出"
+    },
+    {
+      "id": "308576541249",
+      "t": 24,
+      "content": "并非，而是“7月21日，据第一财经报道，智谱AI已启动1GW级国产AI算力数据中心建设，全部采用国产AI芯片。”最近才建成并开始部分运营才有了算力，所以套餐放开了。"
+    },
+    {
+      "id": "311739692032",
+      "t": 25,
+      "content": "我觉得可能是新的flash暂时没有提供商上线，只有官方api，ds官方api应该是默认收集数据的"
+    },
+    {
+      "id": "6a6d3e480000000015009203",
+      "t": 26,
+      "content": "模型能力限制，跟 skill 没关系"
+    },
+    {
+      "id": "308418641169",
+      "t": 6,
+      "content": "flash 还是差点意思，期待 pro"
+    }
+  ]
+}

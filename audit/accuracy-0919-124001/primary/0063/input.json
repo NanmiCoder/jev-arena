@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Deepseek v4 flash 0731 still not holding up.",
+    "DeepSeek V4flash用SVG复刻梵高和画画",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek V4 Flash 0731 fights back to Luna new pricing",
+    "DeepSeek-V4-Flash把前沿智能打成“Flash价”，卷完模型卷价格，AI赛道真·内卷之王。另一边，Coldcard漏洞引发39,600 BTC小额转账潮，自FTX以来最大规模，链上巨鲸都在挪窝避险。一边是算力白菜价，一边是安全焦虑蔓延——市场在分裂中找方向。别光看K线，链上行为才是真信号。#AI #Crypto #DeepSeek #Bitcoin #Web3",
+    "deepseek v4 flash 成功逆向 expedia",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "实测DeepSeek V4 Flash 太强了！比 Grok 4.5 聪明太多了！一起来对比评测 !~DeepSeek Flash正式版强在哪！正式上市！",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型"
+  ],
+  "comments": [
+    {
+      "id": "7668917049871696699",
+      "t": 0,
+      "content": "大概率不做，没必要逼死同行，留点活路，也给自己留活路，有多模态，算力更加不够。"
+    },
+    {
+      "id": "308574101601",
+      "t": 1,
+      "content": "我想说 up主的 文案 越来越有意思了 哈哈"
+    },
+    {
+      "id": "7668904920578818858",
+      "t": 2,
+      "content": "梁子上周说了不做多模态"
+    },
+    {
+      "id": "p1413zu",
+      "t": 3,
+      "content": "Via API it seems to be really strong. Running it locally makes no sense to me with that still incredibly cheap prices."
+    },
+    {
+      "id": "6a6eb791000000002902f89d",
+      "t": 4,
+      "content": "哈哈，差不多[偷笑R]"
+    },
+    {
+      "id": "6a6e9f8a0000000015016b7c",
+      "t": 5,
+      "content": "幻方量化大头在美股[失望R]"
+    },
+    {
+      "id": "308582234289",
+      "t": 6,
+      "content": "有些数据不能出内部用的"
+    },
+    {
+      "id": "7669090785329480448",
+      "t": 2,
+      "content": "OpenClaw咋回事  怎么一下就凉了"
+    },
+    {
+      "id": "308478866017",
+      "t": 7,
+      "content": "我看评论区这么多争论，刚好昨天也测试了一下，先说问题来自我的实际项目，ds用的官方API +opencode，对比的白色图片是千问3.8+qoderwork，p1室ds default，p2为max，最后一张那个图为费用"
+    },
+    {
+      "id": "311805162784",
+      "t": 8,
+      "content": "回复 @ranpeppa :做数学建模的话十分建议用，因为配合github上别人上传的相关skills，可以做到一键生成代码与论文[脱单doge]"
+    },
+    {
+      "id": "p0vez8e",
+      "t": 9,
+      "content": "nice! imagine these things shrunk to a point they can fit with full or half precision on a consumer gpu/smartphone"
+    },
+    {
+      "id": "2083903014172016753",
+      "t": 10,
+      "content": "@Th1rysf 链上动静确实比K线更有信号感。"
+    },
+    {
+      "id": "6a6eb5da000000002a031980",
+      "t": 11,
+      "content": "似乎没有？就是按照 deepseek 官方教程改了下 cc配置文件"
+    },
+    {
+      "id": "308489813937",
+      "t": 12,
+      "content": "怎么换回GPT"
+    },
+    {
+      "id": "7669407675881243429",
+      "t": 0,
+      "content": "华尔街难道不是？人家自己都说算力即国力了[尬笑]"
+    },
+    {
+      "id": "308585828113",
+      "t": 7,
+      "content": "一个flash还要人家怎么样，200多B的参数啊，我一开始以为pro能达到glm5.2的水平就非常不错了，谁知道flash就达到了glm5.2的水平。"
+    },
+    {
+      "id": "308592950241",
+      "t": 1,
+      "content": "是的，用一句话生成一个 demo，确实没有什么参考价值，也没什么意义。\n因为真正的开发是有各种文档、架构设计和约束的。如果 AI 读不懂这些，让它自由发挥，那很容易出现偏差：你做的可能是一个椅子，它可能就是一个坐垫。"
+    },
+    {
+      "id": "308431405409",
+      "t": 13,
+      "content": "回复 @hlfdozmeltnin : 灰测的时候是pro啊，又不是falsh"
+    },
+    {
+      "id": "6a6e0b4f000000001500ab1b",
+      "t": 14,
+      "content": "废话超级多[捂脸R]"
+    },
+    {
+      "id": "308537545777",
+      "t": 15,
+      "content": "回复 @于里昂热奥居雷 : 主要是做了适配的推理速度和token消耗都占优，反正skills和agent基本上通用，挑好的harness用肯定更舒服。"
+    },
+    {
+      "id": "311827906512",
+      "t": 8,
+      "content": "回复 @SAN-max :请问无约束自由对话是什么意思"
+    },
+    {
+      "id": "311852075104",
+      "t": 13,
+      "content": "Claude code无脑冲"
+    },
+    {
+      "id": "311710949088",
+      "t": 16,
+      "content": "grok这么差吗"
+    },
+    {
+      "id": "p13vckv",
+      "t": 3,
+      "content": "Curious what others think about this"
+    },
+    {
+      "id": "311732884768",
+      "t": 17,
+      "content": "用的啥agent啊[笑哭]"
+    },
+    {
+      "id": "308401905457",
+      "t": 18,
+      "content": "主要还是oai太有钱了算力太足"
+    },
+    {
+      "id": "308534586625",
+      "t": 19,
+      "content": "回复 @一天就吃啊 :可写小说也不用多模态吧"
+    },
+    {
+      "id": "308439575297",
+      "t": 19,
+      "content": "回复 @安梦待无忧 :那怎么看测试还是拉完了？"
+    },
+    {
+      "id": "308567001041",
+      "t": 20,
+      "content": "回复 @调逆弓归 :神了[笑哭]"
+    },
+    {
+      "id": "311864761536",
+      "t": 21,
+      "content": "回复 @閃光聖愛音 :没有那么贵。你看下我提到的 812 和 804 ，都是万元价格可以支持 6 台和 8 台联机"
+    },
+    {
+      "id": "311830708096",
+      "t": 6,
+      "content": "60左右，可以看下我个视频"
+    },
+    {
+      "id": "7669224659284624165",
+      "t": 0,
+      "content": "开个gpt plus，视觉用gpt，其他用deepseek呗。"
+    },
+    {
+      "id": "7668958420079559443",
+      "t": 0,
+      "content": "你梁叔就这样 在后面 谁跑慢了 上去就是一鞭子"
+    },
+    {
+      "id": "p0ulwp0",
+      "t": 22,
+      "content": "https://preview.redd.it/mg18kbn3pjgh1.png?width=738&format=png&auto=webp&s=f50045edca89eb0a86d3ba4b876c0c2fc15a1495\n\nthx man"
+    },
+    {
+      "id": "311936738368",
+      "t": 1,
+      "content": "天下英雄如过江之鲫啊[doge]可惜你梁叔叔手里拿着两根新能源鱼竿"
+    },
+    {
+      "id": "311921644752",
+      "t": 23,
+      "content": "一天kimi2.7大概7000万tokens，转deepseek flash大概多少钱"
+    },
+    {
+      "id": "311825045632",
+      "t": 19,
+      "content": "先等一下DS自己的agent吧"
+    },
+    {
+      "id": "311766077296",
+      "t": 15,
+      "content": "别鞭尸我的哈基米了[大哭]"
+    },
+    {
+      "id": "311817822576",
+      "t": 19,
+      "content": "外行人略懂，问个问题，视频中up提到它是个瞎子，假如它不是瞎子的话是不是更牛逼？[思考]"
+    },
+    {
+      "id": "6a6d38a80000000015011e5c",
+      "t": 24,
+      "content": "梁圣，有能！！！[赞R][赞R][赞R]"
+    }
+  ]
+}

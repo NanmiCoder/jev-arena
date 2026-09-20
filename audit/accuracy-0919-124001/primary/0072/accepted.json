@@ -1,0 +1,790 @@
+{
+  "items": [
+    {
+      "id": "311899145296",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明接入后修改识图配置及重启步骤。"
+    },
+    {
+      "id": "308443070945",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "批评腾讯代理降智，并描述绕行解决经验。"
+    },
+    {
+      "id": "311741509024",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释服务器更新及不同客户端的设置需求。"
+    },
+    {
+      "id": "308459288529",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述思维链形式与专家模式的变化观察。"
+    },
+    {
+      "id": "p0ys6vk",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提出可能使用Colibri运行该模型的设想。"
+    },
+    {
+      "id": "311861370672",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "service",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "区分订阅与API的能力限制，200含义不明。"
+    },
+    {
+      "id": "311827447344",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以双显卡配置调侃运行条件，具体所指缺失。"
+    },
+    {
+      "id": "311662682304",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "明确期待DeepSeek的多模态模型。"
+    },
+    {
+      "id": "6a6e18f3000000000b03a40b",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "质疑必要性，但未说明针对接入还是其他对象。"
+    },
+    {
+      "id": "311877669632",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "以缓存命中率低质疑实际使用便宜。"
+    },
+    {
+      "id": "311805476912",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "抱怨模型看不到画面导致无法有效修改。"
+    },
+    {
+      "id": "p13d1g9",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.2,
+      "reason": "赞同已有警示，可能指标题中的公司前景。"
+    },
+    {
+      "id": "311720865232",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅表示收藏标记，未讨论模型或使用。"
+    },
+    {
+      "id": "308457988497",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0.5,
+      "reason": "反驳模型不强，以使用经验肯定其接近GLM。"
+    },
+    {
+      "id": "7669386399205311242",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "称其在项目中替代GLM并明确赞叹强大。"
+    },
+    {
+      "id": "308628761841",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "补充OpenCode接入新版及官方来源的信息。"
+    },
+    {
+      "id": "p11xacc",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.6,
+      "reason": "觉得水下鸭子有趣，并肯定生成结果。"
+    },
+    {
+      "id": "7669008709087707953",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述小米模型的词元用量与实际花费。"
+    },
+    {
+      "id": "p105e2k",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "quality",
+        "capability",
+        "service"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问免费条件及质量、上下文是否与API一致。"
+    },
+    {
+      "id": "7668920408268407567",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "other"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "似在疑问桌面版本，但短语不足以确定目的。"
+    },
+    {
+      "id": "6a6d9f8000000000150069bc",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用GLM视角玩竞品反应梗，未给出明确评价。"
+    },
+    {
+      "id": "311770568768",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "比较模型下载与部署进度，没有明确褒贬。"
+    },
+    {
+      "id": "p13fje9",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否停止使用真实代码问题基准测试。"
+    },
+    {
+      "id": "6a6cc7080000000029024702",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "称GPT实际降智，反对直接比较上市跑分。"
+    },
+    {
+      "id": "311863887584",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问AI能否判断重建项目比修复更容易。"
+    },
+    {
+      "id": "308521680593",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明API登录可跳过账号登录。"
+    },
+    {
+      "id": "6a6f1f85000000002a02f2e5",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问OpenClaw使用热度下降的原因。"
+    },
+    {
+      "id": "308405140689",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "表示新版使购买K3高价档位不再必要。"
+    },
+    {
+      "id": "311829568000",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否为网易光影，可能指画面而非AI。"
+    },
+    {
+      "id": "311625071040",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "依据跑分陈述与Luna和Sol的能力差距。"
+    },
+    {
+      "id": "7668715817073001258",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "批评对方不关心并质疑使用经历，对象略缺失。"
+    },
+    {
+      "id": "311686836304",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "仅表示蹲守后续，未具体讨论模型。"
+    },
+    {
+      "id": "p11z9ru",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "称模型审计跨项目代码发现问题，印象很好。"
+    },
+    {
+      "id": "311817193584",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "按是否写代码与酒馆用途推荐使用工具。"
+    },
+    {
+      "id": "7669003338449830693",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "借老黄摇头玩梗，具体评价方向不明。"
+    },
+    {
+      "id": "311676416064",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "补充接近Opus的限定，同时肯定Opus5能力。"
+    },
+    {
+      "id": "308381484497",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "明确认为新版比此前PRO更好用。"
+    },
+    {
+      "id": "311905346112",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以PRO仍是旧模型为由建议使用Flash。"
+    },
+    {
+      "id": "308426463249",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "仅陈述板子原理图只有PDF，未明确涉及AI。"
+    },
+    {
+      "id": "p0x2vwj",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问如何在仅40GB显存下运行模型。"
+    }
+  ]
+}

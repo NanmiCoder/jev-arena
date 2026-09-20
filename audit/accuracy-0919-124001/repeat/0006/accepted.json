@@ -1,0 +1,798 @@
+{
+  "items": [
+    {
+      "id": "7668914789074322225",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "建议等待官方harness，语气略带无奈。"
+    },
+    {
+      "id": "308416384593",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述不同harness下思维链语言差异。"
+    },
+    {
+      "id": "311724213104",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "建议增加多模态能力并期待提升。"
+    },
+    {
+      "id": "308435486465",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "trust",
+        "price"
+      ],
+      "e": [
+        "担忧",
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "声称中转站出售用户数据，质疑低价背后的可信度。"
+    },
+    {
+      "id": "308609079793",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否仍可免费使用及额度。"
+    },
+    {
+      "id": "7668975423636144931",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "疑惑价格大幅下降的原因，未明确褒贬。"
+    },
+    {
+      "id": "311645914672",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明上下文用满后压缩并继续使用的流程。"
+    },
+    {
+      "id": "311682113232",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "纠正凭措辞区分版本的判断，并肯定能力提升。"
+    },
+    {
+      "id": "311919935504",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问效果是否依赖大量投入，未明确批评。"
+    },
+    {
+      "id": "308431066321",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "通知Codex再次重置并招呼使用，重置对象未明。"
+    },
+    {
+      "id": "311873032464",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion",
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": -0.4,
+      "reason": "指出游戏开发问题，并建议找素材及测试。"
+    },
+    {
+      "id": "311695472160",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅说明仓促且仍在加班，未讨论AI使用。"
+    },
+    {
+      "id": "17925084",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "假设Pro达到GPT水平后的竞争影响，非实测肯定。"
+    },
+    {
+      "id": "7669043779433759537",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明直接使用Flash即为正式版，无需重配。"
+    },
+    {
+      "id": "311681991536",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "joke"
+      ],
+      "a": [
+        "content",
+        "trust"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "讽刺内容蹭流量，未评价AI产品本身。"
+    },
+    {
+      "id": "308451151265",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "报告竞技场超越竞品，带有肯定意味。"
+    },
+    {
+      "id": "311693464416",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "求助已开启联网但模型仍称不支持的问题。"
+    },
+    {
+      "id": "p0wwwgn",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "trust",
+        "service"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "依据个人经历指责官方API测试后降质。"
+    },
+    {
+      "id": "p0u6wfh",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "强烈不信Flash超越GLM，要求复杂场景验证。"
+    },
+    {
+      "id": "308344895745",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出图中价格有误，补充Luna已降价。"
+    },
+    {
+      "id": "p12rfph",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "performance",
+        "comparison",
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "抱怨本地运行耗词显著增加，最终关闭最高思考。"
+    },
+    {
+      "id": "308407942625",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "negative"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "字面称赞对方懂AI，亦可能反讽，缺父评论。"
+    },
+    {
+      "id": "311920129008",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问页面所属软件，是否为AI软件尚不明确。"
+    },
+    {
+      "id": "p13ddy9",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "usability",
+        "service",
+        "reliability"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "反驳对Flash的归因，批评付费模型降质并追问配置。"
+    },
+    {
+      "id": "311763945552",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃钱包耐花，是否具体评价AI部署成本有歧义。"
+    },
+    {
+      "id": "308457055569",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "称赞豆包梗图是系列精髓，未评价产品使用。"
+    },
+    {
+      "id": "311651086560",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "agreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.6,
+      "reason": "用迭代速度解释新版更强，并调侃旧版落后。"
+    },
+    {
+      "id": "7668950230801269547",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅问怎么操作，可能指AI使用但缺具体对象。"
+    },
+    {
+      "id": "6a6ddf3d00000000290190c3",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.4,
+      "reason": "结合标题表达对模型后续发展的期待。"
+    },
+    {
+      "id": "311927309600",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "指出竞品价格比较混用中转与官方渠道。"
+    },
+    {
+      "id": "7668676274169398074",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "明确称赞千问写文案更强，比较不自动构成混合。"
+    },
+    {
+      "id": "311914495424",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "建议带上配套工具测试，专武具体所指不明。"
+    },
+    {
+      "id": "311730044448",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "表示被手机号要求卡住，反映接入障碍。"
+    },
+    {
+      "id": "311704302000",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "称赞某对象小巧可爱，无法关联到AI产品。"
+    },
+    {
+      "id": "308351790193",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型规模并猜测与DeepSeek的大小差距。"
+    },
+    {
+      "id": "311854737424",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问物理模拟分析任务中API相对网页的优势。"
+    },
+    {
+      "id": "308575494065",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "补充Pro尚未更新的情况，无明确评价。"
+    },
+    {
+      "id": "308612908753",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问如何发现，可能指免费模型渠道但对象缺失。"
+    },
+    {
+      "id": "311672801184",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "认为识图必要、生图不必要，并援引其他产品。"
+    },
+    {
+      "id": "p0zbng6",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "表示GLM自身使用正常，并询问对方失败情形。"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "这条视频里的人是我，但我根本没拍，也没剪。 DeepseekV4Flash正式版自主做视频能力实测。我只输入了一段提示词，DeepSeek V4 Flash 就自己找案例、写内容，再用 AI 数字人做完了整条视频。现在的 AI 做视频，这已经是基础操作了。#AI新星计划  #AI做视频 #DeepSeekV4 #AI数字人",
+    "DeepSeek V4 Flash 正式版发布 - 白菜价！超高性价比的编程模型",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "deepseek v4 flash太牛逼了",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "⚠️ Note\n\n🔷 DeepSeek-V4-Flash-0731 keeps the exact same model architecture and size as the preview version.\n🔷 Today's upgrade applies ONLY to the DeepSeek-V4-Flash API. The DeepSeek-V4-Pro API and Ap",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "1块钱，半小时，deepseek-v4flash正式版实测",
+    "Deepseek V4 Flash update on ArtificialAnalysis",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "To use DeepSeek-V4-Flash-0731 in OpenCode, you need to enable “Enable models hosted in China” in the Control Center.\n\nThe 0731 model has not yet been deployed to servers outside China, so OpenCode req",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "GPT 5.6 Luna最新测评报告！打得过Deepseek V4 Flash吗？",
+    "被DeepSeek V4 Flash正式版惊到了！"
+  ],
+  "comments": [
+    {
+      "id": "7668751430894895891",
+      "t": 0,
+      "content": "token 消耗比较严重"
+    },
+    {
+      "id": "311894496160",
+      "t": 1,
+      "content": "回复 @回调无神盾神 :不是主要方向≠不发展啊[笑哭]deepseek ocr不也算视觉理解？迭代到了deepseekocr2，别跟我说这么大家公司只有梁文峰一个人干活，多条研发线路不是很正常？\nv4论文总结中有这么一段大意是“我们也在努力将多模态能力整合到我们的模型中”。还不够清楚吗？"
+    },
+    {
+      "id": "6a6de0590000000009017cd1",
+      "t": 2,
+      "content": "哎，现在想一想这个 AI 真的是，你一旦过一段时间不去弄、不去学，你会发现那些根本不用你去弄、不用你去学了。想想看，几个月之前我为了把 Deepseek 接入 Codex 费的那个劲，什么桥接，配置，接进去了能用但不能联网……"
+    },
+    {
+      "id": "311773326608",
+      "t": 3,
+      "content": "回复 @JackySmile :直接说结论吧，周末不想干活[笑哭]"
+    },
+    {
+      "id": "7669070022623331121",
+      "t": 4,
+      "content": "数字人是用的哪个公司的呀？"
+    },
+    {
+      "id": "311720112496",
+      "t": 5,
+      "content": "还有一个是 快\n这点也是好功能。\n就差多模态了"
+    },
+    {
+      "id": "308467516209",
+      "t": 6,
+      "content": "这次的前端审美怎么样？"
+    },
+    {
+      "id": "308564450497",
+      "t": 7,
+      "content": "回复 @富贵醒来了 :我说的是pro版的"
+    },
+    {
+      "id": "308584503729",
+      "t": 8,
+      "content": "回复 @窕窕秀秀 : 不是专门适配，只是单纯适配了api格式，因为之前codex接ds只能cc switch"
+    },
+    {
+      "id": "311892248784",
+      "t": 9,
+      "content": "自己算Arena Chat得分除以百万Tokens输出价格"
+    },
+    {
+      "id": "311754550416",
+      "t": 9,
+      "content": "回复 @雨蓝之伤 :就跑了点生信分析，一晚上给我烧了40块钱"
+    },
+    {
+      "id": "308497856417",
+      "t": 9,
+      "content": "回复 @银河系背水一战 :还好吧，我看那未命中逐渐消失"
+    },
+    {
+      "id": "6a6d974800000000150057f5",
+      "t": 10,
+      "content": "主要便宜，还能力强，真的pro出来我都有可能只用flash，完全够用了"
+    },
+    {
+      "id": "7668635202814444303",
+      "t": 11,
+      "content": "性能这么强，价格会是多少呢[发呆]"
+    },
+    {
+      "id": "6a6e27920000000015012a45",
+      "t": 12,
+      "content": "散户收割机[偷笑R]别人的老本行，在做ds之前就已经是老司机了"
+    },
+    {
+      "id": "311831915616",
+      "t": 3,
+      "content": "对了不针对这个up的测评内容本身讨论，只讨论oneshot对于模型能力是否具有参考价值的观点，他的测试方法我没认真看，根据你的第二点我大概浏览了一下评论区基本都在喷他，还有专门出视频反驳的[doge]"
+    },
+    {
+      "id": "7669335009304265499",
+      "t": 13,
+      "content": "现在有图片识别模式了（内侧中）"
+    },
+    {
+      "id": "311784873552",
+      "t": 6,
+      "content": "音符怎么不发[doge]"
+    },
+    {
+      "id": "2083288799753216490",
+      "t": 14,
+      "content": "@deepseek_ai same price?"
+    },
+    {
+      "id": "308455952417",
+      "t": 9,
+      "content": "问一下，现在更适配cc还是codex啊"
+    },
+    {
+      "id": "311763008720",
+      "t": 9,
+      "content": "回复 @安静丶零 :不用agent的ai现在可以全部归属于脑残，agent是极大幅度的缓解了ai的注意力机制的问题。实际聊天也是可以直接用claude code 聊的。。😂"
+    },
+    {
+      "id": "311642271088",
+      "t": 15,
+      "content": "回复 @嘎嘎好吃啊 :太夸张了[大笑]"
+    },
+    {
+      "id": "311678791968",
+      "t": 16,
+      "content": "生成Minecraft成了测试model指定项目了"
+    },
+    {
+      "id": "p14a9rg",
+      "t": 17,
+      "content": "Curious as to how Opus 5 (max) could outscore the big scary Fable 5?"
+    },
+    {
+      "id": "308398996961",
+      "t": 18,
+      "content": "摘下眼罩的v4正式版眼睛很漂亮，挺符合配色的[给心心]"
+    },
+    {
+      "id": "308559416881",
+      "t": 9,
+      "content": "DeepSeek的免费网页对话更新得不多，用起来一直一般，所以在大多数人眼里是沉寂了。但是在API端，DeepSeek没有沉寂。就算是v4pro的预览版也是性价比很高的，模型性能不算顶尖但是够便宜。单单便宜而且能用这一点就非常了不起了。"
+    },
+    {
+      "id": "308340726561",
+      "t": 19,
+      "content": "回复 @下垐一椗 :而且没用完的可以一直续费延期（只补差价支付已用的部分）"
+    },
+    {
+      "id": "308447547009",
+      "t": 20,
+      "content": "好的现在我是八月初了"
+    },
+    {
+      "id": "2083431371012518106",
+      "t": 21,
+      "content": "@ElainaNotes Link? For how do i enable it"
+    },
+    {
+      "id": "311654813952",
+      "t": 22,
+      "content": "为什么我没有思维链长度按钮"
+    },
+    {
+      "id": "308615913777",
+      "t": 23,
+      "content": "ds的问题是总是喜欢额外思考，V4flash尤其严重"
+    },
+    {
+      "id": "311896311408",
+      "t": 23,
+      "content": "回复 @苦力怕爬行者 :[藏狐]真的感觉现在opencode很捞，什么模型放里面都感觉明显降智，搞得我现在只用cc来接第三方模型了。之前排查GPT在里面降智的问题，发现他那个prompt写得像狗屎，5.6在codex更新了prompt，他那里还是以前的旧prompt，体验非常糟糕。有理由推断现在模型降智跟opencode的垃圾prompt脱不了干系。"
+    },
+    {
+      "id": "311730059248",
+      "t": 20,
+      "content": "GeminiGemini[酸了][酸了][酸了]"
+    },
+    {
+      "id": "7668984033304412977",
+      "t": 24,
+      "content": "价格差的太多了呀。"
+    },
+    {
+      "id": "p11w65k",
+      "t": 25,
+      "content": "And now all of them want to make trump ban chinese llm, for slowing down ai progress. Great."
+    },
+    {
+      "id": "7668748207622947641",
+      "t": 11,
+      "content": "8块可以用很久哦"
+    },
+    {
+      "id": "311884081760",
+      "t": 6,
+      "content": "为啥会审核截断，我没遇到过"
+    },
+    {
+      "id": "308477669345",
+      "t": 26,
+      "content": "回复 @TheOnlyShark :细看截图里有网址的，不知道是不是在反串[doge]"
+    },
+    {
+      "id": "7668958608889742099",
+      "t": 24,
+      "content": "两个模型定位和规模不一样，但是成绩和花费差的多啊"
+    },
+    {
+      "id": "6a6ea67a000000002b02954e",
+      "t": 27,
+      "content": "丢给Agent用[doge]"
+    }
+  ]
+}

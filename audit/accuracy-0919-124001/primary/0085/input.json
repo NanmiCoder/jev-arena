@@ -1,0 +1,232 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "The new deepseek-v4-flash is incredible!",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "⚠️ Note\n\n🔷 DeepSeek-V4-Flash-0731 keeps the exact same model architecture and size as the preview version.\n🔷 Today's upgrade applies ONLY to the DeepSeek-V4-Flash API. The DeepSeek-V4-Pro API and Ap",
+    "DeepSeek V4 Flash 0731 from @deepseek_ai is out!\n\nDeepSeek’s V4 Flash snapshot brings fast agentic coding, hybrid reasoning, a 1M context window, function calling, and strict structured output behind ",
+    "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "Deepseek v4 flash 0731"
+  ],
+  "comments": [
+    {
+      "id": "311825673968",
+      "t": 0,
+      "content": "回复 @安静丶零 :重要的原因你这样理解就好了，比如‘不要断章取义’，超了注意力和swa之后，实际输入的可能是‘要断章取义’，这种语义翻转问题，在很多时候是根本没法用的"
+    },
+    {
+      "id": "p10bqwd",
+      "t": 1,
+      "content": "Damn. I have the same problem with Minimax m3. Can you share the PR OP?"
+    },
+    {
+      "id": "311657937536",
+      "t": 2,
+      "content": "回复 @别馆寒砧孤城画角 :这个已经被ai占领了"
+    },
+    {
+      "id": "6a6c7673000000002902f2f4",
+      "t": 3,
+      "content": "正式版FLASH能力超过预览版PRO"
+    },
+    {
+      "id": "308402822849",
+      "t": 4,
+      "content": "好奇，大哥赐教一下"
+    },
+    {
+      "id": "308507402033",
+      "t": 5,
+      "content": "3:43 “DeepSeek V4 Flash 正式版” 4:00 “很满意”"
+    },
+    {
+      "id": "308340345281",
+      "t": 2,
+      "content": "请教个问题，我用cherry studio跑v4pro，跑一些大任务的时候，cs就自己闪退了，次次都是这样[笑哭]，是不是因为任务复核太大了"
+    },
+    {
+      "id": "7668973457153147697",
+      "t": 6,
+      "content": "https://opencode.ai/go?ref=A1QDGVBYX3套餐真香"
+    },
+    {
+      "id": "311781136016",
+      "t": 0,
+      "content": "请教一下，这个界面是什么软件的？我刚开始用ai"
+    },
+    {
+      "id": "311671276912",
+      "t": 7,
+      "content": "回复 @令堂足安 :你们台湾没有大模型吗，你们能用deepseek吗[微笑]"
+    },
+    {
+      "id": "308610495153",
+      "t": 8,
+      "content": "回复 @困梦的杂物间 : 小作坊出来的话就没有性价比了"
+    },
+    {
+      "id": "2083337706663190976",
+      "t": 9,
+      "content": "@deepseek_ai The fastest AI model that I ever used 💪"
+    },
+    {
+      "id": "2083680939675099241",
+      "t": 10,
+      "content": "DeepSeek V4 Flash 0731 from @deepseek_ai is out!\n\nDeepSeek’s V4 Flash snapshot brings fast agentic coding, hybrid reasoning, a 1M context window, function calling, and strict structured output behind one model.\n\nUse it via Playground: https://t.co/Fvsfg4GnvB\nUse it via API: https://t.co/3XqbXhIZT4"
+    },
+    {
+      "id": "311748804736",
+      "t": 0,
+      "content": "主要是隔三差五的就会重置额度，根本用不完"
+    },
+    {
+      "id": "p1099ts",
+      "t": 11,
+      "content": "Deepseek needs to survive or they’ll be forced to sell to alibaba"
+    },
+    {
+      "id": "7669282330787939121",
+      "t": 12,
+      "content": "但是 luna 能识图呀[思考]"
+    },
+    {
+      "id": "311761681936",
+      "t": 13,
+      "content": "感觉可以让这些大模型，让它们即便没机会了也可以继续修复，只不过不加分了，看看到底需要几轮才可以真正修好。"
+    },
+    {
+      "id": "6a6d4e2200000000290264ea",
+      "t": 14,
+      "content": "业内习惯用b"
+    },
+    {
+      "id": "7668871602596397875",
+      "t": 15,
+      "content": "你那是预览版"
+    },
+    {
+      "id": "311877196864",
+      "t": 16,
+      "content": "都是这样的 感觉时间越长[笑哭] 高概率跑偏了"
+    },
+    {
+      "id": "311765855904",
+      "t": 13,
+      "content": "不是哈内斯？"
+    },
+    {
+      "id": "7668930942434231089",
+      "t": 15,
+      "content": "[笑哭]啥意思，七十分钟一块三嘛"
+    },
+    {
+      "id": "308377059473",
+      "t": 4,
+      "content": "我是做二进制逆向分析的，群里有人测试过分析汇编 trace 代码能力在 glm 之上，比肩 k3"
+    },
+    {
+      "id": "2083121204358230311",
+      "t": 17,
+      "content": "@deepseek_ai would the real benchmark tests come out soon on @VulcanBench ?"
+    },
+    {
+      "id": "311733897264",
+      "t": 0,
+      "content": "回复 @AYANAM1---REI :但是我用的情况下，codex是效果最差的，Reasonix是效果最好的，Claudecode有bug"
+    },
+    {
+      "id": "308391530705",
+      "t": 4,
+      "content": "如果你用的是cc codex 那很正常"
+    },
+    {
+      "id": "308434165009",
+      "t": 0,
+      "content": "回复 @跳舞的熊猫兽 :确实"
+    },
+    {
+      "id": "308410512593",
+      "t": 18,
+      "content": "以前 ds 接 claude code 弄好后不开🪜也能用，接 codex 弄好后是不是也要一直开🪜？"
+    },
+    {
+      "id": "p0ueaqe",
+      "t": 19,
+      "content": "Yay my hermes will be smarter but as cheap"
+    },
+    {
+      "id": "6a6ccf360000000015012d3f",
+      "t": 3,
+      "content": "笑死了 我刚才把codex切到luna 极高 然后用一晚上了 用量基本没增加 你们快打起来吧 越打用的越爽"
+    },
+    {
+      "id": "7668884623636579099",
+      "t": 15,
+      "content": "智普[流泪]"
+    },
+    {
+      "id": "311871956704",
+      "t": 20,
+      "content": "25tokens/s，说实话没法使用"
+    },
+    {
+      "id": "7669202069856912143",
+      "t": 21,
+      "content": "正式版能读图片了吗"
+    },
+    {
+      "id": "17925087",
+      "t": 22,
+      "content": "503 了，"
+    },
+    {
+      "id": "308426256625",
+      "t": 23,
+      "content": "回复 @Miyazono_Kaori- :感觉花的少点了，比cc少[来古-震撼]"
+    },
+    {
+      "id": "311651566432",
+      "t": 24,
+      "content": "其实GLM已经是同体积下很优秀的了，你看看穆拉迪的inkling[doge]没想到还有高手"
+    },
+    {
+      "id": "7669033741955826447",
+      "t": 15,
+      "content": "@来来来🌈 咱们就是梁圣的补贴[尬笑]"
+    },
+    {
+      "id": "6a6de6ea000000002a0066e7",
+      "t": 25,
+      "content": "笑死了，你是心里难受还是不平衡了？回家做算术题去吧，实在不行撸一管子释放释放也行[黄金薯R][黄金薯R][黄金薯R]"
+    },
+    {
+      "id": "7668975423636144931",
+      "t": 6,
+      "content": "我至今没搞懂ds是怎么把价格降的这么多。。。"
+    },
+    {
+      "id": "311693464416",
+      "t": 2,
+      "content": "回复 @等爱弱水叁千 :老哥能不能讲讲，我在模型设置里面开了联网，但是他还是说没有联网功能"
+    }
+  ]
+}

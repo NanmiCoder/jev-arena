@@ -1,0 +1,4 @@
+{
+  "accepted_attempt": 1,
+  "reason": "Validator falsely classified non-tool CLI skill-budget warning as tool use. Verified all event types; accepted earliest valid output without candidate comparison. Original attempt metadata preserved."
+}

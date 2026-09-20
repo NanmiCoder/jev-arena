@@ -1,0 +1,236 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "部署正式版DS-V4-Flash-0731成本真的不高!",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "【转载MTS 】DeepSeek v4 Flash：本地部署大模型的真•DeepSeek时刻",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "这这这！",
+    "Newly released Deepseek V4 Flash Official scores close to Claude Opus 4.8.  Price: 0.18$ / 1mil OUTPUT tokens",
+    "正式版DeepSeek V4 Flash 进步巨大！干翻上代大哥",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Smaller DeepSeek-V4-Flash-0731 Unsloth GGUFs are out now!",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "Deepseek V4 flash0731和Gemini一个智商？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "震撼美味！DeepSeek-V4-Falsh正式版"
+  ],
+  "comments": [
+    {
+      "id": "311720073680",
+      "t": 0,
+      "content": "回复 @MSNoExpectation :差不多0.04左右，0.025得算刷新差不多"
+    },
+    {
+      "id": "6a6d826c000000000403a136",
+      "t": 1,
+      "content": "刚看了解码速度55+/s，预填充1000+/s，够一个人高强度使用。两台机器大概5.5~6w，可以等降价再入手"
+    },
+    {
+      "id": "7668660395469767473",
+      "t": 2,
+      "content": "kimi纯力大砖飞，资源消耗换来的性能。"
+    },
+    {
+      "id": "6a6ed55a000000000403a5a7",
+      "t": 3,
+      "content": "哇，大佬能分享具体的步骤吗"
+    },
+    {
+      "id": "308451829137",
+      "t": 4,
+      "content": "我[呲牙][呲牙][呲牙]"
+    },
+    {
+      "id": "308438736177",
+      "t": 5,
+      "content": "单图还是可以的，Codex接ds可以直接读一张大概100w的token，但是上下文长度就不到10张就满了，你专门设置一个路径文件夹让codex去读里面的图片就行"
+    },
+    {
+      "id": "308441433137",
+      "t": 6,
+      "content": "回复 @恐虐咪 :看了测评，flash接近glm5.2，踩头5.1没什么问题。另外glm要一直这价就别着急上桌了"
+    },
+    {
+      "id": "308351928337",
+      "t": 7,
+      "content": "回复 @疯狂爱你的女科学家 :完完全全有关系呀，模型也只是工具，你可以去看一下最近解决的这几个数学问题背后都有数学家的参与。并且你知道有一个数学很强的工具，你还会去使用更差的工具来解决问题吗"
+    },
+    {
+      "id": "308408612609",
+      "t": 8,
+      "content": "视频里的链接https://www.deepseek.com/"
+    },
+    {
+      "id": "311752882512",
+      "t": 9,
+      "content": "回复 @地下玩家2 : 所以才这么多人反对A/他们搞闭源模型啊，开源模型都把数据和权重公布的，只是不公开训练的方法，数据是实实在在掌握在手里的，社区还这么多人搞二次开发和专项蒸馏的，有问题都找出来了，而西方他们搞的闭源就完完全全是黑箱，可不少企业控诉A/偷他们的核心数据"
+    },
+    {
+      "id": "308446454001",
+      "t": 0,
+      "content": "回复 @星际物流塔1 :VSCode里的终端直接开cc就行吧"
+    },
+    {
+      "id": "311638766128",
+      "t": 8,
+      "content": "同问。当时也是跟着up设置的v4flash和pro，还需要重新设置吗？"
+    },
+    {
+      "id": "311698158752",
+      "t": 10,
+      "content": "codex 接入 deepseek 后直接不让上传图片了，怎么解决，各位大佬有办法吗"
+    },
+    {
+      "id": "6a6c54a1000000000802ea0f",
+      "t": 11,
+      "content": "flash都超glm5.2了"
+    },
+    {
+      "id": "p11ngro",
+      "t": 12,
+      "content": "Flash better than pro? /confused about tiers. Using pro over open router and it's very good but I can't leave to on auto mode"
+    },
+    {
+      "id": "311780182336",
+      "t": 13,
+      "content": "回复 @八小时不摸鱼的大冤种 :那必然是pro解决了很多次解决不掉的问题才能算留下来。人工能发现的bug让ai去解决，需要1-2轮和5-8轮的工作量区别还是很大的"
+    },
+    {
+      "id": "7669077575613252411",
+      "t": 14,
+      "content": "可以吧，指哪打哪，但是得提前做好规划，用 gpt，claude 或者 kimi 提前做好详细规划，再用 flash 来执行，效果不错"
+    },
+    {
+      "id": "311715184944",
+      "t": 0,
+      "content": "懂了，这模型最好别锁思考预算。"
+    },
+    {
+      "id": "308589554481",
+      "t": 15,
+      "content": "回复 @bili77743409145 :预览版的后训练也用了华为卡"
+    },
+    {
+      "id": "7668839689097806628",
+      "t": 16,
+      "content": "今天才发布吗，我用了2个月的也是v4啊"
+    },
+    {
+      "id": "p121u12",
+      "t": 17,
+      "content": "Can I run this on 48gb vram (5090 + 5070 ti) + 64gb sys ram?"
+    },
+    {
+      "id": "6a6cd8f20000000015006f4f",
+      "t": 18,
+      "content": "在这个夏天，我决定……把我的天赋，带到DeepSeek粉丝团。\n至于Kimi、GLM和Minimax，他们都是值得尊敬的竞争者。我真心祝愿他们的开源模型一切顺利，愿他们在各自的赛道上好运。\n但对我来说，答案已经清晰了。我选择了DeepSeek。谢谢。"
+    },
+    {
+      "id": "7668937155838772006",
+      "t": 16,
+      "content": "@冰雪女王（开心飘雪版） @烈焰王子 @咸蛋 @水北 @猫头不是鹰 @大精铭 @熄阳 @泡水鹅鹅鹅卵石 @. 梁圣之辩，比DeepSeek菜还鬼的都将斩杀，反正梁圣九点半自动收割韭菜[捂脸]"
+    },
+    {
+      "id": "6a6c92c7000000002b000428",
+      "t": 19,
+      "content": "我刚测了下，在我常用的凝聚态数值计算代码这领域，表现比Gemini目前所有的模型都还好，具体可以看我刚发的帖子"
+    },
+    {
+      "id": "7668642202332021542",
+      "t": 2,
+      "content": "v4flash正式版超过glm5.2，那么v4pro正式版一定能超过opus4.8"
+    },
+    {
+      "id": "7668980742147556133",
+      "t": 20,
+      "content": "1. 总参数体量：Kimi K3（2.8万亿）远大于DeepSeek V4 Flash（2840亿），相差近10倍；2. 单次推理算力消耗：Kimi K3是V4 Flash的8倍；\n万亿参数的Kimik3能与美国open AI比较，千亿参数的deep seek也能与美国open AI比较[抠鼻][抠鼻][抠鼻]\n美国闭源ai慌的一逼。"
+    },
+    {
+      "id": "308615756033",
+      "t": 0,
+      "content": "你可以说gpt Claude更好\n但是没有梁圣给你压价格你以为他们会给你免费用"
+    },
+    {
+      "id": "308406438465",
+      "t": 0,
+      "content": "还是比较期待DeepSeek的harness"
+    },
+    {
+      "id": "p11gdld",
+      "t": 21,
+      "content": "But you also have no idea how they've made it cheaper so why should I listen to you instead?"
+    },
+    {
+      "id": "308462682513",
+      "t": 22,
+      "content": "你梁叔叔这个参数能打过K3,我合理怀疑他掌握了外星科技"
+    },
+    {
+      "id": "6a6d66eb000000002a026d91",
+      "t": 23,
+      "content": "钱很重要，能力更重要，也许意味着我的有些想法就可以实现了，而不是被卡着"
+    },
+    {
+      "id": "6a6d6844000000002a0336f9",
+      "t": 24,
+      "content": "这么简单的东西看几遍就熟了，哪还要换算？"
+    },
+    {
+      "id": "311789012336",
+      "t": 25,
+      "content": "回复 @重案之虎硬吃 : 这神人拿flash去比较K3也是逆天，最起码要比较Pro才是同一级别的才对"
+    },
+    {
+      "id": "6a6eb6fc000000002b02ab01",
+      "t": 23,
+      "content": "可惜不是多模态，不过这性价比太神了"
+    },
+    {
+      "id": "7668849597489431333",
+      "t": 26,
+      "content": "试一下hy3，据说性能提升很大，支持多模态"
+    },
+    {
+      "id": "308461830321",
+      "t": 27,
+      "content": "我目前是接到ZCode里用的，在已有的项目上，工作流就是先让它定位某某功能/问题的代码，然后再提我对这个功能/问题的需求，它会反问我几个问题，我回答了之后它去做，感觉效果很不错了，基本不出bug，和trae里用的GLM5.2体感比较接近，而且缓存命中也基本99以上。一句话生成能力可能没那么强，但是整体用起来基本属于是指哪打哪了[doge]"
+    },
+    {
+      "id": "7668799298515550982",
+      "t": 28,
+      "content": "正式版昨天才上线的，你怎么用一个月了[发呆]"
+    },
+    {
+      "id": "308528769793",
+      "t": 0,
+      "content": "回复 @伟大的哈基米 :之前的六月份版本，这种问题10w就搞定了"
+    },
+    {
+      "id": "308420841313",
+      "t": 22,
+      "content": "回复 @情为徒有虚名 :之前flash和pro都是预览版，但是昨天flash正式版发了，列出的那些指标已经打爆pro预览版了"
+    },
+    {
+      "id": "6a6caa0f000000000802d5e4",
+      "t": 29,
+      "content": "原评论已删除"
+    }
+  ]
+}

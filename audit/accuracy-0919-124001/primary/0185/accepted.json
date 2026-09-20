@@ -1,0 +1,822 @@
+{
+  "items": [
+    {
+      "id": "7669102022168101689",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "批评幻方量化收割投资者，未讨论AI产品。"
+    },
+    {
+      "id": "311864148976",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "建议学习电脑并认可其生产力，未明确涉及AI。"
+    },
+    {
+      "id": "308434855169",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "针对他人对号入座作反驳，无可见AI讨论。"
+    },
+    {
+      "id": "7668922802912658235",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "提到plus账号但语义残缺，是否讨论AI不明。"
+    },
+    {
+      "id": "308449902529",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "以参数量差异质疑模型比较的合理性。"
+    },
+    {
+      "id": "308564072673",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": null,
+      "reason": "反问是否差得远，但缺少被比较对象及上文。"
+    },
+    {
+      "id": "311717111232",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "question"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨付费API回答愚笨且顺从用户。"
+    },
+    {
+      "id": "311876654096",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "推荐降价后的Luna，强调多模态及性价比优势。"
+    },
+    {
+      "id": "6a6e145c00000000290356f7",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称模型兼顾好用与便宜，具有竞争优势。"
+    },
+    {
+      "id": "308434983153",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "price",
+        "service"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0.5,
+      "reason": "分享Luna编码及额度优势，同时明确厌烦GLM。"
+    },
+    {
+      "id": "7668915135016321811",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "以“呵呵”讽刺所提模型价格，品牌写法略含混。"
+    },
+    {
+      "id": "308357593409",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合Codex标题，说明可改配置使用max。"
+    },
+    {
+      "id": "7669381190951928586",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": null,
+      "reason": "以进圈和毒死作戏谑表达，具体指代不明。"
+    },
+    {
+      "id": "308518746465",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "援引文档纠正峰谷定价已实施的说法。"
+    },
+    {
+      "id": "6a6c4cd1000000002a02543d",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待",
+        "质疑"
+      ],
+      "score": 0.2,
+      "reason": "询问Pro能否超过Opus，带期待与不确定语气。"
+    },
+    {
+      "id": "7669251716756177718",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "愤怒"
+      ],
+      "score": -1,
+      "reason": "诅咒梁家，未涉及模型或产品评价。"
+    },
+    {
+      "id": "308360230465",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问使用了哪款Agent，无明显褒贬。"
+    },
+    {
+      "id": "2083156478744293488",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "追问击败的Luna使用何种思考等级。"
+    },
+    {
+      "id": "308409057489",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "赞叹大量Token低费用及高缓存命中率。"
+    },
+    {
+      "id": "308384381681",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "correction",
+        "agreement"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "确认英文字幕正确，纠正还是附和缺少上文。"
+    },
+    {
+      "id": "7669122378559816497",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "澄清Agent与模型概念，并概括GPT强、DS便宜。"
+    },
+    {
+      "id": "7669281861026480948",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "笑称对方是天才，缺少明确AI评价对象。"
+    },
+    {
+      "id": "308413027297",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "service",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "担忧"
+      ],
+      "score": -0.6,
+      "reason": "质疑重置可持续性及中转站隐私、发票问题。"
+    },
+    {
+      "id": "311759130112",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "分享开发Token用量、费用与命中率，认为尚可。"
+    },
+    {
+      "id": "308606168465",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "认为五年太遥远，但未说明等待的具体事物。"
+    },
+    {
+      "id": "311838696448",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "trust",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "赞同模型可能记住题目答案，质疑测评有效性。"
+    },
+    {
+      "id": "7668923766081028927",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "告知正在做并要求等待，未说明所做事项。"
+    },
+    {
+      "id": "7668906515306480443",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "比较价格后盛赞DS，单独看无优势是铺垫。"
+    },
+    {
+      "id": "7668969537275986747",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "描述一次提问扣费及大量未命中，略带不满。"
+    },
+    {
+      "id": "7669005264327263035",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "感叹当年受压制，但未说明主体及具体领域。"
+    },
+    {
+      "id": "7669025379092824869",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "明确认为每月两百多的使用费用便宜。"
+    },
+    {
+      "id": "7669020326106546993",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "讽刺“开源抄闭源”的说法，具体反对对象略有歧义。"
+    },
+    {
+      "id": "311709498256",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "trust"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.3,
+      "reason": "称Codex有适配并警告CC投毒，隐含选用建议。"
+    },
+    {
+      "id": "311907849488",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.7,
+      "reason": "惊叹手机本地运行速度快。"
+    },
+    {
+      "id": "311709725808",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "question",
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待",
+        "认可",
+        "调侃"
+      ],
+      "score": 0.8,
+      "reason": "玩梗赞叹当前模型强，并期待Pro表现。"
+    },
+    {
+      "id": "311690563360",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "performance",
+        "reliability",
+        "quality",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "肯定Luna跑分但详述速度及长任务问题，也指出DS异常。"
+    },
+    {
+      "id": "311739962704",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清测评只用提示词、未用工具或Agent。"
+    },
+    {
+      "id": "7669273733379670824",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问视频语句含义，未明确评价AI模型或使用。"
+    },
+    {
+      "id": "308570233457",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "content",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "赞赏模型对决，认为消耗Token也值得观看。"
+    },
+    {
+      "id": "311886939024",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "performance"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "建议停止折腾，称硬件不强但两台配置适宜。"
+    }
+  ]
+}

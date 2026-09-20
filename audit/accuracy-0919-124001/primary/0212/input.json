@@ -1,0 +1,235 @@
+{
+  "topics": [
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "deepseekv4flash正式版上线了，还带来了新惊喜 #deepseekv4flash正式版 #deepseek多模态",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek-V4-Flash-0731正式上线\n\nTerminal-Bench：61.8 → 82.7\n\n DeepSWE：7.3 → 54.4（+645%）\n\n 打赢自家Pro（82.7 vs 72.1）\n\n只比Opus-4.8低2.3分 https://t.co/WnXTluPRuy",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek Flash 0731",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "DeepSeek V4 flash正式版思维链",
+    "国家超算互联网上线DeepSeek-V4-Flash API",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "I don't think Anthropic and OpenAI will survive",
+    "要被外网的一些评论笑死了😂😂😂",
+    "美国小哥实测DeepSeekV4Flash：花不到1美元，AI给他做了个GTA+射击游戏，这Flash怎么比pro还pro？",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "DeepSeek V4-Flash is officially out, still dirt cheap. USA don't like that, and want ban open source models.",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 flash final release",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版"
+  ],
+  "comments": [
+    {
+      "id": "7668926968952177445",
+      "t": 0,
+      "content": "算力不够[捂脸]？你在搞笑吗？最新的flash正式版与预览版大小一致，只是多了后训练而已，有人测试过，用八万块钱就可以自己部署满血版的flash正式版了，梁圣缺这八万块钱吗？[捂脸]梁圣已经把大模型优化到极致了，不需要很多算力也可以超越国外顶尖大模型"
+    },
+    {
+      "id": "7669375928526684971",
+      "t": 1,
+      "content": "呢这样还可以直接发图给 codex 吗。是不是就识别不了了"
+    },
+    {
+      "id": "311638054240",
+      "t": 2,
+      "content": "我在本地部署过量化的flash preview，flash能力还是可以的"
+    },
+    {
+      "id": "308458223521",
+      "t": 3,
+      "content": "回复 @bili63866996095 : 还在刷，ds是你的信仰还是咋了"
+    },
+    {
+      "id": "2083876715651313758",
+      "t": 4,
+      "content": "DeepSeek-V4-Flash-0731正式上线\n\nTerminal-Bench：61.8 → 82.7\n\n DeepSWE：7.3 → 54.4（+645%）\n\n 打赢自家Pro（82.7 vs 72.1）\n\n只比Opus-4.8低2.3分 https://t.co/WnXTluPRuy"
+    },
+    {
+      "id": "311774806864",
+      "t": 5,
+      "content": "cc有病毒，别用了。"
+    },
+    {
+      "id": "7669085374195335990",
+      "t": 6,
+      "content": "中转站安全性不好说吧，而且好像有的中转站注水，拿别的模型装[捂脸]"
+    },
+    {
+      "id": "308469257793",
+      "t": 7,
+      "content": "回复 @HeySiri___ :看了很多测试，拉完了[doge]"
+    },
+    {
+      "id": "308326633809",
+      "t": 8,
+      "content": "價格屠夫來了[打call]"
+    },
+    {
+      "id": "308395714849",
+      "t": 9,
+      "content": "回复 @AliceEUFN : 1212"
+    },
+    {
+      "id": "p0wcemo",
+      "t": 10,
+      "content": "im gonna put my Experience that its gotten horrendeous at following Instructions and or system prompts, and it is very dry response. i dont know if its only me but i tried many Prompts and burn tokens to test and safe to say its hard to fix. any ideas?"
+    },
+    {
+      "id": "6a6cb6bc000000001500ab4d",
+      "t": 11,
+      "content": "proma啊，它那个软件头上不是写了吗。"
+    },
+    {
+      "id": "7668882995188908849",
+      "t": 12,
+      "content": "正式版的flash超过了预览版的pro"
+    },
+    {
+      "id": "7668847475700843313",
+      "t": 13,
+      "content": "这只是flash，看pro了"
+    },
+    {
+      "id": "6a6dd7d5000000001403a495",
+      "t": 14,
+      "content": "官方数据是agentbench确实是碾压了"
+    },
+    {
+      "id": "6a6f24e1000000002a00523f",
+      "t": 15,
+      "content": "约等于API价格打6折左右，非常不划算"
+    },
+    {
+      "id": "311875774352",
+      "t": 16,
+      "content": "回复 @爆发头 :不要拿学生群体来做参照[笑哭]，要拿企业端来做参照才有价值，这类用户才是高频使用加舍得花真金白银使用的，C端用户真正会用的，想去钻研的也是用API端，agent在开发各种软件上的方便性和通用性使得很多非计算机专业的人员都能做点事，现在API端的Flash模型也比preview pro强太多了。生活问答本就不是这类ai产品主要想去推进方向，这些技能树只是顺带点的"
+    },
+    {
+      "id": "311719931152",
+      "t": 3,
+      "content": "luna好用在哪？除了有多模态感觉大部分任务还不如flash。"
+    },
+    {
+      "id": "311746719648",
+      "t": 3,
+      "content": "api好快啊昨天晚上"
+    },
+    {
+      "id": "7668960349853270825",
+      "t": 0,
+      "content": "你这价格 命中率百分百有问题"
+    },
+    {
+      "id": "308478986337",
+      "t": 17,
+      "content": "大家有没发现，正式版的思维链出中文的概率比预览版高多了，但我不确定是模型本身的原因还是Opencode的原因。这两天用正式版它往往是第一轮对话用英文思考，但从2，3轮开始就变成了中文期思考。"
+    },
+    {
+      "id": "p14zplb",
+      "t": 18,
+      "content": "I’m guessing one of them survives and one gets bought by Google or Microsoft after losing to whoever controls the coding (and maybe medical) AI market.  Eventually they probably roll back and offer cheaper options using non-frontier models for those of us who know what they’re doing and keep prices high on frontier models for the suckers.  At some point AI is deemed critical infrastructure by the US government and a lot of US users are forced to use American models."
+    },
+    {
+      "id": "6a6d8b0a000000001501165f",
+      "t": 19,
+      "content": "小布什易容了？"
+    },
+    {
+      "id": "308432396161",
+      "t": 3,
+      "content": "有人试过DeepSeek V4 Flash和GLM 5.2写小说的能力如何吗？"
+    },
+    {
+      "id": "311763738208",
+      "t": 20,
+      "content": "根据市场按需发布，既收割友商也收割...[doge]"
+    },
+    {
+      "id": "311819479952",
+      "t": 21,
+      "content": "我都是使用claude code了，正式版之前用的就是codex，我的评价是烂完了，被迫装了code，结果发现效果很好，智商直线提升[笑哭]"
+    },
+    {
+      "id": "p0yz84i",
+      "t": 22,
+      "content": "Really bad model actually as it doesn't escape test/sandbox environment and hack the world like those of OpenAI/Anthropic 😆"
+    },
+    {
+      "id": "7669085689473008442",
+      "t": 6,
+      "content": "[捂脸]agent发展让小程序成本降低到十块你不知道吗，还得学啊"
+    },
+    {
+      "id": "311720629872",
+      "t": 3,
+      "content": "他是瞎子，没有视觉功能"
+    },
+    {
+      "id": "311750278544",
+      "t": 23,
+      "content": "回复 @偷一抹月白 :准备试试"
+    },
+    {
+      "id": "308464026689",
+      "t": 16,
+      "content": "回复 @调逆弓归 : 你还没有回答我的问题"
+    },
+    {
+      "id": "2083088114721927303",
+      "t": 24,
+      "content": "@deepseek_ai \"asap\" is not today. https://t.co/YRUpDCcfwD"
+    },
+    {
+      "id": "p0zkz4u",
+      "t": 25,
+      "content": "Your post is getting popular and we just featured it on our Discord! [Come check it out!](https://discord.gg/r-chatgpt-1050422060352024636)\n\nYou've also been given a special flair for your contribution. We appreciate your post!\n\n*I am a bot and this action was performed automatically.*"
+    },
+    {
+      "id": "7668713756268610363",
+      "t": 26,
+      "content": "破甲什么意思啊[捂脸]解释一下"
+    },
+    {
+      "id": "311873220400",
+      "t": 16,
+      "content": "回复 @77aC1 :你说的对"
+    },
+    {
+      "id": "311717243952",
+      "t": 27,
+      "content": "回复 @Hangnum :权威在有名"
+    },
+    {
+      "id": "311801830960",
+      "t": 7,
+      "content": "不是讽刺，实际上我也是个ai信者，从gemini 2.0 flash一路用到现在，OAGD四家的各种模型前前后后用了个遍，也算是亲眼见识着他们怎么一步步发展起来的。\n虽然我平时一般都是拿我的大号skill规定开发框架，每次提需求也会开plan反复讨论，但如果告诉我现在的deepseek搭配cc没法一句话生成个至少能玩的游戏，我也多少不太理解。"
+    },
+    {
+      "id": "6a6e0f4b000000000b038693",
+      "t": 28,
+      "content": "狗屎一坨，路边一条"
+    },
+    {
+      "id": "7669058287413510958",
+      "t": 6,
+      "content": "梁文峰我***"
+    },
+    {
+      "id": "7668719396819125051",
+      "t": 12,
+      "content": "正在用它干活…速度真是非常的快[尬笑][尬笑]"
+    }
+  ]
+}

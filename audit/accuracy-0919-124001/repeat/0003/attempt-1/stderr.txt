@@ -1,0 +1,48 @@
+2026-09-20T13:43:57.845009Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:57.866925Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:57.891250Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:57.909518Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:57.928776Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:57.943865Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:57.960902Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:57.980786Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:57.996063Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.015695Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.032316Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.052365Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.063660Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.069037Z  WARN codex_core_plugins::manager: failed to warm featured plugin ids cache error=failed to send remote featured plugin request to https://chatgpt.com/backend-api/plugins/featured?platform=codex: error sending request for url (https://chatgpt.com/backend-api/plugins/featured?platform=codex)
+2026-09-20T13:43:58.069055Z  WARN codex_core_plugins::manager: failed to refresh remote installed plugins cache error=failed to send remote plugin catalog request to https://chatgpt.com/backend-api/ps/plugins/installed?limit=200: error sending request for url (https://chatgpt.com/backend-api/ps/plugins/installed?limit=200) materialized_remote_plugin_count=0
+2026-09-20T13:43:58.075845Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.087181Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.100575Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.113553Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.120704Z  WARN codex_analytics::client: failed to send events request: error sending request for url (https://chatgpt.com/backend-api/codex/analytics-events/events)
+2026-09-20T13:43:58.127873Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.146401Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.157406Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.167505Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-09-20T13:43:58.247811Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses
+2026-09-20T13:43:58.248050Z  WARN codex_core::session_startup_prewarm: startup websocket prewarm setup failed: stream disconnected before completion: tls handshake eof
+2026-09-20T13:43:58.737916Z  WARN codex_core_plugins::manager: remote installed plugin bundle sync failed error=failed to send remote plugin catalog request to https://chatgpt.com/backend-api/ps/plugins/installed?limit=200&includeDownloadUrls=true: error sending request for url (https://chatgpt.com/backend-api/ps/plugins/installed?limit=200&includeDownloadUrls=true)
+2026-09-20T13:43:59.118291Z  WARN codex_core_plugins::manager: failed to refresh remote installed plugins cache error=failed to send remote plugin catalog request to https://chatgpt.com/backend-api/ps/plugins/installed?limit=200: error sending request for url (https://chatgpt.com/backend-api/ps/plugins/installed?limit=200) materialized_remote_plugin_count=0
+2026-09-20T13:43:59.287019Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses
+2026-09-20T13:43:59.287080Z  WARN codex_core::responses_retry: stream disconnected - retrying sampling request (1/5 in 219ms)... turn_id=01a0bf0f-2ce2-7ea2-aa59-c36980322d25 retries=1 max_retries=5 sampling_error=stream disconnected before completion: tls handshake eof
+2026-09-20T13:43:59.799292Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses
+2026-09-20T13:43:59.799354Z  WARN codex_core::responses_retry: stream disconnected - retrying sampling request (2/5 in 427ms)... turn_id=01a0bf0f-2ce2-7ea2-aa59-c36980322d25 retries=2 max_retries=5 sampling_error=stream disconnected before completion: tls handshake eof
+2026-09-20T13:44:00.626956Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses
+2026-09-20T13:44:00.627014Z  WARN codex_core::responses_retry: stream disconnected - retrying sampling request (3/5 in 793ms)... turn_id=01a0bf0f-2ce2-7ea2-aa59-c36980322d25 retries=3 max_retries=5 sampling_error=stream disconnected before completion: tls handshake eof
+2026-09-20T13:44:01.852195Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses
+2026-09-20T13:44:01.852291Z  WARN codex_core::responses_retry: stream disconnected - retrying sampling request (4/5 in 1.68s)... turn_id=01a0bf0f-2ce2-7ea2-aa59-c36980322d25 retries=4 max_retries=5 sampling_error=stream disconnected before completion: tls handshake eof
+2026-09-20T13:44:02.814042Z ERROR codex_models_manager::manager: failed to refresh available models: timeout waiting for child process to exit
+2026-09-20T13:44:04.362525Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses
+2026-09-20T13:44:04.362617Z  WARN codex_core::responses_retry: stream disconnected - retrying sampling request (5/5 in 3.152s)... turn_id=01a0bf0f-2ce2-7ea2-aa59-c36980322d25 retries=5 max_retries=5 sampling_error=stream disconnected before completion: tls handshake eof
+2026-09-20T13:44:07.856551Z ERROR codex_api::endpoint::responses_websocket: failed to connect to websocket: IO error: tls handshake eof, url: wss://chatgpt.com/backend-api/codex/responses
+2026-09-20T13:44:07.856636Z  WARN codex_core::client: falling back to HTTP
+2026-09-20T13:44:12.277100Z  WARN codex_core::responses_retry: stream connection failed; waiting to retry turn_id=01a0bf0f-2ce2-7ea2-aa59-c36980322d25 error=Connection failed: error sending request retry_delay=5s
+2026-09-20T13:44:14.681908Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt[0]: prompt must be at most 128 characters path=file:///Users/nanmi/.codex/.tmp/plugins/plugins/ngs-analysis/.codex-plugin/plugin.json
+2026-09-20T13:44:14.683151Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt[0]: prompt must be at most 128 characters path=file:///Users/nanmi/.codex/.tmp/plugins/plugins/ngs-analysis/.codex-plugin/plugin.json
+2026-09-20T13:44:21.573076Z  WARN codex_core::responses_retry: stream connection failed; waiting to retry turn_id=01a0bf0f-2ce2-7ea2-aa59-c36980322d25 error=Connection failed: error sending request retry_delay=10s
+2026-09-20T13:44:35.623196Z  WARN codex_core::responses_retry: stream connection failed; waiting to retry turn_id=01a0bf0f-2ce2-7ea2-aa59-c36980322d25 error=Connection failed: error sending request retry_delay=20s
+2026-09-20T13:44:59.755675Z  WARN codex_core::responses_retry: stream connection failed; waiting to retry turn_id=01a0bf0f-2ce2-7ea2-aa59-c36980322d25 error=Connection failed: error sending request retry_delay=40s
+2026-09-20T13:45:43.825694Z  WARN codex_core::responses_retry: stream connection failed; waiting to retry turn_id=01a0bf0f-2ce2-7ea2-aa59-c36980322d25 error=Connection failed: error sending request retry_delay=60s

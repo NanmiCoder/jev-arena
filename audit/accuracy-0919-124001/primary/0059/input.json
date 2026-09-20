@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "DeepSeek Flash 0731",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "DeepSeek V4 Flash 0731 in opencode-go when?",
+    "DeepSeek V4 Flash深度评测：实测排名前五，国产大模型的史诗级翻身之作！",
+    "要被外网的一些评论笑死了😂😂😂",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "GPT 5.6 Luna最新测评报告！打得过Deepseek V4 Flash吗？",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "屎山论剑｜DeepSeekV4Flash：下一位！"
+  ],
+  "comments": [
+    {
+      "id": "p0v3pzs",
+      "t": 0,
+      "content": "I think they post-trained ds4 flash on coding, so not sure it gets better at RP\n\nBenchmarks suggest it's better than the old ds4 pro on agentic coding tasks. But I would be really surprised if it actually changed instruction following for RP. You're basically still running ds4 flash, with improvements in ways that doesn't really matter to RP"
+    },
+    {
+      "id": "311686988720",
+      "t": 1,
+      "content": "[doge]猫猫哈气，不是我想的"
+    },
+    {
+      "id": "7668972813352764197",
+      "t": 2,
+      "content": "没多模态就自己做个skill调豆包的"
+    },
+    {
+      "id": "311707917792",
+      "t": 3,
+      "content": "回复 @自然造字师斯庙算多 :买几个kimicode会不会便宜点"
+    },
+    {
+      "id": "311642253760",
+      "t": 4,
+      "content": "ds在opencode里的效果好像不是很好"
+    },
+    {
+      "id": "308349932177",
+      "t": 5,
+      "content": "因为模型能力确实有差距呀，并且国内的数学研究水平就是没有达到国际上一流梯队(仅我个人见解),两项相加不是很正常吗，正视差距，努力追赶[脱单doge]"
+    },
+    {
+      "id": "7669289934020330303",
+      "t": 6,
+      "content": "答案是都做，没有不做的厂商，只不过后训练水平有高有低[看]"
+    },
+    {
+      "id": "7669249821072753467",
+      "t": 6,
+      "content": "他们在发布模型之前找做空了美股[抠鼻][抠鼻]"
+    },
+    {
+      "id": "308425936257",
+      "t": 7,
+      "content": "Trae试试"
+    },
+    {
+      "id": "7669081275731395363",
+      "t": 2,
+      "content": "v4 flash不是早就出来了吗，啥意思"
+    },
+    {
+      "id": "311757615344",
+      "t": 8,
+      "content": "https://opencode.ai/go?ref=WV0GN44F15"
+    },
+    {
+      "id": "p11plxi",
+      "t": 9,
+      "content": "I tested the API version (not local) and it was able to build me a web search tool that Gemini and Deepseek v4 pro couldn’t build. Basically they were running in circles building a tool that was too powerful (so that the search got blocked) or too weak (results not good). The Flash GA built it very easily and it works really well. I’m really impressed - especially because it’s so cheap.\n\nThe only issue from my end is balancing the cost of purchasing hardware that can run it VS how long it would take for me to burn the amount of $ via API."
+    },
+    {
+      "id": "6a6e2f6a00000000150092a6",
+      "t": 10,
+      "content": "cc 缓存这事早就翻篇了"
+    },
+    {
+      "id": "7668962598351831871",
+      "t": 2,
+      "content": "api自动的 不用改 直接用flash就行"
+    },
+    {
+      "id": "6a6ea895000000002a0326e5",
+      "t": 11,
+      "content": "666，还有AI版的百万漕工衣食所系"
+    },
+    {
+      "id": "311682972224",
+      "t": 12,
+      "content": "另外，最重要的是Luna是多模态的，Deepseek我实际没有做过项目，但一直听说API不支持识图。\n如果API没有原生识图能力的话，很多时候调整前端样式或者文档中一些格式，我觉得用文字表述抽象又费力的事情。现在基本上都是截个图稍微表述一下框里的大概要怎么调整。\n生图可以不一定有，但是识图我觉得也算是Agent工作里面比较高频的需求了。这个支持了，那Luna甚至Terra都可以往后稍稍。"
+    },
+    {
+      "id": "308423979489",
+      "t": 3,
+      "content": "大佬太强了  这速度杠杠的[星星眼]"
+    },
+    {
+      "id": "6a6ef86f000000002902de37",
+      "t": 13,
+      "content": "逻辑通顺的，哈哈哈"
+    },
+    {
+      "id": "308574916865",
+      "t": 14,
+      "content": "回复 @syanoa :够用个毛，我两个gpt plus账号两天用完两个星期的额度"
+    },
+    {
+      "id": "308437961745",
+      "t": 7,
+      "content": "谁家Gemini 3.5[大笑][大笑][大笑]"
+    },
+    {
+      "id": "311896609936",
+      "t": 15,
+      "content": "什么一块钱，flash+不思考一天最多用17了，平均5-10块差不多"
+    },
+    {
+      "id": "p0um9j0",
+      "t": 16,
+      "content": "Wondering if it's accessible in free tier as well..\n\nEdit- it is the 0731.. the new one"
+    },
+    {
+      "id": "308548693185",
+      "t": 4,
+      "content": "怎么做的？要用对应we吗？能做西三这种级别的图吗？"
+    },
+    {
+      "id": "311685138144",
+      "t": 17,
+      "content": "2400万token收我2分钱，梁圣恩情还不完。[doge]"
+    },
+    {
+      "id": "6a6d71e50000000029034234",
+      "t": 18,
+      "content": "昨天正式版大大加强了据说"
+    },
+    {
+      "id": "308547857665",
+      "t": 19,
+      "content": "还不行，要是flash比肩K3那其他ai公司可以删档静待接下来本地部署V4P了[星星眼]"
+    },
+    {
+      "id": "311720497296",
+      "t": 19,
+      "content": "昨天看到发布的时候，真的盲惊讶的，300B的模型，这表现，最主要的是晚上就把权重放出来了，D老师太顶了"
+    },
+    {
+      "id": "311844138032",
+      "t": 20,
+      "content": "免费实用的教程越多越好"
+    },
+    {
+      "id": "311747635584",
+      "t": 21,
+      "content": "那你是没看之前的大模型同样题目翻车的"
+    },
+    {
+      "id": "311707832384",
+      "t": 19,
+      "content": "[笑哭]300b不到比2.8t"
+    },
+    {
+      "id": "6a6c8464000000001403a0cd",
+      "t": 22,
+      "content": "kimi k3还是比flash强一些的，但是建议你在pro正式版上线之前用完"
+    },
+    {
+      "id": "7668855092237566758",
+      "t": 23,
+      "content": "不是flush"
+    },
+    {
+      "id": "308619287345",
+      "t": 24,
+      "content": "终于介绍bug内容了[星星眼][星星眼][星星眼]加油，马上关注"
+    },
+    {
+      "id": "6a6df7fd00000000090160ad",
+      "t": 4,
+      "content": "比不得程序员吧，kimi 199档的年会员；gpt的plus；智普是真没抢到；claude给我封号了[捂脸R]；剩下的基本上就是用DeepSeek了。我主要做数据分析，用的不算太多，一天加起来三到四亿吧。"
+    },
+    {
+      "id": "7669059018938549051",
+      "t": 6,
+      "content": "三年时间老美还狂吗，[调皮][调皮][调皮][调皮]"
+    },
+    {
+      "id": "6a6e20cd000000000d028400",
+      "t": 18,
+      "content": "又消失了[笑哭R][笑哭R][笑哭R]"
+    },
+    {
+      "id": "308415767121",
+      "t": 1,
+      "content": "[Ave Mujica_怎么突然][Ave Mujica_怎么突然][Ave Mujica_怎么突然]"
+    },
+    {
+      "id": "6a6d26e40000000005015963",
+      "t": 10,
+      "content": "opencode和ds flash怎么样"
+    },
+    {
+      "id": "7669070689736033073",
+      "t": 2,
+      "content": "我爸妈就是干餐饮的，我觉得ai可以用来调整做菜和上菜顺序，通过心理学的知识，使得上菜顺序让大部分顾客满意。我自己没试过"
+    },
+    {
+      "id": "6a6e06b7000000002a007237",
+      "t": 18,
+      "content": "哈哈哈哈哈哈哈哈"
+    }
+  ]
+}

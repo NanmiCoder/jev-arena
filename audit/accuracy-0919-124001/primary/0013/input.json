@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "🚀 DeepSeek V4真更新了！重点全在 Agent",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "在家跑deepseek v4 flash",
+    "Expert-only IQ3 requant of DeepSeek-V4-Flash-0731: better KLD than UD-IQ3_S, 1.4x decode on a CPU-spill rig",
+    "Deepseek v4 flash 0731",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "V4 flash vs V4 Flash (0731). Guys, new DeepSeek V4 Flash(0731) is now free on InferX",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "DeepSeek-V4-Flash-Q4KExperts-F16HC-F16Compressor-F16Indexer-Q8Attn-Q8Shared-Q8Out-chat-v2-imatrix-0731.gguf",
+    "DSV4 Flash 正式版，Reddit 社区炸了",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）"
+  ],
+  "comments": [
+    {
+      "id": "308583248897",
+      "t": 0,
+      "content": "回复 @冰镐战神托洛茨基 :pro正式版不会有多模态，灰测时就没有"
+    },
+    {
+      "id": "311638383456",
+      "t": 1,
+      "content": "回复 @空想森林_ : 一下午用了多少钱？"
+    },
+    {
+      "id": "6a6c5161000000002300c439",
+      "t": 2,
+      "content": "大胆点，opus5"
+    },
+    {
+      "id": "311773844368",
+      "t": 3,
+      "content": "回复 @Hangnum :但是订阅只有 200k 上下文其实很多工作都不合适"
+    },
+    {
+      "id": "311901833408",
+      "t": 0,
+      "content": "回复 @芥末红茶 :你随便玩几下那几毛几分钱也能玩啊，和干活能一样吗？正常看着它干活就是能用5～10块啊"
+    },
+    {
+      "id": "311747790480",
+      "t": 4,
+      "content": "玩酒馆的话不碰mvu变量和数据库填表命中率会高很多的"
+    },
+    {
+      "id": "7668927415489479482",
+      "t": 5,
+      "content": "我从年初就开始用了，一来你说的几块的号早没了或者现在都是日抛，二来 plus 的 5 小时额度现在非常少，根本经不起用"
+    },
+    {
+      "id": "7668916538426802971",
+      "t": 6,
+      "content": "能生图啦？[宕机]"
+    },
+    {
+      "id": "7669040660540949300",
+      "t": 5,
+      "content": "你梁哥不就是没有利空制造利空吗，专门等GLM涨价就做空人家"
+    },
+    {
+      "id": "6a6e178e0000000029019c77",
+      "t": 7,
+      "content": "deepseek接reasonix比接claude code好吗？"
+    },
+    {
+      "id": "311901613552",
+      "t": 8,
+      "content": "回复 @maxshun :那现在有什么可以推荐的吗？"
+    },
+    {
+      "id": "7668895362896544554",
+      "t": 5,
+      "content": "v4哪有极高，只有max"
+    },
+    {
+      "id": "p12we30",
+      "t": 9,
+      "content": "That is an impressive jump for local inference. The important comparison is not just benchmark intelligence, but how much memory, power, cooling, and setup time are required to make that capability usable outside a datacenter. https://cosmos47.com/post/what-open-weight-ai-changes"
+    },
+    {
+      "id": "6a6e0d4c0000000029019aa5",
+      "t": 10,
+      "content": "[棒R]用 openclaw 干活吗"
+    },
+    {
+      "id": "308440616113",
+      "t": 11,
+      "content": "回复 @啊啊啊春秋 :后端 GPT 不把其它模型按在地上锤？护栏代码堆起来，可靠性拉满了🤪"
+    },
+    {
+      "id": "311741008432",
+      "t": 12,
+      "content": "DeepSpec的模型都是纯文本的，所以我感觉做前端类的、视觉类的任务本身就会偏弱一点。"
+    },
+    {
+      "id": "7668664685495173934",
+      "t": 13,
+      "content": "codex我试了，打一步走一步，不积极，但结果很准"
+    },
+    {
+      "id": "6a6c6c6e000000000403a66e",
+      "t": 2,
+      "content": "按照那天流传出来的交流内容，v3就不依赖英伟达的生态啦，只是国内的算力产能不够。"
+    },
+    {
+      "id": "311895112208",
+      "t": 14,
+      "content": "回复 @回调无神盾神 :还是那句话，这么外接的意义你能解释吗？我现在GPT的接的v4flash，视觉理解用的qwen。我当然清楚这条视觉能力嫁接的路径。\n但是你的这段话没法解释：为什么梁文峰要“免费”在“网页端”提供“效果很差”且“不能联网的”新模型。"
+    },
+    {
+      "id": "311692209040",
+      "t": 1,
+      "content": "等几天第三方部署吧，一下子人太多了"
+    },
+    {
+      "id": "2083091020208558508",
+      "t": 15,
+      "content": "@deepseek_ai OpenAI reduced pricing by 80% today.😂"
+    },
+    {
+      "id": "6a6eb2ea000000002b0261a7",
+      "t": 16,
+      "content": "能到10万，更大的没测"
+    },
+    {
+      "id": "308612493649",
+      "t": 8,
+      "content": "回复 @happybreeze :codex有没有专门适配ds，不算什么专武"
+    },
+    {
+      "id": "7668935327017403179",
+      "t": 5,
+      "content": "哈哈哈戳中缓存了，这个cs是我生成过的，居然基本上一样"
+    },
+    {
+      "id": "311916778608",
+      "t": 8,
+      "content": "其实go也不贵，flash基本蹬不完\n\n✨ Session reset! Starting fresh.\n\n◆ Model: `deepseek-v4-flash`\n◆ Provider: opencode-go\n◆ Context: 1.0M tokens (detected)\n✦ Tip: SSRF protection blocks private networks, loopback, link-local, and cloud metadata addresses."
+    },
+    {
+      "id": "p189grv",
+      "t": 17,
+      "content": "Have not seen any speedup on 9070XT+128GB RAM, but this one seems to retain much more world knowledge than UD-IQ3\\_S, thank you! Looking forward for your other models."
+    },
+    {
+      "id": "6a6e9ab50000000015014e88",
+      "t": 18,
+      "content": "没视觉agent能力都做不好，简单的loop plan模式都有残疾，咋写代码？"
+    },
+    {
+      "id": "7668842815938495289",
+      "t": 19,
+      "content": "mac studio可以部署吗"
+    },
+    {
+      "id": "p0znzi0",
+      "t": 20,
+      "content": "What’s your data retention policy ? Trying it now."
+    },
+    {
+      "id": "311683831712",
+      "t": 1,
+      "content": "你知道的，我曾经和deepseek解决过很多问题。我跟梁圣很早就认识了，这家伙强的不可思议！我相信我们可以产生很好的化学反应，经过一个日夜的思考，我决定把我的需求搬到deepseek。我已经迫不及待的要穿上蓝色大肥鱼的cos服了。至于qwen、glm、kimi, 我只能祝他们好运🤴"
+    },
+    {
+      "id": "7668983023118844682",
+      "t": 5,
+      "content": "我接了软件的api，是不是直接切换成flash就行了？之前一直都用的pro，也没啥后缀，preview啥的没有，也没写正式版，还是说要生成个新的key?"
+    },
+    {
+      "id": "308433439793",
+      "t": 21,
+      "content": "deepseek支持responses API，接入codex太好用了，token成本非常低。关键是速度很快，这一个月中转站经常执行到一半报满capacity，导致模型失忆被迫降智，速度也很慢，一些繁重任务使用deepseek v4 flash也是非常够用了"
+    },
+    {
+      "id": "308407853281",
+      "t": 22,
+      "content": "wait是DeepSeek特色，Pro不也这样吗"
+    },
+    {
+      "id": "311738546880",
+      "t": 4,
+      "content": "傻包时间不多咯，哭也算时间[滑稽]"
+    },
+    {
+      "id": "311841463616",
+      "t": 23,
+      "content": "[doge_金箍]北美豆包你当闹着玩呐"
+    },
+    {
+      "id": "p14onp5",
+      "t": 24,
+      "content": "alright, I grabbed my popcorn. I'm waiting for unsloth to show their new \"study\" that their quants \"beat\" everybody else's."
+    },
+    {
+      "id": "6a6ec45a0000000009014320",
+      "t": 25,
+      "content": "gpt好用的，对话框thinking非常值，高难度的东西deepseek flash还是不够看"
+    },
+    {
+      "id": "308348855601",
+      "t": 1,
+      "content": "v我50000"
+    },
+    {
+      "id": "308498106673",
+      "t": 26,
+      "content": "回复 @66677293738 : xd，有没有一种可能，这个楚钦也是他小号，是一唱一和的一环"
+    },
+    {
+      "id": "7668696794386678577",
+      "t": 6,
+      "content": "快删了吧，我都替你尴尬"
+    }
+  ]
+}

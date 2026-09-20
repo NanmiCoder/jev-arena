@@ -1,0 +1,241 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "DeepSeek V4 Flash 0731 out now!",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "[中配]DeepSeek V4 Flash 太惊人了——迄今为止最好的小模型！ - Bijan Bowen",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "被接入Codex的DeepSeek V4 Flash正式版惊到了！",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "I don't think Anthropic and OpenAI will survive",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "白嫖 DeepSeek V4 Flash 0731 新模型 接入Claude Code",
+    "DS4 flash 0731 - Acquarium Panel Failure - Q3_K_XL Unsloth",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 0731 is now on OpenCode",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "Newly released Deepseek V4 Flash Official scores close to Claude Opus 4.8.  Price: 0.18$ / 1mil OUTPUT tokens",
+    "卧槽，DSv4-flash初步AA跑分50-51",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "deepseek v4 flash 成功逆向 expedia",
+    "DeepSeek V4 Flash 正式版为我生成的体积云",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "Has anyone actually used DeepSeek V4 Flash 0731 to solve complex, real-world problems in medium to large production codebases? I’m looking for honest feedback, not hype or toy-project benchmarks",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "正式版DeepSeek V4 Flash 进步巨大！干翻上代大哥",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek-V4-Flash-0731 unsloth gguf on A100"
+  ],
+  "comments": [
+    {
+      "id": "311899145296",
+      "t": 0,
+      "content": "回复 @eastlifefengqh : 不用。你接入Deepseek之后，直接在Codex里和他说“把input_modalities: 【&#34;text&#34;】改成&#34;input_modalities&#34;: 【&#34;text&#34;, &#34;image&#34;】”，然后它自己做完之后，你重启一下就好了。"
+    },
+    {
+      "id": "308443070945",
+      "t": 1,
+      "content": "腾讯的agent就是半成品 用啥模型都降智，wb+ds解决不了的问题，问ds再反哺workbuddy就解决了[笑哭]"
+    },
+    {
+      "id": "311741509024",
+      "t": 2,
+      "content": "回复 @熊孩子7号 : 你如果之前api已经设置好了，这次正式版上线你不用做任何修改，它是服务器端的更新。可能如果用codex适配什么response要做些设置补充，但我是codebuddy所以啥都不用动。"
+    },
+    {
+      "id": "308459288529",
+      "t": 3,
+      "content": "回复 @空岛彼方 :但是一开始很少出现编号思维链，几乎是只有提到 svg 的时候有，后来某一天概率增加了，，与此同时 6 月中的时候专家模式大概也有细微变化"
+    },
+    {
+      "id": "p0ys6vk",
+      "t": 4,
+      "content": "Maybe I can run that by using Colibri"
+    },
+    {
+      "id": "311861370672",
+      "t": 5,
+      "content": "回复 @AVA三十二 :codex coding plan 都是 200 只有 API 付费的才是全血"
+    },
+    {
+      "id": "311827447344",
+      "t": 6,
+      "content": "插两张rtx pro 6000就有了[doge_金箍]"
+    },
+    {
+      "id": "311662682304",
+      "t": 2,
+      "content": "期待deepseek的多模态模型"
+    },
+    {
+      "id": "6a6e18f3000000000b03a40b",
+      "t": 7,
+      "content": "有必要吗？？？"
+    },
+    {
+      "id": "311877669632",
+      "t": 8,
+      "content": "回复 @AI袋鼠帝 :便宜在哪里？缓存太低了[笑哭]我自己看了一下，只有50%的缓存命中"
+    },
+    {
+      "id": "311805476912",
+      "t": 9,
+      "content": "回复 @夜之叶归一 :ds是瞎子，没办法，很多时候它的问题就是看不到画面，不知道怎么改，看它思维链看力竭了"
+    },
+    {
+      "id": "p13d1g9",
+      "t": 10,
+      "content": "Lots of people have been sounding the alarm. You are not alone"
+    },
+    {
+      "id": "311720865232",
+      "t": 2,
+      "content": "我也mark一下"
+    },
+    {
+      "id": "308457988497",
+      "t": 11,
+      "content": "回复 @三更欲曙天 :乐，你说不强就不强？我昨天一晚上就烧了2亿词元，很多问题都跟GLM5.2不分上下"
+    },
+    {
+      "id": "7669386399205311242",
+      "t": 12,
+      "content": "用了一天，在项目中用它替代了 glm5.2 ，太强了"
+    },
+    {
+      "id": "308628761841",
+      "t": 13,
+      "content": "回复 @一万AI分享 :opencode在第一天第一个小时就是0731了[doge]群里直接说连的官方"
+    },
+    {
+      "id": "p11xacc",
+      "t": 14,
+      "content": "The underwater duck is funny but good result"
+    },
+    {
+      "id": "7669008709087707953",
+      "t": 15,
+      "content": "今天刚好用了小米mimo1.6亿，30块钱"
+    },
+    {
+      "id": "p105e2k",
+      "t": 16,
+      "content": "Wait ? Free? What is the catch? Is this same quality as the api? Same context?"
+    },
+    {
+      "id": "7668920408268407567",
+      "t": 17,
+      "content": "桌面版[懵]"
+    },
+    {
+      "id": "6a6d9f8000000000150069bc",
+      "t": 18,
+      "content": "此时glm的视角："
+    },
+    {
+      "id": "311770568768",
+      "t": 19,
+      "content": "我的还在下载，你都部署好了"
+    },
+    {
+      "id": "p13fje9",
+      "t": 20,
+      "content": "Genuine doubt but did they stop using SWE Bench pro as benchmarking? I thought thats the actual real world github issues problem solving."
+    },
+    {
+      "id": "6a6cc7080000000029024702",
+      "t": 21,
+      "content": "这上面gpt跑分是刚上市满血，实际降智成狗，不能直接比"
+    },
+    {
+      "id": "311863887584",
+      "t": 5,
+      "content": "比较好奇，AI是否会判断，新建一个项目完全替代掉，比修bug更简单这种事呢？"
+    },
+    {
+      "id": "308521680593",
+      "t": 22,
+      "content": "API登录可以跳过账号登录"
+    },
+    {
+      "id": "6a6f1f85000000002a02f2e5",
+      "t": 23,
+      "content": "为什么现在都不用龙虾了 openclaw"
+    },
+    {
+      "id": "308405140689",
+      "t": 2,
+      "content": "本来一直犹豫要不要上k3 的699档位，这下好了完全用不着[乐府表情包_大手]"
+    },
+    {
+      "id": "311829568000",
+      "t": 24,
+      "content": "网易的光影吗？"
+    },
+    {
+      "id": "311625071040",
+      "t": 25,
+      "content": "看跑分是5.6 Luna级别，比sol还差些。"
+    },
+    {
+      "id": "7668715817073001258",
+      "t": 17,
+      "content": "你是真不关心啊，真怀疑你是不是真用过。"
+    },
+    {
+      "id": "311686836304",
+      "t": 26,
+      "content": "蹲[doge_金箍]"
+    },
+    {
+      "id": "p11z9ru",
+      "t": 27,
+      "content": "Using it on a multi project repo that contains C# and nextjs projects. Used it to audit a block of work completed by GPT 5.6 Terra, discovered quite a few issues. Very impressed so far."
+    },
+    {
+      "id": "311817193584",
+      "t": 28,
+      "content": "回复 @lrk520 :不写代码charry studio可以，这个适合玩酒馆"
+    },
+    {
+      "id": "7669003338449830693",
+      "t": 29,
+      "content": "老黄看了都摇头。"
+    },
+    {
+      "id": "311676416064",
+      "t": 30,
+      "content": "回复 @八小时不摸鱼的大冤种 :话不能说一半，是一定程度上接近 opus 4.8，但是 Opus 5 可不是一般的强[doge]"
+    },
+    {
+      "id": "308381484497",
+      "t": 31,
+      "content": "我感觉比之前的PRO好用"
+    },
+    {
+      "id": "311905346112",
+      "t": 32,
+      "content": "pro现在还是旧模型，用flash啊"
+    },
+    {
+      "id": "308426463249",
+      "t": 33,
+      "content": "回复 @西瓜哈士奇123 :买了个板子只有PDF版的原理图[笑哭]"
+    },
+    {
+      "id": "p0x2vwj",
+      "t": 34,
+      "content": "How are you running this with only 40GB VRAM?"
+    }
+  ]
+}

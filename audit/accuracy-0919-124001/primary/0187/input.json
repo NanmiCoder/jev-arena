@@ -1,0 +1,239 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "要被外网的一些评论笑死了😂😂😂",
+    "DeepSeek-V4-Flash-0731-UD-Q3_K_XL 3x3090 test results",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek-V4-Flash-0731 now far surpassing the DeepSeek-V4-Pro-Preview in benchmarks",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "DeepSeek V4 Flash makes agent workflows look much more realistic",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "There's a new Deepseek v4 flash in town!",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek V4 Flash 发布，能力逼近GPT5.6",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "Deepseek V4 Flash最新测评！Claude Code版！",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Is deepseek-v4-flash-0731 already included on opencode go subscription?",
+    "deepseek v4flash正式版在手机上本地运行",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "【中文字幕】科技博主八题实测：DeepSeek Flash 0731在推理和长链路任务上追平顶级闭源模型",
+    "DeepSeek v4 Flash for DS4 (DwarfStar) GGUF w/ DSpark MTP Head",
+    "突发！DeepSeek V4 Flash正式版API上线公测"
+  ],
+  "comments": [
+    {
+      "id": "311892861872",
+      "t": 0,
+      "content": "因为要识图，ds 官方还不支持，你也可以不用"
+    },
+    {
+      "id": "6a6d878a0000000015014f35",
+      "t": 1,
+      "content": "新flash远强于pro preview"
+    },
+    {
+      "id": "p14k4zo",
+      "t": 2,
+      "content": "I’m getting 31 tok/s TG and \\~200 tok/s PP (without speculative decoding) on an M4 Max MacBook using Antirez DS4. That’s running a 2-4bit imatrix mixed precision version. I recommend giving it a shot over llama.cpp, which still isn’t properly optimized for the deepseek architecture."
+    },
+    {
+      "id": "7668901599837881142",
+      "t": 3,
+      "content": "按什么插件啊"
+    },
+    {
+      "id": "311751124448",
+      "t": 4,
+      "content": "回复 @瑟瑟发抖嘤嘤嘤 :请问之前预览版的时候已经接入ds flash了，现在正式版发布了需要重新配置一下吗？我的也是rikkahub"
+    },
+    {
+      "id": "p0uvrxe",
+      "t": 5,
+      "content": "The proximity and timing of this relative to Laguna stabilizing poolside S and inkling-small coming out doesn't seem like a coincidence. Guess we have an east v. west open-weights arms race on our hands too?"
+    },
+    {
+      "id": "308396766785",
+      "t": 6,
+      "content": "回复 @这个刀子真甜 :合着这妈是从这儿来的是吧？众所周知如果小龙龙是妈的话，那么小梁子就是爹。那么小龙龙就是小梁子的。[doge]"
+    },
+    {
+      "id": "p15sk6n",
+      "t": 7,
+      "content": "Isn’t deepseek one of the most prone to hallucinations still though? It achieves so much by just going full speed at everything without the very expensive thinking and double checking other models do."
+    },
+    {
+      "id": "308585850497",
+      "t": 8,
+      "content": "GPT刚出来那会那个水平都惊为天人，现在都这么强反而看不上[笑哭]"
+    },
+    {
+      "id": "308401835985",
+      "t": 9,
+      "content": "回复 @涅槃何道 : agent能救降智"
+    },
+    {
+      "id": "7668868168295662336",
+      "t": 3,
+      "content": "seepseek什么时候能做图片了？@豆包"
+    },
+    {
+      "id": "311910801984",
+      "t": 10,
+      "content": "回复 @一分钟不止六十秒 :我抄評論區的[蔚蓝档案静态_比心]"
+    },
+    {
+      "id": "p0ugcqd",
+      "t": 11,
+      "content": "US open-weight ban incoming."
+    },
+    {
+      "id": "311836803232",
+      "t": 12,
+      "content": "回复 @montella11 :人脑的确牛，但人懒，发明ai放弃思考"
+    },
+    {
+      "id": "7669039877686428453",
+      "t": 13,
+      "content": "dp这招就是和学的，耗死苏联那套玩法。[微笑]我不挣第一，我拿性价比打你，我不争第一，但是我一直在你身后，告诉你我要超过你了[微笑]，而且我是开源的"
+    },
+    {
+      "id": "p13u02c",
+      "t": 14,
+      "content": "ITT: people discover how businesses work and what PR is. THe fact that you think you need to write an entire essay for this betrays your own lack of understanding on it. It's really not essay-worthy, it's the norm, been the norm since always.  Companies do PR and sell at competition price, not lower. No shit.\n\nDoesn't mean they still can't be shittier or better - OpenAI has been much more customer friendly than Anthropic, and idgaf about the reasons and aspirations behind that - i care about the end result of what I'm getting as a customer. I don't expect them to do charity either."
+    },
+    {
+      "id": "311742899632",
+      "t": 15,
+      "content": "回复 @言久吉 :昨天下午服务出现问题，有些用户收到了很多邮件通知，后面修复了"
+    },
+    {
+      "id": "308368033633",
+      "t": 16,
+      "content": "回复 @圆寸大魔王 :你是一名资深Three.js/WebGL/GLSL图形工程师，请从零制作全屏交互网站【GARGANTUA-Schwarzschild Black Hole Raytracer】。使用原生HTML/CSS/JavaScript、ES Modules与本地Three.js,实现无需构建、可由静态服务器运行的完整项目。主体必须由全屏Fragment Shader实时积分Schwarzschild零测地线，禁止用黑球、平面圆环、贴图、视频或截图伪造。实现事件视界、光子环、多次吸积盘穿越、程序化星空与银河、引力透镜、Doppler增亮、引力红移和动态盘面湍流。 加入HDR Bloom、ACES、暗角、胶片颗粒和轻微色散，确保黑洞深黑、吸积盘高温明亮且临界结构清晰。提供电影镜头循环、OrbitControls、四个视角预设、HUD、21项参数、0-9调试视图、快捷键和可选氛围音乐。支持Standard/High/Cinematic质量档、移动端、Retina、状态持久化、WebGL错误恢复及URL截图自动化接口。直接交付全部源码、vendor与音频资源、启动命令及测试结果，保证无控制台错误、无黑屏并通过视觉与交互验收。"
+    },
+    {
+      "id": "308342836753",
+      "t": 17,
+      "content": "codewhale"
+    },
+    {
+      "id": "6a6f116f000000000500833a",
+      "t": 18,
+      "content": "他不割也有别人来割[doge]"
+    },
+    {
+      "id": "6a6cc4d3000000000500abac",
+      "t": 19,
+      "content": "V4 flash不是早就发布了吗"
+    },
+    {
+      "id": "311862170032",
+      "t": 20,
+      "content": "🌿，我跟你，我赌两个硬币[doge_金箍]"
+    },
+    {
+      "id": "308503028481",
+      "t": 21,
+      "content": "自己本地部署[doge]"
+    },
+    {
+      "id": "308619506369",
+      "t": 22,
+      "content": "太塔玛难绷了\nz÷哪来的脸的\n一边是k3一边是gpt5.6\n反手来个coding plan大幅涨价\n结果v4f0731发布\n梁圣来了全杀了\n看来智谱的信息渠道不如oai灵通啊🤣🤣🤣"
+    },
+    {
+      "id": "6a6d81f80000000009015401",
+      "t": 1,
+      "content": "钱不缺，卡真的缺，因为用的昇腾卡"
+    },
+    {
+      "id": "7668706084442407729",
+      "t": 3,
+      "content": "还没正式实施，大概是Pro上了再涨"
+    },
+    {
+      "id": "7668702710355985194",
+      "t": 3,
+      "content": "智能体用制图工具做的，类似image gen这种。"
+    },
+    {
+      "id": "311931556544",
+      "t": 23,
+      "content": "回复 @徐凤年16 :codex，花了几分钟，Python，带图形交互"
+    },
+    {
+      "id": "308481362513",
+      "t": 24,
+      "content": "需要prompt约束，一句话直出肯定不行"
+    },
+    {
+      "id": "311700025520",
+      "t": 25,
+      "content": "注意使用的时候必须要开Max档啊，不仅是DS，Luna也好Sol也好，长任务编码都开着，不然你会发现Max和非Max是两种东西[Cat2_Boom!]"
+    },
+    {
+      "id": "311827609216",
+      "t": 4,
+      "content": "回复 @红发豆子 :哦豁，我鼓励人家好好学的时候，你说未来用不着那么多人，问我只要1个的时候剩下9个干啥去，我说转行吧你又说我否定别人努力，你搁这左右脑互搏还是反驳型人格？我一直表达的想法就是要在发展的现状里保持学习尽力而为，先不要考虑过于长远的，利用好当下，你在这左一榔头右一棒子的想表达啥呢？"
+    },
+    {
+      "id": "311893348816",
+      "t": 10,
+      "content": "结论\nQ3精度的话128GB内存下能稳定跑128K上下文 极限160K左右\nQ2精度的话128GB内存下能稳定跑256K上下文\n体感速度不慢 可以用"
+    },
+    {
+      "id": "308329666785",
+      "t": 26,
+      "content": "这个编号不太合适啊"
+    },
+    {
+      "id": "p11glw7",
+      "t": 27,
+      "content": "Do I need this optin even if I already have the old dsv4-flash/pro? because they are already Chinese"
+    },
+    {
+      "id": "308533642753",
+      "t": 28,
+      "content": "不错呦，还开了dspark加速，做到 5-6秒 出1个token"
+    },
+    {
+      "id": "7668732878633583414",
+      "t": 29,
+      "content": "为什么我接入codex模型回答速度非常非常慢"
+    },
+    {
+      "id": "308547223121",
+      "t": 30,
+      "content": "你的这个测试意义在哪里？"
+    },
+    {
+      "id": "p0zswca",
+      "t": 31,
+      "content": "I downloaded the Q2-Q4 checkpoint with the DSpark head onto my single DGX Spark, and it seems to OOM (i lose ssh connection to my machine when starting up the cli). Should I wait to run the Flat Q2 version?"
+    },
+    {
+      "id": "6a6c4bad0000000015007fd5",
+      "t": 32,
+      "content": "glm说话来，喜欢涨价？"
+    },
+    {
+      "id": "311756337952",
+      "t": 25,
+      "content": "这家伙测luna都用high[笑哭]"
+    }
+  ]
+}

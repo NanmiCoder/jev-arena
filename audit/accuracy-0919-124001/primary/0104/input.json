@@ -1,0 +1,232 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "deepseek v4 flash 配上 opencode 送的太多了，非常好用，真爽。",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "要被外网的一些评论笑死了😂😂😂",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash GA ranks the same as Sonnet 5 and Grok 4.5 on DeepSWE",
+    "DeepSeek-V4-Flash-0731实力强悍！",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "深聊DS新版V4 Flash:现在的后训练太权威了",
+    "DeepSeek-V4-Flash-0731 UD-Q8_K_XL 17.20~ t/s on A6000 + 256GB DDR4",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "感觉Deepseek v4 Flash有点弱？试试这个视频 我发现很多人用Deepseek v4 Flash时觉得它不够强，其实可以试试这个视频里的操作！跟着步骤走一遍，体验会好很多～#deepseekv4flash #deepseek正式版 #deepseek #agent",
+    "这条视频里的人是我，但我根本没拍，也没剪。 DeepseekV4Flash正式版自主做视频能力实测。我只输入了一段提示词，DeepSeek V4 Flash 就自己找案例、写内容，再用 AI 数字人做完了整条视频。现在的 AI 做视频，这已经是基础操作了。#AI新星计划  #AI做视频 #DeepSeekV4 #AI数字人",
+    "DeepSeek-V4-Flash-0731正式上线\n\nTerminal-Bench：61.8 → 82.7\n\n DeepSWE：7.3 → 54.4（+645%）\n\n 打赢自家Pro（82.7 vs 72.1）\n\n只比Opus-4.8低2.3分 https://t.co/WnXTluPRuy",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek V4 Flash 正式版深度实测"
+  ],
+  "comments": [
+    {
+      "id": "7668704874889102120",
+      "t": 0,
+      "content": "你试试就知道了！虽然也能用，但是只能将就着用，一点都不好我现在订阅的有5个"
+    },
+    {
+      "id": "308429529761",
+      "t": 1,
+      "content": "回复 @歪瑞劳格 :优势就是好写，超强的参数化能力和电路描述能力，代码信息密度高，抽象程度高，少做脏活，出来的设计质量就高，说白了一个人顶三四个写.v的人。除此之外在ic flow上，你敢信在同一个语言里把lint，cdc，rdc的活全部做完是什么体验吗，自己再写个几十行的scala小插件顺便把sdc，upf这些乱七八糟的东西也全部输出了，除了功能需要正常做验证之外，一切都是可直接交给中后端的质量水平"
+    },
+    {
+      "id": "6a6c5b4f0000000015009bd0",
+      "t": 2,
+      "content": "话术版本又更新啦[笑哭R]"
+    },
+    {
+      "id": "7669112951890658090",
+      "t": 3,
+      "content": "K3和它不是一个等级的，K3仅次于fable5和5.6Sol"
+    },
+    {
+      "id": "7668708593340629818",
+      "t": 4,
+      "content": "好吧那连codex还是不好用"
+    },
+    {
+      "id": "308510864721",
+      "t": 5,
+      "content": "回复 @青霉菌不想咕 : 是要有自己的agent了"
+    },
+    {
+      "id": "308606293633",
+      "t": 6,
+      "content": "回复 @Kuuhgv :那个需要路由，我刚接copilot了"
+    },
+    {
+      "id": "308337231553",
+      "t": 7,
+      "content": "回复 @棍之勇者复仇路 :0731也是flash。而且直接问是没用的。"
+    },
+    {
+      "id": "7669378251693294336",
+      "t": 8,
+      "content": "我这接了，想测试一下token使用情况，我让他生成啊一个很多知识量的手册，还让他处理了一个有五千多条数据的Excel表格，思考的非常慢，后台挂了两个小时也没思考出来，然后还用了二百二万token花了0.65，有点不太正常啊，有大佬能解释一下吗[泣不成声]"
+    },
+    {
+      "id": "7668969299936363298",
+      "t": 9,
+      "content": "之前用v4Pro写个小程序拉完了。每次都不好使自己检查还是不好使 各种bug跑不通。"
+    },
+    {
+      "id": "6a6d804e000000002a026f27",
+      "t": 10,
+      "content": "其实都是散户的贡献"
+    },
+    {
+      "id": "311755549072",
+      "t": 11,
+      "content": "回复 @太阳神Z7 :公益站anyrouter，目前这个站对注册加了些限制用来防止那些中转站批量注册"
+    },
+    {
+      "id": "7668991950843183881",
+      "t": 3,
+      "content": "可以大幅降低的，现在所有模型都存在幻觉问题。\n扩展一点说，人也会出现类似幻觉的错误，绝对正确目前来说是不存在的。\n你自己试试就知道了"
+    },
+    {
+      "id": "p0x54c8",
+      "t": 12,
+      "content": "same as sonnet? I don't need more than that."
+    },
+    {
+      "id": "308372868833",
+      "t": 7,
+      "content": "不能，ds并不是视频生成大模型，视频生成请出门左转seedance"
+    },
+    {
+      "id": "6a6c5a950000000015007b76",
+      "t": 13,
+      "content": "konata你对着deepseek在干嘛！？"
+    },
+    {
+      "id": "2083247885429399892",
+      "t": 14,
+      "content": "@deepseek_ai Is the agent benchmark gain over V4-Pro-Preview measured with the same tool-call budget and scaffold?"
+    },
+    {
+      "id": "311632085776",
+      "t": 7,
+      "content": "APP啥时候更新？"
+    },
+    {
+      "id": "311668594464",
+      "t": 15,
+      "content": "回复 @kate人不错 :对，我自从买了包月像打开新世界大门，游戏也不玩了天天自己搓软件[滑稽]"
+    },
+    {
+      "id": "308506653569",
+      "t": 16,
+      "content": "因为 up 主把 3:43 放在了 3:43，几轮我不知道"
+    },
+    {
+      "id": "7669160340684587795",
+      "t": 3,
+      "content": "未来是多久？"
+    },
+    {
+      "id": "7668900389370839823",
+      "t": 9,
+      "content": "那个中转站 给我推一下[黑脸]"
+    },
+    {
+      "id": "311731193792",
+      "t": 15,
+      "content": "喜欢听UP主的 deepseek 的 p 的发音"
+    },
+    {
+      "id": "6a6cb8f300000000150045cf",
+      "t": 2,
+      "content": "智谱最降智的一天[偷笑R]"
+    },
+    {
+      "id": "6a6cd407000000001403ad90",
+      "t": 17,
+      "content": "诀窍是指后训练时候要用类似agent的数据吗[doge]"
+    },
+    {
+      "id": "p186kr4",
+      "t": 18,
+      "content": "wow, that prompt processing speed makes me want to cry"
+    },
+    {
+      "id": "p11to6r",
+      "t": 19,
+      "content": "It's a really cheap investment to run this locally compared to any other model of its class. You can run it Q3_S with 1m context on a ryzen ai max 395 with decent TPS because of the kv compression. The Q2 is also very decent and gives more room for draft models and MTP."
+    },
+    {
+      "id": "311732803168",
+      "t": 11,
+      "content": "梁子我不欠你的，你的token我在大A都还完了[热]。如果不是量化我高低喊你一声梁圣。"
+    },
+    {
+      "id": "7669035194234700596",
+      "t": 9,
+      "content": "嗯嗯，主要是我需求比较简单，没有大型项目和编程的需求，就日常办公"
+    },
+    {
+      "id": "311725051184",
+      "t": 11,
+      "content": "回复 @懒得想名字了诶 :刚出主要是看跑分吧？而且他们自己说的是在官方Harness里面测的。"
+    },
+    {
+      "id": "7669140535059858191",
+      "t": 20,
+      "content": "逆向了一下本地游戏，爽吃"
+    },
+    {
+      "id": "7669359926326772526",
+      "t": 21,
+      "content": "哥，可以教我吗"
+    },
+    {
+      "id": "7669024560452272896",
+      "t": 3,
+      "content": "讲得不错，目前国内后训练提升巨大得益于架构设计，kimi 和 DS 都是佼佼者"
+    },
+    {
+      "id": "2083884781557928316",
+      "t": 22,
+      "content": "@kuk47377341 这涨势太猛了，必须冲一波"
+    },
+    {
+      "id": "7669300892790014769",
+      "t": 23,
+      "content": "大概就是明天，因为之前看到有说在硅基流动的官网那个定价上面v4pro的命中缓存的价格翻了十倍，于8月3号生效"
+    },
+    {
+      "id": "308419619761",
+      "t": 24,
+      "content": "回复 @唯一的233 :这相当于是自己接入API，不需要账号登录了，所以也就没有手机号一说，直接就可以用了"
+    },
+    {
+      "id": "308344275937",
+      "t": 15,
+      "content": "回复 @魔魔丶 :你确定？[doge]"
+    },
+    {
+      "id": "308501297073",
+      "t": 11,
+      "content": "扯淡，今天用正式版，确实比之前提升了很多，对代码的理解很给力了，这么便宜，又不会封号，不知道你在矫情什么"
+    },
+    {
+      "id": "311917841488",
+      "t": 1,
+      "content": "回复 @pyo小子 :也够[给心心]"
+    },
+    {
+      "id": "308400240865",
+      "t": 25,
+      "content": "回复 @月光盆栽 :我服了我自己了，是在未注册账户的情况下[笑哭][笑哭]"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Deepseek v4 flash 0731",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+    "Deepseek v4 flash 0731 still not holding up.",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "深聊DS新版V4 Flash:现在的后训练太权威了",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "DeepSeek V4 Flash接入Codex教程（可识图）",
+    "⚠️ Note\n\n🔷 DeepSeek-V4-Flash-0731 keeps the exact same model architecture and size as the preview version.\n🔷 Today's upgrade applies ONLY to the DeepSeek-V4-Flash API. The DeepSeek-V4-Pro API and Ap",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Thoughts on Deepseek v4 Flash 0731?",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技"
+  ],
+  "comments": [
+    {
+      "id": "311804817280",
+      "t": 0,
+      "content": "跟计算机没关系，看数学能力"
+    },
+    {
+      "id": "6a6ec86e000000002b025d63",
+      "t": 1,
+      "content": "太贵了没必要"
+    },
+    {
+      "id": "308419663601",
+      "t": 2,
+      "content": "opencode 吧，我开了个 go 使劲登"
+    },
+    {
+      "id": "6a6dfc4b000000002a007655",
+      "t": 3,
+      "content": "拿deepseek做前端就别指望了，人家没多模态，出问题都看不到图"
+    },
+    {
+      "id": "308413296289",
+      "t": 4,
+      "content": "这个up开口的口音就肯定不是ai配音"
+    },
+    {
+      "id": "p0ttphc",
+      "t": 5,
+      "content": "No and nope,"
+    },
+    {
+      "id": "311798723232",
+      "t": 0,
+      "content": "怎么不行了，虽然我从初中开始就有接触电脑，但是完全是打游戏，打字也是一指禅，基本和电脑知识没关系\n能不能学明白就看你认不认真了"
+    },
+    {
+      "id": "p15ap6q",
+      "t": 6,
+      "content": "Need more details to help you, but not having that issue in vllm."
+    },
+    {
+      "id": "6a6de28300000000150143ae",
+      "t": 3,
+      "content": "用的官方的吗，第三方的flash还是旧的。我用0731版本的没啥问题，是比原来pro强"
+    },
+    {
+      "id": "311726998656",
+      "t": 2,
+      "content": "下周就有官方的了，别折腾了"
+    },
+    {
+      "id": "7669012395717804815",
+      "t": 7,
+      "content": "老弟 说话就招笑"
+    },
+    {
+      "id": "311786351104",
+      "t": 1,
+      "content": "回复 @伍梓凌 :很慢，之前尝试过别人的提示词大也就是 5070 显卡的水平。"
+    },
+    {
+      "id": "311888540752",
+      "t": 8,
+      "content": "b站有其他老哥测过，DeepSeekv4flash的prefill大概1200t。[吃瓜]"
+    },
+    {
+      "id": "7668962694384354097",
+      "t": 9,
+      "content": "请问一下，我之前在Claudecode里接入了deepseekv4，然后一直用的是v4pro1m，那想用0731的flash需要怎么操作吗，直接在Claudecode里切成flash就行吗？我看model切换里没有标注0731[九转大肠]"
+    },
+    {
+      "id": "6a6d26220000000015013aab",
+      "t": 10,
+      "content": "图上显示flash已经超过Pro了，这可能吗？"
+    },
+    {
+      "id": "7669019089436787483",
+      "t": 7,
+      "content": "为什么这么说"
+    },
+    {
+      "id": "308342176769",
+      "t": 11,
+      "content": "之前已经跟着up的视频设置过了，那个时候弄的DeepSeekv4flash，现在直接用可以吗"
+    },
+    {
+      "id": "6a6d527b000000000500bf11",
+      "t": 10,
+      "content": "昨晚试了一下，还是一堆let me，怎么判断是不是最新版呢[笑哭R]"
+    },
+    {
+      "id": "6a6ca52d0000000015014dc0",
+      "t": 12,
+      "content": "字节也是吧。"
+    },
+    {
+      "id": "311768502736",
+      "t": 13,
+      "content": "回复 @冬眠の松鼠_ :大部分agent任务不是很复杂，用flash就行了，各种调用榜都是flash领先pro的"
+    },
+    {
+      "id": "6a6e0c0e0000000005017d62",
+      "t": 14,
+      "content": "对话消失是因为换了 providerChatGPT 接入第三方模..."
+    },
+    {
+      "id": "2083231405484761573",
+      "t": 15,
+      "content": "@deepseek_ai Looking forward to the official V4-Pro release!"
+    },
+    {
+      "id": "6a6edbca000000002a02e8b4",
+      "t": 3,
+      "content": "明白了，感谢感谢[喝奶茶R]"
+    },
+    {
+      "id": "311620307360",
+      "t": 16,
+      "content": "最小丑的不是glm5.2吗[doge]"
+    },
+    {
+      "id": "p0xmayh",
+      "t": 17,
+      "content": "Wait for pro version. This one.... Sucks.\n\n\nTried using a low token prompt and nothing, its pretty dumb for rp. For example, a character that DOESNT know my name go ahead and say it without problems. Literally at the start of the RP, not after having 50 messages already."
+    },
+    {
+      "id": "308466810737",
+      "t": 0,
+      "content": "我错了，要3号才能领百亿补贴"
+    },
+    {
+      "id": "7668844781220741897",
+      "t": 18,
+      "content": "目前flash，等pro正式版出"
+    },
+    {
+      "id": "308434946577",
+      "t": 0,
+      "content": "@林亦LYi的个人网站"
+    },
+    {
+      "id": "308342333025",
+      "t": 4,
+      "content": "k3不如fable"
+    },
+    {
+      "id": "308453120257",
+      "t": 0,
+      "content": "玩flash玩傻了？"
+    },
+    {
+      "id": "308421473089",
+      "t": 16,
+      "content": "回复 @飙车老司机司机 :我接入之后随便用啊"
+    },
+    {
+      "id": "311787880944",
+      "t": 19,
+      "content": "我用claudecode也是这样，开始英文后来变成中文"
+    },
+    {
+      "id": "308435525505",
+      "t": 20,
+      "content": "真的非常强[喜极而泣]我的实际体验甚至比 kimi k3 还好（当然 k3 已经非常吊了）除了 coding 能力和解决屎山的能力，还有个我发现的点：接入 cc 后自己写的 memory 总结的特别到位——相比之下 codex 经常在里面 写一堆特别抽象以至于没有上下文根本看不懂的话，opus 也经常写的不像人。"
+    },
+    {
+      "id": "311722620064",
+      "t": 20,
+      "content": "ds不管你怎么用只会比市面上所有家都便宜，如果opencode-go套餐现在更新的是正式版ds-v4性价比更是无敌"
+    },
+    {
+      "id": "311717479552",
+      "t": 2,
+      "content": "cc和codex都有官方优化吧，你随便找一个先用着，等ds自己的出来切不就行了"
+    },
+    {
+      "id": "308466256289",
+      "t": 0,
+      "content": "当代贝多芬这一块"
+    },
+    {
+      "id": "311804536608",
+      "t": 21,
+      "content": "回复 @夜之叶归一 :何意味？现在开始连客观事实都不顾了？想用ai来干活连基本的知识都不顾就上来用是吧？300B大小的模型大概能干什么活了解很难？你对一个300B不到的模型给予那些旗舰的几T参数量模型的期望是吧😅"
+    },
+    {
+      "id": "311628071840",
+      "t": 22,
+      "content": "回复 @Geaxa :我之前用pro，连续用了2天的对话干到了99.95[笑哭]"
+    },
+    {
+      "id": "7669343718960628534",
+      "t": 23,
+      "content": "你以为这个数据是安兔兔呢"
+    },
+    {
+      "id": "7668894375548470059",
+      "t": 7,
+      "content": "cc连dps好像差点"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 Flash GA ranks the same as Sonnet 5 and Grok 4.5 on DeepSWE",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "部署正式版DS-V4-Flash-0731成本真的不高!",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "国家超算互联网上线DeepSeek-V4-Flash API",
+    "Deepseek V4 flash正式版可以直接接入Codex",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "@OmedVibeCodes Pi sucks -- I tried it on several models and it undermines models like DeepSeek v4 Flash and Kimi K3 -- installed and deleted Pi the very same day.",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "Deepseek v4 flash 0731 still not holding up.",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+    "Q8_K_XL vs MXFP4 naming for DeepSeek V4 Flash 0731",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek Flash 0731",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "DeepSeek flash支持codex，cc！",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "震撼美味！DeepSeek-V4-Falsh正式版"
+  ],
+  "comments": [
+    {
+      "id": "7668752126013768485",
+      "t": 0,
+      "content": "不用必须是原生的视觉，我用DeepSeek，做大脑。用豆包做视觉反馈，一样能干活。只不过速度慢。或者说我没有严格搭建通路给他们配合。模型之间只要开发通用协议就OK了"
+    },
+    {
+      "id": "311768408464",
+      "t": 1,
+      "content": "回复 @木对树说 :高开低走在哪[吃瓜]，deepseek还是梁文峰教你看的股市？那幻觉有点严重了"
+    },
+    {
+      "id": "311638299984",
+      "t": 1,
+      "content": "回复 @卡尔撒撒 :日本投降纪念日献礼[脱单doge]"
+    },
+    {
+      "id": "p0x63hp",
+      "t": 2,
+      "content": "Benchmarks are benchmarks but these are my experiences, Grok 4.5 doesn’t come close to GLM 5.2 for me. I usually run GLM 5.2 through NeuralWatt. Recently also deepseek flash.\nIn **Cursor**, I use Grok directly. I tried **Luna** there too (even with the 80% discount), but it never felt better than Grok.\nAs for **Claude Sonnet 5**, it feels like a total token-guzzler. Our company has access to it via AWS Bedrock, but it hasn't given me better results than **Composer 2.5**. That’s why I just stick to using Cursor lately in my company. But personally I am use nueralwatt with deepseek and glm which are far better than sonnet, grok or cursor. Only opus or sol might be better but they are just too expensive."
+    },
+    {
+      "id": "308414868833",
+      "t": 3,
+      "content": "接codex会不会好一点"
+    },
+    {
+      "id": "6a6ecec0000000000500af29",
+      "t": 4,
+      "content": "官方llama.cpp的镜像可以直接配置部署吗？"
+    },
+    {
+      "id": "308500713457",
+      "t": 5,
+      "content": "你可以跟其他AI混合用，截图发送到一个支持多模态的网页版大模型，一般都是免费的，让她识图并用文字描述出来，然后把描述的文字发给DeepSeek干活就行了。照样是花最少的钱把活也能干了。[doge_金箍]"
+    },
+    {
+      "id": "311776024336",
+      "t": 6,
+      "content": "更像是步步紧逼，openai和A/一直谈闭源模型能力多强，训练成本多高。结果被开源的ds赶在屁股后面，不比你强，但和你差距很小。这就迫使OA公司继续烧钱训练。"
+    },
+    {
+      "id": "6a6f1e34000000002b0267b7",
+      "t": 7,
+      "content": "我为何不用官方？"
+    },
+    {
+      "id": "6a6f0164000000000b038cc4",
+      "t": 8,
+      "content": "我没有试过呀，sol太贵了用不起呀[笑哭R][笑哭R][笑哭R]"
+    },
+    {
+      "id": "6a6eb29f000000000b03a133",
+      "t": 9,
+      "content": "@Global判官"
+    },
+    {
+      "id": "7668956105980740387",
+      "t": 10,
+      "content": "打赢没奖励，打输有惩罚，你梁叔叔还是太权威了[捂脸][捂脸]"
+    },
+    {
+      "id": "308478831537",
+      "t": 11,
+      "content": "我感觉你应该加一个测试，在同等成本的情况下，谁做的最好？"
+    },
+    {
+      "id": "308532359377",
+      "t": 5,
+      "content": "说便宜的都来了，那我花的钱算什么"
+    },
+    {
+      "id": "2083898078596104567",
+      "t": 12,
+      "content": "@OmedVibeCodes Pi sucks -- I tried it on several models and it undermines models like DeepSeek v4 Flash and Kimi K3 -- installed and deleted Pi the very same day."
+    },
+    {
+      "id": "311926599600",
+      "t": 13,
+      "content": "[脱单doge]ds flash：喜欢我的雷霆大思考吗？\n用自己的harness跑terminal bench 2.1，这货好几道题一口气思考了60分钟直接超时被harbor砍了[笑哭]"
+    },
+    {
+      "id": "6a6cb160000000002902661a",
+      "t": 14,
+      "content": "训练完全没有，之前所谓的昇腾训练只是一个学校搞的小数据量实验。推理按v4发布时的说法是基于950，950的超节点才发布不久，所以现在推理也不是，到年底应该会大量使用"
+    },
+    {
+      "id": "p13uhq8",
+      "t": 15,
+      "content": "I threw it in the same harness that I used to make up for the issues with previous GLM models (GLM-5, GLM-5.1, and in some ways GLM-5.2) which is forgecode. This gives it semantic search, a buncha reminders, an enforced TODOlist and plan -> execute requirement, alongside an automatic tool-fixer. This thing CHUGS like it is amazing how fast it can get through work compared to GLM-5.2. Yeah, it uses a lot more tokens, but the output is the same or better. It seems a lot like the GLM series after 5 to me -- potentially brilliant (opus-level) but ya gotta tie it down at certain points."
+    },
+    {
+      "id": "308343593441",
+      "t": 16,
+      "content": "let me是正常的"
+    },
+    {
+      "id": "308390039601",
+      "t": 17,
+      "content": "摸摸，抱抱，好可爱啊，什么时候我能养一只"
+    },
+    {
+      "id": "311662645120",
+      "t": 18,
+      "content": "我晚上用 codex 接入了 deepseek，不知道是哪里配置有问题，接的 Flash，但是非常慢，非常非常慢"
+    },
+    {
+      "id": "308421491057",
+      "t": 5,
+      "content": "官网说是公测，后面Pro出来应该就是正式版了"
+    },
+    {
+      "id": "p0ttitz",
+      "t": 19,
+      "content": "Why yall so hyped ab market crashes, just enjoy the models if they are so good"
+    },
+    {
+      "id": "p13hgsb",
+      "t": 20,
+      "content": "Definitely still some quant issues with IQ3_XXS and IQ3_S. I'm getting random Chinese and the inability to separate reasoning and output tokens. Anyone else still having problems?"
+    },
+    {
+      "id": "308351287009",
+      "t": 1,
+      "content": "回复 @45266988 :明白了，那应该是flash正式版的思考强度配置出错了，不过这种问题应该能很快解决"
+    },
+    {
+      "id": "311921179888",
+      "t": 5,
+      "content": "注意力一般，经常会忘一些内容，尤其是自己输出的上下文，然后是指令遵循不太行，有很多自己的想法，对一些skills不太友好。其次就是多模态能力弱。性价比高，然后推理还行，速度快，代码这块后训练做的很好，文本文档处理还有待提高，尤其是办公场景"
+    },
+    {
+      "id": "308527366257",
+      "t": 21,
+      "content": "4台spark+MikroTik CRS504-4XQ-in （100GB交换机）部署的话可行么？主要是路由器是100GB的！这个多大的影响"
+    },
+    {
+      "id": "p0v1pii",
+      "t": 22,
+      "content": "It's TERRIBLE. I ran like 5 messages through. On three it managed to hold the right length and format. None of the three was at all good. It was just spitting out random lines. Reasoning confused the roles entirely and missed the obvious sarcasm all five messages."
+    },
+    {
+      "id": "308396811953",
+      "t": 23,
+      "content": "在7月31号的今天，我们终于抵达了神圣的七月中旬[打call]"
+    },
+    {
+      "id": "311793210496",
+      "t": 24,
+      "content": "回复 @神大钟 :那个有多大？要多大显存"
+    },
+    {
+      "id": "6a6d88aa0000000015000268",
+      "t": 9,
+      "content": "开源这个是用来操控股价的[doge]"
+    },
+    {
+      "id": "6a6de54c000000002a032676",
+      "t": 25,
+      "content": "你这中文版怎么设置的，我的设置完没反应"
+    },
+    {
+      "id": "308411738513",
+      "t": 26,
+      "content": "全是前端任务"
+    },
+    {
+      "id": "311720271424",
+      "t": 26,
+      "content": "缺了前缀：你知道的[藏狐]"
+    },
+    {
+      "id": "308355209889",
+      "t": 27,
+      "content": "我在这之前买了Pro版本的API但是我现在都没有派上用场"
+    },
+    {
+      "id": "7669051632558654257",
+      "t": 10,
+      "content": "图太小了，建议主播以后改进一下"
+    },
+    {
+      "id": "308468998545",
+      "t": 5,
+      "content": "ds flash打k3打赢了的话，要不然kimi死要不然全世界ai一起死[笑哭]"
+    },
+    {
+      "id": "6a6c7355000000002a005558",
+      "t": 28,
+      "content": "官方社区微信群里发的这张图"
+    },
+    {
+      "id": "311900096480",
+      "t": 5,
+      "content": "半天用完了pro20周额度的70%[笑哭]"
+    },
+    {
+      "id": "308519316897",
+      "t": 5,
+      "content": "一个时代的红利专业起码实在毕业生的四年前[嗑瓜子]如果他是博士那就是12年前"
+    }
+  ]
+}

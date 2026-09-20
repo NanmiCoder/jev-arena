@@ -1,0 +1,228 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版深度实测",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "500tok/s 的 DeepSeek-V4-Flash",
+    "部署正式版DS-V4-Flash-0731成本真的不高!",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "感觉Deepseek v4 Flash有点弱？试试这个视频 我发现很多人用Deepseek v4 Flash时觉得它不够强，其实可以试试这个视频里的操作！跟着步骤走一遍，体验会好很多～#deepseekv4flash #deepseek正式版 #deepseek #agent",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "I don't think Anthropic and OpenAI will survive",
+    "梁圣加油",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普"
+  ],
+  "comments": [
+    {
+      "id": "308346640001",
+      "t": 0,
+      "content": "这个测试的是opencode官方的Dsv4吧？Open code官方适配了正式版？"
+    },
+    {
+      "id": "308416982193",
+      "t": 1,
+      "content": "回复 @高级作战记录 :农历七月中旬在新历八月接近月底[doge]"
+    },
+    {
+      "id": "311927248288",
+      "t": 2,
+      "content": "一个孤儿出来找工作被中介坑了，昨天到现在一点东西没吃，胃里反酸，有好心人可以资助一顿饭吗，不是骗子，确实遇到困难了，谢谢"
+    },
+    {
+      "id": "311646970576",
+      "t": 0,
+      "content": "回复 @墨客笔仙 :但是智谱三番两次地背刺用户，套餐量改了又改缩了又缩，昨天还大涨价，他的能力确实很强，但是做法确实让用户心寒"
+    },
+    {
+      "id": "p0tyjrx",
+      "t": 3,
+      "content": "It seems to be even more verbose that the Previews were, which I'm not a fan of.\n\nEdit: Cache writes seem to be broken by looking at the cost breakdown, probably something wrong with the API, unless that has seen a price increase which I doubt."
+    },
+    {
+      "id": "308461083873",
+      "t": 4,
+      "content": "回复 @推个车吧怕拿不住 :是谁不用AI啊😅"
+    },
+    {
+      "id": "6a6c97530000000015016229",
+      "t": 5,
+      "content": "上面的是雷总的，下面有川普的"
+    },
+    {
+      "id": "6a6dda7a000000001403893e",
+      "t": 6,
+      "content": "这是我自己装在本地的…"
+    },
+    {
+      "id": "6a6ed61e000000002b028213",
+      "t": 7,
+      "content": "可以的，不过今天有事，回头我整理下[笑哭R]"
+    },
+    {
+      "id": "308414588305",
+      "t": 2,
+      "content": "难讲[笑哭]，我测试下来部分代码单次输出成功率比 glm 高不少，不知道是不是幸存者偏差"
+    },
+    {
+      "id": "311733000384",
+      "t": 2,
+      "content": "回复 @厚光渐进 :有了，只不过API接口还不允许上传图片，只有免费端可以"
+    },
+    {
+      "id": "7668928737551418112",
+      "t": 8,
+      "content": "那是预览版[杀马特]现在正式了"
+    },
+    {
+      "id": "6a6f2684000000002a030d63",
+      "t": 9,
+      "content": "你评测就好好评测，别写ai软文行不行"
+    },
+    {
+      "id": "311912526880",
+      "t": 10,
+      "content": "数据安全你是一点不提啊"
+    },
+    {
+      "id": "311804602992",
+      "t": 2,
+      "content": "up视频里开多个终端的是什么软件？"
+    },
+    {
+      "id": "6a6cdafb000000000500be39",
+      "t": 11,
+      "content": "codex cli一样用的"
+    },
+    {
+      "id": "311701757072",
+      "t": 12,
+      "content": "还是太太太太太太太太太可爱了。"
+    },
+    {
+      "id": "308469568849",
+      "t": 2,
+      "content": "是因为7月真过完了"
+    },
+    {
+      "id": "308340471153",
+      "t": 13,
+      "content": "回复 @棍之勇者复仇路 :官网的就是"
+    },
+    {
+      "id": "7668874801494934309",
+      "t": 14,
+      "content": "你别说 我也看错"
+    },
+    {
+      "id": "6a6cc1d80000000015008949",
+      "t": 9,
+      "content": "你问问gpt和Claude啊 讨论过10 几次了"
+    },
+    {
+      "id": "311762218176",
+      "t": 15,
+      "content": "luna有订阅会便宜非常多，很少有人用原价的gpt api去编程的"
+    },
+    {
+      "id": "7669197780825506566",
+      "t": 16,
+      "content": "怎么没人测kimi k3   很强  就是费钱"
+    },
+    {
+      "id": "308366650897",
+      "t": 4,
+      "content": "都不是多模态"
+    },
+    {
+      "id": "311889066752",
+      "t": 17,
+      "content": "回复 @回调无神盾神 :那灰度测试的意义在哪？外挂VL模型解决的是有没有视觉的问题，如果deepseek真想提供视觉多模态服务，应该给快速模式和专家模式外挂，并且api也要外挂，单独出个&#34;识图模式&#34;还连不了网，纯一乐的意义何在？\n想清楚这个问题，你才能清楚deepseek现在到底有没有多模态"
+    },
+    {
+      "id": "308561198849",
+      "t": 15,
+      "content": "国模都是这样，第一周，神一样，每次都给人，国模终于崛起了。第二周，就打回原样了，默默的用回gpt。"
+    },
+    {
+      "id": "p16x91e",
+      "t": 18,
+      "content": "Deepseek will soon release their own harness. As per their X post."
+    },
+    {
+      "id": "6a6d4dbe0000000015014ad7",
+      "t": 19,
+      "content": "梁圣真的大模型守门员。极致价格，前沿水平。"
+    },
+    {
+      "id": "311893065264",
+      "t": 4,
+      "content": "回复 @小啊标31厘米 :cc接入其他模型会随机注入字段导致缓存命中率下降加入以下字段{ &#34;name&#34;: &#34;CLAUDE_CODE_ATTRIBUTION_HEADER&#34;, &#34;value&#34;: &#34;0&#34; }"
+    },
+    {
+      "id": "311635649088",
+      "t": 20,
+      "content": "回复 @锈化工程师 :v4p正式版直接干掉fable5和gpt5.6sol，并且api维持原价然后出个tokenplan[doge][doge][doge]"
+    },
+    {
+      "id": "311641737104",
+      "t": 0,
+      "content": "回复 @作者佚名仙人 :它只是更新了后训练，不是发布新模型，哪来的识图，识图给 vishion 模型去干"
+    },
+    {
+      "id": "311864684000",
+      "t": 15,
+      "content": "opencode好像对deepseek支持不太好"
+    },
+    {
+      "id": "308366998497",
+      "t": 13,
+      "content": "他是说把之前pro一晚上没做好的，flash给做好了"
+    },
+    {
+      "id": "6a6da6c5000000002100f740",
+      "t": 11,
+      "content": "这条笔记主要在说： DeepSeek V4 Flash 正式版发布后，评论区普遍认为它在性价比、编码效率和缓存优化上表现很强，正在改变很多人的 AI 使用组合。\n笔记核心内容：\n作者认为 DeepSeek V4 Flash 正式版发布后，性价比很高，能力大致在 GLM-5.2 和 Kimi K3 之间\n作者实测用了约 3.14 亿 token，会话费用约 12.41 元，缓存命中率 99.52%\n作者给出的使用组合是：Codex 做方案和架构，DeepSeek V4 Flash 写代码，再用 Codex review\n笔记里还列出了一批作者认为“现阶段可以不优先考虑”的模型或 token plan\n评论区主要讨论点：\n很多人把 DeepSeek V4 Flash 看成“价格和体验的分水岭”，认为它把行业标准拉高了\n点赞较高的评论集中在“DeepSeek 倒逼其他厂商更不敢随意涨价、更愿意放宽使用限制”\n也有人提醒，不能只看文字能力，多模态仍是 DeepSeek 的短板\n关于“flash 是否比 pro 强”，评论区有分歧；一部分人认为正式版 flash 体验很好，另一部分人认为还是 pro 更强，尤其正式版 pro 还没出来\n关于工具链，评论里反复提到 Reasonix，认为它对 DeepSeek 缓存机制优化较好，适合编码场景\n也有人提到 Codex、CCSwitch、Opencode、Cline 等前端或接入方式，讨论不同工具在缓存命中、兼容性上的表现\n还有一类评论在讨论“普通人到底要不要上高配模型”，有人觉得 Plus 已经够用，也有人认为工作量大时仍需要更强模型\n整体氛围：\n评论区以开发者和高频 AI 用户为主\n主流情绪是对 DeepSeek V4 Flash 的性价比和工程优化表示认可\n同时也有理性补充：是否选择它，还要看是否需要多模态、长上下文稳定性、以及具体使用场景"
+    },
+    {
+      "id": "308571723409",
+      "t": 2,
+      "content": "plus如果够用，那证明对于ai的需求量也不算大，用ds只会更便宜"
+    },
+    {
+      "id": "7669067047381074739",
+      "t": 8,
+      "content": "写代码用的[思考]"
+    },
+    {
+      "id": "308466892337",
+      "t": 2,
+      "content": "回复 @赶紧睡觉吧啊啊啊 :有推荐的吗？应该去搜索哪些关键词呢"
+    },
+    {
+      "id": "7668950230801269547",
+      "t": 21,
+      "content": "怎么搞[流泪]"
+    },
+    {
+      "id": "308443310577",
+      "t": 4,
+      "content": "你这个提示词写的有点逆天了[喜极而泣]"
+    },
+    {
+      "id": "311715397248",
+      "t": 1,
+      "content": "[哦呼][热词系列_大师球]"
+    }
+  ]
+}

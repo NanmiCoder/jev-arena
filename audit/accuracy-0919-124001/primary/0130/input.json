@@ -1,0 +1,237 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek-V4-Flash-0731 on ONE Spark BEATS same model on TWO Sparks AND GLM-5.2 on FOUR Sparks\n\nSo… one Spark is better than two for quality,\nand roughly ties/beats four-Spark GLM\non 1/4 the hardware\n\n",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "Deepseek v4 flash 0731",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek V4 Flash 0731",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek真正可怕的，已经不只是Token便宜。\n\nArtificial Analysis最新数据显示，在同一套AI综合能力评测中：DeepSeek V4 Flash 0731的平均任务成本只有0.03美元，综合指数50。\n\nClaude Fable 5的平均任务成本则达到3.15美元，综合指数60。\n\n也就是说，DeepSeek用不到1%的成本，拿到了Fable约83%的综合能力。\n\n这里",
+    "Deepseek V4 Flash最新测评！Claude Code版！",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "要被外网的一些评论笑死了😂😂😂",
+    "梁圣加油",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "deepseek v4 flash正式版制作《带上她的眼睛》改编舞台剧，仿佛看到核弹爆炸！（片尾有彩蛋）",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "deepseek-v4-flash-0731？",
+    "正式版DeepSeek V4 Flash 进步巨大！干翻上代大哥",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？"
+  ],
+  "comments": [
+    {
+      "id": "308506758417",
+      "t": 0,
+      "content": "除非用不了gpt claude要不然国模没任何意义了现在，luna比v4f便宜太多了"
+    },
+    {
+      "id": "2083901881051418920",
+      "t": 1,
+      "content": "@WescheNex1q Is it the number of Sparks behind the difference, or the different quant?  What if you were to run the mixed IQ2/Q2K/Q8 GGUF quant with TP=2 for comparison?"
+    },
+    {
+      "id": "2083092819288186901",
+      "t": 2,
+      "content": "@deepseek_ai already on @vercel ai gateway?"
+    },
+    {
+      "id": "311667982480",
+      "t": 3,
+      "content": "回复 @荒芜的世界2083 :Deepseek的实际花费大概是在1000w tokens一块钱"
+    },
+    {
+      "id": "6a6ef0ca000000002300c327",
+      "t": 4,
+      "content": "好滴感谢，我去用一下"
+    },
+    {
+      "id": "308566479457",
+      "t": 5,
+      "content": "老生常谈的问题了，Claude也会把自己当成Kimi，ChatGPT也把自己当成DeepSeek过。"
+    },
+    {
+      "id": "p0uqbu3",
+      "t": 6,
+      "content": "So chinese stack is now k3 for planning and deepseek for execution"
+    },
+    {
+      "id": "7669076714370761509",
+      "t": 7,
+      "content": "一百年前有人说这个世界只需要几百kb的内存"
+    },
+    {
+      "id": "308424725009",
+      "t": 8,
+      "content": "回复 @涼宫こなた :中旬是指7月31日中午，月初是指8月31日早上[吃瓜]"
+    },
+    {
+      "id": "311898619616",
+      "t": 9,
+      "content": "你说这种对ai的影响还不如说火电风电对ai的影响[劫宝_无语]无非就是一个快一个慢罢了，对生成质量没有影响的"
+    },
+    {
+      "id": "311831600896",
+      "t": 10,
+      "content": "不了解这个模型，如果是专家模型可以尝试，不过DGX性能挺弱的，如果需要四台部署的我觉得速度不会很快，100G的交换机有影响而且还比较大。"
+    },
+    {
+      "id": "311723252208",
+      "t": 0,
+      "content": "如果你做的是简单任务，几乎没有反复阅读的内容，缓存命中就很低，自然单价就高了"
+    },
+    {
+      "id": "2083675869617471635",
+      "t": 11,
+      "content": "@MaxForAI PROMIT"
+    },
+    {
+      "id": "308525584977",
+      "t": 12,
+      "content": "回复 @mjk72 :你跟我說的有衝突嗎[呲牙]\n我就是你說的這樣用啊\n開max只是讓程式不要出錯而已[呲牙]"
+    },
+    {
+      "id": "311662004736",
+      "t": 3,
+      "content": "正式版出来后实行峰谷定价，峰涨两倍，谷不变"
+    },
+    {
+      "id": "311867733312",
+      "t": 9,
+      "content": "Luna这个价格也很有竞争力，还是多模态"
+    },
+    {
+      "id": "308419531201",
+      "t": 13,
+      "content": "看你需要什么和你的提示词精细度，啥玩意都能做"
+    },
+    {
+      "id": "6a6ca77b0000000029037fce",
+      "t": 14,
+      "content": "在智谱拿出 fable 级别的模型之前我将一直诋毁他的订阅套餐😡"
+    },
+    {
+      "id": "308462805969",
+      "t": 15,
+      "content": "回复 @张某人就是i :哈哈哈"
+    },
+    {
+      "id": "311670720336",
+      "t": 16,
+      "content": "啥意思可以解释一下吗？[惊讶]"
+    },
+    {
+      "id": "7669017813429273344",
+      "t": 7,
+      "content": "不就是想说蒸馏那一套吗？这玩意开源的，你要是有实锤证据就去找出来啊，哦对了，Anthropic是最没资格说别人蒸馏的公司，这是马斯克的评价"
+    },
+    {
+      "id": "311639668656",
+      "t": 17,
+      "content": "主播  原生接入codex没有max模式吗？ 我用ccSwitch接入有5个档位 那个档位真有有作用吗？我用的桌面codex"
+    },
+    {
+      "id": "6a6d80c4000000002902dca3",
+      "t": 18,
+      "content": "这就是大a周五高开低走的原因，你梁叔叔缺钱买卡了"
+    },
+    {
+      "id": "6a6d3e850000000029037de0",
+      "t": 19,
+      "content": "明知他不支持多模态还要硬去试嘛[笑哭R]"
+    },
+    {
+      "id": "308574673905",
+      "t": 20,
+      "content": "诶，one shot的含义是给一个示例让模型参考吧，对应的还有zero shot和few shot的测试模式"
+    },
+    {
+      "id": "311833878288",
+      "t": 21,
+      "content": "回复 @御坂10853 :最近使用下来，能感觉到如果要求flash从0搓项目，虽然能看到是有在努力检查了，但还是容易顾此失彼出现一些不好用脚本来注意到的bug，然后再依赖用户的准确反馈来进行调整修复。这里能看到给一个优质参照物来进行模仿的效果是很不错的，感觉到时候让pro搓个基底，flash打杂活的效果也许会不错？如果有针对这种情景专门训练的话。毕竟官方发的跑分是在专武harness上跑的，目前表现出的实力还能有一些上升空间[吃瓜]"
+    },
+    {
+      "id": "311801398928",
+      "t": 22,
+      "content": "输入输出比基本上是150往上，dsv4f真是可以大面积自部署的，这个能力和参数量，个人可能有压力，但是有保密要求的公司部署一个真没什么压力了"
+    },
+    {
+      "id": "7668766894429897514",
+      "t": 23,
+      "content": "太夸张了，这么强又这么便宜"
+    },
+    {
+      "id": "6a6d2f8a000000002a02db26",
+      "t": 24,
+      "content": "Be Water,My Friend!"
+    },
+    {
+      "id": "308615111761",
+      "t": 25,
+      "content": "回复 @蛋白掷 : 兄弟，是cursor给的额度高还是opencode额度高？"
+    },
+    {
+      "id": "6a6edc00000000000403a301",
+      "t": 26,
+      "content": "主要适配 codex，200K 上下文确实蛋疼"
+    },
+    {
+      "id": "7669011426022949689",
+      "t": 23,
+      "content": "cc里面直接切换flash\n就可以了吗[泪奔]后缀我看也没有1m，也没有正式版提示"
+    },
+    {
+      "id": "7668775475334546214",
+      "t": 23,
+      "content": "必须得有预设破甲才能达到最好的效果"
+    },
+    {
+      "id": "311688518832",
+      "t": 3,
+      "content": "刚才玩了一会，发现装甲厚了，尤其是刚开始思考过程特长，没以前爽了[大哭]"
+    },
+    {
+      "id": "308356563169",
+      "t": 27,
+      "content": "666[doge]"
+    },
+    {
+      "id": "308577687473",
+      "t": 28,
+      "content": "是需要CC switch才可以跳过codes的认证吗？"
+    },
+    {
+      "id": "308345892353",
+      "t": 3,
+      "content": "open code 里的 Flash free，应该还是预览版的吧？"
+    },
+    {
+      "id": "308471468081",
+      "t": 29,
+      "content": "回复 @困梦的杂物间 :特供版是84gb[喜极而泣]"
+    },
+    {
+      "id": "6a6df72c000000002a0308f3",
+      "t": 4,
+      "content": "理解理解。我觉得一般办公其实差异不大。差距主要在解决复杂的启发性需求上。就是那种知道目标，知道大概方案，但是需要边做边调整的方向。"
+    },
+    {
+      "id": "311774709152",
+      "t": 30,
+      "content": "还要配合一个好的agent"
+    }
+  ]
+}

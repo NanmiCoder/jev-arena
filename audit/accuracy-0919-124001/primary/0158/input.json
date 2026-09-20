@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek-V4-Flash-0731 is now over 2x faster than yesterday on Ollama's cloud!",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "@kis 本当ですねw\nDeepSeek-V4-Flash が細かく調査したわけではなく、きしださんのおかげでしたww\n\nあとはこちらの記事も参照されていました。やはりこういうのを見ると記事にまとめるって作業はAIを通じてかもしれないけれど、誰かの役に立っているんですね！\nhttps://t.co/3wTe1myTlw",
+    "Qwen 3.6 27B at Q8 to Deepseek V4 Flash 0731 at Q3?",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek-V4-Flash-0731 UD-IQ3_S 12.5 tok/s on RTX 3090 +128GB DDR5",
+    "卧槽，DSv4-flash初步AA跑分50-51",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "要被外网的一些评论笑死了😂😂😂",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "Unpopular opinion, Deepseek V4 Flash is not Good",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "【中配】DeepSeek V4 Flash测评 全面测试霸榜前五！这波性能重回巅峰！",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "如何使用满血DeepSeek v4 flash正式版",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "DeepSeek V4-Flash is officially out, still dirt cheap. USA don't like that, and want ban open source models.",
+    "DeepSeek-V4-Flash-0731 now far surpassing the DeepSeek-V4-Pro-Preview in benchmarks"
+  ],
+  "comments": [
+    {
+      "id": "311814721216",
+      "t": 0,
+      "content": "写代码要多模态干啥？"
+    },
+    {
+      "id": "2083717603336536093",
+      "t": 1,
+      "content": "@ollama 希望可以更快！"
+    },
+    {
+      "id": "308553300529",
+      "t": 2,
+      "content": "回复 @一枚海厨 :肯定有呀，api一般接入的都是agent，可以长期运行一个项目，网页版记忆功能很难评，好吧，网页版也就是个聊天咨询软件，没有操作的功能，也就是网页版免费，反正用api的话性能应该是要比网页版强一点的，毕竟花了钱的"
+    },
+    {
+      "id": "2083898950596415777",
+      "t": 3,
+      "content": "@kis 本当ですねw\nDeepSeek-V4-Flash が細かく調査したわけではなく、きしださんのおかげでしたww\n\nあとはこちらの記事も参照されていました。やはりこういうのを見ると記事にまとめるって作業はAIを通じてかもしれないけれど、誰かの役に立っているんですね！\nhttps://t.co/3wTe1myTlw"
+    },
+    {
+      "id": "p14tl4a",
+      "t": 4,
+      "content": "I doubt anyone will have real numbers for you, just guesses - I'd say be sure to preserve your qwen settings, grab deepseek and get it dialed in, and see how it works for you.  You may find it's just too slow to be bearable, or you may love it."
+    },
+    {
+      "id": "308484338401",
+      "t": 5,
+      "content": "回复 @古尘霄 :来个中转"
+    },
+    {
+      "id": "7669061272075600677",
+      "t": 6,
+      "content": "我用dp项目依旧落地，成本上我就省了大几k"
+    },
+    {
+      "id": "308530467761",
+      "t": 7,
+      "content": "抽我[星星眼][星星眼]"
+    },
+    {
+      "id": "308586240017",
+      "t": 0,
+      "content": "别奢求200多b的模型能和几t的模型扳手腕"
+    },
+    {
+      "id": "308429471905",
+      "t": 0,
+      "content": "回复 @高盐值咸-鱼 :那也很可以了，这是一个搭配专属hareness跑分肘飞glm5.2的模型"
+    },
+    {
+      "id": "308456970609",
+      "t": 8,
+      "content": "来了[吃瓜]"
+    },
+    {
+      "id": "p1608im",
+      "t": 9,
+      "content": "\"I suspect `llama.cpp` might be saturating your RAM memory bandwidth. If you can, it's worth running **AMD uProf** (*AMD Micro-Profiler*) to monitor your memory bandwidth usage in real time.\n\nIf that turns out to be the case, there's still room for performance improvement. I ran into the exact same bottleneck—on a smaller scale—with **Qwen 3.5 (35B-A3B)**. I managed to push performance close to the theoretical limit by switching to **ik\\_llama** using the `-rtr` and `--ncmoe` flags. Just as in your setup, optimizing MoE routing was key"
+    },
+    {
+      "id": "6a6c90f8000000000d028801",
+      "t": 10,
+      "content": "还没gemini flash高？"
+    },
+    {
+      "id": "311919670096",
+      "t": 11,
+      "content": "回复 @不死の祥云 :得买opencode套餐，15万次调用也就70"
+    },
+    {
+      "id": "6a6d77550000000005008f9e",
+      "t": 12,
+      "content": "gork翻译的，大概理解就好了[doge]"
+    },
+    {
+      "id": "308455257409",
+      "t": 13,
+      "content": "回复 @iRocketBoy :哈哈哈哈，那确实"
+    },
+    {
+      "id": "311747078512",
+      "t": 2,
+      "content": "语料污染了[笑哭]"
+    },
+    {
+      "id": "p13ddy9",
+      "t": 14,
+      "content": "\\> Deepseek flash is benchmaxxed to hell. Its nowhere close to opus 4.8 or even 4.6.\n\nFirst, you are comparing models that differ in size by a factor of 15. There will always be a gap in pure amount of knowledge and so in some specific areas. Second, in light of Opus 5/4.8, you just forgot that 4.6 was stupid as hell most of the time. It was good on the release, but after a month it became worse than open models. Anthropic had computation problems during that period, so they just provided shit to paid customers.\n\n\\> In my tests flash wasn't able to do some simple automation with playwright.\n\nCould you please share more details? Could you share the task that failed? Did you run locally, or through the API? If locally, with what quant did you use it? What is your harness? And very important: was it connected (and actually used) Context7, or another documentation source? Such small models cannot remember everything; they must have access to documentation. Actually, even Opus 5 reads docs periodically; I suppose it is specially trained to do that, but for small models you usually need to ask it explicitly to check the docs."
+    },
+    {
+      "id": "311673774928",
+      "t": 15,
+      "content": "请教一下，话说用 cc swith 中转和用 codex 直连有啥性能上的差异吗？我现在用的 cc swith，不确定要不要转成直连..."
+    },
+    {
+      "id": "308393846433",
+      "t": 16,
+      "content": "哈哈，急笑了[喜极而泣]"
+    },
+    {
+      "id": "311755976704",
+      "t": 17,
+      "content": "還挺可愛的[doge]"
+    },
+    {
+      "id": "311714204544",
+      "t": 18,
+      "content": "ai studio 多好的啊，不希望合并，不然用 nanobanana 生图的时候都不能调参数还有无水印了"
+    },
+    {
+      "id": "6a6e1cb6000000000403af47",
+      "t": 19,
+      "content": "windows版本，打开页面跟博主有些不一样，但基本都能搞定，但是快速模型那里没有deepseek chat的话，选哪个呀"
+    },
+    {
+      "id": "6a6f0054000000002b02899b",
+      "t": 20,
+      "content": "为啥我的没有这么高级，这是端游吗"
+    },
+    {
+      "id": "308438355601",
+      "t": 0,
+      "content": "梁总的目标是做出便宜又好用的模型，雷总的目标的让大家觉得他做出了便宜又好用的模型"
+    },
+    {
+      "id": "308347682833",
+      "t": 20,
+      "content": "回复 @各浮萍 :可以可以 我昨天还在用 glm5.2 我去试试"
+    },
+    {
+      "id": "311691476448",
+      "t": 20,
+      "content": "回复 @向丶胃丶猛丶冲 :Gimini 3.5 Flash绝对是我见过最喜欢吹水的大模型"
+    },
+    {
+      "id": "308457577985",
+      "t": 0,
+      "content": "之前还行，但现在68一个月，纯构思"
+    },
+    {
+      "id": "311791294976",
+      "t": 5,
+      "content": "deepseek的API接入codex能直接实现联网搜索吗？"
+    },
+    {
+      "id": "311719159584",
+      "t": 15,
+      "content": "回复 @且听风吟哈哈 :是的，蹲一手官方座驾[脱单doge]"
+    },
+    {
+      "id": "308432796545",
+      "t": 0,
+      "content": "回复 @旅鼠0519 :那样就是ds性价比"
+    },
+    {
+      "id": "308355194369",
+      "t": 2,
+      "content": "咋写的提示词"
+    },
+    {
+      "id": "2083173705157398881",
+      "t": 21,
+      "content": "@deepseek_ai Vision?"
+    },
+    {
+      "id": "311725482032",
+      "t": 0,
+      "content": "回复 @20zhangshuai12 :其实只要是涉及图的都不太行……"
+    },
+    {
+      "id": "311864169216",
+      "t": 7,
+      "content": "回测是Pro吧"
+    },
+    {
+      "id": "7668922244882006826",
+      "t": 22,
+      "content": "workbuddy 切换成 DeepSeek"
+    },
+    {
+      "id": "7668988143853667087",
+      "t": 23,
+      "content": "我感觉ds v4问题还是在胡说八道上，这玩意特别容易胡说八道，搞的有点恼火，然后就用kimi去了[懵]，体感上要舒服不少"
+    },
+    {
+      "id": "311816624432",
+      "t": 24,
+      "content": "回复 @怜昕_ :我这边试完了，cc上面high思考强度，第一次生成出了个bug（无法跳跃），反馈之后就修复了，游玩大体正常。\n（不过最后搞了个超级高的管子，根本跳不过去，卡关了，哎）\n一镜到底视频现在也录下来了，等下我处理一下发出来"
+    },
+    {
+      "id": "p14n7ff",
+      "t": 25,
+      "content": "yo sigo apoyando deepseek, es el unico que entiende mi presupuesto xD"
+    },
+    {
+      "id": "p0v72mo",
+      "t": 26,
+      "content": "HOLY SH\\*\\*! ANTIREZ!! WE NEED YOU!!!"
+    }
+  ]
+}

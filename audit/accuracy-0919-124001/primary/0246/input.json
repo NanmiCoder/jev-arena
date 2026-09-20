@@ -1,0 +1,232 @@
+{
+  "topics": [
+    "The real reason 5.6 Luna became 5x cheaper",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek-V4-Flash-0731 unsloth gguf on A100",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "被接入Codex的DeepSeek V4 Flash正式版惊到了！",
+    "Has anyone actually used DeepSeek V4 Flash 0731 to solve complex, real-world problems in medium to large production codebases? I’m looking for honest feedback, not hype or toy-project benchmarks",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "DeepSeek V4 Flash 正式版发布 - 白菜价！超高性价比的编程模型",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "世界上最慢的大模型你们猜是哪个？\n\n是的，正是我 699 买的Kimi K3，当了回大韭菜，Kimi 还营造了卖爆了的假象。\n\n下个月我再续费我就是狗🐶。\n\nDeepseek-V4-Flash-0731大家疯狂称赞，除了便宜，速度快也是很爽的，它现在比Grok 4.5都快多了！ https://t.co/eLR2oZVfZn",
+    "卧槽，DSv4-flash初步AA跑分50-51",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "i ran DeepSeek-V4-Flash-0731 on a single DGX Spark\n\n81 GB of weights\n128 GB of memory\n\nplain decode: 22.5 tok/s, pinned\none 6.5 GB drafter later: 48.9\n\nfull credit to antirez's ds4 engine. \n\nthe follo"
+  ],
+  "comments": [
+    {
+      "id": "p14uhc4",
+      "t": 0,
+      "content": "Deepseek 0731 is the answer to all problems, I concurrently tested it with Claude Sonnet 5 and Luna at max reasoning\n\nSonnet 5 spent $73, Luna spent $41 and 0731-flash spent $6. \n\nFlash finished the goal about 2x faster with absolutely no errors. \n\nThink about that...\n\nHonestly I think the end is near for money crazed American corporations. They will have to accept doing more for less.\n\nThank god for competition."
+    },
+    {
+      "id": "7668655994499236666",
+      "t": 1,
+      "content": "性价比不是最可怕的，可怕的是这完应才285B参数，就能有这能力。"
+    },
+    {
+      "id": "7669238343590757169",
+      "t": 2,
+      "content": "跑得快没奖励，跑得慢直接斩杀"
+    },
+    {
+      "id": "308485833233",
+      "t": 3,
+      "content": "回复 @LevePalestina :[doge]plan模式沟通呢 主要是需要他提供给我思路"
+    },
+    {
+      "id": "311728597872",
+      "t": 4,
+      "content": "回复 @没有子目 :你都上中转站了还说啥"
+    },
+    {
+      "id": "p0ytnst",
+      "t": 5,
+      "content": "I just finished downloading it and I’m getting similar performance on my rig: 2x A100 40GB, 3090 24GB, 64 GB DDR5. I barely made the minimum requirements to run Q8 lol and it’s around \\~16 tok/s"
+    },
+    {
+      "id": "308350752033",
+      "t": 6,
+      "content": "回复 @她啊988 :酒馆gemini＞v4Pro＞v4flash正式版"
+    },
+    {
+      "id": "7668888160394724155",
+      "t": 2,
+      "content": "等重置活动没了，你再看看呢？[看]"
+    },
+    {
+      "id": "308457607025",
+      "t": 3,
+      "content": "和glm5.2来一个"
+    },
+    {
+      "id": "308523689889",
+      "t": 7,
+      "content": "回复 @赫斯NO :可以识图了吗"
+    },
+    {
+      "id": "p162pjv",
+      "t": 8,
+      "content": "My set up is purely task-based. Planning and task ticket authoring by a “smarter” model. Planning and decomposition is very thorough and goes through multiple rounds with a lot of very small, atomic tickets produced. Tickets are small and simple enough for DeepSeek Flash to absolutely FLY through them.. with big milestone/e2e reviews after X tickets"
+    },
+    {
+      "id": "7669144891150943035",
+      "t": 9,
+      "content": "不听话，爱幻想怎么解决的，我们用的是一个东西吗？"
+    },
+    {
+      "id": "6a6ebb790000000029035f66",
+      "t": 10,
+      "content": "速通，这个词汇让我回到十年前或者某个不知名的政企软件"
+    },
+    {
+      "id": "308425083681",
+      "t": 4,
+      "content": "倍率是什么意思"
+    },
+    {
+      "id": "308423160097",
+      "t": 11,
+      "content": "肯定用啊，k3还是很强的"
+    },
+    {
+      "id": "6a6e9cd1000000002a006133",
+      "t": 12,
+      "content": "文峰丧胆[笑哭R]"
+    },
+    {
+      "id": "311722124720",
+      "t": 13,
+      "content": "response接口不能带历史message吗"
+    },
+    {
+      "id": "308500560257",
+      "t": 3,
+      "content": "回复 @英俊的小铁匠 : 之前都是英语"
+    },
+    {
+      "id": "311785658848",
+      "t": 14,
+      "content": "回复 @古尘霄 :复制粘贴，又看见你了"
+    },
+    {
+      "id": "7668867595227677494",
+      "t": 15,
+      "content": "你们都用啥agent呀"
+    },
+    {
+      "id": "p12h1n8",
+      "t": 16,
+      "content": "I just made an impulse purchase so I can run this too. Insane that we now have this level of capability locally 🤯 benchmarking my personal coding workflows, v4 flash 0731 is marginally poorer than opus 4.8 but essentially on par (!!!!!!)"
+    },
+    {
+      "id": "7668907297787708218",
+      "t": 2,
+      "content": "那Claude code中不登陆出现这个问题怎么解释[看]"
+    },
+    {
+      "id": "7668861513356477241",
+      "t": 17,
+      "content": "量大啊 gpt的话至少5倍以上加[捂脸]"
+    },
+    {
+      "id": "311649353488",
+      "t": 18,
+      "content": "个人感觉code和小说这两个能力就完全是两个极端，一个感性一个理性，只是目前还没有卷小说能力的模型，只好找code能力垃圾的来比如Gemini[doge_金箍]"
+    },
+    {
+      "id": "2083883407734718720",
+      "t": 19,
+      "content": "@LinearUncle 这些都是商单，我屏蔽了不少人了，还是国外的算力足！"
+    },
+    {
+      "id": "7669294467724460800",
+      "t": 9,
+      "content": "关于人工智能的股票全别活了"
+    },
+    {
+      "id": "6a6ccc7d000000002a02c018",
+      "t": 20,
+      "content": "雷达站看 gpt plus 周额度 85 刀[捂脸R]，算下来 luna 还是便宜不少。算力还是有差距呀[捂脸R]"
+    },
+    {
+      "id": "311920129008",
+      "t": 3,
+      "content": "回复 @Token就是词元 :这个页面是什么软件，想问一下，谢了。"
+    },
+    {
+      "id": "311658926432",
+      "t": 21,
+      "content": "Kimi K3还是真的强。"
+    },
+    {
+      "id": "311760219584",
+      "t": 22,
+      "content": "回复 @迪芙斯送的开心 :感觉像是想吹v4flash但评分差距比较大于是开始找茬的[思考]"
+    },
+    {
+      "id": "308432204401",
+      "t": 14,
+      "content": "切模型还是挺麻烦，这一点不如Hermes，遇到图片用视觉模型读图，但其他所有推理回复自动切回deep seek"
+    },
+    {
+      "id": "311637013760",
+      "t": 11,
+      "content": "回复 @动物盐 :看PRO正式版吧，ds的flash和PRO针对非常明确，前者斩掉GLM5.2，后者斩掉K3"
+    },
+    {
+      "id": "308589379617",
+      "t": 23,
+      "content": "回复 @evea33223 :如果是这个原因那更证明是英伟达的功劳"
+    },
+    {
+      "id": "308531917985",
+      "t": 4,
+      "content": "你自己试一下不就知道了吗"
+    },
+    {
+      "id": "308526180529",
+      "t": 4,
+      "content": "实测 180kB 的长上下文还是有点吃力，不过如果适当裁剪一下能力还是过关的，主要还是没有多模态导致 UI 协作开发困难。"
+    },
+    {
+      "id": "311738628144",
+      "t": 24,
+      "content": "2 天后评论区开奖🎁！"
+    },
+    {
+      "id": "311780017952",
+      "t": 4,
+      "content": "回复 @柚原爱佳 :那很划算了"
+    },
+    {
+      "id": "311637795856",
+      "t": 18,
+      "content": "回复 @我是友人B :opencode 有 一个叫 deepseek-v4-flash-free 不知道和 deepseek-v4-flash 有没有什么差别？是算力差一些吗？"
+    },
+    {
+      "id": "7668932210532156197",
+      "t": 9,
+      "content": "陈老婆老婆老婆大人[捂脸]我今天完了。"
+    },
+    {
+      "id": "2083691360184594915",
+      "t": 25,
+      "content": "i ran DeepSeek-V4-Flash-0731 on a single DGX Spark\n\n81 GB of weights\n128 GB of memory\n\nplain decode: 22.5 tok/s, pinned\none 6.5 GB drafter later: 48.9\n\nfull credit to antirez's ds4 engine. \n\nthe following are tests results https://t.co/bVQ1Xvxsdf"
+    }
+  ]
+}

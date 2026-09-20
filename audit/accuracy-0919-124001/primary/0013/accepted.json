@@ -1,0 +1,819 @@
+{
+  "items": [
+    {
+      "id": "308583248897",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "据灰测情况说明正式版无多模态，可能是在纠正。"
+    },
+    {
+      "id": "311638383456",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合标题询问模型一下午的使用费用。"
+    },
+    {
+      "id": "6a6c5161000000002300c439",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "suggestion"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "用opus5夸张抬高比较对象，缺少上文有歧义。"
+    },
+    {
+      "id": "311773844368",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "认为订阅上下文仅200k，不适合很多工作。"
+    },
+    {
+      "id": "311901833408",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "反驳低费用说法，强调实际干活需5至10块。"
+    },
+    {
+      "id": "311747790480",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享酒馆使用中避开变量和填表可提高命中率。"
+    },
+    {
+      "id": "7668927415489479482",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "指出低价账号难得且Plus额度不足。"
+    },
+    {
+      "id": "7668916538426802971",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "惊讶地询问是否支持生图，未明确褒贬。"
+    },
+    {
+      "id": "7669040660540949300",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "以做空梗调侃DeepSeek针对GLM涨价出招。"
+    },
+    {
+      "id": "6a6e178e0000000029019c77",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问两种DeepSeek接入工具的使用效果差异。"
+    },
+    {
+      "id": "311901613552",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "请求推荐对象，标题暗示AI但缺少父评论。"
+    },
+    {
+      "id": "7668895362896544554",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正V4选项名称，称只有max而无极高。"
+    },
+    {
+      "id": "p12we30",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认可本地推理进步，并强调硬件和部署成本。"
+    },
+    {
+      "id": "6a6e0d4c0000000029019aa5",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "询问是否用openclaw干活，表情略带肯定。"
+    },
+    {
+      "id": "308440616113",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "以反问强调GPT后端与护栏可靠性优势。"
+    },
+    {
+      "id": "311741008432",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "认为纯文本模型做前端和视觉任务偏弱。"
+    },
+    {
+      "id": "7668664685495173934",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "既指出Codex不主动，也肯定结果准确。"
+    },
+    {
+      "id": "6a6c6c6e000000000403a66e",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述V3生态依赖和国内算力产能情况。"
+    },
+    {
+      "id": "311895112208",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "质疑视觉外接解释，并批评网页模型效果与限制。"
+    },
+    {
+      "id": "311692209040",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "因使用人数过多建议等待第三方部署。"
+    },
+    {
+      "id": "2083091020208558508",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "向DeepSeek提及OpenAI降价，笑脸带调侃。"
+    },
+    {
+      "id": "6a6eb2ea000000002b0261a7",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "报告测试达到十万，具体计量对象未明。"
+    },
+    {
+      "id": "308612493649",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "否认Codex算DS专武，适配表述略有歧义。"
+    },
+    {
+      "id": "7668935327017403179",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "调侃生成结果与自己已有结果基本相同。"
+    },
+    {
+      "id": "311916778608",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认为go不贵且Flash额度充足，附会话信息。"
+    },
+    {
+      "id": "p189grv",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.4,
+      "reason": "未见提速但知识保留更好，并感谢期待新模型。"
+    },
+    {
+      "id": "6a6e9ab50000000015014e88",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "批评视觉及Agent规划能力，质疑其编程可用性。"
+    },
+    {
+      "id": "7668842815938495289",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Mac Studio是否可部署模型。"
+    },
+    {
+      "id": "p0znzi0",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问平台数据保留政策，并说明正在试用。"
+    },
+    {
+      "id": "311683831712",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "认可",
+        "期待"
+      ],
+      "score": 0.8,
+      "reason": "用转会式段子盛赞DeepSeek并表达迁移意愿。"
+    },
+    {
+      "id": "7668983023118844682",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问API切换Flash是否需要更换密钥。"
+    },
+    {
+      "id": "308433439793",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "price",
+        "performance",
+        "reliability",
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0.4,
+      "reason": "赞DeepSeek低价快速够用，同时抱怨中转站故障。"
+    },
+    {
+      "id": "308407853281",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "称等待是DeepSeek特色，可能轻度抱怨速度。"
+    },
+    {
+      "id": "311738546880",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "嘲讽某对象时间不多，无法确定是否指AI产品。"
+    },
+    {
+      "id": "311841463616",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "用北美豆包绰号玩梗，具体对象及褒贬不明。"
+    },
+    {
+      "id": "p14onp5",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "以引号和吃瓜语气讽刺unsloth量化领先宣传。"
+    },
+    {
+      "id": "6a6ec45a0000000009014320",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "肯定GPT好用且值，明确批评Flash难题能力。"
+    },
+    {
+      "id": "308348855601",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅以转账五万元玩梗，无AI讨论。"
+    },
+    {
+      "id": "308498106673",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "猜测他人用小号唱双簧，未讨论AI使用。"
+    },
+    {
+      "id": "7668696794386678577",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "suggestion"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": -0.7,
+      "reason": "贬低所发内容并劝删除，未明确评价AI。"
+    }
+  ]
+}

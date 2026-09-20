@@ -1,0 +1,239 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "Congratulations @deepseek_ai on the launch of DeepSeek V4 Flash 0731!\n\nGet started today by running the model locally via the @UnslothAI GGUF. 👇",
+    "DS-V4-0731",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "Deepseek V4 flash正式版做的一个我的世界，花费1.52元(还是因为claude命中率并不高)，声音显示正常，昼夜交替正常，光线等显示都是正常的，水面有问题，水下显示有问题，A和D移动键反了，背包打开再关上有问题，没有动物，场景较为单一只有简洁的雪地沙漠以及森林，因为没有玩多久肯定还有很多问题，但是我是没有进行二次改正的做到这种程度我觉得已经非常不错了，这个价格太便宜了，对于某些闭源",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "Deepseek v4 flash 0731 still not holding up.",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "使用deepseek v4 flash正式版还原一个EU4网页版，效果如何？",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "如何使用满血DeepSeek v4 flash正式版",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "实测DeepSeek V4 Flash 太强了！比 Grok 4.5 聪明太多了！一起来对比评测 !~DeepSeek Flash正式版强在哪！正式上市！",
+    "正式版DeepSeek V4 Flash 进步巨大！干翻上代大哥",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek-V4-Flash 正式版发布！"
+  ],
+  "comments": [
+    {
+      "id": "311711568736",
+      "t": 0,
+      "content": "回复 @底特律肥宅 :挺意外的"
+    },
+    {
+      "id": "17927540",
+      "t": 1,
+      "content": "发现支持 codex ，换 codex + v4 flash 试了下。\r\n刚好需要做两个知识星球群组帖子拉取到本地做 obisidan 知识库的，让 v4 flash 做方案+执行，全程 3 块···· 可以了，我没意见，以后估计我是 codex + qoder 的组合了。"
+    },
+    {
+      "id": "308574657889",
+      "t": 2,
+      "content": "你这bug全是开发改的时候漏改的，全是实战性bug，非常有参考性"
+    },
+    {
+      "id": "308493452849",
+      "t": 3,
+      "content": "硅基流动有最新的DeepSeek/Qwen/GLM/Kimi/注册送 16 体验额度  https://cloud.siliconflow.cn/i/E1E1UxUG  有没有人测试下模型有没有掺水"
+    },
+    {
+      "id": "308361218865",
+      "t": 4,
+      "content": "按opencode官网说法是直连官方的，但是用户测试好像现在还有点蠢，估计要修吧"
+    },
+    {
+      "id": "311721713632",
+      "t": 0,
+      "content": "中转站都来了，那我直接说 opencode zen plan 里 flash 和 mimo 免费用，要截图就 mimo，要推理就 flash，钱都不要了"
+    },
+    {
+      "id": "7668943650584396559",
+      "t": 5,
+      "content": "你是ai聊天吧[捂脸]"
+    },
+    {
+      "id": "311847754368",
+      "t": 6,
+      "content": "回复 @Owter :pi是什么"
+    },
+    {
+      "id": "7668974107199947557",
+      "t": 5,
+      "content": "flash超过pro了？？"
+    },
+    {
+      "id": "311693502736",
+      "t": 7,
+      "content": "现在flash比Pro聪明所以flash逆推姐姐[吃瓜][doge_金箍]"
+    },
+    {
+      "id": "2083084666895040633",
+      "t": 8,
+      "content": "@deepseek_ai Absolute chills. WOW 🤩"
+    },
+    {
+      "id": "308351552065",
+      "t": 9,
+      "content": "比不了luna-max ， 关键是flash 智商真不够\n非常简单的任务 luna和 qwen3.7max 都正常， v4-flash 需求都没搞明白"
+    },
+    {
+      "id": "308584213441",
+      "t": 2,
+      "content": "梁圣真无敌了"
+    },
+    {
+      "id": "7668874665830204209",
+      "t": 10,
+      "content": "我以前做ios开发，现在做客户端开发，一年多没自己写过一行代码，而且我们是央企，开发环境还限制网络，好几个月前，我的trae国际版已经不能上传图片了，但是毫不影响，因为我觉得识别图片压根就不是必须的，你只需要把日志打好，我的项目里面有三套日志系统，第一是写入正式日志文件，生产环境用的，第二是写入临时日志文件，这个是让Ai自己调试的时候，自己去读日志文件内容然后分析，因为正式日志文件太大，一般一个文件存一整天的，临时日志文件，只保存这一次运行的，AI可以运行完以后自己去读日志内容，然后分析问题。还有一个自定义日志系统，按隐藏快捷键可以直接在应用中显示出一个日志控制台，输出内容，排查测试的疑难问题。我基本都是，测试反馈一个问题，我让他按照复现路径描述，最后把复现路径扔给AI，日志扔给它，一起分析"
+    },
+    {
+      "id": "2083536604556390463",
+      "t": 11,
+      "content": "@NVIDIARTXSpark @deepseek_ai @UnslothAI Even better if you have a Spark:\n\nI’ve been working on a custom serving engine specifically for this model on DGX Spark the past 3 months (full richly featured continuous batch engine and highly tuned CUDA kernels throughout) \n\nhttps://t.co/azBSlee9fY"
+    },
+    {
+      "id": "6a6e8fd4000000000500a119",
+      "t": 12,
+      "content": "| Prompt | 冷 prefill | 冷 TTFT | 热 TTFT | 等效热速 | 加速比 | \n| 256K | 1,651 | 148.9s | 0.97s | 254,252 | 154x | \n| 512K | 1,338 | 367.4s | 1.46s | 337,428 | 252x | \n| **1M** | **990** | **969.3s** | **2.65s** | **362,471** | **366x** |"
+    },
+    {
+      "id": "308407567489",
+      "t": 13,
+      "content": "量大管饱且不弱，而且pro估计会非常强，虽然肯定还是不如gpt5.6强，但是绝对不会弱特别多，最重要最重要的，便宜，非常便宜，纵观全世界你都找不到这种量级还这么便宜的大模型，都不晓得够不够梁叔叔电费[doge]"
+    },
+    {
+      "id": "308428453457",
+      "t": 14,
+      "content": "回复 @梦生moons : 是的，就是codex的问题，希望deepseek harness别那么卡"
+    },
+    {
+      "id": "311786024224",
+      "t": 0,
+      "content": "vscode的github copilot配合deepseek v4 flash正式版 无敌"
+    },
+    {
+      "id": "7669389534874632960",
+      "t": 15,
+      "content": "提示词有点多限制字数了，我私发给你了"
+    },
+    {
+      "id": "311758928048",
+      "t": 16,
+      "content": "一样，解决了吗"
+    },
+    {
+      "id": "6a6cabe0000000001500031b",
+      "t": 17,
+      "content": "130亿你可以理解为是人的神经元突触数量，而不是神经元数量。"
+    },
+    {
+      "id": "308395320913",
+      "t": 18,
+      "content": "回复 @我一直是DD粉丝啊 :tmd我昨天才买，今天就发了"
+    },
+    {
+      "id": "308535041633",
+      "t": 19,
+      "content": "回复 @乐观的射射箭 :还是改改为好[doge_金箍]"
+    },
+    {
+      "id": "308481329745",
+      "t": 20,
+      "content": "回复 @腊鸭4236 :ai本来是随机性的啊，同样的提示词真的是有时候一次做对有时候对不了"
+    },
+    {
+      "id": "p14ctnm",
+      "t": 21,
+      "content": "I havent seen these issues using it directly through the api"
+    },
+    {
+      "id": "311878256672",
+      "t": 22,
+      "content": "回复 @冰镐战神托洛茨基 :不会吧，这次就只是后训练，就是加强版的preview，应该还是没有多模态的"
+    },
+    {
+      "id": "311721861072",
+      "t": 0,
+      "content": "回复 @JackySmile :我都是qoder，反重力，kiro白嫖额度自己慢慢摸索着写项目的，没钱[笑哭]少量用ds的api和中转站[笑哭][笑哭][笑哭]"
+    },
+    {
+      "id": "308405208705",
+      "t": 23,
+      "content": "回复 @土间JO厨 : 依旧可以图文理解 可以第三方多模态"
+    },
+    {
+      "id": "311910329392",
+      "t": 24,
+      "content": "好多生成EU4的[打call]强大"
+    },
+    {
+      "id": "6a6cd9fb000000002902d822",
+      "t": 25,
+      "content": "V4-flash  原生api"
+    },
+    {
+      "id": "6a6d4d650000000014038db0",
+      "t": 26,
+      "content": "api和网页版的，这段时间 能力不一样的，过段时间网页版可能会和api同步"
+    },
+    {
+      "id": "308629569105",
+      "t": 27,
+      "content": "回复 @化学组的狗 :能进到决赛，还能一度让gpt5.5汗流浃背，还是要点运气的"
+    },
+    {
+      "id": "311820017520",
+      "t": 28,
+      "content": "来咯，抽一个"
+    },
+    {
+      "id": "311839960528",
+      "t": 29,
+      "content": "回复 @云端小咖 :grok是目前输出长文本时最容易出现乱码的模型，没有之一，概率比哈基米流口水的概率还高。"
+    },
+    {
+      "id": "311667417568",
+      "t": 30,
+      "content": "回复 @似从前asitwas :你說的也對，但我認為能理解世界的Agi本身應該有給自己寫多模態算法的能力？"
+    },
+    {
+      "id": "7669010984296547091",
+      "t": 31,
+      "content": "梁总不差钱，有A股给他供血无限子弹没人干的过他哈哈"
+    },
+    {
+      "id": "308545014801",
+      "t": 16,
+      "content": "回复 @-半盏-流年- :访问GitHub我是clash挂系统代理就行了"
+    },
+    {
+      "id": "308421088881",
+      "t": 3,
+      "content": "回复 @视野前线 :那你要找这种野路子的话opencode还有免费的flash用呢 至少标flash人家确实给你用的是flash 中转站能打包票给你用的真的是luna吗"
+    },
+    {
+      "id": "6a6c7610000000002a006692",
+      "t": 32,
+      "content": "其实呢，我一直想问个问题，DeepSeek v4，workbuddy 不是早就接上了吗？为何现在一定要用 codex 呢？香一点吗"
+    }
+  ]
+}

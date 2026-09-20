@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "deepseek v4 flash正式版制作《带上她的眼睛》改编舞台剧，仿佛看到核弹爆炸！（片尾有彩蛋）",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Thoughts on Deepseek v4 Flash 0731?",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4-Flash is officially out, still dirt cheap. USA don't like that, and want ban open source models.",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "世界上最慢的大模型你们猜是哪个？\n\n是的，正是我 699 买的Kimi K3，当了回大韭菜，Kimi 还营造了卖爆了的假象。\n\n下个月我再续费我就是狗🐶。\n\nDeepseek-V4-Flash-0731大家疯狂称赞，除了便宜，速度快也是很爽的，它现在比Grok 4.5都快多了！ https://t.co/eLR2oZVfZn",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "130亿干翻490亿，DeepSeek让大力出奇失效了",
+    "Unpopular opinion, Deepseek V4 Flash is not Good",
+    "DS v4 flash numbers (utarn/DeepSeek-V4-Flash-0731-NVFP4) on rtx 6000 pro + ram offloading (93GB VRAM + 26GB RAM): 22.36 tps",
+    "Has anyone actually used DeepSeek V4 Flash 0731 to solve complex, real-world problems in medium to large production codebases? I’m looking for honest feedback, not hype or toy-project benchmarks",
+    "deepseek v4flash正式版在手机上本地运行",
+    "DeepSeek V4 Flash 0731がとにかくバズってます。激安なだけじゃない。本当に使えるモデルだからってことで。確かにそうかもしれない。でも、、",
+    "1块钱，半小时，deepseek-v4flash正式版实测",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "deepseek-v4-flash-0731？",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek V4 Flash深度评测：实测排名前五，国产大模型的史诗级翻身之作！",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型"
+  ],
+  "comments": [
+    {
+      "id": "311856429904",
+      "t": 0,
+      "content": "回复 @风之霜伤 : harness工程做的不咋地，拿来办公还凑合，做代码项目不如codex，接ds v4 flash的话，目前应该是codex最好使，cluade code反而还差一些"
+    },
+    {
+      "id": "2083092093644288041",
+      "t": 1,
+      "content": "@deepseek_ai benchmarks are useful but v4-flash needs failure traces for long tool chains"
+    },
+    {
+      "id": "308528906465",
+      "t": 2,
+      "content": "回复 @橘鸦Juya :@橘鸦Juya 反转了，你还是发吧[doge][doge][doge]"
+    },
+    {
+      "id": "311645529984",
+      "t": 3,
+      "content": "回复 @☆秋本亮晶晶☆ :可以的"
+    },
+    {
+      "id": "308377560865",
+      "t": 4,
+      "content": "回复 @云初子淼 :还是比不了 GLM5.2，得看 Pro 了"
+    },
+    {
+      "id": "308612867169",
+      "t": 5,
+      "content": "借用一位b站朋友的话，DeepSeek虽然又瞎又聋，但是心里装着整个世界[给心心]"
+    },
+    {
+      "id": "308433097489",
+      "t": 6,
+      "content": "🇨🇳👀🚶☠️"
+    },
+    {
+      "id": "p0y4isv",
+      "t": 7,
+      "content": "more aggressive, not so passive..\n\nstill sucks at complex instructions. i have a specific template for responses that involves HTML and Image Generation.. it constantly ignores this. \n\nit seems to be an issue with the model's sparse attention because 3.2 has a similar issue albeit to a much lesser degree."
+    },
+    {
+      "id": "308342929617",
+      "t": 4,
+      "content": "我想知道 ds 接入 codex 的话还支持 1m 上下文吗[微笑]我记得之前我试过好像不行"
+    },
+    {
+      "id": "311831768848",
+      "t": 8,
+      "content": "混元三正式版应该是 21B 激活，而且没有 D NSA 和 D Spark，速度上可能会比较慢"
+    },
+    {
+      "id": "308421920753",
+      "t": 9,
+      "content": "codex是这样"
+    },
+    {
+      "id": "p0zd4jo",
+      "t": 10,
+      "content": "😂😂😂😂 this is a great image!!"
+    },
+    {
+      "id": "7668928007184286521",
+      "t": 11,
+      "content": "昨天发布的是V4Flash正式版，按照Deepseek自己发布的跑分数据来看，是全面超越V4p预览版的"
+    },
+    {
+      "id": "311831452144",
+      "t": 6,
+      "content": "现在还学计算机，跟49年加入国军也没有区别了，等你毕业的时候代码工厂还需要多少代码奴隶都两说呢，当然天赋异禀的除外，行业top那批永远是有饭吃的"
+    },
+    {
+      "id": "2083900498717917408",
+      "t": 12,
+      "content": "@LinearUncle 应该没人比我玩的开了吧🍃💻 我福不黑不信你看"
+    },
+    {
+      "id": "7669009713150051106",
+      "t": 13,
+      "content": "账户里还有余额呢，但是不支持多模态转头就用中转站了，加入多模态就好了"
+    },
+    {
+      "id": "311746988640",
+      "t": 3,
+      "content": "对的，API 端的模型能力比官网要好，况且现在 Deepseek v4 Flash 0731只在 API 上线"
+    },
+    {
+      "id": "6a6eeee7000000002b001445",
+      "t": 14,
+      "content": "吹牛而已。激活参数低的产出的token质量差，科幻率很高"
+    },
+    {
+      "id": "p13q4qp",
+      "t": 15,
+      "content": "I decided to try it on my Rust codebase, and it performs pretty well, albeit needs a bit of guidance in more complicated parts (flagged several non-existent bugs).\n\nIt is a very impressive model when it has enough context about what is happening and what it can do."
+    },
+    {
+      "id": "311659817968",
+      "t": 9,
+      "content": "正常的，要等他加载一会儿，一直有的老毛病了"
+    },
+    {
+      "id": "7669007160391566120",
+      "t": 11,
+      "content": "买的🈶ds的api，workbuddy调用的能是正式版的v4 flash正式版吗"
+    },
+    {
+      "id": "7668929947751334705",
+      "t": 13,
+      "content": "梁圣[笑哭]"
+    },
+    {
+      "id": "2083687889737568659",
+      "t": 16,
+      "content": "DS v4 flash numbers (utarn/DeepSeek-V4-Flash-0731-NVFP4) on rtx 6000 pro + ram offloading (93GB VRAM + 26GB RAM): 22.36 tps"
+    },
+    {
+      "id": "p11zs9r",
+      "t": 17,
+      "content": "I used it to clone guitar effect reverb pedals if that counts."
+    },
+    {
+      "id": "311903391808",
+      "t": 18,
+      "content": "他这个用的是一种优化算法，你手机上跑几百b的模型，理论上都可以，不会报错，但是速度极慢"
+    },
+    {
+      "id": "2083893866722439214",
+      "t": 19,
+      "content": "DeepSeek V4 Flash 0731がとにかくバズってます。激安なだけじゃない。本当に使えるモデルだからってことで。確かにそうかもしれない。でも、、"
+    },
+    {
+      "id": "311656858960",
+      "t": 20,
+      "content": "这是真的相当可以了"
+    },
+    {
+      "id": "308396984881",
+      "t": 9,
+      "content": "回复 @八小时不摸鱼的大冤种 :明白👌🏻😊"
+    },
+    {
+      "id": "308380596001",
+      "t": 9,
+      "content": "回复 @Wonder_1662 :上传视频了，你去看吧。我是用的Deepseek v4 Flash识图和生成图片"
+    },
+    {
+      "id": "6a6f1ed90000000015001852",
+      "t": 21,
+      "content": "不是都说codex和ds不太配吗"
+    },
+    {
+      "id": "6a6ea106000000001501014a",
+      "t": 22,
+      "content": "请教下，这种主子模式要用什么设置"
+    },
+    {
+      "id": "311706010464",
+      "t": 9,
+      "content": "回复 @烽域 :能发图片和生成图片不代表模型是原生多模态，deepseek公告写的很明确，模型还是原来那个模型，只是做了后训练，所以还不是原生多模态。但是模型应该是可以调用外部工具来实现看图和生图的[辣眼睛]"
+    },
+    {
+      "id": "311846781856",
+      "t": 23,
+      "content": "一亿两块钱闹麻了，opencode go用ds v4 flash哪怕不是首月都只是70块，token近百亿"
+    },
+    {
+      "id": "311739678656",
+      "t": 9,
+      "content": "pro比flash更贵"
+    },
+    {
+      "id": "308479218369",
+      "t": 24,
+      "content": "我没你那么幸运，四千三百万命中四千两百万，收了一块九毛六。"
+    },
+    {
+      "id": "311851611376",
+      "t": 25,
+      "content": "听梁子说他们很缺卡，有昇腾950也不够用而且折旧比英伟达快的多，没算力就优先研究优化模型，有算力直接起飞了"
+    },
+    {
+      "id": "p138zpx",
+      "t": 26,
+      "content": "Price of goods and services have little to do with what it cost to produce. Read theory of subjective value by Carl Menger"
+    },
+    {
+      "id": "311664085648",
+      "t": 4,
+      "content": "回复 @kate人不错 :虽然是agy写的不是我写的[doge]"
+    },
+    {
+      "id": "308463609713",
+      "t": 6,
+      "content": "走opencode看看，别拿plan比api啊，opencode12倍flash额度没懂luna的性价比在哪"
+    },
+    {
+      "id": "7668898027348640569",
+      "t": 27,
+      "content": "你拉的密钥，你输的你还不知道吗"
+    }
+  ]
+}

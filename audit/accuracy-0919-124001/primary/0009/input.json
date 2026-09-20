@@ -1,0 +1,228 @@
+{
+  "topics": [
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "Deepseek V4-flash正式版实测",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "一分钟搞定！DeepSeek V4 Flash 接入 Codex 教程（可识图）！",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成"
+  ],
+  "comments": [
+    {
+      "id": "6a6c8d61000000000b039c4f",
+      "t": 0,
+      "content": "proma 好用的"
+    },
+    {
+      "id": "2083185876130029753",
+      "t": 1,
+      "content": "@deepseek_ai https://t.co/ap9oRl4oXa"
+    },
+    {
+      "id": "308443164753",
+      "t": 2,
+      "content": "回复 @蓝藻o :但是现在很多人不喜欢原生agent，各种自定制多，模型能力就很重要了"
+    },
+    {
+      "id": "311686867920",
+      "t": 3,
+      "content": "[doge]你这v4人妻味有点足啊"
+    },
+    {
+      "id": "308407508641",
+      "t": 4,
+      "content": "没多模态在需要视觉效果的场景很吃亏，只能等v4.1了，视觉识别的论文已经有了就看后面怎么完善和落地。不过对我主要做后端的来说，工程能力足够就行"
+    },
+    {
+      "id": "311714332800",
+      "t": 5,
+      "content": "就flash和pro，哪来的max"
+    },
+    {
+      "id": "311674107456",
+      "t": 6,
+      "content": "没必要纠结工具，现在工具都是免费的，这玩意也没那么复杂，各种工具能力都会慢慢对齐的，真正的变量还是模型。"
+    },
+    {
+      "id": "7668846861989626633",
+      "t": 7,
+      "content": "参数没开放完全，"
+    },
+    {
+      "id": "7669076351294571305",
+      "t": 8,
+      "content": "全称是DeepSeek v4 pro preview, 一个预览版而已, 只是口头都说v4 v4"
+    },
+    {
+      "id": "311840285136",
+      "t": 6,
+      "content": "回复 @大猫SilyCat : 肯定没优化好呗[微笑][微笑][微笑]  他连监控其他聊天窗口这个功能都没有..  不太成熟， 还是建议接入 claude code，  这个才是亲爹"
+    },
+    {
+      "id": "6a6cab50000000002a006635",
+      "t": 9,
+      "content": "不是早就就有了么 api不就是么"
+    },
+    {
+      "id": "308406604609",
+      "t": 10,
+      "content": "是的，他的编曲能力有所提升，至少用代码生成出来的编曲比之前相对而言有所提升，使用的是web audio api编写"
+    },
+    {
+      "id": "308410637121",
+      "t": 4,
+      "content": "回复 @JohnStones3 :那咋了"
+    },
+    {
+      "id": "7668884894260511531",
+      "t": 7,
+      "content": "没有软件，可以接任何的agent都行"
+    },
+    {
+      "id": "311639402912",
+      "t": 11,
+      "content": "ds多模态不行"
+    },
+    {
+      "id": "311707652704",
+      "t": 12,
+      "content": "官网有，但 api 还没有，只能等了，目前只能用其他的来补"
+    },
+    {
+      "id": "7669108347941290778",
+      "t": 13,
+      "content": "量化之父，量化致富[赞]"
+    },
+    {
+      "id": "311728623712",
+      "t": 6,
+      "content": "回复 @咫尺之梦想 :你看了灰测的案例吗？"
+    },
+    {
+      "id": "311759684400",
+      "t": 14,
+      "content": "回复 @MicatsER_米卡 :Cherrystudio的智能体"
+    },
+    {
+      "id": "308432810513",
+      "t": 4,
+      "content": "回复 @是郁头呀丶 :这方面确实需要没限制的模型"
+    },
+    {
+      "id": "6a6d82d10000000029034dc7",
+      "t": 15,
+      "content": "那不错啊，相当可以了，就是不知道啥时候还能降价[doge]"
+    },
+    {
+      "id": "7668910971230962483",
+      "t": 8,
+      "content": "这是个阳谋    我知道我模型不够好，但你敢停下来等我吗[看]"
+    },
+    {
+      "id": "308428610401",
+      "t": 6,
+      "content": "回复 @_西瓜树下_ :十几次都多少上下文了[笑哭]"
+    },
+    {
+      "id": "6a6df683000000001500a5fe",
+      "t": 16,
+      "content": "我之前用v4pro也是这样，纯执行都执行不对，codex每次审查后又得codex自己继续改，中间偷偷省了点换了点"
+    },
+    {
+      "id": "7669299371594613558",
+      "t": 8,
+      "content": "新视频里说了他们的一种技术grpo，如果对这个感兴趣的人多我过后可以展开讲讲，但是这类技术要偏底层了，观众受众不会很多"
+    },
+    {
+      "id": "311823369152",
+      "t": 9,
+      "content": "已三连，求提示词分享"
+    },
+    {
+      "id": "311895589200",
+      "t": 12,
+      "content": "v4官方的方式支持视频中的多模态识别了吗[笑哭]每次发图片都提示"
+    },
+    {
+      "id": "7669056426770137862",
+      "t": 8,
+      "content": "比gpt5.5差多了，不是差不多"
+    },
+    {
+      "id": "311677223712",
+      "t": 6,
+      "content": "要是flash 可以比肩k3，那 其他几家直接gg了"
+    },
+    {
+      "id": "308566328737",
+      "t": 17,
+      "content": "回复 @我是爱散步的蜗牛啊 : v2ray"
+    },
+    {
+      "id": "311866879328",
+      "t": 18,
+      "content": "怎么都是推荐mac安装，有windows吗"
+    },
+    {
+      "id": "7668908882828149554",
+      "t": 13,
+      "content": "发布前梁子老梁，发布后梁圣"
+    },
+    {
+      "id": "308329329697",
+      "t": 19,
+      "content": "我估计用5.6 sol做出来也就这效果"
+    },
+    {
+      "id": "311656203728",
+      "t": 11,
+      "content": "flash支持1m上下文吗"
+    },
+    {
+      "id": "311652895392",
+      "t": 9,
+      "content": "今年7月下旬就一天不到啊"
+    },
+    {
+      "id": "311887747152",
+      "t": 20,
+      "content": "有条件的话还是得用模型官方的harness，glm用zcode，luna用codex，比较尴尬的是deepseek的harness还没出。之后如果有出的话是不是可以再来一轮一样的测试，看看harness对完成结果的影响多大"
+    },
+    {
+      "id": "7669098074627048230",
+      "t": 8,
+      "content": "就是现在的大模型给过去的大模型找bug"
+    },
+    {
+      "id": "308569148673",
+      "t": 2,
+      "content": "我也是opencode go，不如pi，便宜是真的便宜"
+    },
+    {
+      "id": "7669026085853528869",
+      "t": 13,
+      "content": "能免费就用免费算了"
+    },
+    {
+      "id": "7668928686960182053",
+      "t": 21,
+      "content": "路由到肥波5？闹嘛呢做慈善都不敢这么做[钱]"
+    }
+  ]
+}

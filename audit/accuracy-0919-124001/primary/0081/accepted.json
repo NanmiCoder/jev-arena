@@ -1,0 +1,799 @@
+{
+  "items": [
+    {
+      "id": "311738355248",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问怎么看，对象可能是模型消息或查看方式，指代有歧义。"
+    },
+    {
+      "id": "311843160096",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "谈保留消息炒股，未明确讨论AI，语气或带玩笑。"
+    },
+    {
+      "id": "308489978481",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合部署标题，陈述正在使用群友修改的版本。"
+    },
+    {
+      "id": "311792829712",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问所用及推荐的agent，属于使用求助。"
+    },
+    {
+      "id": "308520310209",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "反对上限取决于使用者的说法，并批评智力短板。"
+    },
+    {
+      "id": "7668871040269583163",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "报告四千万token花半块，未落实所指不明。"
+    },
+    {
+      "id": "7669066031649915705",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 1,
+      "reason": "用无敌和吊打明确赞赏模型性价比。"
+    },
+    {
+      "id": "7669067849159312155",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "强推另一产品且称好用，纯推广与真实推荐难区分。"
+    },
+    {
+      "id": "311792386016",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.6,
+      "reason": "陈述Pro费用，并对Flash低价表达期待。"
+    },
+    {
+      "id": "311906804128",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃数字读法，未讨论AI产品本身。"
+    },
+    {
+      "id": "311875290736",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清识图依赖外挂模型而非原生多模态。"
+    },
+    {
+      "id": "308494950481",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "反驳对方主观判断，缺少明确AI讨论对象。"
+    },
+    {
+      "id": "7668908279008002874",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "分享大量token的低费用，才字和点赞体现认可。"
+    },
+    {
+      "id": "7668996014447297337",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "以鬼追厂商比喻竞争压力，带赞叹意味但略有歧义。"
+    },
+    {
+      "id": "311724685616",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅有vibe driving梗，是否指AI应用不明确。"
+    },
+    {
+      "id": "7668967585759216443",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "推荐工具组合，并以高命中率和低费用支撑。"
+    },
+    {
+      "id": "7668751739080295210",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "请求开源AI项目用于测试，兼有询问形式。"
+    },
+    {
+      "id": "311898279856",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "讥讽用中转站体验贬低DS的评价依据。"
+    },
+    {
+      "id": "7668737817912443706",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "笑谈对方是否干过某事，缺少具体AI指向。"
+    },
+    {
+      "id": "308328615233",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "结合闭源讨论，以抄袭和讲故事讽刺行业叙事。"
+    },
+    {
+      "id": "311714538768",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "表达相信价格会随等待继续降低。"
+    },
+    {
+      "id": "p0tszmf",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问此时使用Pro的理由，质疑定位而非明确贬低。"
+    },
+    {
+      "id": "311671835264",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出可能使用Codex且已有官方文档，亦可能是推荐。"
+    },
+    {
+      "id": "6a6cc331000000000403bef1",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison",
+        "capability",
+        "trust"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0.5,
+      "reason": "反对吹捧指控，认可评测客观并偏好GPT。"
+    },
+    {
+      "id": "308419476545",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "认为部署硬件偏贵，并询问另一配置对比。"
+    },
+    {
+      "id": "308511770033",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "陈述千问仍在后训练，没有明确褒贬。"
+    },
+    {
+      "id": "308434572657",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "service",
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "抱怨充值后抢不到包季，是否AI订阅略有歧义。"
+    },
+    {
+      "id": "2083680619318718868",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other",
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0.3,
+      "reason": "分析AI发展路线，赞赏开放效率并批评垄断集权。"
+    },
+    {
+      "id": "308520156465",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否使用Codex，无明显褒贬。"
+    },
+    {
+      "id": "7669373365232091939",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.7,
+      "reason": "强烈抱怨智谱和Kimi价格高，以DS低价作对照。"
+    },
+    {
+      "id": "311730642128",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正模型所需知识的看法，解释逻辑与后训练作用。"
+    },
+    {
+      "id": "p11pawi",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.95,
+      "reason": "实测后强烈贬低0731表现，决定继续使用Luna。"
+    },
+    {
+      "id": "6a6dc8bc000000002b029e70",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.3,
+      "reason": "认为算力不足并担忧公司持续经营，未明确抱怨。"
+    },
+    {
+      "id": "6a6d2e9f000000001500076c",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清图片来自本地素材，DS仅实现显示效果。"
+    },
+    {
+      "id": "311813199520",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "赞赏博主说话有趣，未评价AI产品。"
+    },
+    {
+      "id": "6a6eb264000000001403b960",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "分析本地部署硬件需求，并认可多种芯片适配。"
+    },
+    {
+      "id": "6a6dc321000000001403b20c",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议让新旧agent协助迁移记忆与技能配置。"
+    },
+    {
+      "id": "308388173233",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other",
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "重复热烈表白，可能面向拟人DS，也可能纯互动。"
+    },
+    {
+      "id": "308470997985",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述多模态研发方向及AI自行实现的预测。"
+    },
+    {
+      "id": "308403059665",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "对比K3高费用，强烈赞赏Flash带来的低成本体验。"
+    }
+  ]
+}

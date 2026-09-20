@@ -1,0 +1,787 @@
+{
+  "items": [
+    {
+      "id": "311646099856",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以互相施压调侃GLM的交互表现。"
+    },
+    {
+      "id": "311643284464",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "批评模型测评所用测试用例陈旧。"
+    },
+    {
+      "id": "7668901245189735183",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问正式版API状态与接入工具适配。"
+    },
+    {
+      "id": "311681991536",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "指责作者蹭流量，未评价模型或使用。"
+    },
+    {
+      "id": "311913234784",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认为模型相比CC更适配Codex。"
+    },
+    {
+      "id": "6a6f0c710000000015010b95",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.4,
+      "reason": "表达对Pro正式版的期待。"
+    },
+    {
+      "id": "p0wvvrm",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "抱怨Flash不遵循复杂指令且新版更差。"
+    },
+    {
+      "id": "p0ymzev",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "告知GGUF的Q2、Q3量化版本接近齐备。"
+    },
+    {
+      "id": "308497624529",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "明确谈模型能力，但未给出具体评价。"
+    },
+    {
+      "id": "308370697345",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述两广使用农历，未明确关联模型。"
+    },
+    {
+      "id": "p0u8jh2",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "借虚构对话赞赏强模型仍定位最低价。"
+    },
+    {
+      "id": "7668755305311781642",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.5,
+      "reason": "抱怨对方不回应观点，对象是否模型不明。"
+    },
+    {
+      "id": "311627149152",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "模仿书记员口吻玩梗，未涉及模型评价。"
+    },
+    {
+      "id": "7669094614334325513",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "请求进行比较，但“这个”的对象缺失。"
+    },
+    {
+      "id": "311633093152",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "以农历解释发布提前，偏玩梗也可能纠正。"
+    },
+    {
+      "id": "7669008266022634299",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问使用API的原因及是否用于公司。"
+    },
+    {
+      "id": "308502440321",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "套用口号盼DeepSeek再强大，偏玩梗。"
+    },
+    {
+      "id": "308602387249",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "求推荐更适合DeepSeek的使用工具。"
+    },
+    {
+      "id": "311701742368",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "用激活参数差异质疑对方比较的合理性。"
+    },
+    {
+      "id": "7668950685879272251",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "以自身额度消耗反驳对方用量算得上使用。"
+    },
+    {
+      "id": "311663342384",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "求助模型查论文时webfetch被拦截的设置。"
+    },
+    {
+      "id": "7668947994121962276",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问对方一周做什么，是否指AI使用不明。"
+    },
+    {
+      "id": "6a6c83370000000015006d55",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "推荐官方API套餐，认可价格与充足用量。"
+    },
+    {
+      "id": "7668962624520438578",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问所用AI工具是否为Cline。"
+    },
+    {
+      "id": "7668688461398442801",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "明确称赞V4 Flash能力强且便宜。"
+    },
+    {
+      "id": "6a6cd9d1000000002a033cb3",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": null,
+      "reason": "询问需求重要性并推测采纳，可能带反讽。"
+    },
+    {
+      "id": "6a6ec99e000000002a02d35f",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "用低成本Qwen部署反驳双H100方案价值。"
+    },
+    {
+      "id": "308382501537",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.4,
+      "reason": "以斩杀GLM和负责人哭死调侃竞争优势。"
+    },
+    {
+      "id": "311758414592",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "质疑测评接入，认可自身效果同时承认问题。"
+    },
+    {
+      "id": "308590116545",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合利用率分析本地部署与官方API成本。"
+    },
+    {
+      "id": "311732393552",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "希望时间提前到八月，具体等待对象不明。"
+    },
+    {
+      "id": "311663628512",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.5,
+      "reason": "调侃并赞叹作者勤奋，未评价模型。"
+    },
+    {
+      "id": "7668921358474724133",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "称DS为斩杀线，暗示竞争优势但含义略模糊。"
+    },
+    {
+      "id": "308596827649",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问游戏角色台词出处，与AI无明确关系。"
+    },
+    {
+      "id": "6a6d50bf000000002b024461",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "表示两种说法均可理解，但缺少观点对象。"
+    },
+    {
+      "id": "7668878541098631985",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "质疑产品是否值得不计成本投入，对象不明。"
+    },
+    {
+      "id": "308565213425",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.4,
+      "reason": "认可本地成本与Agent提升，也指出多模态欠缺。"
+    },
+    {
+      "id": "308604969409",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问如何破甲，缺少语境无法确定是否AI话题。"
+    },
+    {
+      "id": "308398269313",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问与Claude相比命中率是否改善。"
+    },
+    {
+      "id": "6a6e50fe000000000d023400",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃时间未注明时区，无明确AI关联。"
+    }
+  ]
+}

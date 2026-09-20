@@ -1,0 +1,232 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "Deepseek-v4-flash 正式版实测一天，真的强到 价格是真的便宜，速度也是我用过最快的，编程能力强到离谱，agent工具调用这块更是牛得不行。测了一整天，全程没一次想骂AI傻逼的冲动！#deepseek #agent #vibecoding",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Has anyone gotten the new DeepSeek V4 Flash 0731 running on a 2–3 node DGX Spark cluster?\n\nWhat throughput are you seeing, which quant are you using, and what context length can you run reliably?\n\nLoo",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Deepseek v4 flash 0731",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "美国小哥实测DeepSeekV4Flash：花不到1美元，AI给他做了个GTA+射击游戏，这Flash怎么比pro还pro？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "i don't get the hype - DeepSeek V4 Flash 0731",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "DeepSeek-V4-Flash-0731 is a good model. \n\nHave you tried it yet? https://t.co/zjCVTtkVc3",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "DeepSeek V4 Flash API is 18x cheaper on input, 28x cheaper on output, and matches Opus 4.8. Time for Claude to atleast reduce sonnet pricing",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "\"While DeepSeek V4-Flash is significantly cheaper on price per token, this can be misleading if the overall cost per task ends up being higher due to more turns being made. However, @ArtificialAnlys r"
+  ],
+  "comments": [
+    {
+      "id": "7668873670890849076",
+      "t": 0,
+      "content": "这下deepseek真成后训练仙人了[黑脸]"
+    },
+    {
+      "id": "311764579648",
+      "t": 1,
+      "content": "那你可以买ollama cloud ,20刀可以用80到100亿的flash"
+    },
+    {
+      "id": "308412049649",
+      "t": 2,
+      "content": "什么情况？？？原来是正式版发布了。。我说昨晚写代码都是一轮过，而且特别快"
+    },
+    {
+      "id": "311657347456",
+      "t": 2,
+      "content": "博主视频配音用什么做的"
+    },
+    {
+      "id": "7669310615999103780",
+      "t": 3,
+      "content": "被割的东大散户含泪点赞理发店卷死美帝[流泪]"
+    },
+    {
+      "id": "308388780945",
+      "t": 2,
+      "content": "回复 @新时代文艺青年 :100那个是真的贵 那会刚出来看到已经被吓死了"
+    },
+    {
+      "id": "311653101840",
+      "t": 4,
+      "content": "回复 @新野星期四 :5.2 已经算以小博大了，v4flashga更是高手[doge]还是第一次听说这个 inkinking 模型，这个体积倒也是接近 1T 了，倒也不小"
+    },
+    {
+      "id": "311753178720",
+      "t": 5,
+      "content": "回复 @emsns : [doge_金箍]感觉现在除了企业对企业之外，其他的都是用数据换优惠。例如gpt的开套餐价格性价比超高，还经常送重置。"
+    },
+    {
+      "id": "311679921616",
+      "t": 6,
+      "content": "回复 @阿瓦隆上单- :目前ds只能说这个价格下凑合用了，pro好一点但解决不了根本问题"
+    },
+    {
+      "id": "2083323005988405616",
+      "t": 7,
+      "content": "Has anyone gotten the new DeepSeek V4 Flash 0731 running on a 2–3 node DGX Spark cluster?\n\nWhat throughput are you seeing, which quant are you using, and what context length can you run reliably?\n\nLooking for real-world numbers before I try it."
+    },
+    {
+      "id": "308342194385",
+      "t": 8,
+      "content": "今天刚更新的v4 flash正式版"
+    },
+    {
+      "id": "311726425968",
+      "t": 1,
+      "content": "回复 @Rock_46 :用中转站"
+    },
+    {
+      "id": "308441535201",
+      "t": 1,
+      "content": "从 token 计价模式上，DS 的性价比目前确实是头部水平\n\n但现在用过 ChatGPT Plus 订阅的都知道，这个套餐目前没有对手"
+    },
+    {
+      "id": "7668986769153999626",
+      "t": 9,
+      "content": "反正我是一直用的deepseek，挺好的，已经非常顺利的完成了挺多项目了"
+    },
+    {
+      "id": "6a6dc3bf000000002901ae13",
+      "t": 10,
+      "content": "我是简单的交给deepseek，它要是改不好的就交给codex，基本上deepseek几轮都改不好的codex一轮就搞定了"
+    },
+    {
+      "id": "311786132048",
+      "t": 11,
+      "content": "回复 @热爱游戏的猫猫 : 你要是不会弄你把QQ给我我给你远程"
+    },
+    {
+      "id": "308436572049",
+      "t": 1,
+      "content": "回复 @深水の河豚 :我自己的生图agent也是这么解决小鲸鱼眼瞎的问题，[doge]用opencode免费mimo来读图内容告诉小鲸鱼图片内容，还能让小鲸鱼去用特定的msg去看自己想知道的内容。比如详细问mimo模型图片中某个css是什么形状的。但是说实话，非原生的只能说能用[笑哭]处理一些更精细化的就难了。哎"
+    },
+    {
+      "id": "311763989760",
+      "t": 12,
+      "content": "cache不是这么工作的"
+    },
+    {
+      "id": "7668884278784934682",
+      "t": 13,
+      "content": "Trae和qoder都买了……那我等用完刚好pro 上了"
+    },
+    {
+      "id": "7668998629022303027",
+      "t": 13,
+      "content": "鞭子？那是砍刀！要是被追上直接就没了[捂脸]"
+    },
+    {
+      "id": "6a6c9f40000000002203dcc4",
+      "t": 14,
+      "content": "Proma 桌宠要来了吗  哈哈"
+    },
+    {
+      "id": "7669287107244262193",
+      "t": 15,
+      "content": "用豆包识图，文字转述给ds呗。我就这样搞的，我感觉这两够够的了。"
+    },
+    {
+      "id": "311764242720",
+      "t": 1,
+      "content": "没有量化交易你一样照样亏"
+    },
+    {
+      "id": "p12v60t",
+      "t": 16,
+      "content": "Deepseek is cheap and that's the best point.\n\nBut it needs real precise prompting.\nGive it too much liberty and it will lie, taking shortcuts and basically do everything to finish the task the easiest way possible.\n\nI currently use Claude or glm to prompt and review the answers."
+    },
+    {
+      "id": "308455452161",
+      "t": 17,
+      "content": "在游戏里锁头挂是违规的，但是在现实里是合规的[doge]"
+    },
+    {
+      "id": "7668998781270147877",
+      "t": 9,
+      "content": "吹牛没输过，实战成绩不俗，但回回都没有吹的那么厉害，让人说两句吧觉得它也不容易，不说吧，一堆人又吹又捧的没完没了天天炸裂天塌。"
+    },
+    {
+      "id": "7669020841082995514",
+      "t": 13,
+      "content": "从vs上接的话，是不是接cc比较好？"
+    },
+    {
+      "id": "2083896109098012808",
+      "t": 18,
+      "content": "@Mayhem4Markets Yes, results are astonishing\n\nhttps://t.co/LngsUiWeHf"
+    },
+    {
+      "id": "6a6e1342000000002a007c6f",
+      "t": 19,
+      "content": "中国版什么时候支持包年呀"
+    },
+    {
+      "id": "7669294248394654522",
+      "t": 13,
+      "content": "Reasonix给DS的缓存做了优化，缓存命中率比较高。"
+    },
+    {
+      "id": "p11uqd8",
+      "t": 20,
+      "content": "So is KIMI or deepseek now better or as good as claude for uni stuff, such as organic chemistry?"
+    },
+    {
+      "id": "311639592672",
+      "t": 21,
+      "content": "我用的codex桌面端"
+    },
+    {
+      "id": "311803243968",
+      "t": 4,
+      "content": "5.2我记得600多就"
+    },
+    {
+      "id": "6a6d1c3f000000000500be10",
+      "t": 22,
+      "content": "都说尴尬的是 glm，不是 kimi"
+    },
+    {
+      "id": "308571021569",
+      "t": 23,
+      "content": "和我体验一致[笑哭]gpt5.6不管什么模型，一旦沾上max那就是乌龟"
+    },
+    {
+      "id": "311922878448",
+      "t": 24,
+      "content": "并发开太多的话，是会比较慢的"
+    },
+    {
+      "id": "p15i45r",
+      "t": 25,
+      "content": "Does it say anything about the difficulty of the task? How is it evaluated?"
+    },
+    {
+      "id": "308350833537",
+      "t": 2,
+      "content": "就别一捧一踩窝里斗了，都是国内有实力的AI模型"
+    },
+    {
+      "id": "7668912996899701523",
+      "t": 13,
+      "content": "还是太保守了"
+    },
+    {
+      "id": "7668941713130472201",
+      "t": 9,
+      "content": "前几天我才刷到kmi的k3，说k3是全球第一，到底哪个厉害"
+    }
+  ]
+}

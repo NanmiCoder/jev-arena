@@ -1,0 +1,235 @@
+{
+  "topics": [
+    "Ran DS V4-Flash-0731 Locally on 3xMI50 32GB @ ~15 t/s TG",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "部署正式版DS-V4-Flash-0731成本真的不高!",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Newly released Deepseek V4 Flash Official scores close to Claude Opus 4.8.  Price: 0.18$ / 1mil OUTPUT tokens",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek V4flash用SVG复刻梵高和画画",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "DeepSeek V4 Flash 正式版发布 - 白菜价！超高性价比的编程模型",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek v4 flash 0731"
+  ],
+  "comments": [
+    {
+      "id": "p18sp23",
+      "t": 0,
+      "content": "now make a rubik's sphere"
+    },
+    {
+      "id": "311790105696",
+      "t": 1,
+      "content": "哎~20系看来是彻底没戏了..."
+    },
+    {
+      "id": "6a6ec241000000002902eeb7",
+      "t": 2,
+      "content": "方便分享一下您的硬件配置吗"
+    },
+    {
+      "id": "311734829632",
+      "t": 3,
+      "content": "codex 是工具啊"
+    },
+    {
+      "id": "311872144864",
+      "t": 4,
+      "content": "很简单，大多数人肯定会拼命找工作"
+    },
+    {
+      "id": "308482784241",
+      "t": 5,
+      "content": "我看楼上有人说要改一些测试次数，我觉得挺不错的想法，但是其实我一直觉得有些题目机会用完了 仍然没有做对 可以再试几次嘛（不算分数） 单纯好奇模型能力够不够解决这道题目 我这个想法如何[微笑]"
+    },
+    {
+      "id": "6a6edef3000000002a005879",
+      "t": 6,
+      "content": "难说[偷笑R]梁圣说，追求agi，所以不侧重的多模态，你觉得是什么意思呢[偷笑R]你要和梁圣对对线吗"
+    },
+    {
+      "id": "308450966033",
+      "t": 7,
+      "content": "这模式适合当执行岗，给出具体工作指令让它干，调用工具的积极性比预览高很多。当oneshot许愿机还是不行[思考]"
+    },
+    {
+      "id": "311888011472",
+      "t": 8,
+      "content": "deepseek啥时候变成多模态"
+    },
+    {
+      "id": "7668951735326901029",
+      "t": 9,
+      "content": "比Pro便宜，我以前用Pro"
+    },
+    {
+      "id": "311869424704",
+      "t": 10,
+      "content": "[破碎的祈愿表情包_给心心]"
+    },
+    {
+      "id": "7668918509963199241",
+      "t": 11,
+      "content": "嗯嗯 可以安装agent工具比如 openclaw hermes 这种开源的，或者腾讯的那个work啥啥的，然后配置LLM的API key，通过自然语言的方式让它做需要在电脑上完成的事情，当前最多的就是编程或者数据收集 整理分析 和各种定时任务。这些任务就会消耗token ，ds 主打性价比。你可以把这段话复制给豆包，在把你的工作 生活中经常遇到的事情告诉它，让豆包来分析可以做什么，用AI对AI就很简单了。"
+    },
+    {
+      "id": "p0zugps",
+      "t": 12,
+      "content": "How much of the context is usable though. I've had Chinese models forget how to use tools quickly"
+    },
+    {
+      "id": "7668686594941322021",
+      "t": 13,
+      "content": "Falsh现在就是4.8的水平，各有千秋"
+    },
+    {
+      "id": "311907971232",
+      "t": 14,
+      "content": "是原厂，刚充的钱，全是默认，跑分的每个测试项会对参数有统一要求，不满足会全部失败。"
+    },
+    {
+      "id": "311750827376",
+      "t": 14,
+      "content": "因为这东西就是给小白用的 opencode对我来说都不行 但是我实在不想用claudecode 太期待ds官方的harness了[星星眼][星星眼]"
+    },
+    {
+      "id": "308625757009",
+      "t": 14,
+      "content": "那没那么快，内测都得两周"
+    },
+    {
+      "id": "17926500",
+      "t": 15,
+      "content": "@listen2wind #35 第一次听呢，梁目前口碑还行的吧"
+    },
+    {
+      "id": "6a6e9a1a000000002a0050b0",
+      "t": 16,
+      "content": "我也是百亿补贴其中一元吗"
+    },
+    {
+      "id": "311776383104",
+      "t": 7,
+      "content": "回复 @吉言2099 : 比hy3近295B的强，但离744B的GLM 5.2还差一点。其实生成游戏一次性完美到位的情况少，或多或少都有问题。跟提示词多少没什么关系，Agent Coding本身就会仿照原版游戏自动补齐玩法。"
+    },
+    {
+      "id": "308390782289",
+      "t": 17,
+      "content": "回复 @ak1iiii :肯定pro啊，名字也能看出来。pro是和fable5，k3一个级别的顶尖模型"
+    },
+    {
+      "id": "311716459152",
+      "t": 18,
+      "content": "想请教问一下，UP主的Claude code的网络搜索功能这么好用吗？难道是我的ClaudeCode出了问题？\n我的Claude Code每次网络搜索都找到0个结果，也是接入第三方API的。\n还是UP主的搜索功能调用了一些网络搜索MCP呢？"
+    },
+    {
+      "id": "7668736626508497723",
+      "t": 19,
+      "content": "因为这个是叫预览版。"
+    },
+    {
+      "id": "311766519056",
+      "t": 20,
+      "content": "回复 @20zhangshuai12 : https://api-docs.deepseek.com/zh-cn/quick_start/pricing\n官网一共就2模型，公告大大的已上线"
+    },
+    {
+      "id": "6a6d728e0000000029026a7d",
+      "t": 21,
+      "content": "OK，我试试"
+    },
+    {
+      "id": "308408402129",
+      "t": 18,
+      "content": "回复 @pyo小子 :官方Harness都没出，说什么？"
+    },
+    {
+      "id": "308559277953",
+      "t": 22,
+      "content": "回复 @Sydowlle :这种就是软件自己的强制提示词而已，实际就是deepseek"
+    },
+    {
+      "id": "311743180112",
+      "t": 23,
+      "content": "因为做视频的 up 主是国外的，新版全球都能用"
+    },
+    {
+      "id": "6a6ce8190000000029018fa6",
+      "t": 6,
+      "content": "想问下，用clain插件调用ds和您这样调用效果一样嘛[笑哭R]"
+    },
+    {
+      "id": "7669027066872824633",
+      "t": 11,
+      "content": "估计加班加点研究5.5呢，4pro出来  5.5扛不住就凉了  智谱割韭菜的镰刀刚举起来让梁大圣一脚蹬飞"
+    },
+    {
+      "id": "308344441617",
+      "t": 24,
+      "content": "回复 @kate人不错 :DeepSeek定位聪明人，其他的定位人傻钱多[doge]"
+    },
+    {
+      "id": "311711945536",
+      "t": 25,
+      "content": "回复 @-DONGCER- :不，zcode。不知道zcode系统提示词多少，也许换个agent， token还能降低，不过这缓存比例已经无所谓"
+    },
+    {
+      "id": "311691411536",
+      "t": 26,
+      "content": "回复 @薛丁格的貓娘 :正常，模型都调用成功了"
+    },
+    {
+      "id": "308577184817",
+      "t": 27,
+      "content": "没什么问题的，又不是真的要你当大技霸，很多人其实根本用不到计算机的全部功能，只要精通一个方面就可以了"
+    },
+    {
+      "id": "308485386833",
+      "t": 5,
+      "content": "字符：语言模型你随便骂，那你再看看视频生成模型呢"
+    },
+    {
+      "id": "311641393232",
+      "t": 20,
+      "content": "回复 @拉丝缇娅拉 : 原来是这样，谢谢[OK]"
+    },
+    {
+      "id": "308354348001",
+      "t": 17,
+      "content": "搞llm导航的，这次更新完之后性能虽然提升了，但是token消耗量翻了五倍，😭"
+    },
+    {
+      "id": "308344895745",
+      "t": 17,
+      "content": "UP，你这个图有误，luna今天也已经打了两折"
+    },
+    {
+      "id": "308516593137",
+      "t": 22,
+      "content": "你的key泄露了，记得删除"
+    },
+    {
+      "id": "6a6e03f90000000029024221",
+      "t": 28,
+      "content": "挺好用的，不过用来做视觉相关的就算了，人本来就没多模态[捂脸R]"
+    }
+  ]
+}

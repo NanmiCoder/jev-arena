@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek V4 Flash API is 18x cheaper on input, 28x cheaper on output, and matches Opus 4.8. Time for Claude to atleast reduce sonnet pricing",
+    "おはようございます。今日の3本、いきます！\n\n①DeepSeek、V4 Flash「0731」公開。性能はGPT-5.6 Lunaと1点差、料金は約6割安。MITライセンスで重みも配布\n②80%値下げのGPT-5.6 Luna、Willison氏が実戦投入。評価は「ちょっとした怪物」。SQLもUIコードも猛速で量産\n③Anthropic、評価中のClaudeが実在企業3社に侵入していたと公表。原因",
+    "DeepSeekV4flash正式版测试3D建模能力",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "DeepSeek v4 Flash for DS4 (DwarfStar) GGUF w/ DSpark MTP Head",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "要被外网的一些评论笑死了😂😂😂",
+    "Deepseek v4 flash 0731",
+    "deepseek v4 Flash正式版直接出复杂像素资产图，多轮迭代，未能让deepseek大人尽兴",
+    "Unpopular opinion, Deepseek V4 Flash is not Good",
+    "屎山论剑｜DeepSeekV4Flash：下一位！"
+  ],
+  "comments": [
+    {
+      "id": "311717073072",
+      "t": 0,
+      "content": "等8月31吧"
+    },
+    {
+      "id": "7668911744648135459",
+      "t": 1,
+      "content": "qoder配合deepseek咋样，我感觉reasonix可慢了不知道咋回事"
+    },
+    {
+      "id": "308426130897",
+      "t": 2,
+      "content": "回复 @乐乐歌声与微笑 :国家补贴"
+    },
+    {
+      "id": "7669093488423928602",
+      "t": 3,
+      "content": "嗯嗯，网页的好像v3"
+    },
+    {
+      "id": "6a6d4b8f000000002a02fab1",
+      "t": 4,
+      "content": "你拿flash比k3，怎么着也等pro出来吧"
+    },
+    {
+      "id": "308377575585",
+      "t": 5,
+      "content": "小丑不至于，ds v4正式版迟迟不发，是glm5.2力撼美国闭源模型，不能因为比ds弱，就说小丑吧？"
+    },
+    {
+      "id": "311703578016",
+      "t": 5,
+      "content": "吊炸了，用评论区的提示词一次性跑出来的"
+    },
+    {
+      "id": "311771133936",
+      "t": 6,
+      "content": "Kate可以探索一下其他形式的视频模板了"
+    },
+    {
+      "id": "7668743316574323514",
+      "t": 7,
+      "content": "所以你的提示词呢"
+    },
+    {
+      "id": "7669260832002769706",
+      "t": 1,
+      "content": "连目前大模型到何种程度都搞不清楚还妄谈agent？你就是典型文科生吧，分不分得清多模态？连截图里Agents‘ Last Exam 71.6分的是哪个模型都看不懂吧？还“陌生世界分析能力”，师门任务那不叫分析，那叫对着任务表填字段，你管这玩意叫“阅读世界”？那我家扫地机器人按规划路径吸地是不是也算“拓扑学突破”啊🤣"
+    },
+    {
+      "id": "308387607505",
+      "t": 5,
+      "content": "[笑哭]咋回事啊 我官方app里的快速模式 这几分钟变成了超级弱rrrr智模式啊"
+    },
+    {
+      "id": "p128c45",
+      "t": 8,
+      "content": "Nah, why to compete with quality or price. Dario prefers to lobby for banning open models."
+    },
+    {
+      "id": "2083320804004307094",
+      "t": 9,
+      "content": "@IHayato Nice"
+    },
+    {
+      "id": "6a6ef6ff0000000015006a99",
+      "t": 10,
+      "content": "后端还是蛮强的，比luna和5.2都要强一点"
+    },
+    {
+      "id": "308407344129",
+      "t": 11,
+      "content": "你是用得哪个Agnet，怎么做到消耗这么多token缓存命中率还这么高的？"
+    },
+    {
+      "id": "6a6ecc6c000000002901a026",
+      "t": 12,
+      "content": "马上就不用reasonix了，官方要出自己的agent了"
+    },
+    {
+      "id": "311845889280",
+      "t": 13,
+      "content": "回复 @玄凌子 :厉害[笑哭]"
+    },
+    {
+      "id": "308415347057",
+      "t": 14,
+      "content": "回复 @柯诺Kenosis :其实公司也不希望项目跑出来全是bug[doge][doge]目前国产最强还是kimi[doge][doge]但是他的价格可以和GPT打一打"
+    },
+    {
+      "id": "7669116666781631290",
+      "t": 3,
+      "content": "deepseek 人家对私人免费啊其他家还要买会员"
+    },
+    {
+      "id": "311849410672",
+      "t": 15,
+      "content": "原视频链接呢?"
+    },
+    {
+      "id": "7668994144568116008",
+      "t": 1,
+      "content": "你以为是梁叔砸钱让你用DS，实际上是散户砸钱让你用，你梁叔每天都去大A里取钱，当银行了[捂脸][捂脸][捂脸]"
+    },
+    {
+      "id": "308354292945",
+      "t": 16,
+      "content": "回复 @Mr_XYZer :并非首发[笑哭]"
+    },
+    {
+      "id": "311784939312",
+      "t": 16,
+      "content": "在微软应用商店里装codex（也就是chatgpt），然后运行powershell，复制dpsk文档里的代码，然后按步骤选v4flash，输入key就行。"
+    },
+    {
+      "id": "308500545713",
+      "t": 14,
+      "content": "是豆包输入法"
+    },
+    {
+      "id": "308443548065",
+      "t": 17,
+      "content": "梁圣，快点，我要pro正式版。"
+    },
+    {
+      "id": "p0zak35",
+      "t": 18,
+      "content": "Awesome. I have an IQ3_XXS quant building right now but haven't put the MTP head on it yet."
+    },
+    {
+      "id": "311899072000",
+      "t": 14,
+      "content": "回复 @不和星星比熬夜 : 1"
+    },
+    {
+      "id": "308603385665",
+      "t": 14,
+      "content": "多模态也是AGI的能力之一，不可能没有或绕过，只能输出或理解文字，就不可能是AGI"
+    },
+    {
+      "id": "p11g3b9",
+      "t": 19,
+      "content": "Yay conspiracies"
+    },
+    {
+      "id": "311766699568",
+      "t": 20,
+      "content": "还用问？[吃瓜]"
+    },
+    {
+      "id": "6a6e2f00000000002902dd9f",
+      "t": 21,
+      "content": "换了积分就不用排队了，就不资源有限了，合的之前排队人为限制的呗"
+    },
+    {
+      "id": "311834320416",
+      "t": 22,
+      "content": "回复 @黎雾落珠 : 开源模型你说到时候他会不会给你换新版"
+    },
+    {
+      "id": "7668949099975328550",
+      "t": 3,
+      "content": "梁圣就是斩杀线[杀马特][杀马特][杀马特]"
+    },
+    {
+      "id": "6a6dbdb6000000000b039534",
+      "t": 23,
+      "content": "现在肯定不是了"
+    },
+    {
+      "id": "6a6dfb22000000000802d29c",
+      "t": 24,
+      "content": "其实pro正式版出来之前，flash算旗舰[笑哭R]"
+    },
+    {
+      "id": "308475399169",
+      "t": 25,
+      "content": "回复 @bili_57815425068 :期待官方harness，很好奇这个harness会不会开源？我好想研究研究，为什么这么强这个harness[喜欢][喜欢][喜欢]"
+    },
+    {
+      "id": "p133z52",
+      "t": 26,
+      "content": "Pro version is not out yet. \n\nYou're sure you're comparing with the latest flash that released a few days ago and not the old one? \n\nOtherwise, there is nothing wrong with not liking a model. If you don't like it, don't use it, pretty simple."
+    },
+    {
+      "id": "7668907196553560878",
+      "t": 1,
+      "content": "拿一个你自己能判断结果是否合格的稍微复杂的分析型工作派给两个模型做，保证提供的内容也就是上下文是一致的"
+    },
+    {
+      "id": "311698205088",
+      "t": 11,
+      "content": "都可以，哪个顺手你用哪个"
+    },
+    {
+      "id": "308579545201",
+      "t": 27,
+      "content": "所以说不光要看表面价格，还得看实际解决问题的价格。。就像FABLE5和OPUS5，虽然价格贵一倍，但是实际解决一个问题OPUS5的价格大概是FABLE5的70%的价格。和表面的价格并不一样。"
+    }
+  ]
+}

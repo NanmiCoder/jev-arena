@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "感觉Deepseek v4 Flash有点弱？试试这个视频 我发现很多人用Deepseek v4 Flash时觉得它不够强，其实可以试试这个视频里的操作！跟着步骤走一遍，体验会好很多～#deepseekv4flash #deepseek正式版 #deepseek #agent",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "【中配】DeepSeek V4 Flash测评 全面测试霸榜前五！这波性能重回巅峰！",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "Q8_K_XL vs MXFP4 naming for DeepSeek V4 Flash 0731",
+    "Deepseek V4-flash正式版实测",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "\"DeepSeek-V4-Flash Official API is now LIVE in public beta! We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive performanc",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek 新发布了 V4-Flash 正式版——自主工作能力相比之前是质变，最难的那类编码任务分数翻了近八倍。\n\n《无损耗量化后，这个庞大的开源模型本地就能跑》\n\nDeepSeek-V4-Flash-0731 是 DeepSeek-V4-Flash 的正式发布版（7 月 31 日），取代了之前的 preview 版本。Unsloth 同步发布了它的 GGUF 量化版。284B 参数，MIT",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "Deepseek v4 flash 0731"
+  ],
+  "comments": [
+    {
+      "id": "311688728688",
+      "t": 0,
+      "content": "回复 @边境防御武器 :是的[doge]"
+    },
+    {
+      "id": "311717643472",
+      "t": 1,
+      "content": "回复 @JackySmile :我觉得还行吧，它自己给我找出来了一堆 bug"
+    },
+    {
+      "id": "308483339153",
+      "t": 2,
+      "content": "回复 @233豆花 :我意思：他选的是深度最便宜的v4f模型。。输1元，输出2元，功能差点正常，，v4pro那输入6元，输出12吧，。"
+    },
+    {
+      "id": "308528450849",
+      "t": 1,
+      "content": "我们的“DeepSeek-V4 Flash正式版”来了，事实上，我们快得、便宜得、强得都太多了，以至于我们真不知道究竟该怎么办。\n人们都在诉说：Please, please, 梁圣，我们的 V4 Flash 太离谱了。我们受不了了，我们的GPU不习惯这么高效，我们钱包不习惯这么便宜。在今天之前，我们总是又慢又贵，但现在我们快得飞起、便宜到离谱、性价比到爆炸。\n就在昨天，我接了整整一夜的电话。全是我们最忠实的开发者用户，他们不是来感谢的，他们是来投诉的！他们说：梁圣，你们 V4 Flash 是不是疯了？我跑了一整晚的代码生成，账单出来只有一块两毛五，我以为你们系统bug了，专门又充了五十块钱进去测试！还有人说：梁圣，你们返回得太快了！我前端 loading 动画还没放完，代码就已经写完了，现在我的 UI 设计师正在家里哭！\nI assure you, 我们不会停下脚步。我们会继续Flash下去，我们会发布更多、更快、更便宜、更强的版本！那些恨我们的人，那些酸我们的竞争对手，那些天天写假新闻的媒体，他们永远阻止不了我们。我们会让开源模型再次伟大！我们会让全世界都知道！[doge]"
+    },
+    {
+      "id": "7669092293295538990",
+      "t": 3,
+      "content": "感觉差点意思"
+    },
+    {
+      "id": "311932767216",
+      "t": 4,
+      "content": "回复 @听我会说谢谢你 :我就这么讲讲性价比，luna只能给flash提鞋"
+    },
+    {
+      "id": "308421224049",
+      "t": 5,
+      "content": "回复 @如-_-如 :输入坐标和环境信息让大语言模型给机器人导航"
+    },
+    {
+      "id": "308373874929",
+      "t": 6,
+      "content": "原博主是哪位，能给个链接吗"
+    },
+    {
+      "id": "311643457936",
+      "t": 5,
+      "content": "不需要哦，选择flash的模型自动切换"
+    },
+    {
+      "id": "308445142849",
+      "t": 7,
+      "content": "回复 @我是一棵小菜苗 :我都关了，删干净了[笑哭]魔法是一直都开着的，账号那个codex里面没有登录账号这个选项，gbt有但是我现在就属于codex，一直在给我报错502，然后我如果登出账号，只能登出网页端的账号，我重新下还不行，重新下，又是这个[笑哭]"
+    },
+    {
+      "id": "p11e7mb",
+      "t": 8,
+      "content": "yall rock 🤘"
+    },
+    {
+      "id": "6a6d947c000000002b002bb8",
+      "t": 9,
+      "content": "Gpt自带的codex和work模式不用吗？直接计划写好丢给ds吗"
+    },
+    {
+      "id": "7668917790280106811",
+      "t": 10,
+      "content": "缩圈了[色]"
+    },
+    {
+      "id": "311743597424",
+      "t": 1,
+      "content": "bean bun"
+    },
+    {
+      "id": "308445998033",
+      "t": 11,
+      "content": "回复 @阿统先生 :Flash模型，不应该这么测…多个维度的总是好的"
+    },
+    {
+      "id": "311870352368",
+      "t": 12,
+      "content": "海岸对面都快被可怕大白鲸逼疯了，无底洞的电量消耗，无止境的算力堆砌，关键是还看不到头。\n要是发生在其他国家，牢美早就开特别军事行动了"
+    },
+    {
+      "id": "p0tsmqr",
+      "t": 13,
+      "content": "what? but the crash is not even related with that"
+    },
+    {
+      "id": "308620692257",
+      "t": 14,
+      "content": "回复 @米蒙小嘟嘟 :我感觉学习怎么用也麻烦，学习成本也高。。另外公司保密搞的严，根本没法放开搞，我也是为难"
+    },
+    {
+      "id": "308500140225",
+      "t": 2,
+      "content": "回复 @橙子不冷静- :因为默认映射规则就是这样的，除非你手动去调。"
+    },
+    {
+      "id": "7668931688576254769",
+      "t": 15,
+      "content": "我用pro折腾了一周6亿token每搞定的，总flash半天搞定[捂脸]"
+    },
+    {
+      "id": "p0w3crg",
+      "t": 16,
+      "content": "I know 0731 refers to today's date, but still that's quite the unfortunate choice of name for a Chinese model 💀"
+    },
+    {
+      "id": "311692576560",
+      "t": 2,
+      "content": "老哥接入codex命中率高吗"
+    },
+    {
+      "id": "308462271745",
+      "t": 1,
+      "content": "回复 @20zhangshuai12 : 多模态会做的，只是不做生成，这个梁之前说过"
+    },
+    {
+      "id": "2083496342320476609",
+      "t": 17,
+      "content": "@deepseek_ai “Build your own AI” is starting to sound less like Jensen marketing and more like a weekend plan.\nDeepSeek shipping a Codex-ready agent model is a good example.\nJensen’s full interview is here:\nhttps://t.co/eHajPvlQIZ"
+    },
+    {
+      "id": "308409321009",
+      "t": 1,
+      "content": "请问老狗是用的vscode的claude code插件吗？怎么看着和cli一样？我的vscode的claude code插件是对话窗口"
+    },
+    {
+      "id": "308387943137",
+      "t": 18,
+      "content": "给孩子一个多模态吧，被逼得要去读像素了[辣眼睛]"
+    },
+    {
+      "id": "2083327852661924025",
+      "t": 19,
+      "content": "@yibie deepswe 这个提升幅度也太夸张了"
+    },
+    {
+      "id": "308586287329",
+      "t": 20,
+      "content": "回复 @ranpeppa :写论文用api比网页版好，聪明不少而且能帮你分析文件"
+    },
+    {
+      "id": "311885694352",
+      "t": 21,
+      "content": "@UPTuber 斗蛐蛐"
+    },
+    {
+      "id": "311689979952",
+      "t": 22,
+      "content": "回复 @_Androc :有感觉什么影响吗[笑哭]"
+    },
+    {
+      "id": "311686442032",
+      "t": 0,
+      "content": "今天更的也很早，可以很早看到大肥鱼[魔女的夜宴表情包_打电动][魔女的夜宴表情包_嘿嘿]"
+    },
+    {
+      "id": "6a6cc761000000002a02c6da",
+      "t": 23,
+      "content": "真的这么牛还用个屁的 pro 啊"
+    },
+    {
+      "id": "6a6dd27a000000002a006be6",
+      "t": 24,
+      "content": "实则不然，sigma只是不受他人干扰我行我素，alpha才是最优质男性"
+    },
+    {
+      "id": "308539664801",
+      "t": 25,
+      "content": "deepswe他們好像大概測3-4次，可以參考一下"
+    },
+    {
+      "id": "7669242926131970835",
+      "t": 15,
+      "content": "一位开着价值40万大v6车主对8万块小电车零百加速加速和他一样快表示异常愤怒"
+    },
+    {
+      "id": "7668915810815083298",
+      "t": 10,
+      "content": "就是因为便宜，不知道怎么来的，不注水不知道怎么赚钱"
+    },
+    {
+      "id": "308576115105",
+      "t": 20,
+      "content": "回复 @开摆有理 :我昨天仔细研究官方步骤搞定了，感觉很不错"
+    },
+    {
+      "id": "7669307668595065615",
+      "t": 26,
+      "content": "[捂脸]这都能涨？我举的这玩意挺废物的全靠DeepSeek"
+    },
+    {
+      "id": "7669069400633639721",
+      "t": 10,
+      "content": "你自己好好看看自己到底在说什么[捂脸]"
+    },
+    {
+      "id": "6a6ed88b0000000029027754",
+      "t": 27,
+      "content": "那你是郑州大学的学生或老师吗。"
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "items": [
+    {
+      "id": "p0uh5up",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "quality",
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "以穿模腿和头盔玩梗批评生成缺陷，并提供编辑办法。"
+    },
+    {
+      "id": "311848551104",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正订阅价格偏贵的说法，但订阅对象未明确。"
+    },
+    {
+      "id": "311917056112",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0.3,
+      "reason": "用低成本部署经验反驳高费用，并建议排查上下文和密钥。"
+    },
+    {
+      "id": "311769426000",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明图片输入被拦截的配置原因与修复方法。"
+    },
+    {
+      "id": "p10o0y0",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合标题是在索要生成游戏所用提示词。"
+    },
+    {
+      "id": "308452863841",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "批评未完成全部测试就出分有失公允。"
+    },
+    {
+      "id": "308453434401",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "反问对方是否想要机会，但缺失上下文无法确定对象。"
+    },
+    {
+      "id": "17925140",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "称小参数模型胜过大参数模型，强烈赞叹能力。"
+    },
+    {
+      "id": "6a6cb7b300000000150038ba",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "只表达绷不住的反应，对象与褒贬均不明确。"
+    },
+    {
+      "id": "311759947184",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "推测问题来自Codex提示配置，并补充GLM使用经验。"
+    },
+    {
+      "id": "p0vf6ii",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "报告量化时一种方式无条目、另一种仍可用。"
+    },
+    {
+      "id": "p0ya08e",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问显卡加内存卸载的运行可行性，并引用既有经验。"
+    },
+    {
+      "id": "308376137345",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction",
+        "disagreement"
+      ],
+      "a": [
+        "usability",
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "强调开源可自行部署，并肯定其打破垄断的作用。"
+    },
+    {
+      "id": "311730492256",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.5,
+      "reason": "推荐使用Codex，并调侃可养DeepSeek主题宠物。"
+    },
+    {
+      "id": "311684163008",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问旧连接无法关闭的影响及处理方法。"
+    },
+    {
+      "id": "311845140192",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "service",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "认可"
+      ],
+      "score": -0.2,
+      "reason": "比较官方模型功能优势与额度不足，也肯定DeepSeek耐用。"
+    },
+    {
+      "id": "7668940679926350641",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "惊叹小鲸鱼能力强，超出此前聊天软件的认知。"
+    },
+    {
+      "id": "311783489328",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "陈述API审核限制，并以你懂的调侃用途。"
+    },
+    {
+      "id": "7669367209294873381",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "询问模型生成游戏的方法和提示词。"
+    },
+    {
+      "id": "311754816992",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "描述注册无效并求助如何注册Codex。"
+    },
+    {
+      "id": "311858903616",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅通知视频已发布并附链接，未明确讨论AI使用。"
+    },
+    {
+      "id": "311623575072",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "借标题推测美股熔断，可能调侃AI发布的市场影响。"
+    },
+    {
+      "id": "p0xwaoj",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "报告实测速度并批评提示处理慢，同时认可调参甜点。"
+    },
+    {
+      "id": "308329171281",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "比较版本工具调用行为，肯定正式版主动验证数据。"
+    },
+    {
+      "id": "311789975920",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述编程用途下Pro每亿token的平均费用。"
+    },
+    {
+      "id": "308497367921",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "惊叹预计月费达500，略有费用负担感但未明确抱怨。"
+    },
+    {
+      "id": "6a6c577f000000002b0295f8",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问OpenCode Go是否已切换到新模型。"
+    },
+    {
+      "id": "p11sxu0",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型标识及应使用的接口地址。"
+    },
+    {
+      "id": "308435744801",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "解释DS优先解决重点问题，并称其他问题都是小菜。"
+    },
+    {
+      "id": "7669037474181940027",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "agreement",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "字面赞同但笑哭可能带调侃，缺少被赞同的具体观点。"
+    },
+    {
+      "id": "311887129072",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问API密钥能否直接接入Codex或Claude。"
+    },
+    {
+      "id": "311813322448",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "在接入教程语境中提供解决方法链接，具体问题未明。"
+    },
+    {
+      "id": "6a6d5bf3000000002a027bac",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以土法多模态调侃模型能力实现方式，褒贬不明。"
+    },
+    {
+      "id": "6a6cc0ed0000000015010d52",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.4,
+      "reason": "将问题归因于对方，缺失上文无法确定是否涉及模型。"
+    },
+    {
+      "id": "7669011164172436251",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "performance",
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议直接用Codex，指出慢和贵，又认为Pro不算贵。"
+    },
+    {
+      "id": "6a6d92d9000000001500af22",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "借DeepSeek发布调侃智谱已绷不住，带竞品贬低意味。"
+    },
+    {
+      "id": "311933020528",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "推荐替代工具，称后三者负优化并区分适配与优化。"
+    },
+    {
+      "id": "6a6f28ea0000000015004564",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion",
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "建议免费云端模型，质疑本地部署电费是否划算。"
+    },
+    {
+      "id": "p0udi9a",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "complaint"
+      ],
+      "a": [
+        "trust",
+        "capability"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "嘲讽后训练提升幅度，断言模型针对榜单优化。"
+    },
+    {
+      "id": "7668955694837842722",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正参数量等于能力的看法，主张更少参数实现同等性能。"
+    }
+  ]
+}

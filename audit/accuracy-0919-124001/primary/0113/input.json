@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "deepseek v4flash正式版在手机上本地运行",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Loaded DeepSeek-V4-Flash-0731 across all eight of my DGX Sparks.\n\nOne full replica needs two Sparks, so I split the cluster into four independent tensor-parallel pairs and ran all four at the same tim",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "The new deepseek-v4-flash is incredible!",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "美国小哥实测DeepSeekV4Flash：花不到1美元，AI给他做了个GTA+射击游戏，这Flash怎么比pro还pro？",
+    "免费的最新版 DeepSeekv4 flash",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Deepseek v4 flash 0731",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "The real reason 5.6 Luna became 5x cheaper",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "[中配]DeepSeek V4 Flash 太惊人了——迄今为止最好的小模型！ - Bijan Bowen",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "DeepSeek V4-Flash is officially out, still dirt cheap. USA don't like that, and want ban open source models.",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Codex配置DeepSeek V4 Flash正式版",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！"
+  ],
+  "comments": [
+    {
+      "id": "308604708737",
+      "t": 0,
+      "content": "这个速度和模型规模:配置相比很恐怖啊[笑哭]"
+    },
+    {
+      "id": "308470470353",
+      "t": 1,
+      "content": "这条大鱼如此肥美🥰🤩🥰@推星"
+    },
+    {
+      "id": "308386973777",
+      "t": 2,
+      "content": "你们接的那个agents呀"
+    },
+    {
+      "id": "311707163776",
+      "t": 3,
+      "content": "没关系，等一个月flash再次进化真正超越opus4.8，现在还只是0731，还只是测试版"
+    },
+    {
+      "id": "311861572416",
+      "t": 3,
+      "content": "之前发布的是预训练版本，相当于是预览版，沉寂也是因为正式版一直没出，最近发了dsf的正式版，性能提升特别大"
+    },
+    {
+      "id": "2083903210939458009",
+      "t": 4,
+      "content": "Loaded DeepSeek-V4-Flash-0731 across all eight of my DGX Sparks.\n\nOne full replica needs two Sparks, so I split the cluster into four independent tensor-parallel pairs and ran all four at the same time.\n\nThis is the frozen pre-optimization baseline. Not a speed claim. Not a record. Just a clean, reproducible starting line before I start changing runtime settings, scheduling, cache behavior, speculative decoding, and pair-specific tuning.\n\nPrimary numbers (median of three independent repetitions, each with 20 measured requests after warmups):\n\nFour-pair sum  \n• 84.4 output tok/s at concurrency 1  \n• 158.3 output tok/s at concurrency 4\n\nWhat actually matters to me right now:\n• 480 of 480 official measured requests completed  \n• every request was exactly 2048 input / 128 output tokens  \n• pair-to-pair spread stayed under 2%  \n• the four pairs started within three seconds of each other\n\nThat balance is useful. When I change one pair later I still have three nearly identical control points sitting right next to it.\n\nPrimary lane used the official vLLM bench serve path with TP=2, expert parallelism, FP8 KV cache, prefix caching, eager execution, and DSpark speculative decoding. \n\nSecondary llama-benchy numbers are kept separate. Different client, different conditions, directional only.\n\nFull methodology, sanitized data, verification scripts (stdlib only), and the rules I actually follow for what counts as evidence are all in the repo:\n\nhttps://t.co/WJ3UgoANnK\n\nThis profile stays frozen. Faster configs will be published as new profiles with their own measurements and evidence, not quiet rewrites of the starting point.\n\n#DGXSpark #DeepSeek #LocalAI #vLLM"
+    },
+    {
+      "id": "311738041184",
+      "t": 5,
+      "content": "这个和我后来用Code Buddy生成的不是差不多吗？一个水平。3:40"
+    },
+    {
+      "id": "p0z67md",
+      "t": 6,
+      "content": "Is it just me or do I just not notice any difference between the new and old version of v4 flash"
+    },
+    {
+      "id": "7669050563081929509",
+      "t": 7,
+      "content": "超过没奖励，被追上那就是斩杀线[捂脸]"
+    },
+    {
+      "id": "308470884065",
+      "t": 3,
+      "content": "这开了max完全就是opus 4.8水平的模型了"
+    },
+    {
+      "id": "311829850912",
+      "t": 8,
+      "content": "抛却用户体验和价格，只看模型能力，除了游戏之外，小kimi，做游戏很差。综合起来，没法用，不是给正常人用的，阿里整个团队kpi老油条太多了，应付上面的，就没想打口碑发展长期用户，就是用免费积分搞一波注册用户而已。体验非常差，每句都在卡死，价格现在1/100,还是用不起。一天拉满得100多块。"
+    },
+    {
+      "id": "311708569952",
+      "t": 9,
+      "content": "回复 @小力视 :都不是原生的，接了效果也有限"
+    },
+    {
+      "id": "7668969431057679141",
+      "t": 7,
+      "content": "梁叔一站就是斩杀线"
+    },
+    {
+      "id": "311815817872",
+      "t": 10,
+      "content": "同样的模型200k压缩可能就1.2美元。如果600k压缩就是20美元。模型智力不变。但是费用平方翻倍。只不过是工作记忆会压缩的更多。这个基本上就是靠文档来解决，模型压缩以后会读文档。靠钱解决。即使是企业也需要优化成本"
+    },
+    {
+      "id": "311786111520",
+      "t": 3,
+      "content": "回复 @耀眼的毛玉 :太容易齁齁齁齁齁了，很难控制"
+    },
+    {
+      "id": "308621242033",
+      "t": 11,
+      "content": "https://opencode.ai/go?ref=B4P12Q194X    使用这个链接充值opencode go订阅（支持支付宝），双方各赠送5美元额度。"
+    },
+    {
+      "id": "311630880656",
+      "t": 12,
+      "content": "回复 @信仰芙芙の博士 :我搜了一下，好像只有v4pro api才有多模态"
+    },
+    {
+      "id": "308566988385",
+      "t": 13,
+      "content": "回复 @神圣萝莉帝国 :我也是小白，预设我用的林晚，字数限制一定要关闭"
+    },
+    {
+      "id": "6a6d6be8000000002901bf66",
+      "t": 14,
+      "content": "opencode api国内不能用，有什么办法解决吗"
+    },
+    {
+      "id": "311701895568",
+      "t": 9,
+      "content": "回复 @KawaYiLab :实际上涉及到前端视觉开发，已经是v4 Flash最不擅长的领域了。[doge_金箍]"
+    },
+    {
+      "id": "311726010720",
+      "t": 15,
+      "content": "为什么界面不一样"
+    },
+    {
+      "id": "311762698864",
+      "t": 3,
+      "content": "回复 @安静丶零 :api是能用agent有没有agent的ai完全是两回事"
+    },
+    {
+      "id": "6a6f0676000000002a02ea4f",
+      "t": 16,
+      "content": "魔改CC做长程编程，本地部署q3非常丝滑"
+    },
+    {
+      "id": "308472740193",
+      "t": 3,
+      "content": "中转你信息全泄露了"
+    },
+    {
+      "id": "7669045743714337585",
+      "t": 17,
+      "content": "workbuddy的大概率是他们本地部署的模型，没那么快换过去"
+    },
+    {
+      "id": "p177h4w",
+      "t": 18,
+      "content": "Non functional brain"
+    },
+    {
+      "id": "311882054304",
+      "t": 19,
+      "content": "回复 @VR控 :https://b23.tv/BV1xUGA6nEYV 这个下面有官方的回答。"
+    },
+    {
+      "id": "7669236653962003237",
+      "t": 17,
+      "content": "我上传了几十万字的文字调用，回答了几万字，然后一看token花费几乎等于零，1分钱都没花完"
+    },
+    {
+      "id": "308409119617",
+      "t": 20,
+      "content": "要知道这是一个200+B的模型，简直夯爆了"
+    },
+    {
+      "id": "311878405680",
+      "t": 10,
+      "content": "看错了，不是同一个视频[微笑]"
+    },
+    {
+      "id": "308536439921",
+      "t": 21,
+      "content": "回复 @王帅真 :他的意思应该是就像选模型一样方便地切换，而不是改底下的路由"
+    },
+    {
+      "id": "311719616192",
+      "t": 3,
+      "content": "这么便宜怎么盈利？"
+    },
+    {
+      "id": "6a6c7f310000000004039b95",
+      "t": 22,
+      "content": "我看跑分超glm5.2一点"
+    },
+    {
+      "id": "308543597153",
+      "t": 21,
+      "content": "CC switch就行了"
+    },
+    {
+      "id": "p0yjcrs",
+      "t": 23,
+      "content": "Hasn't it been available since 2 weeks or something? Do I miss something?"
+    },
+    {
+      "id": "311720395344",
+      "t": 24,
+      "content": "你的场景用哪个都没有任何区别，想要页面好一些就用Codex，这个是桌面版，cc的话看你能不能接受命令行窗口了，win terminal这个还算可以，但是桌面审美依旧差Codex一大截，但是流畅性薄纱Codex，尤其是win上面。另外我还推荐你尝试下opencode的桌面版，其实也还可以，就是比较简陋，你听到的这些都是极限性能下，一般写代码，项目不大都不用太考虑这些Agent工具是不是本家的，更何况国内的Agent工具都特别混乱还难用，我推荐你优先考虑Codex，其次opencode，最后cc(我个人认为你能接受cc的命令行窗口，那cc就是体验最好的)。"
+    },
+    {
+      "id": "6a6db484000000000500834f",
+      "t": 25,
+      "content": "配置了用v4 flash 能快速切回gpt5.6吗？codex plus加deepseek v4 flash有最佳组合方案吗"
+    },
+    {
+      "id": "7668619683054863162",
+      "t": 26,
+      "content": "不用，名称没变"
+    },
+    {
+      "id": "308522695265",
+      "t": 27,
+      "content": "回复 @白话上位机 :不是开着梯子就会自动汉化吗"
+    },
+    {
+      "id": "308614929201",
+      "t": 19,
+      "content": "先中国区还能有opus和fable吗？"
+    }
+  ]
+}

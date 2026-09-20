@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "Deepseek V4 Flash 0731 llama.cpp tips?",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "免费使用 DeepSeek-V4-Flash的三种方式",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "deepseek v4flash正式版测试，城市建设动画，尽力了，后面是qwen3.8做的",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "瘫坐冷汗核弹！我在两天内消耗了4亿的Token，利用 DeepSeek V4Flash 正式版做出来了这个......",
+    "DeepSeek V4 Flash 太牛了",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "deepseek v4 flash 成功逆向 expedia",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级"
+  ],
+  "comments": [
+    {
+      "id": "p161b73",
+      "t": 0,
+      "content": "Use codex gpt 5.6 sol on ultra and give it a goal to optimize it. Have it mess with the kernels too. But before you have it start make sure to give it instructions to make it reversible."
+    },
+    {
+      "id": "311896372528",
+      "t": 1,
+      "content": "为什么说开源模型所有人都帮他优化啊？不应该是开源被闭源拿去参考。开源模型不能参考闭源模型嘛。还有因为开源可以自己部署导致返回的训练数据比较少嘛[脱单doge]"
+    },
+    {
+      "id": "6a6de4b30000000015000071",
+      "t": 2,
+      "content": "方式 2，把推理参数reasoning_effort去掉了，同时增加了一个流式输出的参数（\"stream\": true），响应快了很多。curl 后面加个-N 流式输出效果会更好。"
+    },
+    {
+      "id": "311637430432",
+      "t": 3,
+      "content": "回复 @瑕光推推人 :opencode用的就是正式版，官方直连，可以看opencode中文账号[doge]"
+    },
+    {
+      "id": "308341639681",
+      "t": 4,
+      "content": "回复 @棍之勇者复仇路 :人家全称叫DeepSeek V4 Flash 0731，现在用flash的api就是接入的0731"
+    },
+    {
+      "id": "308458841041",
+      "t": 5,
+      "content": "回复 @调逆弓归 :谁说的？官方说的？"
+    },
+    {
+      "id": "308478576305",
+      "t": 6,
+      "content": "用的 zcode，感觉不错"
+    },
+    {
+      "id": "311831790848",
+      "t": 5,
+      "content": "回复 @bili63866996095 :拿公司api跑酒馆啊[doge]？"
+    },
+    {
+      "id": "311743948320",
+      "t": 5,
+      "content": "回复 @JackySmile : 比luna强，284b参数你拿来当许愿机用吗？"
+    },
+    {
+      "id": "308345869137",
+      "t": 7,
+      "content": "回复 @ban十分感慨 :我以为是说的说现在[笑哭]现在官方有说支持responses api了，以及之前的key一样可以，我ds就一个key，用了2年多都没有什么问题。话说你说的接不进去是在哪的问题呢?"
+    },
+    {
+      "id": "311756179808",
+      "t": 5,
+      "content": "回复 @arafat5549 :不知道是怎么做到的…"
+    },
+    {
+      "id": "311732821360",
+      "t": 8,
+      "content": "回复 @城门楼子都有人取 :有些项目必须要返回的速度，不能等，本地的比云端稳定不会受到波动影响，不过楼主这种4090部署还是有点勉勉强强了，除非是魔改的"
+    },
+    {
+      "id": "7668983770289488703",
+      "t": 9,
+      "content": "a股帮他买单了"
+    },
+    {
+      "id": "7669121216381649674",
+      "t": 9,
+      "content": "哈哈哈哈，笑晕了"
+    },
+    {
+      "id": "308368263217",
+      "t": 8,
+      "content": "Workbuddy加DS可以搞定非代码的所有任务"
+    },
+    {
+      "id": "308529407265",
+      "t": 5,
+      "content": "vibe coding是实打实的生产力啊"
+    },
+    {
+      "id": "6a6e90ce0000000029025a87",
+      "t": 10,
+      "content": "搞得我情绪复杂了起来"
+    },
+    {
+      "id": "311709665104",
+      "t": 11,
+      "content": "回复 @自然造字师斯庙算多 :[笑哭]牛马意识不到这种，壕哥就是壕哥"
+    },
+    {
+      "id": "311916690832",
+      "t": 12,
+      "content": "回复 @Ikun_1999 :一天10块钱才是正常的，一天一块钱纯扯淡的"
+    },
+    {
+      "id": "311824343088",
+      "t": 5,
+      "content": "学当然能学得明白，使用电脑和把电脑当生产资料压根就是两码事，普通人用电脑也就是玩玩游戏，看看剧，谁没事去整那些底层的东西。"
+    },
+    {
+      "id": "6a6f29c10000000009017b21",
+      "t": 13,
+      "content": "花两毛钱去试一下[笑哭R]"
+    },
+    {
+      "id": "308489949505",
+      "t": 6,
+      "content": "回复 @谁忘了什么是生活 :今天重置之后额度消耗变快了有感觉吗，我现在周额度只剩下30多了"
+    },
+    {
+      "id": "311872848288",
+      "t": 14,
+      "content": "杂鱼d指导[笑哭]"
+    },
+    {
+      "id": "308423445505",
+      "t": 5,
+      "content": "评论区对a13b的意思是有什么误会么[tv_皱眉]"
+    },
+    {
+      "id": "6a6d342300000000150035b6",
+      "t": 15,
+      "content": "说一下为什么接codex这样吧，原本的dsv4本身就是兼容openai接口的，但是codex使用的是reason借口，但是ds兼容的是openai chat complete借口，所以不能直接使用，必须得借助ccswitch等工具转一下再开启路由才能在codex中使用ds，现在不用了可以直接调"
+    },
+    {
+      "id": "311759161936",
+      "t": 16,
+      "content": "没没没没没……音乐是我直接挑的自己喜欢的，因为谱面是直接从osu上下载的，这玩意主要负责解析铺面和播放"
+    },
+    {
+      "id": "6a6d9eec000000000b03aa35",
+      "t": 17,
+      "content": "感谢梁圣开源"
+    },
+    {
+      "id": "311729056208",
+      "t": 18,
+      "content": "回复 @forbeckxitek :一看就不是专业的，中小公司也本地部署国模，防商业机密泄露[藏狐]然后DeepSeek免费甚至还能赚钱。还有大公司直接上api更绷不住，微软为什么要接ds好难猜啊[吃瓜]绝对不是人家用不起吧\n你要真拿这个比，opencode现在能免费蹬flash，还是给你api密钥[吃瓜]你订阅的GTP还只能用Codex\n还是你要说免费的就是最贵的，啊你ds虽然免费，但免费的就是最贵的[星星眼]还是我们GPT性价比高\n你GPT要不重置plus根本不够用[吃瓜]五小时额度一下登完"
+    },
+    {
+      "id": "6a6f3395000000002902687c",
+      "t": 19,
+      "content": "求逆向skill"
+    },
+    {
+      "id": "311687451392",
+      "t": 20,
+      "content": "[doge]热热还能吃"
+    },
+    {
+      "id": "311707631472",
+      "t": 21,
+      "content": "难怪之前M3 512G的设备都涨价了，就是因为这些本地部署，稀缺性太厉害了。老中又做不出来同类设备，唉"
+    },
+    {
+      "id": "6a6cdb21000000000802cf21",
+      "t": 15,
+      "content": "身在豪中不知豪[doge]"
+    },
+    {
+      "id": "6a6d4a1f000000000b0389a6",
+      "t": 17,
+      "content": "Pro出来不敢想多爆炸"
+    },
+    {
+      "id": "p0uyoug",
+      "t": 22,
+      "content": "But worse than GPT 5.5 Luna on the Omniscience Index, because it makes up too many answers. 84% Hallucination Rate, that's why I favor other open models, they are better at 'detecting' their incertitude.\n\nhttps://preview.redd.it/b97hx7fa3kgh1.png?width=3624&format=png&auto=webp&s=e5216d2036cbfbd689d5d4561d1eba367648a324"
+    },
+    {
+      "id": "7668723601217995562",
+      "t": 23,
+      "content": "申请未成年人退款，[看]不承认是你充的"
+    },
+    {
+      "id": "6a6e931a000000000d022402",
+      "t": 10,
+      "content": "你这个话术不是和闭源模型的理论一样嘛。关键是开源以后所有人都是在开源基础上去研发的，每次开源了以后大家技术直接上一个档次，真有能力的接力研究就行了。没能力的不配吃这碗饭有什么好可惜的。现在多少人用ds细分赛道已经吃肉的？"
+    },
+    {
+      "id": "308473668369",
+      "t": 5,
+      "content": "你别说，我让K3去做音频模型推理框架，它也是类似的方法，用py脚本去检测音频，判断修改代码对结果有无影响[笑哭]"
+    },
+    {
+      "id": "308615161825",
+      "t": 5,
+      "content": "你们知道为什么 high 就这么厉害了吗，因为贬值了 [笑哭] 现在的 high 用的提示词是原本的 max，而现在的 max 用的是“超越最大” [笑哭]"
+    },
+    {
+      "id": "311828258016",
+      "t": 24,
+      "content": "看了一圈评论，up主简直求知若渴又忍辱负重哈哈哈，看来是经过学习和思考的。\n我个人觉得up干的没问题，一句话生成游戏本来就是社区经典测试题（看以看看神烦老狗）。你们可以批评这种测试题没有工程价值——在一般的实践中干项目总会先plan或设置各种约束提示词；但是不可否认如果多个模型都用一套题，那即便这个问题没有工程价值，但还是具备测试价值的。如果这ai真的厉害，它就会自动拆解任务，逐步执行。\n还有喷up主用CC的就更不知道何意味了，说ds和cc不兼容？cc的harness是agent领域的先驱来的吧，没有harness落后的道理。\n看完视频之后，还是决定正经的事情还是别找ds了……"
+    },
+    {
+      "id": "308345059745",
+      "t": 7,
+      "content": "回复 @bili_15350159760 : Deepseek的PRO正式版在灰度测试中对标fable5？？？？  这水平对吗？，  K3 对标个毛 fable5 。"
+    }
+  ]
+}

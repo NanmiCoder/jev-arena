@@ -1,0 +1,235 @@
+{
+  "topics": [
+    "你的梁子来了，DeepSeek V4 Flash正式发布",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "Deepseek v4 flash 0731",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "【转载MTS 】DeepSeek v4 Flash：本地部署大模型的真•DeepSeek时刻",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "正式版DeepSeek V4 Flash 进步巨大！干翻上代大哥",
+    "要被外网的一些评论笑死了😂😂😂",
+    "⚠️ Note\n\n🔷 DeepSeek-V4-Flash-0731 keeps the exact same model architecture and size as the preview version.\n🔷 Today's upgrade applies ONLY to the DeepSeek-V4-Flash API. The DeepSeek-V4-Pro API and Ap",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Deepseek 回来了",
+    "Unpopular opinion, Deepseek V4 Flash is not Good",
+    "DeepSeek V4 Flash 正式版为我生成的体积云",
+    "Deepseek v4 flash 0731 still not holding up.",
+    "DeepSeek V4 Flash 0731 is now free in Cline"
+  ],
+  "comments": [
+    {
+      "id": "6a6f2316000000000501477a",
+      "t": 0,
+      "content": "梁圣只会收你的电费，至于研发费，每天早上开盘后他自己会想办法[偷笑R]"
+    },
+    {
+      "id": "311789616208",
+      "t": 1,
+      "content": "不行不行，那不很正常，他才多少参数量。其他的那些模型都是T级别的参数量的，这玩意儿才B"
+    },
+    {
+      "id": "6a6dcd3e000000002a02db1a",
+      "t": 2,
+      "content": "GPT和cloud都有，经常改不好，改坏了的时候都一样。只不过，改坏代码听不懂问题，这个概率小一点。"
+    },
+    {
+      "id": "311639091216",
+      "t": 3,
+      "content": "我没有用插件，它skill是能正常调用"
+    },
+    {
+      "id": "6a6dac6b000000000500a9b6",
+      "t": 4,
+      "content": "那用vscode转接ds会更好用吗"
+    },
+    {
+      "id": "308420113345",
+      "t": 5,
+      "content": "幻方不满卡，满卡不可敌。梁文锋在四小时闭门会里不说了非常缺卡吗。"
+    },
+    {
+      "id": "311833486288",
+      "t": 5,
+      "content": "说实话你测前端开发能力主要是测他们 SFT 洗了啥数据[笑哭]"
+    },
+    {
+      "id": "7669407606432449317",
+      "t": 6,
+      "content": "不用改 路由都不用开了"
+    },
+    {
+      "id": "311723916352",
+      "t": 7,
+      "content": "回复 @_想睡回笼觉_ :你登了，如果改成用ds的话，就会变成用api登录。，就退出登录了"
+    },
+    {
+      "id": "308527789665",
+      "t": 8,
+      "content": "回复 @华立志 :有费 然后直接复制过去的[大哭]"
+    },
+    {
+      "id": "311730057056",
+      "t": 9,
+      "content": "重置了[家庭教师表情包_震惊]"
+    },
+    {
+      "id": "308510830161",
+      "t": 5,
+      "content": "等pro和专武agent，打他们脸"
+    },
+    {
+      "id": "7668944045506921226",
+      "t": 6,
+      "content": "非常强[看]"
+    },
+    {
+      "id": "311685929664",
+      "t": 10,
+      "content": "[doge]因为我叫她把自己当猫娘"
+    },
+    {
+      "id": "7669341202948326163",
+      "t": 11,
+      "content": "现在榜单要按周来计算了，每周都能冒出来一两个上周k3，在上周opus5在上周5.6在上周opus4.8在上周glm5.2"
+    },
+    {
+      "id": "7669267591643185978",
+      "t": 12,
+      "content": "就比国外差一点，让他们去增大投入[看]"
+    },
+    {
+      "id": "311626702048",
+      "t": 13,
+      "content": "还得是reasonix[笑哭]"
+    },
+    {
+      "id": "311715157648",
+      "t": 9,
+      "content": "flash够用了[doge]"
+    },
+    {
+      "id": "p17ekko",
+      "t": 14,
+      "content": "a bench I always keep an eye on is **AA-Omniscience** and I was curious to see how much the new ckpt improved over the preview one:  \n\\- conditional hallucination rate: 96% -> 84%\n\ninterestingly, the accuracy didn't improve (37%), what changed is \"uncertainty calibration\", for the better.\n\nSo we have a model whose knowledge accuracy is on par for its size (very similar to gpt 5.6 luna!), but way more willingly to say \"I don't know\".\n\nEven if benches like this focus on factual knowledge, it's an idea of how much aware you got to be when you throw these models in your codebase to do analysis, bug finding, etc"
+    },
+    {
+      "id": "308436988289",
+      "t": 15,
+      "content": "回复 @北1018 :竞争不激烈就是这样！有任务就干，没有就维持[doge]"
+    },
+    {
+      "id": "7668989996989481766",
+      "t": 12,
+      "content": "你确定你的1800是他赚的吗[捂脸]"
+    },
+    {
+      "id": "308344078465",
+      "t": 16,
+      "content": "可以【识图】了吗"
+    },
+    {
+      "id": "311672549664",
+      "t": 17,
+      "content": "本质别干美学相关的活，没眼镜，写代码还是可以的"
+    },
+    {
+      "id": "311684247680",
+      "t": 18,
+      "content": "一般般，现在gpt隔三差五重置一次，luna还降价了，不过挺适合接到zed里平时codex开工的时候问点小问题的，不太适合干活。"
+    },
+    {
+      "id": "308369702353",
+      "t": 17,
+      "content": "....我这跑了1个小时出头就比你测了一堆测试消耗的还多了....[辣眼睛]"
+    },
+    {
+      "id": "308367275569",
+      "t": 19,
+      "content": "回复 @猫猫ttkk :ds现在预览版的多模态是ocr镶嵌转述到纯语言模型[笑哭]有点南蚌"
+    },
+    {
+      "id": "6a6d7f870000000005017b1e",
+      "t": 20,
+      "content": "川普也这么说，是老美普遍数学不行吗"
+    },
+    {
+      "id": "2083162104861745387",
+      "t": 21,
+      "content": "@deepseek_ai I am a loyal flash user. Cant wait to see if it gets better. one thing that I dont like about flash is that it always wants to write inline code, if you can train that out of it, tell it to make resuable code and not use inline everything i would be grateful."
+    },
+    {
+      "id": "308450977681",
+      "t": 22,
+      "content": "回复 @知予者 :国外模型谁用 api 贵得要死内外主流都是订阅，同订阅 kimi 你怎么不说"
+    },
+    {
+      "id": "311622182496",
+      "t": 23,
+      "content": "回复 @你笑起来真好看つ : 不行，还是英文的。opencode和Copilot都试了，换API还是英文的。"
+    },
+    {
+      "id": "6a6cd4d000000000140388f9",
+      "t": 24,
+      "content": "但是梁不是说暂时不碰具身，觉得只要模型能力够强后续这些都会水到渠成吗[doge]"
+    },
+    {
+      "id": "p138ne0",
+      "t": 25,
+      "content": "U sure its dsv4 flash 0731 and not preview?"
+    },
+    {
+      "id": "311870280080",
+      "t": 26,
+      "content": "回复 @请神上身中 :但是没那么黑[doge]"
+    },
+    {
+      "id": "7668980712888976182",
+      "t": 6,
+      "content": "flash干别人旗舰，你还要啥？"
+    },
+    {
+      "id": "p13vg6u",
+      "t": 27,
+      "content": "I downloaded the model straight from deepseek's hugging face. I swaped the directory for my vllm start script, and ran it through our same agentic loops. Internal measurements for our workloads in the last 24 hours were clearly improved. There must be something wrong on your end. DS4 Flash has been our workhorse and its been reliable and surprising in its ability. \n\nLong running long horizon tasks broken into phases and orchestrated cycles with the same model it performs great. Our harnesses are built entirely around opencode."
+    },
+    {
+      "id": "p18lso2",
+      "t": 28,
+      "content": "https://preview.redd.it/88xilfhq9ygh1.png?width=1070&format=png&auto=webp&s=704c5390b7e29d6bcd4a779961889de6bf581e88\n\nIt says a subscription is required for DeepSeek V4 Flash. Not sure how to get this for free."
+    },
+    {
+      "id": "308412737201",
+      "t": 5,
+      "content": "284呢，所以其实这么比其实不太公平"
+    },
+    {
+      "id": "7669323858792727332",
+      "t": 12,
+      "content": "那你是不是不知名平台买的嘛，你跟兄弟说实话[看]"
+    },
+    {
+      "id": "308364677633",
+      "t": 16,
+      "content": "你购买的地方有官方文件"
+    },
+    {
+      "id": "311717918224",
+      "t": 5,
+      "content": "按道理说pro版也打不赢，参数量差太多了。"
+    }
+  ]
+}

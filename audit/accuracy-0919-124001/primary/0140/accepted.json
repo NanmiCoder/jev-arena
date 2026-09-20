@@ -1,0 +1,811 @@
+{
+  "items": [
+    {
+      "id": "7668752126013768485",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "performance"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "分享多模型协作可用经验，也指出速度慢及通路不足。"
+    },
+    {
+      "id": "311768408464",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "反问并嘲讽高开低走之说，模型表现还是股市所指有歧义。"
+    },
+    {
+      "id": "311638299984",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "借纪念日献礼玩梗，未明确讨论模型或使用。"
+    },
+    {
+      "id": "p0x63hp",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0.1,
+      "reason": "分享多模型体验，认可GLM和DS，也批评其他模型效果及成本。"
+    },
+    {
+      "id": "308414868833",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问接入Codex是否能改善使用效果。"
+    },
+    {
+      "id": "6a6ecec0000000000500af29",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问官方llama.cpp镜像能否直接用于部署。"
+    },
+    {
+      "id": "308500713457",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "建议用多模态模型转述截图，认可低成本协作方案。"
+    },
+    {
+      "id": "311776024336",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "认为开源DS逼近闭源能力并施加成本压力，带认可意味。"
+    },
+    {
+      "id": "6a6f1e34000000002b0267b7",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "反问第三方API相较官方有何必要，亦可作普通询问。"
+    },
+    {
+      "id": "6a6f0164000000000b038cc4",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "明确表示Sol价格太高而用不起。"
+    },
+    {
+      "id": "6a6eb29f000000000b03a133",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅艾特用户，无可判定的讨论内容。"
+    },
+    {
+      "id": "7668956105980740387",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以输赢奖惩调侃梁，是否涉及模型机制缺乏上下文。"
+    },
+    {
+      "id": "308478831537",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "content",
+        "comparison",
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议增加同等成本下的模型效果比较测试。"
+    },
+    {
+      "id": "308532359377",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "对便宜宣传与自己实际花费的落差表达不满。"
+    },
+    {
+      "id": "2083898078596104567",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "强烈批评Pi削弱多个模型表现，并称当天卸载。"
+    },
+    {
+      "id": "311926599600",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "performance",
+        "reliability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "报告多题思考一小时后超时，并以夸张称呼调侃。"
+    },
+    {
+      "id": "6a6cb160000000002902661a",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正昇腾训练和推理部署的说法，并预测后续采用时间。"
+    },
+    {
+      "id": "p13uhq8",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "quality",
+        "comparison",
+        "usability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.6,
+      "reason": "赞赏速度与输出，同时指出耗词较多且需工具约束。"
+    },
+    {
+      "id": "308343593441",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "称let me正常，但缺少上下文，是否评价模型输出不明。"
+    },
+    {
+      "id": "308390039601",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.8,
+      "reason": "称赞猫娘可爱并想养一只，偏角色互动，亦可能指AI形象。"
+    },
+    {
+      "id": "311662645120",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "performance",
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "反复强调接入Codex后的Flash极慢，并怀疑配置问题。"
+    },
+    {
+      "id": "308421491057",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指出官网标注公测，并推测Pro发布时才算正式版。"
+    },
+    {
+      "id": "p0ttitz",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "反对热衷市场崩盘的态度，主张享受模型本身。"
+    },
+    {
+      "id": "p13hgsb",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "quality",
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "报告量化后随机中文及推理输出混淆，询问他人是否遇到。"
+    },
+    {
+      "id": "308351287009",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "推测思考强度配置有误，并预计问题会很快解决。"
+    },
+    {
+      "id": "311921179888",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "usability",
+        "price",
+        "performance"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": -0.1,
+      "reason": "同时指出记忆和指令遵循不足，肯定性价比、速度及代码能力。"
+    },
+    {
+      "id": "308527366257",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问多台Spark部署可行性及交换网络的影响。"
+    },
+    {
+      "id": "p0v1pii",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.95,
+      "reason": "强烈批评输出随机、角色混淆且无法识别讽刺。"
+    },
+    {
+      "id": "308396811953",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "用月底才到月中讽刺时间延后，是否针对模型发布略有歧义。"
+    },
+    {
+      "id": "311793210496",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型大小及显存需求，具体模型指代不明。"
+    },
+    {
+      "id": "6a6d88aa0000000015000268",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "以狗头语气称开源用于操控股价，玩梗与认真质疑两可。"
+    },
+    {
+      "id": "6a6de54c000000002a032676",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "求助中文界面设置，称自己的设置未生效。"
+    },
+    {
+      "id": "308411738513",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "指出评测全为前端任务，可能批评覆盖面或单纯陈述。"
+    },
+    {
+      "id": "311720271424",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用缺少口头禅前缀玩梗，具体针对表达还是模型不明。"
+    },
+    {
+      "id": "308355209889",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "表示此前购买的Pro API至今未派上用场，带遗憾意味。"
+    },
+    {
+      "id": "7669051632558654257",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "建议主播改善图片过小的问题，评价视频呈现而非AI。"
+    },
+    {
+      "id": "308468998545",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用夸张的行业毁灭后果调侃Flash与K3的竞争。"
+    },
+    {
+      "id": "6a6c7355000000002a005558",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只交代图片来自官方微信群，图的内容及AI相关性不明。"
+    },
+    {
+      "id": "311900096480",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "报告半天消耗七成周额度，笑哭暗含额度消耗快的无奈。"
+    },
+    {
+      "id": "308519316897",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "讨论专业红利与毕业时间的关系，未明确涉及AI。"
+    }
+  ]
+}

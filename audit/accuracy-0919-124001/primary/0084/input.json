@@ -1,0 +1,230 @@
+{
+  "topics": [
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 0731",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "在家跑deepseek v4 flash",
+    "GPT 5.6 Luna最新测评报告！打得过Deepseek V4 Flash吗？",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Deepseek v4 flash 0731",
+    "要被外网的一些评论笑死了😂😂😂",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "DL中 私的DeepSeek V4 Flash のまとめ\napetersson/DeepSeek-V4-Flash-0731-Abliterated-FP8",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash 0731 is absurdly cheap to use!!",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "Has anyone actually used DeepSeek V4 Flash 0731 to solve complex, real-world problems in medium to large production codebases? I’m looking for honest feedback, not hype or toy-project benchmarks",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普"
+  ],
+  "comments": [
+    {
+      "id": "311900358640",
+      "t": 0,
+      "content": "回复 @小男孩同志 :毕竟5.2用的是ds架构是吧"
+    },
+    {
+      "id": "308405934801",
+      "t": 1,
+      "content": "这种小参数的模型，后训练做得再好也不如大参数的顶级模型，尤其是长程任务执行。可以期待一手 V4 PRO，应该能达到 5.6 Sol 的水平"
+    },
+    {
+      "id": "311797018576",
+      "t": 2,
+      "content": "我自己用提升不明显，但看别人出文效果非常好，应该是提示词差异[笑哭]"
+    },
+    {
+      "id": "p15xif5",
+      "t": 3,
+      "content": "How is grok4.5 that high up there?"
+    },
+    {
+      "id": "308365150161",
+      "t": 4,
+      "content": "回复 @Sikaha_ :你试试现在的flash API呢？我今天18k的重型世界书+3k的指令遵循能力很不错（比Pro好很多"
+    },
+    {
+      "id": "308435048481",
+      "t": 2,
+      "content": "不是，他的前端能力还比不上GLM和K3，差距很难说 有人觉得不好用落后国外三代，有人觉得好用轻松吊打，跑分这一块容易被人说没参考价值"
+    },
+    {
+      "id": "6a6eecf5000000002a031dc1",
+      "t": 5,
+      "content": "满血,q4,看笑了"
+    },
+    {
+      "id": "308403317313",
+      "t": 2,
+      "content": "回复 @口胡智障大绅士 :我本来ccSwitch直接路由的。模型提升本身比较重要吧。 不过也算是方便了，因为ccswitch配MCP的话，cx没问题，但我的CC这方面有点问题。"
+    },
+    {
+      "id": "311758246768",
+      "t": 6,
+      "content": "回复 @云初子淼 : flash高和max价格一样啊，为什么不开呢"
+    },
+    {
+      "id": "308522966449",
+      "t": 7,
+      "content": "那还不如用OpenCode,不花钱也能干活"
+    },
+    {
+      "id": "311812840528",
+      "t": 8,
+      "content": "告诉你梁叔叔，闭源模型在哪里.jpg"
+    },
+    {
+      "id": "311698237360",
+      "t": 9,
+      "content": "现在也支持直连了 但是CLI界面这块 确实不适合大众用户。"
+    },
+    {
+      "id": "308362208657",
+      "t": 10,
+      "content": "才300[doge_金箍]api用起来很贵的，我订阅制蹬了5b token"
+    },
+    {
+      "id": "311726439264",
+      "t": 2,
+      "content": "回复 @时在在在在 :更新了吗，昨天还只能用pro"
+    },
+    {
+      "id": "6a6e9a2d0000000015008ba1",
+      "t": 11,
+      "content": "同感  放到agent里面蠢得一，还有bug，一直压缩压缩然后重复一个问题，一压缩记忆就没有了然后继续重复这个问题，然后上下文还不能开大 一开大就没响应，然后上下文不大又开始压缩 一压缩又丢失记忆了继续重复开始做然后继续做到一半上下文不够又压缩了，就蠢得一，然后搁这死循环呢？运行了四个小时硬是没有给我推进一步，白白浪费钱，我换别的模型一秒解决了。"
+    },
+    {
+      "id": "6a6eb95c000000002b001e3f",
+      "t": 12,
+      "content": "[doge]没事的 充了钱照样是太火爆了"
+    },
+    {
+      "id": "308479243825",
+      "t": 13,
+      "content": "修好了不就好了[笑哭]还得修20次，大人饶了我吧"
+    },
+    {
+      "id": "311701207632",
+      "t": 4,
+      "content": "回复 @SOS-凉宫春日 :glm的后端能力还是没问题的，现在kimi蹬完了，codex还没重置，就靠glm来解决一些后端问题了"
+    },
+    {
+      "id": "311716589280",
+      "t": 14,
+      "content": "前端评测出炉，而且是high的"
+    },
+    {
+      "id": "311682289328",
+      "t": 4,
+      "content": "梁宫春日的忧郁，永无止境的七月中旬"
+    },
+    {
+      "id": "308630480241",
+      "t": 15,
+      "content": "后训练是必备  没有后训练  模型就是草台  我的想法是预训练 后训练混合同步  也许会有不错效果"
+    },
+    {
+      "id": "308482090993",
+      "t": 16,
+      "content": "发了[doge_金箍]"
+    },
+    {
+      "id": "2083702753893986649",
+      "t": 17,
+      "content": "DL中 私的DeepSeek V4 Flash のまとめ\napetersson/DeepSeek-V4-Flash-0731-Abliterated-FP8"
+    },
+    {
+      "id": "7668935947635704603",
+      "t": 18,
+      "content": "恐怖如斯[奸笑]"
+    },
+    {
+      "id": "311707118704",
+      "t": 8,
+      "content": "一问这些人用没用过api都不吱声了，不过我是真期待pro啊[打call]"
+    },
+    {
+      "id": "308484457025",
+      "t": 13,
+      "content": "ds的评分是自家harness测试的，期待一下吧"
+    },
+    {
+      "id": "311778026256",
+      "t": 8,
+      "content": "硬梁[大哭]"
+    },
+    {
+      "id": "311811623328",
+      "t": 2,
+      "content": "回复 @公道理中客 :都不是全模态，就做不了全模态的事，何来斩杀一说？deepseek变强是值得高兴的事，但有短板还拉踩k3是纯属愚蠢的事"
+    },
+    {
+      "id": "311747582432",
+      "t": 7,
+      "content": "回复 @ranpeppa :写论文用不上agent那些，这个就可以了"
+    },
+    {
+      "id": "p0zz34v",
+      "t": 19,
+      "content": "Imagine a future where we have a million agents at the level of Mythos, collectively operating for minimum wage"
+    },
+    {
+      "id": "311727474640",
+      "t": 7,
+      "content": "回复 @七只小野猫 :因为安装ai agent可以写代码，安装skills，做ppt，处理文件这些功能，光一个聊天满足不了需求"
+    },
+    {
+      "id": "308357598225",
+      "t": 4,
+      "content": "我的也是\n怎么回事啊"
+    },
+    {
+      "id": "308443860481",
+      "t": 20,
+      "content": "回复 @NavysLion :在 pro 出来前还是粱子"
+    },
+    {
+      "id": "p1271vz",
+      "t": 21,
+      "content": "Flash is not for solving the big problems. It's your code monkey.\n\nBut yeah, as such, you can use it for solving complex, real-world problems in medium to large producrion codebases. Duh.\n\nTip: You were very specific at specifying WHERE it should be used. You did not specify what \"used\" was supposed to mean."
+    },
+    {
+      "id": "308599845105",
+      "t": 2,
+      "content": "真的有人不用AI工作学习吗，我现在遇事先AI再自己想。☮"
+    },
+    {
+      "id": "6a6dfdfe0000000015005026",
+      "t": 22,
+      "content": "豆包差远了[笑哭R]"
+    },
+    {
+      "id": "311647545328",
+      "t": 4,
+      "content": "回复 @蒜了不要了 : 资本逐利没办法[25年度表情包_一]"
+    },
+    {
+      "id": "311645134720",
+      "t": 10,
+      "content": "回复 @Hapenia :没可能，不止算力，还有电力，而且到那个时候，通信技术已经6G 7G了，云端大模型才是成本最低效益最高的。你要是想本地部署，摆个机房在家，让手机连过去，都比手机上跑可行得多"
+    },
+    {
+      "id": "311842462992",
+      "t": 6,
+      "content": "我觉得为了抢发视频时间，而不开极限思考去测试是没有任何意义的"
+    },
+    {
+      "id": "7669119512704926513",
+      "t": 23,
+      "content": "json是谁?[捂脸]"
+    }
+  ]
+}

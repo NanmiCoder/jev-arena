@@ -1,0 +1,798 @@
+{
+  "items": [
+    {
+      "id": "6a6d7a20000000000b03b2ff",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明PDF以外可以使用，具体功能指代缺失。"
+    },
+    {
+      "id": "6a6cbd35000000002b02b63d",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "以“甚至”“一键”认可配置便利。"
+    },
+    {
+      "id": "311911748320",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0,
+      "reason": "批评Luna独立能力，同时肯定与Sol协作效率。"
+    },
+    {
+      "id": "308474017713",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0.4,
+      "reason": "结合灰测经验说明生成游戏价格不贵。"
+    },
+    {
+      "id": "311922170160",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance",
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问低并发部署如何提高计算利用率。"
+    },
+    {
+      "id": "311714337904",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正第一段关于模型参数规模的信息。"
+    },
+    {
+      "id": "p13fq50",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "指出上下文仅256k且无法调整的限制。"
+    },
+    {
+      "id": "311680638960",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "探讨调试看图需求，推测布局开发需要。"
+    },
+    {
+      "id": "311890772304",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "认为生成云不够真实且类型单一。"
+    },
+    {
+      "id": "311924428480",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问实测所用CLI及操作方法。"
+    },
+    {
+      "id": "311915971520",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "反问本地部署能否达到相应日调用价值。"
+    },
+    {
+      "id": "308628822289",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "多次尝试仍需登录，询问操作问题。"
+    },
+    {
+      "id": "308524647041",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "求证API调用是否适用所述价格。"
+    },
+    {
+      "id": "6a6de31b000000000403adfa",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问速度是否超过Grok4.5。"
+    },
+    {
+      "id": "308626914481",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问缓存命中率高的原因，笑哭不定褒贬。"
+    },
+    {
+      "id": "7669328301759972146",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "“呆弟”指代不明，无明确AI讨论依据。"
+    },
+    {
+      "id": "6a6d9012000000000802d129",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "用六万元API用量质疑本地设备性价比。"
+    },
+    {
+      "id": "7668973044191331131",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "请求解释，但不明确在问标题还是其他话语。"
+    },
+    {
+      "id": "308395540657",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "以可乐价格形容模型使用便宜。"
+    },
+    {
+      "id": "6a6ebd8a000000002b0038d4",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "纠正免费说法，并讽刺免费积分不够用。"
+    },
+    {
+      "id": "311926309760",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅给出模型名GLM，未表达评价或比较。"
+    },
+    {
+      "id": "311642711568",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅说记录在案，缺少记录对象和明确态度。"
+    },
+    {
+      "id": "311740823264",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "怀疑相关中文社区冒充官方，表述未确定。"
+    },
+    {
+      "id": "311718257072",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "猫娘玩梗，“你”可能指他人或模型形象。"
+    },
+    {
+      "id": "308337915489",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "质问未开最高思考强度，并指出价格低。"
+    },
+    {
+      "id": "7668760058595869477",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "求证DeepSeek是否无法查看图片。"
+    },
+    {
+      "id": "308440952993",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "认为模型能力不及5.6 Luna的MAX。"
+    },
+    {
+      "id": "7669067524130046769",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问成本下降为何会被解读为利空。"
+    },
+    {
+      "id": "311867020336",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "称赞本次测试正经，同时批评其他测试价值低。"
+    },
+    {
+      "id": "308429142433",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "报告不同工具上下文限制差异并批评设计草台。"
+    },
+    {
+      "id": "7669096948108526374",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "用命中率和费用计算质疑币种或价格说法。"
+    },
+    {
+      "id": "311903311104",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "称Zcode为瞎子专武，具体所指功能不明。"
+    },
+    {
+      "id": "311921285024",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "performance",
+        "quality",
+        "price",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "介绍项目特性并以使用体验肯定总结速度和质量。"
+    },
+    {
+      "id": "7669089518549779249",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议接入智能体，并补充自身做法。"
+    },
+    {
+      "id": "7668943627502666555",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅给出数量，可能回应标题Token量但对象缺失。"
+    },
+    {
+      "id": "308527207057",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "service"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "询问S与T选择，兼述不足；缩写与紧巴巴含义不明。"
+    },
+    {
+      "id": "308584175393",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "“海马斯”疑为玩梗，缺少与模型关联的依据。"
+    },
+    {
+      "id": "7669039763374768934",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "以只听进便宜调侃，轻度认可低价。"
+    },
+    {
+      "id": "311631585792",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "暂未体验明显提升，求证是否确实更好用。"
+    },
+    {
+      "id": "311874370384",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明建筑场景灵感来自楼下，未评价AI使用。"
+    }
+  ]
+}

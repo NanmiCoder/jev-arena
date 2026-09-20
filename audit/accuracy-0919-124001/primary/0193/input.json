@@ -1,0 +1,239 @@
+{
+  "topics": [
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Deepseek V4 Flash 正式版真好用 死肥鱼只是做了个后训练，列位诸公怎么就倒下了？#Deepseek.#Deepseek V4 Flash 正式版。#AI#大模型",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek-V4-Flash 正式版来了！",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "【转载MTS 】DeepSeek v4 Flash：本地部署大模型的真•DeepSeek时刻",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "i don't get the hype - DeepSeek V4 Flash 0731",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "deepseekV4Flash正式版上线并针对适配Codex",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "DeepSeek flash支持codex，cc！",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "DeepSeek-V4-Flash-0731 now far surpassing the DeepSeek-V4-Pro-Preview in benchmarks"
+  ],
+  "comments": [
+    {
+      "id": "311716504800",
+      "t": 0,
+      "content": "回复 @规则 :deepseek也没开max呀我寻思"
+    },
+    {
+      "id": "308486424497",
+      "t": 1,
+      "content": "神特么鲸正恩"
+    },
+    {
+      "id": "7669401076029850425",
+      "t": 2,
+      "content": "几千的粉儿整这么大活"
+    },
+    {
+      "id": "6a6e03e6000000000802d442",
+      "t": 3,
+      "content": "🕎🕎🕎"
+    },
+    {
+      "id": "308436446049",
+      "t": 4,
+      "content": "我想问一下之前api调用预览版，现在调用直接就是正式版了吗"
+    },
+    {
+      "id": "308486585793",
+      "t": 1,
+      "content": "现在deepseek就会自己跑python让自己识图，看思考过程看出一种莫名的又心酸又好笑的感觉"
+    },
+    {
+      "id": "311753766528",
+      "t": 5,
+      "content": "回复 @电子橙子 :那梁文峰得变成梁神了"
+    },
+    {
+      "id": "7668953990910051107",
+      "t": 6,
+      "content": "和免费没什么区别了"
+    },
+    {
+      "id": "7669344015842919178",
+      "t": 7,
+      "content": "opencode有免费的？"
+    },
+    {
+      "id": "308569195921",
+      "t": 8,
+      "content": "agent能力增加了啊，所以跑分比glm5.2高啊"
+    },
+    {
+      "id": "308484649201",
+      "t": 9,
+      "content": "回复 @爆发头 :api是没有的"
+    },
+    {
+      "id": "311716427008",
+      "t": 0,
+      "content": "尽快发布那就是没几天了"
+    },
+    {
+      "id": "311756938384",
+      "t": 10,
+      "content": "确实，今天我让他给我写代码明显好很多，我还在想怎么回事呢"
+    },
+    {
+      "id": "6a6d698b000000000500910f",
+      "t": 11,
+      "content": "自动更新的，看官网介绍。"
+    },
+    {
+      "id": "311727797312",
+      "t": 12,
+      "content": "并非，特别是dsf还能接op的再降价12倍"
+    },
+    {
+      "id": "308418711969",
+      "t": 13,
+      "content": "套餐都是模厂拿着投资人的钱玩百亿补贴，不赚钱的"
+    },
+    {
+      "id": "311744691984",
+      "t": 14,
+      "content": "好的，我会继续优化测试集，测试更多项目，用不同的Agent再次测试。"
+    },
+    {
+      "id": "6a6dac05000000001500ad17",
+      "t": 15,
+      "content": "claude code，官方文档有教程，很简单"
+    },
+    {
+      "id": "308620601585",
+      "t": 16,
+      "content": "还行吧[doge_金箍]"
+    },
+    {
+      "id": "2083144271209844985",
+      "t": 17,
+      "content": "@deepseek_ai 还是没有视觉吗？"
+    },
+    {
+      "id": "7668941337085805346",
+      "t": 6,
+      "content": "有钱Kimi性价比ds"
+    },
+    {
+      "id": "311798511088",
+      "t": 18,
+      "content": "用了1天，用了10元，总结一下，就是他会写，但是幻觉多，写出很多bug，返修费劲，还是用terr high最舒服"
+    },
+    {
+      "id": "308452396049",
+      "t": 19,
+      "content": "回复 @bili_15350159760 :跟你说话真费劲，router是路由中转的意思，gpt又没开源它只是转卖，ds开源的自己部署想卖多钱就卖多钱。\n怎么就听不懂呢，再见"
+    },
+    {
+      "id": "p0vnfof",
+      "t": 20,
+      "content": "Anyone got tk/s on dual RTX6000?"
+    },
+    {
+      "id": "311727654656",
+      "t": 21,
+      "content": "回复 @醉梦揽星河 :和pro正式版一起出，9月应该能出吧"
+    },
+    {
+      "id": "308489638321",
+      "t": 22,
+      "content": "回复 @困梦的杂物间 : 我遇到一次死机."
+    },
+    {
+      "id": "311902240720",
+      "t": 23,
+      "content": "flash一天也10快啊"
+    },
+    {
+      "id": "p13c85d",
+      "t": 24,
+      "content": "It still has a pretty high hallucination score, and I’ve found models high on that benchmark don’t work well for certain workflows.\n\nIt’s not just overt hallucinations themselves, but it seems to correlate strongly with a certain “laziness”, poor communication, forgetting/skipping steps, etc.\n\nYou can overcome a lot of it by being much more strict in prompts, more detail in plans, etc, but they tend to “cheat”, make assumptions, and/or just imagine details are done and work without checking otherwise.\n\nI mostly just skip models with rates over 80% or so now except for narrow, specialized subagents. The new flash is in the mid 80s. The old ones were mid 90s.\n\nThe GPT 5.6 models at max are all up in the 90s, too, and I see the same problems with them."
+    },
+    {
+      "id": "7668904811623383808",
+      "t": 25,
+      "content": "v4pro发布的话是不是就要赶上opus4.8"
+    },
+    {
+      "id": "311705450032",
+      "t": 12,
+      "content": "kimi k3和fable都是超级agent集群＋全模态，纯文本的deepseek其实还没有可以掰手腕的可比性。"
+    },
+    {
+      "id": "308419990577",
+      "t": 26,
+      "content": "[doge]有人试过codex吗，感觉deepseek harness可能是照着codex做的，在里面能力会不会强一点"
+    },
+    {
+      "id": "308529163585",
+      "t": 18,
+      "content": "今天我用同样的挂机文字游戏的提示词，用reasonix和proma分别测试了，reasonix用了162Mtoken，4块多，proma用了13Mtoken，8毛8分钱，画的等高线风格的地图比opus的还好看，用的都是官方v4 flash api。没想到不同的工具差别这么大"
+    },
+    {
+      "id": "6a6d7675000000000d022c00",
+      "t": 27,
+      "content": "对比御三家怎么样？可以代替Opus吗"
+    },
+    {
+      "id": "7668849869147144997",
+      "t": 28,
+      "content": "你阅读理解是不是一直都是0分[捂脸]"
+    },
+    {
+      "id": "311726173664",
+      "t": 12,
+      "content": "其实看预览版也能看得出来，模型本身的智力和能力都很强，但是指令遵从这块太烂了。梁圣也真是后训练仙人了。"
+    },
+    {
+      "id": "7668937056131515173",
+      "t": 6,
+      "content": "看了一遍，确实不错"
+    },
+    {
+      "id": "6a6f0b9d000000000500be5c",
+      "t": 29,
+      "content": "主要现在luna很便宜，接ds很多插件都用不了，没啥必要"
+    },
+    {
+      "id": "311695962800",
+      "t": 30,
+      "content": "思维链太长了，两分钟才出正文，还是继续用哈基米吧"
+    },
+    {
+      "id": "6a6f1c4a0000000015005dbb",
+      "t": 31,
+      "content": "因为这个模型太便宜好用了，积分消耗慢[偷笑R]"
+    },
+    {
+      "id": "p0vio3z",
+      "t": 32,
+      "content": "https://preview.redd.it/sgwlolszkkgh1.jpeg?width=434&format=pjpg&auto=webp&s=94aa1b97babc5ba832b7fb65e9ea7557a9d48b95\n\nCrazy guys! I just tried deepseek-V4-Flash-0731, it is plausibly on GLM5.2 similar level! Although it is difficult to judge whether it surpasses. But what shock me more is after 30mins usage, it didn’t even increase 1% usage lol! Man, can’t image how the LLM market will change after the new Pro version launch, excited to see a shock next week…"
+    }
+  ]
+}

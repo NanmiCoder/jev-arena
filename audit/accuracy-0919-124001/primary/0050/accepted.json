@@ -1,0 +1,805 @@
+{
+  "items": [
+    {
+      "id": "311629275248",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "介绍当前可用工具及后续Agent发布消息。"
+    },
+    {
+      "id": "308504941201",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "反驳对方对CEO言论的不信任，AI指代不明。"
+    },
+    {
+      "id": "2083892482803421221",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "给出模型主观排名，无明确整体褒贬。"
+    },
+    {
+      "id": "308400398833",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "以反问提出Agent基础提示词体量，偏纠正。"
+    },
+    {
+      "id": "6a6e08a9000000002902ca5e",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": null,
+      "reason": "提及上下文规模，“全球唯一”可能反讽。"
+    },
+    {
+      "id": "308587412865",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "明确称赞Cursor多模型审查好用。"
+    },
+    {
+      "id": "311643789200",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "表达对付费API能力和优先保障的信任。"
+    },
+    {
+      "id": "p17lpmt",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享本地运行参数、硬件和生成速度。"
+    },
+    {
+      "id": "308412996865",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合教程标题询问两种使用选项孰优。"
+    },
+    {
+      "id": "311713242272",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议视觉任务交给其他多模态模型配合。"
+    },
+    {
+      "id": "p0xqn5v",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问16GB显存应下载哪个模型版本。"
+    },
+    {
+      "id": "311679691456",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "转述官网说无需修改，但具体对象缺失。"
+    },
+    {
+      "id": "311874785424",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述AI写英文时常用破折号的输出习惯。"
+    },
+    {
+      "id": "308416656385",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "capability"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "讽刺苹果广告与功能短板，未明确涉及AI。"
+    },
+    {
+      "id": "p13z6pm",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "描述驾驭DeepSeek的麻烦并建议强化指令。"
+    },
+    {
+      "id": "308440542433",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "直言Codex的Windows版本表现差。"
+    },
+    {
+      "id": "6a6c9d55000000000403a609",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "分享一下午只花4元的低成本体验。"
+    },
+    {
+      "id": "308499710593",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "求助模型切换配置不生效的问题。"
+    },
+    {
+      "id": "6a6e27f700000000290369c1",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "指出生成SVG实际像绘制像素而非模块矢量。"
+    },
+    {
+      "id": "6a6d5f610000000015005601",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "引用更新日志纠正比较结论并责备对方。"
+    },
+    {
+      "id": "7668970992760783651",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "询问是否实用，同时认可9元价格便宜。"
+    },
+    {
+      "id": "311719166064",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other",
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "仅回复喜欢表情，无法确定具体评价对象。"
+    },
+    {
+      "id": "6a6c6f400000000015012be9",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "调侃智谱涨价后即被竞品超越。"
+    },
+    {
+      "id": "308421262289",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明轻量模型的能力边界与分工方式。"
+    },
+    {
+      "id": "311884059344",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "建议先用便宜的DS尝试任务再按需换模型。"
+    },
+    {
+      "id": "311814255088",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "说明上下文限制并质疑超长上下文的成本收益。"
+    },
+    {
+      "id": "2083091897892180282",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待",
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "断言Pro将以更小体量击败竞争模型。"
+    },
+    {
+      "id": "308349093841",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "complaint"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "以边角料贬低标题中的模型，带玩梗语气。"
+    },
+    {
+      "id": "p126xyt",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问GH200硬件及软件支持，AI使用关联不明。"
+    },
+    {
+      "id": "6a6edb5e000000000802f90d",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "trust",
+        "presentation"
+      ],
+      "e": [
+        "质疑",
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "质疑满血版封面并纠正量化精度称谓。"
+    },
+    {
+      "id": "6a6ee8e100000000140390d4",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "content",
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "请求制作OpenCode使用教程。"
+    },
+    {
+      "id": "7668962862048133903",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.3,
+      "reason": "贬低对方方法并推介自身方法，具体对象不明。"
+    },
+    {
+      "id": "6a6d4904000000000802f7b9",
+      "r": [
+        false
+      ],
+      "s": [
+        "mixed",
+        "positive"
+      ],
+      "i": [
+        "agreement",
+        "joke"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "认可道理又调侃措辞粗糙，未直接评价AI。"
+    },
+    {
+      "id": "311829807120",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提及学历推荐条件，缺少AI关联。"
+    },
+    {
+      "id": "311766287808",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅说招商卡可解决，缺失具体问题与用途。"
+    },
+    {
+      "id": "6a6e22ae000000000b039a75",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.9,
+      "reason": "强烈贬斥对象，但无法确定针对人还是模型。"
+    },
+    {
+      "id": "2083885963231809827",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "建议尝试Flash并称部分基准超过GLM。"
+    },
+    {
+      "id": "308388080209",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明功能仅支持OCR，未明确表达不满。"
+    },
+    {
+      "id": "p11lu7w",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问工具调用不工作的说明是否仍然有效。"
+    },
+    {
+      "id": "7668879913348285221",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "判断对方经验较少并说明常用多工具配合。"
+    }
+  ]
+}

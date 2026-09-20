@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "GPT 5.6 Luna最新测评报告！打得过Deepseek V4 Flash吗？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "deepseek v4 flash 成功逆向 expedia",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "Deepseek V4-flash正式版实测",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "Deepsee V4Flash性能倍增的秘密：后训练是什么？ 后训练前后，AI的性能差距居然能达到数倍？后训练到底是什么？DeepSeek V4Flash正式版为什么能实现性能倍增？一期视频聊明白这些；视频分为两个阶段，前半段是人人能懂的大白话，后半段是稍微深度一些的内容，适合进阶观众。#deepseek #人工智能 #大模型 #AI #梁文峰",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "【8月1日 朝のニュースまとめ】\n・DeepSeek V4-Flash 0731がオープンウェイトで公開\n・Moonshot AI、Alibaba経由でNvidiaチップ2万基利用\n・ChatGPTのブラウザ拡張とデスクトップアプリが大幅進化\n・Aschenbrenner氏ファンド、レバレッジ停止し運用継続\n・https://t.co/SnFwZ5ea0Sがエージェントによる自動セキュリティスキャ",
+    "DeepSeek V4 Flash深度评测：实测排名前五，国产大模型的史诗级翻身之作！",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "What speeds are everyone getting with deepseek v4 flash 0731?",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "[中配]DeepSeek V4 Flash 太惊人了——迄今为止最好的小模型！ - Bijan Bowen",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "瘫坐冷汗核弹！我在两天内消耗了4亿的Token，利用 DeepSeek V4Flash 正式版做出来了这个......",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek v4 flash正式版卡车压扁汽车案例"
+  ],
+  "comments": [
+    {
+      "id": "311875437088",
+      "t": 0,
+      "content": "回复 @Nomadi枫 : 我一天全力蹬能蹬3-40，回本周期2-3年，个人压根没有搭建必要。而且硬件掉价快。但是如果有三四个人就有说法了"
+    },
+    {
+      "id": "308440701377",
+      "t": 1,
+      "content": "回复 @鸡腿烤鸭拌饭 :codexradar"
+    },
+    {
+      "id": "308572541617",
+      "t": 0,
+      "content": "你问的是能不能学明白，我只能说，只要是正常高考报考，上大学你肯定能学会能读完，评论区都拿顶尖大厂的标准在这要求你"
+    },
+    {
+      "id": "308513935985",
+      "t": 2,
+      "content": "回复 @Physiopa1 : codex上下文就258k，触发之前就压缩了，当然不会触发这个超过272k的情况，这里讨论的当然是api，api在openai官网上写了cache write是额外收费的\n来源：https://developers.openai.com/api/docs/models/gpt-5.6-luna 小字标注 \nPrompts with &gt;272K input tokens are priced at 2x input and 1.5x output for the full request.\nCache writes are billed at 1.25x the uncached input token rate.\n\n来源：https://developers.openai.com/api/docs/pricing\n价格页面的api费用cache write字段\n\n难道我们提到luna降价80%的时候讲的是codex吗？"
+    },
+    {
+      "id": "7668949303063757627",
+      "t": 3,
+      "content": "按照你的理论，你现在最主要的任务是让梁文峰出一个deepseek的套餐"
+    },
+    {
+      "id": "6a6da26500000000290247e5",
+      "t": 4,
+      "content": "我老用户了hhh 2.5时期买过几个月，一看能买我也还挺惊讶"
+    },
+    {
+      "id": "6a6eee0400000000150072aa",
+      "t": 5,
+      "content": "你应该去他们公司逆向哈哈哈哈"
+    },
+    {
+      "id": "311876031744",
+      "t": 6,
+      "content": "是的，所以说Luna实际可用只有X High，当它开X High之后，智力等级就明显不如v4 Flash Max了。严重怀疑它那个Max档就是纯用来刷分的。[笑哭]"
+    },
+    {
+      "id": "6a6df61d000000001403b847",
+      "t": 7,
+      "content": "api用起来是真的不便宜，gpt里的计划一天天的用着没感觉，ds的api一天随便问问就7块8块，真不如gpt了"
+    },
+    {
+      "id": "308356613841",
+      "t": 8,
+      "content": "回复 @维克特先生 :其实小克也这样说（）"
+    },
+    {
+      "id": "7669307093707506490",
+      "t": 9,
+      "content": "后半段提到了这个问题"
+    },
+    {
+      "id": "311786929632",
+      "t": 0,
+      "content": "用的语音输入是哪个哇!"
+    },
+    {
+      "id": "311873693872",
+      "t": 10,
+      "content": "回复 @城乡结合部土豆豆 : 是的，不能只算输出不算输入。不过有一说一，dgx spark确实不适合跑dsv4flash这个体量的模型，毕竟算力就那么点，prefill才2k左右，太寒碜了。估计下一代spark能好一点。"
+    },
+    {
+      "id": "2083320327682343104",
+      "t": 11,
+      "content": "【8月1日 朝のニュースまとめ】\n・DeepSeek V4-Flash 0731がオープンウェイトで公開\n・Moonshot AI、Alibaba経由でNvidiaチップ2万基利用\n・ChatGPTのブラウザ拡張とデスクトップアプリが大幅進化\n・Aschenbrenner氏ファンド、レバレッジ停止し運用継続\n・https://t.co/SnFwZ5ea0Sがエージェントによる自動セキュリティスキャンを導入\n・YCが社内用マルチエージェントハーネス「QM」をOSS化\n・Tencentがエージェント用記憶システムをOSS化\n・LangChainがPRレビュー用ベンチマークReviewBenchを公開\n・関東Kaggler会、スポンサーや参加者情報公開\n\n===\n\nDeepSeek V4-Flash 0731がオープンウェイトで公開【続報】\n\n・DeepSeek V4-Flashに関する続報です\n・最新版「0731」がAPIに加えてオープンウェイトでも公開されました\n・アーキテクチャやサイズはプレビュー版と同じですが、エージェント性能が大幅に向上しています\n・Terminal-Benchで82.7を記録し、非常に低コストで他社のフロンティアモデルに匹敵する性能を示しています\n\n===\n\nMoonshot AI、Alibaba経由でNvidiaチップ2万基利用【続報】\n\n・Moonshot AIの「Kimi K3」に関する続報です\n・同社がAlibabaを通じて約2万基のNvidiaチップのクラスターを構築したとBloombergが報じました\n・このインフラを用いて最新モデル「Kimi K3」がトレーニングされたとみられています\n・米国の輸出規制下において、中国企業が最先端の計算資源にアクセスしている事例として注目を集めています\n\n===\n\nChatGPTのブラウザ拡張とデスクトップアプリが大幅進化\n\n・ChatGPTのChrome拡張機能がアップデートされ、開いているタブの参照やハイライトしたテキストからの質問が可能になりました。\n・デスクトップアプリでは、入力中のURLサジェスト機能や、会話やプロジェクトの更新をまとめる「Activity view」が追加されました。\n・さらに、ペットのアイコンをクリックするだけでVoice機能を起動できるショートカットも導入され、利便性が向上しています。\n\n===\n\nAschenbrenner氏ファンド、レバレッジ停止し運用継続【続報】\n\n・AI株の暴落でポートフォリオを全売却したLeopold Aschenbrenner氏のヘッジファンドに関する続報です\n・7月に67%の下落を記録したものの、年初来では依然として80%のプラスを維持していることが明らかになりました\n・同氏は投資家に対し、今後は銀行のレバレッジ使用を停止し、引き続き公開市場での投資を継続する方針を伝えています\n\n===\n\nhttps://t.co/SnFwZ5ea0Sがエージェントによる自動セキュリティスキャンを導入\n\n・AIアプリ開発プラットフォームのhttps://t.co/SnFwZ5ea0Sが、パブリッシュ時に自動でセキュリティスキャンを行うエージェントを導入しました。\n・アプリの脆弱性をディープスキャンし、パッチを適用した上でビルドを確認し、ロールバックポイントを作成します。\n・この高度なセキュリティ機能がデフォルトかつ無料で提供され、AIによる高速開発の安全性を高める取り組みとして評価されています。\n\n===\n\nYCが社内用マルチエージェントハーネス「QM」をOSS化\n\n・Y Combinatorが、社内で使用しているマルチエージェントハーネス「QM」をオープンソースとして公開しました。\n・Pi、OpenCode、Claude Code、Codexなどの様々なモデルで動作し、カスタマイズが容易な設計となっています。\n・YC社内では会計、法務、イベント運営、エンジニアリングなど幅広い業務で実際に活用されているとのことです。\n\n===\n\nTencentがエージェント用記憶システムをOSS化\n\n・Tencentが、AIエージェントに永続的な記憶を与える「TencentDB Agent Memory」をオープンソース化しました。\n・チャットログのウェアハウスやPineconeなどの外部データベースを必要とせず、セルフホストで動作します。\n・トークン消費を61%削減しつつ、ペルソナ記憶の精度を48%から76%へと大幅に向上させることが可能です。\n\n===\n\nLangChainがPRレビュー用ベンチマークReviewBenchを公開\n\n・LangChainチームが、実際のプルリクエスト（PR）レビューの問題を基にしたベンチマーク「ReviewBench」を構築しました。\n・実際のレビューから具体的な課題を抽出し、Harborフレームワーク上で再現可能なタスクとして定義しています。\n・社内で構築するAIエージェントの評価を標準化し、実用的なコードレビュー能力を測るための取り組みとして注目されています。\n\n===\n\n関東Kaggler会、スポンサーや参加者情報公開【続報】\n\n・8月7日開催の「第6回関東Kaggler会」に関する続報です\n・SB Intuitionsなどの企業がスポンサーとして協賛することが発表されました\n・今月入社したKaggle GrandMasterのJack氏も現地参戦を表明しており、参加者の間で期待が高まっています"
+    },
+    {
+      "id": "311892958288",
+      "t": 0,
+      "content": "回复 @前方之风丶 :建议用腾讯的 work  buddy"
+    },
+    {
+      "id": "311696716064",
+      "t": 12,
+      "content": "gemini翻译的吧，gemini印象里只有claude3.5和gpt4o"
+    },
+    {
+      "id": "308465534929",
+      "t": 13,
+      "content": "老哥 你测试过plus的只使用luna的周额度是多少token吗"
+    },
+    {
+      "id": "7669226474762945280",
+      "t": 14,
+      "content": "兄弟 你是VS CODE+CLAUDE直接链的DEEPSEEK吗 用没用通过代理啊"
+    },
+    {
+      "id": "308407954001",
+      "t": 15,
+      "content": "版本号不变=架构不变=不可能后训练出多模态，等4.1吧"
+    },
+    {
+      "id": "7668942514535580465",
+      "t": 3,
+      "content": "你也不看看 Deepseek 多少钱智谱 5.2 多少钱"
+    },
+    {
+      "id": "308562980033",
+      "t": 0,
+      "content": "luna直接api不比ds便宜，买套餐谁用luna?再说opencode的ds套餐不更便宜?"
+    },
+    {
+      "id": "311763325856",
+      "t": 16,
+      "content": "codex消耗ds的token太快的毛病解决没？"
+    },
+    {
+      "id": "311732736848",
+      "t": 0,
+      "content": "等官方的旗舰code吧"
+    },
+    {
+      "id": "311759346560",
+      "t": 0,
+      "content": "没法写代码的玩具罢了"
+    },
+    {
+      "id": "308449304001",
+      "t": 15,
+      "content": "回复 @别改我的名字啊 :看梁胜的意思是说，等deepseek智能程度到一定的程度，它可以自己训练多模态相关的程序，不用专门做"
+    },
+    {
+      "id": "311729781936",
+      "t": 17,
+      "content": "可以全都要不是，我在等正式版的 xml 文件，打算试试双 M5max exo 部署试试看效果能不能吊打 dgx*2"
+    },
+    {
+      "id": "6a6df7150000000009016197",
+      "t": 7,
+      "content": "请问是在一个会话里面，自己手动切不同的模型来做不同的事情吗？怎么切不同模型的？"
+    },
+    {
+      "id": "p144co9",
+      "t": 18,
+      "content": "8x 3090 Ti\n\n430 t/s PP, 23 t/s TG at depth of 4.7k tokens. ik_llama.cpp.\n\nI am hoping to see more optimalizations in llama.cpp/ik_llama.cpp because it's too slow for me to be happy with it."
+    },
+    {
+      "id": "7668703692422284081",
+      "t": 19,
+      "content": "没多模，只是大幅度变强了"
+    },
+    {
+      "id": "311676800624",
+      "t": 8,
+      "content": "1快钱99%命中率也就1亿token 吧，怎么能跑半小时的"
+    },
+    {
+      "id": "311769337536",
+      "t": 20,
+      "content": "我突然意识到，老美使用ds的时候刚好总是北京时间的电价低谷期[doge_金箍]"
+    },
+    {
+      "id": "7669258449821319985",
+      "t": 14,
+      "content": "腾讯云开发永久免费服务器[看]还不用你自己维护，腾讯托管的"
+    },
+    {
+      "id": "308415435153",
+      "t": 1,
+      "content": "省流：今日有D！！！！！！！！！！！\n今日无重置\nTibo:孩子们我马上重置的话你们还会叫我tibo圣吗\nluna:偏我来时不逢春，但我多模态还能有饭吃\nGLM：请输入文本"
+    },
+    {
+      "id": "311766283120",
+      "t": 1,
+      "content": "deepseek自己肯定会下场做的，另外不是送了个脚本吗[doge_金箍]直接一键接入codex啊"
+    },
+    {
+      "id": "2083212337583108558",
+      "t": 21,
+      "content": "@deepseek_ai Really curious to see how it feels in real coding work. Benchmarks look great but daily use will tell the full story"
+    },
+    {
+      "id": "311933819472",
+      "t": 22,
+      "content": "回复 @夕残单字一个祈 :我才看到实在terminal里面，吓坏了[打call]"
+    },
+    {
+      "id": "2083482646567690448",
+      "t": 21,
+      "content": "@deepseek_ai Price through bottoms\n\nHow do the others live?"
+    },
+    {
+      "id": "308593177857",
+      "t": 6,
+      "content": "厉害啊！终于可以堵住那些吹智谱家、说什么 GLM5.2 比 DeepSeek V4 flash 强的人的嘴了。我都怀疑那些人是不是收了智普家的商单。智谱家最近也是飘了，套餐价格直接涨3倍，量还缩水很多。价格比OpenAI家的套餐都贵。这回被DeepSeek V4 flash正式版爆锤，活该"
+    },
+    {
+      "id": "311709855040",
+      "t": 23,
+      "content": "看起来ai股票还有的跌了[滑稽]"
+    },
+    {
+      "id": "311648190224",
+      "t": 24,
+      "content": "gpt和claude没那么便宜"
+    }
+  ]
+}

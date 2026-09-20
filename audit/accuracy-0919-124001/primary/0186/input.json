@@ -1,0 +1,234 @@
+{
+  "topics": [
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "DeepSeek V4 Flash 正式版为我生成的体积云",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "DeepSeek-V4-Flash-High",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek-V4-Flash 正式版 API 上线公测 Flash 正式版在多项 Agent 基准测试中的表现，已经逼近甚至超越了三个月前 V4-Pro 预览版的水平。官方更新日志显示，V4-Flash 正式版在 Terminal Bench 2.1 上拿到 82.7 分，NL2Repo 54.2 分，Cybergym 76.7 分，Toolathlon verified 70.3 分。而 ",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "deepseek v4 flash正式版制作《带上她的眼睛》改编舞台剧，仿佛看到核弹爆炸！（片尾有彩蛋）",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "Deepseek V4 Flash最新测评！Claude Code版！",
+    "【中配】DeepSeek V4 Flash测评 全面测试霸榜前五！这波性能重回巅峰！",
+    "i don't get the hype - DeepSeek V4 Flash 0731",
+    "梁圣无敌！deepseek v4-flash正式版来了"
+  ],
+  "comments": [
+    {
+      "id": "311877502912",
+      "t": 0,
+      "content": "原先ds接codex不是有负优化吗，现在官方支持后会不会好一点？"
+    },
+    {
+      "id": "311765246704",
+      "t": 1,
+      "content": "回复 @中年欧吉桑 :300b的flash 模型能做到一遍过没明显bug 就算成功了，毕竟不是多模态而且参数量小"
+    },
+    {
+      "id": "p11fkfb",
+      "t": 2,
+      "content": "**(\\*) “locally”.**"
+    },
+    {
+      "id": "308352391809",
+      "t": 3,
+      "content": "请教一下你说的k3+ds是用什么实现呢？就是这种A规划然后交给B执行的模式应该怎么搞呢[哦呼]"
+    },
+    {
+      "id": "308454864097",
+      "t": 1,
+      "content": "？你为什么不用cherry Stidio的agent模式？还是cherry studio的Agent能力并不强[辣眼睛]"
+    },
+    {
+      "id": "311726651440",
+      "t": 3,
+      "content": "回复 @不好好充钱 :K3权重文件1.5TB+，绝大多数本地混推都搞不定，但v4pro能实现600/24+的本地p/d，已经是可用的水平了[抠鼻]"
+    },
+    {
+      "id": "308366469841",
+      "t": 4,
+      "content": "谢谢支持[星星眼][星星眼][星星眼][星星眼]"
+    },
+    {
+      "id": "308579484257",
+      "t": 5,
+      "content": "回复 @鼠炽 :网易也有java"
+    },
+    {
+      "id": "6a6c7e7d000000001500a247",
+      "t": 6,
+      "content": "已经从vscode转proma了"
+    },
+    {
+      "id": "311783470224",
+      "t": 7,
+      "content": "这个就是不能，搜mineru，这玩意儿可以转成markdown并且额度相当大，这个ds能读。"
+    },
+    {
+      "id": "311666986608",
+      "t": 8,
+      "content": "这是flash 啊哥"
+    },
+    {
+      "id": "6a6d48bc000000001403bb38",
+      "t": 9,
+      "content": "突破不大，因为这两个版本性能差距不大"
+    },
+    {
+      "id": "308503912817",
+      "t": 10,
+      "content": "回复 @Gunep :掺水只是中转站最小的问题。"
+    },
+    {
+      "id": "7669287246956217114",
+      "t": 11,
+      "content": "性能差不多，性价比碾压。"
+    },
+    {
+      "id": "308574984225",
+      "t": 10,
+      "content": "别碰这玩意，ai发展太快了，现在程序员都大批量失业了，等你毕业不敢想"
+    },
+    {
+      "id": "308604405169",
+      "t": 10,
+      "content": "知道了，去玩吧"
+    },
+    {
+      "id": "308445036001",
+      "t": 12,
+      "content": "chatGPT 官号和中转混用会出现端口 502 报错"
+    },
+    {
+      "id": "311722121360",
+      "t": 13,
+      "content": "dsv4flash也有一些免费渠道啊，也就有一些并发限制和时限内用量限制而已，你用luna做的，这个一样做，还没gpt弄起来麻烦"
+    },
+    {
+      "id": "6a6ca4c9000000000500a0b5",
+      "t": 14,
+      "content": "这跑分吓死人🤯Pro会到什么水平"
+    },
+    {
+      "id": "311798138528",
+      "t": 15,
+      "content": "相当理想[支持]不过你得懂点技术"
+    },
+    {
+      "id": "7668935576611668785",
+      "t": 16,
+      "content": "10块钱，才能买1/14 Plus套餐"
+    },
+    {
+      "id": "7668688955621786383",
+      "t": 17,
+      "content": "从堆参数到拼训练方法，DeepSeek V4 Flash的发布，标志着AI行业正式从“做大”转向“做精”，后训练的价值被彻底放大了。"
+    },
+    {
+      "id": "308495826625",
+      "t": 18,
+      "content": "跟我的测试非常像，我都怀疑正式版路由的是不是好几个不同的模型，半神状态"
+    },
+    {
+      "id": "311717941712",
+      "t": 19,
+      "content": "太帅了~！！果断更新~！感谢分享~！"
+    },
+    {
+      "id": "308363300913",
+      "t": 7,
+      "content": "回复 @Mr_XYZer :deepseek不就是小蓝梁吗，我一直这么叫[牛年]"
+    },
+    {
+      "id": "308592787585",
+      "t": 20,
+      "content": "这个bgm也是d指导做的吗？我看b上已经挺多up做midi音乐生成了"
+    },
+    {
+      "id": "6a6eb8f90000000015006465",
+      "t": 21,
+      "content": "五十分钟了[微笑R]别跟我说你从来没遇到过，这就随手一开就这样，也没任何报错，到底能不能跑倒是吭个声吧，软件真是做的跟屎一样，就这还国内最顶尖程序员呢，都一群混吃等死的货"
+    },
+    {
+      "id": "311627713504",
+      "t": 22,
+      "content": "!⸮强强?!"
+    },
+    {
+      "id": "308572850273",
+      "t": 23,
+      "content": "max的思考模式问题吧"
+    },
+    {
+      "id": "308333259969",
+      "t": 8,
+      "content": "回复 @Lucasycyyx : 应该是的，这个是opencode做的效果，你可以对比【deepseek flash v4 正式版实测，拉了？】 https://www.bilibili.com/video/BV1ebGA6PE6G/?share_source=copy_web&amp;vd_source=71c4221b8f3b03966dcf0964b1bc5621"
+    },
+    {
+      "id": "311738300960",
+      "t": 24,
+      "content": "目前codex和opencode工程能力确实强，国内太拉了"
+    },
+    {
+      "id": "311709172608",
+      "t": 25,
+      "content": "还真是，这次的flash ga大概率是从pro ga里蒸出来的"
+    },
+    {
+      "id": "7668955618945925925",
+      "t": 16,
+      "content": "对的，我在做自己的项目的时候才发现好模型真的贵，需要控制成本，低价模型就不可避免的成为主力"
+    },
+    {
+      "id": "308334667809",
+      "t": 22,
+      "content": "小白求问，之前一直是使用cc switch把DeepSeek V4的flash和pro预览版接入桌面版的claude code 现在正式版出了，我还用重新接一遍吗，还是不用接现在已经就是正式版了？"
+    },
+    {
+      "id": "p13kuib",
+      "t": 26,
+      "content": "Noticeably better with me. New Flash is only available via their API, right? Unless that's changed? Is that how you're accessing it?"
+    },
+    {
+      "id": "6a6da35b0000000015009ecf",
+      "t": 27,
+      "content": "[黑薯问号R]这波利好英伟达吧？老黄要不是怕被谈话，老早去吹去了，就现在也在极力推荐开源路线啊。"
+    },
+    {
+      "id": "308404142849",
+      "t": 4,
+      "content": "flash都这样 pro不得起飞啊"
+    },
+    {
+      "id": "6a6c5d38000000002a005d40",
+      "t": 14,
+      "content": "deepseek风味fable5"
+    },
+    {
+      "id": "311638479872",
+      "t": 3,
+      "content": "爽用啊 還是得D老師"
+    },
+    {
+      "id": "311821607248",
+      "t": 12,
+      "content": "是的，目前 ds 还没开放 api"
+    }
+  ]
+}

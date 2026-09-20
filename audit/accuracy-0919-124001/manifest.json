@@ -1,0 +1,14 @@
+{
+  "version": "accuracy-v1",
+  "seed": 20260920,
+  "rows": 10000,
+  "batch_size": 40,
+  "model_requested": "gpt-6-astra",
+  "rubric_sha256": "11fb9396c3ded232299975f9caf6eaa10188dda4f1eb67a18e3d2a002fd577cf",
+  "sources": {
+    "comments.csv": "3c1e7621e3d78a4fe35b0e226c4ee106fc9ebf2d0b928932f10dd683a741ce3e",
+    "labels.jev.jsonl": "0210a2911b3b09183befb16627cb493ebb523ba3ad0a54a01f8d37225b6604fa",
+    "labels.deepseek.jsonl": "59fb6a8cc5d95ac0e964143ae54bd94765a129fcb9373f9da18b6585db4774f8",
+    "manifest.json": "72aa3c0118db46bec7022a1f7d48eae5dfb364eb1db0a3ea3133eaf340f86cb3"
+  }
+}

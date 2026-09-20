@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "DeepSeek V4 Flash 0731",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "deepseek v4 Flash正式版直接出复杂像素资产图，多轮迭代，未能让deepseek大人尽兴",
+    "DeepSeek-V4-Flash-0731 UD-Q8_K_XL 17.20~ t/s on A6000 + 256GB DDR4",
+    "Qwen 3.6 27B at Q8 to Deepseek V4 Flash 0731 at Q3?",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "DeepSeek V4 Flash正式版 VS GPT5.6 luna",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "这条视频里的人是我，但我根本没拍，也没剪。 DeepseekV4Flash正式版自主做视频能力实测。我只输入了一段提示词，DeepSeek V4 Flash 就自己找案例、写内容，再用 AI 数字人做完了整条视频。现在的 AI 做视频，这已经是基础操作了。#AI新星计划  #AI做视频 #DeepSeekV4 #AI数字人",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "震惊瘫坐！deepseek v4 flash战地游戏生成，逆天性价比宛如看见核弹爆炸",
+    "梁圣加油",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？"
+  ],
+  "comments": [
+    {
+      "id": "311738343808",
+      "t": 0,
+      "content": "回复 @-司徒- : 可以试试这个，我当主力在用的中转稳定两三个月了的，luna降价巨便宜，https去掉://llm.twinight.co去掉/register?aff=7X468823PFWY"
+    },
+    {
+      "id": "p0ux3ae",
+      "t": 1,
+      "content": "One thing I'm curious about - is new Ds4 halucinates less or not?"
+    },
+    {
+      "id": "308412964801",
+      "t": 2,
+      "content": "回复 @云初子淼 :更有可能的解释是，ds看到gpt降价了，本来不打算发的，今天发了，所以才是0731不然直接是v4fga"
+    },
+    {
+      "id": "311632211552",
+      "t": 3,
+      "content": "回复 @玩会捶捶背 :我试过cc开1m上下文就会回退到预览版，去掉就一直是正式版\n正式版的思维链语言和指定语言是一致的，不会出现输入中文而思维链英文的情况"
+    },
+    {
+      "id": "7668967043358130981",
+      "t": 4,
+      "content": "没错，能用消费级16G显存显卡跑到40t/s就可以了"
+    },
+    {
+      "id": "7669314734101660425",
+      "t": 5,
+      "content": "没毛 没几个真用过的 全是看数据就在那瞎吹[捂脸]"
+    },
+    {
+      "id": "311760182880",
+      "t": 6,
+      "content": "这甚至只是f，看灰测视频的表现，pro正式版加上专武，能比这强两到三个档次（无专武f<无专武pro<专武pro<最高思考单位专武pro）"
+    },
+    {
+      "id": "p172whb",
+      "t": 7,
+      "content": "I have the same GPU, except the rest of the system is a bit newer, EPYC 9332 so I'm running DDR5 RAM. This post gives me a lot of hope since usually models this size I only see people with the newer 96GB GPUs showing off benchmarks. Excited to try it!"
+    },
+    {
+      "id": "p156h4z",
+      "t": 8,
+      "content": "I just ran ds v4 0731 63ctx q1 on dual 3090ti and 64gb ddr4 3200mhz just to see if it would run.\n\n3 to 4 t/s\n\nYeah nah."
+    },
+    {
+      "id": "308532894017",
+      "t": 9,
+      "content": "回复 @云舒小土豆 :佬阿里的视觉是什么啊"
+    },
+    {
+      "id": "311814997488",
+      "t": 10,
+      "content": "今天下午接入了，想让他写一个错题网站，但是到后面就一直显示重连什么的，感觉还是gpt原生的更爽一点"
+    },
+    {
+      "id": "308428532129",
+      "t": 9,
+      "content": "不用cc兴许还能少花不少token"
+    },
+    {
+      "id": "308393665713",
+      "t": 0,
+      "content": "回复 @王帅真 :cc switch会改系统提示词，有时候挺烦的"
+    },
+    {
+      "id": "311752671888",
+      "t": 11,
+      "content": "我单卡pro6000目前本地部署的GGUF 没有投机解码 20token/s 如果VLLM部署有投机解码速度还可以快一倍，你双卡的话随便跑了"
+    },
+    {
+      "id": "7668690726797148974",
+      "t": 12,
+      "content": "你怎么让它做图片识别的？"
+    },
+    {
+      "id": "308433015297",
+      "t": 13,
+      "content": "Reasonix区了吗"
+    },
+    {
+      "id": "311749259408",
+      "t": 9,
+      "content": "回复 @心仍意 :可是agi就是多模态啊[疑惑]"
+    },
+    {
+      "id": "7669384195878667017",
+      "t": 5,
+      "content": "做餐饮用ai来实现非标转标，比如菜品的标准化制作，把烹饪化学烹饪物理食材需求餐品目标全部SOP化"
+    },
+    {
+      "id": "6a6cb69d000000002203fedd",
+      "t": 14,
+      "content": "不要吹，我真进行过比较测试，跟我的实际使用体感一样，我们还要很长的路要走。"
+    },
+    {
+      "id": "311696253664",
+      "t": 15,
+      "content": "回复 @土豆泥213-1 :opus5出了啊比f5强  gpt也要出6了"
+    },
+    {
+      "id": "308490937889",
+      "t": 16,
+      "content": "当年AI比较差的时候，我记得我堆过好多屎，等我也试一试。话说现在接的API 已经切换到这个正式的了吗？"
+    },
+    {
+      "id": "308433039905",
+      "t": 17,
+      "content": "回复 @闪耀卡比 :图里luna max只比v4flash高一分，耗费高很多，具体见artificial analysis"
+    },
+    {
+      "id": "311767017552",
+      "t": 13,
+      "content": "大嘴也没说自家模型遥遥领先，反而说还有差距，又在这虚空打靶是吧"
+    },
+    {
+      "id": "7668657140928103203",
+      "t": 18,
+      "content": "谁说正式版有的"
+    },
+    {
+      "id": "7669268399197569855",
+      "t": 19,
+      "content": "ds AGI，没得多模态[杀马特]，但是可以用它控制多模态的AI啊"
+    },
+    {
+      "id": "308576004769",
+      "t": 20,
+      "content": "连5.6sol都做不对，lunar何德何能倒反天罡呢"
+    },
+    {
+      "id": "311702630432",
+      "t": 21,
+      "content": "回复 @花海渚汐 :马上抽裤腰带做弹弓，去弹梁子家的玻璃[doge]"
+    },
+    {
+      "id": "7669362994874565419",
+      "t": 19,
+      "content": "这个可以呀，很有性价比哇"
+    },
+    {
+      "id": "308374398897",
+      "t": 3,
+      "content": "回复 @恰个瓜子儿 :不好说，可能差不多"
+    },
+    {
+      "id": "311719544528",
+      "t": 13,
+      "content": "回复 @视野前线 :现在输入输出分别是二和15，然后分别乘以0:06。，你觉得能够得到多少？分别是0.12和0点九。"
+    },
+    {
+      "id": "6a6d89f1000000000501730a",
+      "t": 22,
+      "content": "因为看图只是一方面啊，做 Agent ，对模型自身也是有要求的。我接过它家的那个 2.1pro，感觉执行任务，调用工具，做连续性任务，能力还有待提高。"
+    },
+    {
+      "id": "311650556416",
+      "t": 23,
+      "content": "可以的，opencode里面的v4 flash官方直连，已经是正式版了"
+    },
+    {
+      "id": "311850167232",
+      "t": 13,
+      "content": "？？深神？？"
+    },
+    {
+      "id": "7668975093599929137",
+      "t": 4,
+      "content": "大佬们，这个V4要怎么用啊？我看官网没找到。"
+    },
+    {
+      "id": "308412251201",
+      "t": 24,
+      "content": "确实，luna现在在中转很便宜，我自己用的那个中转普通分组，输入0.2*0.8*0.2=0.032，就算是pro分组算下来0.2*1.3*0.2=0.052也和你说的差不多，更别说还有优惠券和活动分组了。缺点就是最近杀号严重，平时很稳的普通分组都能寄。[doge]"
+    },
+    {
+      "id": "2083345393421783350",
+      "t": 25,
+      "content": "@deepseek_ai Support for the Responses API is seriously great!"
+    },
+    {
+      "id": "308480353313",
+      "t": 26,
+      "content": "回复 @wwszkty :招笑"
+    },
+    {
+      "id": "308605397921",
+      "t": 9,
+      "content": "ds已经成为了ai斩杀线 毕竟没有比它便宜的 比它便宜还效率高的更没有"
+    },
+    {
+      "id": "7669296527693103930",
+      "t": 5,
+      "content": "算了 学学吧[笑哭]"
+    },
+    {
+      "id": "311683228288",
+      "t": 3,
+      "content": "声明：本人把梁文锋P到脉动头上纯粹出于对梁文锋的喜爱，从来没有诋毁的意思"
+    }
+  ]
+}

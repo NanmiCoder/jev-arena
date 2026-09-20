@@ -1,0 +1,817 @@
+{
+  "items": [
+    {
+      "id": "308463593681",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.5,
+      "reason": "认为项目使用中转存在信息安全风险。"
+    },
+    {
+      "id": "308404556977",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅艾特用户，无可判定评价内容。"
+    },
+    {
+      "id": "p10dw34",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "结合标题，强烈称赞该模型或接入体验。"
+    },
+    {
+      "id": "6a6d153f00000000290262d4",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": null,
+      "reason": "提及二创图并称恐怖，图与模型关系及褒贬不明。"
+    },
+    {
+      "id": "6a6d6723000000000b039382",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待",
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "期待多模态，并试探性认可后端能力第一梯队。"
+    },
+    {
+      "id": "7668669938462311194",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以竞品公司解散夸张调侃，能力判断仍为假设。"
+    },
+    {
+      "id": "308491794657",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问实测使用的Agent工具。"
+    },
+    {
+      "id": "6a6d8003000000002a02ead2",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "反驳不能使用的说法，表示可正常使用。"
+    },
+    {
+      "id": "6a6d63820000000005015b66",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "performance",
+        "quality",
+        "capability",
+        "content",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "批评速度、质量和功能限制，明显偏好Codex。"
+    },
+    {
+      "id": "311681059696",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "直接认为5.5价格贵。"
+    },
+    {
+      "id": "7669310990782268212",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃想要需加钱，但缺失对象使相关性有歧义。"
+    },
+    {
+      "id": "7669001561470042939",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合AI话题陈述阿里主要面向企业市场。"
+    },
+    {
+      "id": "6a6eba500000000009014c5c",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "维护DeepSeek定价动机并称赞梁文峰实干。"
+    },
+    {
+      "id": "311736145872",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "明确反驳前述观点，肯定Pro空间理解能力。"
+    },
+    {
+      "id": "7668929652249002803",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "用又起飞了肯定模型进步。"
+    },
+    {
+      "id": "311729261536",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "询问参数规模并以极端措辞调侃竞品，评价为条件式。"
+    },
+    {
+      "id": "308424302529",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "表示稍后尝试，缺失父评论无法确定具体对象。"
+    },
+    {
+      "id": "p119k04",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "认为DeepSeek变得保守，并称与其他模型差异显著。"
+    },
+    {
+      "id": "308382847553",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "reliability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "抱怨复杂任务反复无效思考，耗时且无法完成。"
+    },
+    {
+      "id": "308416384593",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述不同Harness下思维链语言不同的经验。"
+    },
+    {
+      "id": "308514918737",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "按研究检索与日常用途分配模型使用。"
+    },
+    {
+      "id": "308474185009",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "mixed"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [
+        "trust",
+        "other"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.5,
+      "reason": "赞扬梁改善AI创业者形象，兼有量化圈调侃。"
+    },
+    {
+      "id": "311720331344",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "performance",
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "抱怨网页长会话后输入换行严重卡顿。"
+    },
+    {
+      "id": "7668861540439819067",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "明确认为正式版能力强于Pro预览版。"
+    },
+    {
+      "id": "6a6e255c000000002b002756",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "表达放弃和失望，但未说明具体评价对象。"
+    },
+    {
+      "id": "6a6d7710000000002a0332f3",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "调侃美国AI被反复打懵，体现对对手表现的认可。"
+    },
+    {
+      "id": "311669796848",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "correction"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指导在Cherry设置中删除预设英文提示词。"
+    },
+    {
+      "id": "311636196736",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述自己重度使用DS且月花费300元。"
+    },
+    {
+      "id": "311636799520",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "批评K3套餐和API价格，体验不及Codex订阅。"
+    },
+    {
+      "id": "308340290049",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "报告切换后工作效果相近且Flash明显更快。"
+    },
+    {
+      "id": "308436815649",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "quality",
+        "price"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "质疑许愿式生成方式，认为效果差且耗Token。"
+    },
+    {
+      "id": "2083272544967377244",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "请求网页明确显示当前模型，抱怨不透明影响测试。"
+    },
+    {
+      "id": "311861779296",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认可OpenCode并肯定模型免费。"
+    },
+    {
+      "id": "7668707578802127650",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "分享调用视觉模型补充图片处理能力，认可低价体验。"
+    },
+    {
+      "id": "2083094492819923400",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "询问Token使用是否高效，带有期待语气。"
+    },
+    {
+      "id": "311926070096",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.7,
+      "reason": "结合发布标题，以梁神和打call表达支持。"
+    },
+    {
+      "id": "308340284737",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information",
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "提到Codex原生支持且无需转接，开头兼有询问。"
+    },
+    {
+      "id": "308429363345",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "讨论模型能力接近时价格及Harness选择的重要性。"
+    },
+    {
+      "id": "7669254765850837760",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅调侃询问A股散户处境，未讨论AI使用。"
+    },
+    {
+      "id": "308573713697",
+      "r": [],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只说还是284，缺少数值含义与对象无法判相关性。"
+    }
+  ]
+}

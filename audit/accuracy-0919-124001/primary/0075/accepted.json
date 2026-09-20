@@ -1,0 +1,818 @@
+{
+  "items": [
+    {
+      "id": "308442042321",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅答“网页”，或指使用入口，缺失上文有歧义。"
+    },
+    {
+      "id": "7669055686860997402",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion",
+        "complaint"
+      ],
+      "a": [
+        "content",
+        "presentation"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "要求删掉误导部分；high具体指代不明。"
+    },
+    {
+      "id": "311761851216",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "service",
+        "reliability",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "反驳对中转站的质疑，强调修复及时及群体监督。"
+    },
+    {
+      "id": "311746901376",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance",
+        "trust"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问性能波动监控方式及信息是否官方披露。"
+    },
+    {
+      "id": "7669167735280141094",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述不同模型分工完成创作的使用流程。"
+    },
+    {
+      "id": "308345287921",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "期待Pro、harness及视觉能力一起推出。"
+    },
+    {
+      "id": "311755920432",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "trust",
+        "price"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": -0.6,
+      "reason": "担忧公益站转卖资料，建议重要项目避免使用。"
+    },
+    {
+      "id": "311832078272",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": null,
+      "reason": "以数位部玩梗，缺少上下文无法确定具体讽刺对象。"
+    },
+    {
+      "id": "308359497441",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "trust",
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.3,
+      "reason": "认为模型自述不可靠，建议查官方token消耗。"
+    },
+    {
+      "id": "308497712721",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "愤怒"
+      ],
+      "score": -0.7,
+      "reason": "以排名反驳对方，贬斥其盲测来源。"
+    },
+    {
+      "id": "308442166561",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "other",
+        "praise"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "单独“6”可能赞叹或敷衍，无明确讨论对象。"
+    },
+    {
+      "id": "311721773520",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "question"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "抱怨缺少蒸馏版本且双机部署成本难以承担。"
+    },
+    {
+      "id": "311751889696",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "以参数规模差距嘲讽比较方式，并非明确贬低模型。"
+    },
+    {
+      "id": "308443154401",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "针对对方作揶揄，未明确讨论模型或使用。"
+    },
+    {
+      "id": "7668904305131488050",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service",
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "指出公益站有免费服务，但批评额度不够用。"
+    },
+    {
+      "id": "7669062325827404563",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "negative"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": null,
+      "reason": "字面赞国产领先，“遥遥领先”也可能反讽。"
+    },
+    {
+      "id": "308426451025",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "usability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "安装测试成功但实际操作失败，反馈使用问题。"
+    },
+    {
+      "id": "7669369354668557093",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问能否稳定胜过GLM5.2，未表达确定评价。"
+    },
+    {
+      "id": "311772459568",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "反对DS贵的说法，同时斥责其他国产模型定价。"
+    },
+    {
+      "id": "311710828992",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "质疑"
+      ],
+      "score": 0.5,
+      "reason": "以小参数模型能抗衡大模型反驳“玩脱”。"
+    },
+    {
+      "id": "308423536145",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "明确认为缺少多模态导致能力不足。"
+    },
+    {
+      "id": "6a6ec26f000000002b027511",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.7,
+      "reason": "批评字节吃相，或关联TRAE，但未说明具体行为。"
+    },
+    {
+      "id": "17925710",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0,
+      "reason": "赞DeepSeek生成效果美观，同时贬低GPT和Kimi。"
+    },
+    {
+      "id": "6a6cc921000000002902f1a6",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0.3,
+      "reason": "认可改善和低价，也明确指出过去很差且仍不及K3。"
+    },
+    {
+      "id": "7669074835335480100",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "愤怒"
+      ],
+      "score": 0.1,
+      "reason": "强烈赞赏DS能力与性价比，同时批评对方误导。"
+    },
+    {
+      "id": "311730360064",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以记忆中的跑分比较提出求证。"
+    },
+    {
+      "id": "7668748903408714554",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "纠正发布时间理解，并批评嫁接视觉的信息损失。"
+    },
+    {
+      "id": "6a6eb1ec000000002b02bf66",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推荐用CC Switch作为操作工具。"
+    },
+    {
+      "id": "311776239296",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释缓存命中价格并提供官方文档查阅方向。"
+    },
+    {
+      "id": "308403523697",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合接入教程，指导重跑脚本选择选项3。"
+    },
+    {
+      "id": "308350205873",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "强调Qwen小参数模型的Agent能力超过GPT-4o。"
+    },
+    {
+      "id": "308337510561",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "惊喜",
+        "失望"
+      ],
+      "score": 0.2,
+      "reason": "惊喜于模型实力，同时懊恼刚续费GPT Plus。"
+    },
+    {
+      "id": "311639512240",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "期待",
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "以“斩杀”调侃竞争，期待GLM5.5有实力。"
+    },
+    {
+      "id": "p11jt51",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称升级前Flash已在其脚本和编程任务中表现很好。"
+    },
+    {
+      "id": "308628137633",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "联想到另一模型hy3，但没有明确评价或比较结论。"
+    },
+    {
+      "id": "311718998720",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "赞本地DS能完成不能联网的材料写作任务。"
+    },
+    {
+      "id": "2083115569738608699",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "称又一个DeepSeek时刻，表达对升级的赞赏。"
+    },
+    {
+      "id": "311763432352",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality",
+        "reliability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "解释上下文版本混杂及Agent缓解方法，含明确问题批评。"
+    },
+    {
+      "id": "311650539760",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "询问特定地区Claude是否仍可用，附玩梗表情。"
+    },
+    {
+      "id": "p17oi5g",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Hermes能否编程及与专用工具相比是否更好。"
+    }
+  ]
+}

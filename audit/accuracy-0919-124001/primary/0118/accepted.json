@@ -1,0 +1,802 @@
+{
+  "items": [
+    {
+      "id": "p171qjl",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.1,
+      "reason": "感谢分享但认为旧卡不值，提供自身速度对比。"
+    },
+    {
+      "id": "p10c1de",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "price",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "认为开源本地部署能缓解服务压力并肯定其成功。"
+    },
+    {
+      "id": "311878544080",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.2,
+      "reason": "肯定5.4智力但批评主动规划与干活效率。"
+    },
+    {
+      "id": "6a6e835f000000002b0256d8",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "对博弈输赢表示服气，是否涉及AI缺少上下文。"
+    },
+    {
+      "id": "311841573360",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "仅表达感谢，没有可见AI讨论内容。"
+    },
+    {
+      "id": "308364415921",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问在Codex中快速切换模型的方法。"
+    },
+    {
+      "id": "308566169217",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问接入Codex后是否收费。"
+    },
+    {
+      "id": "308407411425",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "反问284B是否仍不够，具体反对对象不明。"
+    },
+    {
+      "id": "308369288625",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述Cherry底层提示词情况，未明确褒贬。"
+    },
+    {
+      "id": "311664261824",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "表示设计代码环节可以使用vibe coding。"
+    },
+    {
+      "id": "311857321888",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述按六个月回本制定价格的信息。"
+    },
+    {
+      "id": "2083875967181754692",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "比较两模型分数、费用和部署条件，整体客观。"
+    },
+    {
+      "id": "7669045554559140642",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "批评只强调便宜的人没有理解模型。"
+    },
+    {
+      "id": "311719719504",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "推测模型能力至少达到或逼近GPT高水平。"
+    },
+    {
+      "id": "311903323376",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问终端图片和半透明外观，未讨论AI使用。"
+    },
+    {
+      "id": "p10k4c5",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "认可中国模型竞争对美国模型价格的制约。"
+    },
+    {
+      "id": "7668931720444134181",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "指出Pro尚未发布正式版，可能是在纠正说法。"
+    },
+    {
+      "id": "311897086416",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "correction"
+      ],
+      "a": [],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "以官网仍在预告提出反问，具体争议不明。"
+    },
+    {
+      "id": "7668914324643316517",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 1,
+      "reason": "强烈赞美梁文峰，是否延伸评价模型略有歧义。"
+    },
+    {
+      "id": "2083701415185371247",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "分享AI订阅与本地使用配置，强调节省费用。"
+    },
+    {
+      "id": "308583989617",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question",
+        "correction"
+      ],
+      "a": [
+        "price",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "用自身Token花费质疑对方费用数据。"
+    },
+    {
+      "id": "308480976417",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "price"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "求助缓存命中方法，并抱怨费用消耗较快。"
+    },
+    {
+      "id": "7668917986875163418",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议直接使用不用改，具体使用对象未明确。"
+    },
+    {
+      "id": "311783312272",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释盈利用于AGI开发资金，未明确评价。"
+    },
+    {
+      "id": "7669093523795575601",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明识图能力、生成限制及插件实现途径。"
+    },
+    {
+      "id": "p13k529",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "分享本地硬件与推理速度并预测SSD影响。"
+    },
+    {
+      "id": "308341409057",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "以OpenCode免费额度纠正需要花费的说法。"
+    },
+    {
+      "id": "308423790433",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "说明Pro曾内测，并肯定其制作的游戏好玩。"
+    },
+    {
+      "id": "7669409622117712677",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "转告已有回复并提及Claude Code，未评价。"
+    },
+    {
+      "id": "308459670273",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "表达等待官方终端推出的使用选择。"
+    },
+    {
+      "id": "308429553537",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "表达蹲守和将来合影的期待，与AI无明确关联。"
+    },
+    {
+      "id": "p12957i",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "贬称DeepSeek只能靠刷榜竞争。"
+    },
+    {
+      "id": "311783398720",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "根据测试肯定ZCode效果及对无视觉模型的优化。"
+    },
+    {
+      "id": "311884687712",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正识图来源为调用使用Qwen的技能。"
+    },
+    {
+      "id": "311902633504",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "称ZCode适合无视觉模型，带轻度肯定意味。"
+    },
+    {
+      "id": "311835507504",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "调侃利润和商业模式，具体指向依赖缺失语境。"
+    },
+    {
+      "id": "311747091264",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "quality",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "赞同结论并肯定Luna速度、质量和费用表现。"
+    },
+    {
+      "id": "6a6dce850000000009014fa1",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "质疑小参数模型榜单表现，认为存在过拟合和边界问题。"
+    },
+    {
+      "id": "308413856513",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.8,
+      "reason": "抱怨实测陷入死循环且无法修复替代方案的bug。"
+    },
+    {
+      "id": "7668934950708609792",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information",
+        "complaint"
+      ],
+      "a": [
+        "trust",
+        "quality"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "指称使用自家低档模型注水，带明显贬斥。"
+    }
+  ]
+}

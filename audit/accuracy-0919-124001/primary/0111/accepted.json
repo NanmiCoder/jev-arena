@@ -1,0 +1,810 @@
+{
+  "items": [
+    {
+      "id": "6a6e8c2d000000001500a062",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "称图有意思，但图是否涉及模型评价不明。"
+    },
+    {
+      "id": "311723098816",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "表示愿意等待图片视频版，体现期待。"
+    },
+    {
+      "id": "311833086896",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "抱怨模型降价后能力下降。"
+    },
+    {
+      "id": "311914457088",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.3,
+      "reason": "调侃大刘的预见性，未明确评价AI。"
+    },
+    {
+      "id": "311729606368",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "表示还需等待官方harness工具。"
+    },
+    {
+      "id": "6a6ea3e40000000015002d21",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "推荐workbuddy并强调无需特殊网络。"
+    },
+    {
+      "id": "7669371642066748195",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "强调美国AI开发者的华人身份。"
+    },
+    {
+      "id": "311837550000",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待",
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "感叹未来AI发展，离谱的褒贬略有歧义。"
+    },
+    {
+      "id": "6a6d9f37000000002a02e8f3",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "表示学到了，但未明确所学是否为AI使用。"
+    },
+    {
+      "id": "7668990836163887931",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "推测AI计费将类似手机流量模式。"
+    },
+    {
+      "id": "311686340272",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "请求对GPT好一点，具体所指待遇不明。"
+    },
+    {
+      "id": "7668845671437124378",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "主张AI审美只需跟进市场，带反驳语气。"
+    },
+    {
+      "id": "2083899271888425388",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "分享订阅体验，认为Kimi复杂问题表现更好。"
+    },
+    {
+      "id": "7669065102406271782",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问缺少视觉能力是否影响使用便利。"
+    },
+    {
+      "id": "7669146493567517477",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "称官方文档支持一键接入且简单好用。"
+    },
+    {
+      "id": "311701889904",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [
+        "失望",
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "抱怨智谱API迅速耗尽充值余额。"
+    },
+    {
+      "id": "7668934376537850683",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "有条件地看好追上智谱后的性价比。"
+    },
+    {
+      "id": "308612096353",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "mixed"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "performance",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "愤怒",
+        "认可"
+      ],
+      "score": -0.6,
+      "reason": "主要抱怨Luna慢，同时肯定V4Flash速度。"
+    },
+    {
+      "id": "2083888512860823663",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "以跑分、价格和接入方式肯定Flash进步。"
+    },
+    {
+      "id": "308432606849",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否重置，具体对象缺失。"
+    },
+    {
+      "id": "308430233297",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "将多模态称为伪需求，否定其必要性。"
+    },
+    {
+      "id": "7668897886374134565",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "usability",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "指责作者未接好模型就评价，质疑其水平。"
+    },
+    {
+      "id": "308398658369",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅调侃作息，与模型使用无明确关系。"
+    },
+    {
+      "id": "308417913265",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "纠正有时与全部的范围，所指内容缺失。"
+    },
+    {
+      "id": "311720248624",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问申请密钥后能否直接使用官方手机App。"
+    },
+    {
+      "id": "308471736913",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明与其他模型比较时使用相同提示词。"
+    },
+    {
+      "id": "311633573552",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.2,
+      "reason": "认为高命中率大多好但也有弊端，对象不明。"
+    },
+    {
+      "id": "308585484129",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "price"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "抱怨上下文短，并提到免费使用混元。"
+    },
+    {
+      "id": "308326497633",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "指出涨价恰逢V4正式版出现，略带调侃。"
+    },
+    {
+      "id": "311888798192",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "以Luna更贵反驳比较欺负人的说法。"
+    },
+    {
+      "id": "6a6cdc90000000002a02f3c2",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "担忧",
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "质疑造人的妥当性，与AI的具体关联不明。"
+    },
+    {
+      "id": "308627318849",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "感谢作者和梁文锋，强烈称赞太牛了。"
+    },
+    {
+      "id": "311632621248",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "usability",
+        "performance",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提出拆分使用两个模型，说明效果与速度取舍。"
+    },
+    {
+      "id": "p0x2iq4",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "反驳不可能的看法，看好小模型的提升空间。"
+    },
+    {
+      "id": "7668929032860664634",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "question"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "反问是否考虑价格，主要质疑评价遗漏。"
+    },
+    {
+      "id": "308363089953",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "评价Flash一般，同时称Pro灰度版能力很强。"
+    },
+    {
+      "id": "308508846593",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "陈述跑分在GLM与Opus之间的比较结果。"
+    },
+    {
+      "id": "311821097792",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability",
+        "usability",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "肯定部分能力，但抱怨工具bug及max模式差异。"
+    },
+    {
+      "id": "311805135120",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "认为缺少多模态难以在前端竞争，后端尚有可能。"
+    },
+    {
+      "id": "6a6f0f9e000000002902e275",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "表示本地运行方案从vLLM转向llama.cpp。"
+    }
+  ]
+}

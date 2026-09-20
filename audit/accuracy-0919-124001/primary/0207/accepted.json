@@ -1,0 +1,785 @@
+{
+  "items": [
+    {
+      "id": "308616315585",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.5,
+      "reason": "称赞网友有梗，未涉及模型使用或评价。"
+    },
+    {
+      "id": "311733189984",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "疑似围绕梁工的谐音梗，是否评价模型不明。"
+    },
+    {
+      "id": "308438411985",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "讽刺其发展方向，并批评视频生成不如豆包。"
+    },
+    {
+      "id": "311877515776",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "拟人化竞品玩梗，少一个零具体指什么不明。"
+    },
+    {
+      "id": "6a6cc5ed0000000004039b61",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "correction"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "说明预览版与正式版的训练差别，可能兼有纠正。"
+    },
+    {
+      "id": "311774001984",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "抱怨国产AI连简单算术提问也会中断。"
+    },
+    {
+      "id": "6a6da1210000000029024a4d",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "称赞完成任务好用且快，并表示不再打算用5x。"
+    },
+    {
+      "id": "6a6d5db300000000150076c9",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议不要包年，理由是每月可能出现更好套餐。"
+    },
+    {
+      "id": "7668669363009323825",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测不会推出多模态，并转述其对推理的影响。"
+    },
+    {
+      "id": "308372154097",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "以Opus反驳DeepSeek写作属于最强档的说法。"
+    },
+    {
+      "id": "6a6deaac000000002b028b8b",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "直接赞赏朋友的格局，未明确涉及AI。"
+    },
+    {
+      "id": "311928110656",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "推荐使用reasonix，但缺少用途说明，相关性略有歧义。"
+    },
+    {
+      "id": "6a6d90680000000014039e5e",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "joke"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.3,
+      "reason": "称模型对炒股无帮助，狗头表情带有调侃。"
+    },
+    {
+      "id": "308405695329",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "带讽刺地纠正网页操作必须依赖视觉的说法。"
+    },
+    {
+      "id": "311771323056",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "推测要等V5，但具体等待的能力或功能不明。"
+    },
+    {
+      "id": "308600308433",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.4,
+      "reason": "批评未看完视频就评论的行为，未评价AI。"
+    },
+    {
+      "id": "311906989568",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问Flash是否已经是正式版。"
+    },
+    {
+      "id": "p13p5c9",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "报告本地配置、生成速度及推测解码的加速条件。"
+    },
+    {
+      "id": "311746961408",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问研究生使用GPT订阅与DS API哪个更划算。"
+    },
+    {
+      "id": "308472693793",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "performance",
+        "comparison"
+      ],
+      "e": [
+        "惊喜",
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "重点称赞Flash输出快，并以Pro较慢作对比。"
+    },
+    {
+      "id": "308423522625",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问Pro版本情况，未明确表达褒贬。"
+    },
+    {
+      "id": "6a6e79070000000009014712",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问ACM金牌含义，主题并非AI产品或使用。"
+    },
+    {
+      "id": "7669409908186579739",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅提供经过拆字处理的网盘链接，无AI评价。"
+    },
+    {
+      "id": "6a6e09620000000029036356",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.9,
+      "reason": "辱骂借浙江地域身份自抬身价者，未讨论AI。"
+    },
+    {
+      "id": "6a6ddd6a000000002a02ef4e",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "承认评测分高但强调小模型边界，主要陈述使用定位。"
+    },
+    {
+      "id": "p12mv0m",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "盛赞帖子，是否同时认可标题中的AI观点不明。"
+    },
+    {
+      "id": "308522663329",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "质疑结果并询问是否通过V4 Flash API调用。"
+    },
+    {
+      "id": "6a6d7640000000002901af38",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "主要认可当前更流畅，同时回顾上周卡顿体验。"
+    },
+    {
+      "id": "p0wn7hz",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "求证能力是否符合评分，并有条件称赞性价比。"
+    },
+    {
+      "id": "7668853827601548070",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.3,
+      "reason": "贬低旧版代码并报告新版找出34个漏洞，隐含肯定新版。"
+    },
+    {
+      "id": "6a6de406000000002100e0aa",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "模仿梁圣口吻调侃低成本保留C端用户的策略。"
+    },
+    {
+      "id": "6a6c56b8000000001500a698",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "乐观预测AI平权将很快到来。"
+    },
+    {
+      "id": "308460128945",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问手机上如何使用相关AI客户端或服务。"
+    },
+    {
+      "id": "2083882756589977640",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": -0.6,
+      "reason": "反驳速度快的说法，指出思维链冗长导致结果慢。"
+    },
+    {
+      "id": "308452725441",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称赞DeepSeek实力强，并称Kimi等无法做到。"
+    },
+    {
+      "id": "311758139968",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "仅陈述集训中跑数学建模代码，是否使用AI不明。"
+    },
+    {
+      "id": "311815412976",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "维护空格排版更美观的观点，未明确涉及AI。"
+    },
+    {
+      "id": "311626756000",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "评价Claude Code最高努力档的产出效果一般。"
+    },
+    {
+      "id": "308516690593",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.4,
+      "reason": "通过模型选用顺序分析Terra定位尴尬、缺乏机会。"
+    },
+    {
+      "id": "308605540833",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "以编写MC模组体验称其不逊多个竞品且符合预期。"
+    }
+  ]
+}

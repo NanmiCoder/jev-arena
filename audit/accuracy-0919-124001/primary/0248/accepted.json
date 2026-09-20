@@ -1,0 +1,766 @@
+{
+  "items": [
+    {
+      "id": "311804817280",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "强调应看数学能力，但缺少上下文，纠正对象不明。"
+    },
+    {
+      "id": "6a6ec86e000000002b025d63",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": -0.6,
+      "reason": "认为相关方案太贵且没有必要。"
+    },
+    {
+      "id": "308419663601",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提及使用opencode和go，末句含义略不清。"
+    },
+    {
+      "id": "6a6dfc4b000000002a007655",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.6,
+      "reason": "因缺少多模态而否定其前端使用效果。"
+    },
+    {
+      "id": "308413296289",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "production"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "根据口音判断视频未使用AI配音。"
+    },
+    {
+      "id": "p0ttphc",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.2,
+      "reason": "明确否定，但可能回应标题或缺失对话。"
+    },
+    {
+      "id": "311798723232",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "反驳学不会的说法，是否特指AI学习不明。"
+    },
+    {
+      "id": "p15ap6q",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "表示在vllm未遇到该问题，并要求更多细节。"
+    },
+    {
+      "id": "6a6de28300000000150143ae",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "分享新版使用正常且强于旧pro的体验。"
+    },
+    {
+      "id": "311726998656",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议等待下周官方版本，避免继续折腾。"
+    },
+    {
+      "id": "7669012395717804815",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": null,
+      "reason": "调侃对方说话招笑，嘲讽或觉得有趣均合理。"
+    },
+    {
+      "id": "311786351104",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "performance",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.5,
+      "reason": "明确评价速度很慢，并与5070水平比较。"
+    },
+    {
+      "id": "311888540752",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述他人测试的prefill速度数据。"
+    },
+    {
+      "id": "7668962694384354097",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问在Claude Code中切换新版flash的方法。"
+    },
+    {
+      "id": "6a6d26220000000015013aab",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": 0,
+      "reason": "询问flash超过Pro是否可信，未明确否定。"
+    },
+    {
+      "id": "7669019089436787483",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "询问说法依据，缺少具体指代，相关性两可。"
+    },
+    {
+      "id": "308342176769",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问此前配置的flash能否直接继续使用。"
+    },
+    {
+      "id": "6a6d527b000000000500bf11",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "quality"
+      ],
+      "e": [],
+      "score": -0.2,
+      "reason": "主要询问版本确认方法，并轻微不满重复英文。"
+    },
+    {
+      "id": "6a6ca52d0000000015014dc0",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement",
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "推测字节也如此，但省略具体观点和对象。"
+    },
+    {
+      "id": "311768502736",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "认为flash足以处理多数任务，并陈述调用榜优势。"
+    },
+    {
+      "id": "6a6e0c0e0000000005017d62",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "解释对话消失与更换provider有关，文本后段截断。"
+    },
+    {
+      "id": "2083231405484761573",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.5,
+      "reason": "明确期待V4-Pro正式版发布。"
+    },
+    {
+      "id": "6a6edbca000000002a02e8b4",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "仅表达理解和感谢，没有具体AI讨论。"
+    },
+    {
+      "id": "311620307360",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "以小丑称呼glm5.2并进行贬低式比较。"
+    },
+    {
+      "id": "p0xmayh",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.9,
+      "reason": "强烈批评角色扮演中泄露未知姓名等表现。"
+    },
+    {
+      "id": "308466810737",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正补贴领取日期，无法确定补贴是否涉及AI。"
+    },
+    {
+      "id": "7668844781220741897",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "陈述目前使用flash并等待pro正式版。"
+    },
+    {
+      "id": "308434946577",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "只有账号或网站提及，没有可辨识的评价。"
+    },
+    {
+      "id": "308342333025",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "明确评价k3不如fable，未同时表达肯定。"
+    },
+    {
+      "id": "308453120257",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "借玩flash讥讽对方，未明确评价模型能力。"
+    },
+    {
+      "id": "308421473089",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "分享接入后可随便使用的体验，褒义较弱。"
+    },
+    {
+      "id": "311787880944",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "描述输出语言从英文变中文，没有明确褒贬。"
+    },
+    {
+      "id": "308435525505",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.7,
+      "reason": "强赞DS及kimi，同时明确批评codex和opus总结。"
+    },
+    {
+      "id": "311722620064",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称DS更便宜，并高度认可潜在套餐性价比。"
+    },
+    {
+      "id": "311717479552",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议先用现有工具，待DS工具发布后再切换。"
+    },
+    {
+      "id": "308466256289",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "使用贝多芬梗调侃，具体对象和含义不明。"
+    },
+    {
+      "id": "311804536608",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "激烈反对对小参数模型抱有旗舰级能力预期。"
+    },
+    {
+      "id": "311628071840",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "分享连续使用pro的经历，99.95的指标不明。"
+    },
+    {
+      "id": "7669343718960628534",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "以安兔兔作反问，反对对方对模型数据的看法。"
+    },
+    {
+      "id": "7668894375548470059",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "认为cc连接DS后表现略差，具体不足未说明。"
+    }
+  ]
+}

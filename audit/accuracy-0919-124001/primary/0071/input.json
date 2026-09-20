@@ -1,0 +1,229 @@
+{
+  "topics": [
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4flash用SVG复刻梵高和画画",
+    "要被外网的一些评论笑死了😂😂😂",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DS-V4-flash正式上线！大家好，我是指北师！\n今天Deepseek v4 Flash正式版终于上线，\n整体能力得到了质的提升，甚至超过了v4 Pro预览版。\n最厉害的是V4-Flash正式版的模型结构、尺寸和 V4-Flash预览版 保持一致，仅重新进行了后训练就得到了如此大的提升！\n我说：梁圣\n你说：“”\n#deepseek #deepseek正式版 #梁圣 #我在抖音聊科技",
+    "DS V4 Flash 0731 agentic performance VS Code Copilot",
+    "梁白开的大鲸鱼！DeepseekV4 flash轻松接入codex，超强agent的大鲸鱼。不做闭源做开源，低价就找梁白开。",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "DeepSeek-V4-Flash-High",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
+    "@cdenczek @rezoundous What local models bro? They are all obsolete. Nothing competes with Deepseek V4 flash 0731",
+    "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna"
+  ],
+  "comments": [
+    {
+      "id": "308422662449",
+      "t": 0,
+      "content": "回复 @-_Mob- :用的哪个agent呀"
+    },
+    {
+      "id": "2083097043782803664",
+      "t": 1,
+      "content": "@deepseek_ai https://t.co/dj9dCMV9vi"
+    },
+    {
+      "id": "311731528544",
+      "t": 2,
+      "content": "回复 @没有子目 :贪小便宜是要付出代价的"
+    },
+    {
+      "id": "6a6e3ec20000000015002eb4",
+      "t": 3,
+      "content": "信息熵增益为 0"
+    },
+    {
+      "id": "6a6d7b0b00000000150168b8",
+      "t": 4,
+      "content": "deepseek什么时候上市的？"
+    },
+    {
+      "id": "311787909744",
+      "t": 5,
+      "content": "我这边试了一下，只有官方的api可以使用这个技能，如果使用opencode go订阅的就不可以。有哪位朋友用opencode go订阅实现了这个skill调用的，可以分享一下经验。"
+    },
+    {
+      "id": "7669043873188250417",
+      "t": 6,
+      "content": "蹬起来[呲牙]"
+    },
+    {
+      "id": "308452423569",
+      "t": 7,
+      "content": "我看了v4 在codex里面没有超高选项也没max要去JSON设置"
+    },
+    {
+      "id": "7668874779620868913",
+      "t": 8,
+      "content": "我想问一下我之前一直用的cc然后用cc接入dsv4p，我怎么改到正式版flash呀（小白）是在cc里面重新输入一个api然后把兜底模型改成flash吗"
+    },
+    {
+      "id": "308372530337",
+      "t": 0,
+      "content": "glm完全没有性价比可言 真是不要脸了。glm价格翻了多少倍，离大谱。我看了定价后我以为我赚的是美元呢"
+    },
+    {
+      "id": "p0z5104",
+      "t": 9,
+      "content": "I don’t know why people are raving about it. I just tried it and asked it the simplest question about if I can run this same model on 2 DGX Sparks and it just completely bombed. Then I switched over to my Qwen 3.6 35B running on my Spark and it answered with no problems, even did web searches and other research before giving me the answer.\n\nSo no thank you, I will pass.\n\nEdit: well this is very interesting. When I started using the qwen on my Spark I accidentally figured out that if you turn reasoning off it performs waaaay better for agentic coding another agentic tasks. So after I typed the above I tried the same for the DS and what do you know! It worked flawlessly! So me thinks turning reasoning off is the way to go for some of these Chinese models. Not to mention cheap because thinking also consumes tokens."
+    },
+    {
+      "id": "308509780897",
+      "t": 10,
+      "content": "回复 @还在努力的 :中转站：？"
+    },
+    {
+      "id": "308525109873",
+      "t": 2,
+      "content": "本来是想一起发的，没想到gpt和GLM开始闹麻了，现发个flash让你绷不住，然后等PRO来一波大的。"
+    },
+    {
+      "id": "308629904145",
+      "t": 11,
+      "content": "我给他接了个mimov2.5"
+    },
+    {
+      "id": "7669409298502910746",
+      "t": 12,
+      "content": "华尔街，华尔街刚吃了韩国半条命"
+    },
+    {
+      "id": "7668896760048010043",
+      "t": 12,
+      "content": "为什么你的是蓝字[黑脸]"
+    },
+    {
+      "id": "311777766784",
+      "t": 13,
+      "content": "哈哈，可能还是激活的参数太小了吧，有点神经刀的味道。"
+    },
+    {
+      "id": "7668917235784008500",
+      "t": 12,
+      "content": "你也10块跑一周是吧，说话驴唇不对马嘴[捂脸]"
+    },
+    {
+      "id": "308457055569",
+      "t": 14,
+      "content": "回复 @风暴编织者66 :豆包是这系列梗图精髓"
+    },
+    {
+      "id": "308421582561",
+      "t": 2,
+      "content": "回复 @红尘AkaChir1 :A÷根本没开源[笑哭]"
+    },
+    {
+      "id": "311757977088",
+      "t": 0,
+      "content": "回复 @DE_鹿_ER :禁掉子agent调用，在setting里设置，强制agent使用grep或者ripgrep先查后阅，定位后read用limit offset读段落，非必要不读全文件。子agent虽然快，但是他们的输入全是未命中"
+    },
+    {
+      "id": "308493477249",
+      "t": 15,
+      "content": "现在说是reasonix效果反而更好"
+    },
+    {
+      "id": "308356955777",
+      "t": 16,
+      "content": "中文资料少而已[doge_金箍]"
+    },
+    {
+      "id": "6a6cccf50000000015001a0d",
+      "t": 17,
+      "content": "比如这边说薪水也是更习惯说几w，而不是几k"
+    },
+    {
+      "id": "7668909441526432561",
+      "t": 6,
+      "content": "后面还有个Pro呢这还只是fl"
+    },
+    {
+      "id": "308414217281",
+      "t": 2,
+      "content": "国产模型不到1t时候不也都跟国外那些5t以上的模型比吗"
+    },
+    {
+      "id": "6a6dc12400000000140396e3",
+      "t": 18,
+      "content": "谁都忘记了，其实kimi才是瑟瑟发抖，妈卖批的那个…特么刚刚涨价了…估计过两天就降价了[笑哭R][笑哭R][笑哭R]"
+    },
+    {
+      "id": "308382495249",
+      "t": 19,
+      "content": "GPT 5.6 luna 价格已经打8折，现在输入是0.2$"
+    },
+    {
+      "id": "p0v3xoz",
+      "t": 20,
+      "content": "Q2 tomorrow?"
+    },
+    {
+      "id": "2083882027044970910",
+      "t": 21,
+      "content": "@cdenczek @rezoundous What local models bro? They are all obsolete. Nothing competes with Deepseek V4 flash 0731"
+    },
+    {
+      "id": "6a6c9b66000000002902ed2c",
+      "t": 16,
+      "content": "想要提示词谢谢"
+    },
+    {
+      "id": "p0un067",
+      "t": 22,
+      "content": "This is so cool. Now we should expect more competition in the 128GB \\~192GB zone"
+    },
+    {
+      "id": "311729179376",
+      "t": 13,
+      "content": "试试reasonix"
+    },
+    {
+      "id": "7669002114861810447",
+      "t": 6,
+      "content": "我有时候也这么干俩模型切换 一个指挥一个干活"
+    },
+    {
+      "id": "311690546928",
+      "t": 14,
+      "content": "[doge]因为我也试过"
+    },
+    {
+      "id": "311787573824",
+      "t": 0,
+      "content": "回复 @-_Mob- :说实话codex我也没太折腾明白，之前接入DeepSeek感觉用着体验也很一般，而且感觉智商还变低了，不知道是ccswitch转接导致的还是因为什么。现在正式版专门适配过codex后可能体验会好一些"
+    },
+    {
+      "id": "7669237155353756465",
+      "t": 8,
+      "content": "就是  哈哈  我之前用过一次GM5.2，在WorkBuddy里面用的。当时一次就花了400多积分做word，但实际上事情也没做成功。后来我就几乎不用，只用Deepseek V4 Flash。现在新版的Flash出来的话，应该就会更好用了。"
+    },
+    {
+      "id": "311770879280",
+      "t": 0,
+      "content": "什么？gpt80一个月吗？在哪儿搞得"
+    },
+    {
+      "id": "7668891206399132465",
+      "t": 12,
+      "content": "月初说话就是嚣张[看]"
+    },
+    {
+      "id": "311736324832",
+      "t": 0,
+      "content": "有差距 但差的不是模型本身 主要差在算力和参数规模 我个人对于参数规模是比较谨慎的 应该继续蒸馏 有点微言大义的意思 不准确 但意思大差不差"
+    }
+  ]
+}

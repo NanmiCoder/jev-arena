@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek-V4-Flash-0731 UD-IQ3_XXS about 11t/s on 1x 7900 XTX 24GB + 3x MI60 32GB + 128GB DDR4",
+    "震撼美味！DeepSeek-V4-Falsh正式版",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "使用deepseek v4 flash正式版还原一个EU4网页版，效果如何？",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "美国小哥实测DeepSeekV4Flash：花不到1美元，AI给他做了个GTA+射击游戏，这Flash怎么比pro还pro？",
+    "DeepSeek V4 Flash 正式版 一句话许愿MIDI音乐测试",
+    "500tok/s 的 DeepSeek-V4-Flash",
+    "部署正式版DS-V4-Flash-0731成本真的不高!",
+    "要被外网的一些评论笑死了😂😂😂",
+    "Deepseek v4 flash 0731",
+    "这条视频里的人是我，但我根本没拍，也没剪。 DeepseekV4Flash正式版自主做视频能力实测。我只输入了一段提示词，DeepSeek V4 Flash 就自己找案例、写内容，再用 AI 数字人做完了整条视频。现在的 AI 做视频，这已经是基础操作了。#AI新星计划  #AI做视频 #DeepSeekV4 #AI数字人",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek V4-flash正式版实测",
+    "[中配]DeepSeek V4 Flash 太惊人了——迄今为止最好的小模型！ - Bijan Bowen",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题"
+  ],
+  "comments": [
+    {
+      "id": "6a6e9bf0000000001500973c",
+      "t": 0,
+      "content": "解释的真详细[点赞R]"
+    },
+    {
+      "id": "311668617664",
+      "t": 0,
+      "content": "回复 @wayeer581 :我就用cc，90%以上的命中"
+    },
+    {
+      "id": "p17k81c",
+      "t": 1,
+      "content": "Is this running tensor parallel?"
+    },
+    {
+      "id": "6a6c700a000000001403b4bb",
+      "t": 2,
+      "content": "感谢[飞吻R]"
+    },
+    {
+      "id": "308535097521",
+      "t": 3,
+      "content": "快来找我吧，大肥鱼[喜欢]"
+    },
+    {
+      "id": "311903721360",
+      "t": 4,
+      "content": "flash 穿glm的马甲能在夯点。你怎么穿品如的衣服"
+    },
+    {
+      "id": "7669004716466668340",
+      "t": 5,
+      "content": "网页有，目前API还没有实装"
+    },
+    {
+      "id": "311776317424",
+      "t": 6,
+      "content": "回复 @合金兔子 :能问一下你调用的什么子agent吗？我用的Claudecode来配置DeepSeek。能不能看图不是应该由ai模型本身是否具有多模态能力来决定吗？这个子agent能看图的话，那他肯定用的其他具有多模态能力的ai模型，能方便问一下，这个子agent用的什么模型呢？"
+    },
+    {
+      "id": "311865170384",
+      "t": 7,
+      "content": "hermers呢"
+    },
+    {
+      "id": "311901981744",
+      "t": 8,
+      "content": "直接用公开的现代地理数据，精细度很高的几百个地点合并成的省份"
+    },
+    {
+      "id": "6a6d4ac9000000002b02736e",
+      "t": 9,
+      "content": "我看的张司机在路上的视频学的：关掉它的环境变量`CLAUDE_CODE_ATTRIBUTION_HEADER=0`. 加到`~/.claude/settings.json`的env段, 重启就生效。大概3500万token以上命中率能到达99%（就是单会话窗口），5000万token以上命中率能够到达99.5%左右。"
+    },
+    {
+      "id": "308566385025",
+      "t": 10,
+      "content": "pro出来之后：“借过一下&#34;"
+    },
+    {
+      "id": "308421947281",
+      "t": 11,
+      "content": "这个弦乐好[打call]"
+    },
+    {
+      "id": "6a6d6a380000000015009ab7",
+      "t": 12,
+      "content": "好像挺便宜的吧，充 100 块钱能用好久"
+    },
+    {
+      "id": "311815610656",
+      "t": 6,
+      "content": "回复 @没有子目 :不是啊，中转的掺水是最小的问题了，你没用的不得劲吗"
+    },
+    {
+      "id": "311766956640",
+      "t": 7,
+      "content": "虽然官方说这次更支持codex，但我介入后的感觉还是很不舒服；opencode最近感觉越来越不好用了，现在还是回归了Claudecode[笑哭][笑哭]兜兜转转还是回到了这里"
+    },
+    {
+      "id": "7669068050444665649",
+      "t": 5,
+      "content": "[宕机][宕机]"
+    },
+    {
+      "id": "6a6ec4c60000000029035d53",
+      "t": 13,
+      "content": "👍确实够极致"
+    },
+    {
+      "id": "6a6d9455000000000d022800",
+      "t": 14,
+      "content": "加油啊DS![飞吻R]"
+    },
+    {
+      "id": "6a6e7f87000000002a02678a",
+      "t": 15,
+      "content": "有官方mcp，也可以自己路由"
+    },
+    {
+      "id": "311851252704",
+      "t": 6,
+      "content": "回复 @洛铭奇妙 :https://github.com/obra/superpowers，Claude Code插件市场排名第二的存在"
+    },
+    {
+      "id": "7669399558128894778",
+      "t": 16,
+      "content": "求视频制作方法"
+    },
+    {
+      "id": "311711450208",
+      "t": 17,
+      "content": "不想花钱的可以去体验opencode的zenapi里的free模型"
+    },
+    {
+      "id": "308413165921",
+      "t": 17,
+      "content": "mark你是在哪个工具里跑的？我也准备将屎山代码优化一下"
+    },
+    {
+      "id": "311811807744",
+      "t": 6,
+      "content": "吐回去一半了[大哭]"
+    },
+    {
+      "id": "308361462129",
+      "t": 0,
+      "content": "捧一个踩一个，拉一家打一家"
+    },
+    {
+      "id": "6a6dfe700000000004038fdf",
+      "t": 18,
+      "content": "五小时限额4%大约是opencode里面的$0.2，换算成35块的购买价格是¥0.12[doge]"
+    },
+    {
+      "id": "311753688976",
+      "t": 19,
+      "content": "回复 @新野星期四 :闪烁其实也是空间理解问题。两个表面离得太近（其实ai应该就是设置的同一位置），因为精度问题，一会渲染这个表面，一会渲染那个表面。一般搓开一点就好了"
+    },
+    {
+      "id": "6a6dda11000000000403887b",
+      "t": 14,
+      "content": "Gpt不付钱也这样  直接写免费版记忆有限请升级"
+    },
+    {
+      "id": "311747491216",
+      "t": 20,
+      "content": "回复 @ranpeppa :官网现在没有上线"
+    },
+    {
+      "id": "311640439648",
+      "t": 21,
+      "content": "那就是放在劲凉上了[doge]"
+    },
+    {
+      "id": "2083090031032606996",
+      "t": 22,
+      "content": "@deepseek_ai When open source?"
+    },
+    {
+      "id": "308372032001",
+      "t": 0,
+      "content": "参数量280b.，肯定不是。"
+    },
+    {
+      "id": "7668765624268981027",
+      "t": 23,
+      "content": "Glm这么贵还开通？"
+    },
+    {
+      "id": "311716461040",
+      "t": 24,
+      "content": "回复 @爱吃樱桃的小王子 :昨天还有某榜单ga flash分数超过fable了呢"
+    },
+    {
+      "id": "6a6ebb290000000014039d55",
+      "t": 18,
+      "content": "大概0.12元人民币，通过opencode go调用的"
+    },
+    {
+      "id": "7669080002273166138",
+      "t": 5,
+      "content": "通用型ai不能识图还能叫通用型ai吗[发呆]"
+    },
+    {
+      "id": "311663319520",
+      "t": 25,
+      "content": "回复 @小春日の忧郁 :kimicode 现在最新版 0.31 已经原生支持你说的这个功能了，具体怎么实现可以到 kimicode 里面问"
+    },
+    {
+      "id": "311871602624",
+      "t": 26,
+      "content": "回复 @困梦的杂物间 :哦哦，你说的是mikrotik CRS812和804，这个确实有两个400G和四个400G，这台设备不是纯400G光交，所以便宜，确实是个好选择，那这样成本就能打下来了。[笑哭]\n双机部署我猜默认就可直接走IB，所以Tensor是可以跑起来的。但是 4 台就不一定了，上了光交等于走以太网了，肯定要配置 RoCE 了"
+    },
+    {
+      "id": "6a6d7c4e000000001500569f",
+      "t": 9,
+      "content": "pi agent"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "topics": [
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "【千早爱音都会系列】5分钟带你将Deepseek-v4-flash正式版接入Codex，简单无脑",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "刚刚，DeepSeek-V4-Flash正式公测",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Deepseek V4 Flash正式版Agent生成小游戏测评，表现还是不算顶级",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 0731 原版推测解码45ts，双epyc 7642，ddr4 16通道，双3090",
+    "DeepSeek V4 Flash正式版发布！依旧测试《我的世界》",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "DeepSeek V4-Flash正式版API接入Codex，手把手教程！",
+    "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "【中文字幕】科技博主八题实测：DeepSeek Flash 0731在推理和长链路任务上追平顶级闭源模型",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "Weights of Deepseek v4 flash 0731 have been released!!!",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "梁圣无敌！deepseek v4-flash正式版来了"
+  ],
+  "comments": [
+    {
+      "id": "311747340128",
+      "t": 0,
+      "content": "希望能中[星星眼][星星眼][星星眼]"
+    },
+    {
+      "id": "311764772160",
+      "t": 1,
+      "content": "deepseek接入claudecode和codex的能力有什么不同吗"
+    },
+    {
+      "id": "311737203408",
+      "t": 2,
+      "content": "ds我用cc接入，它总是执行了一下，就停下来，要好几次才能运行命令。怎么解决呀。求大神"
+    },
+    {
+      "id": "308507553825",
+      "t": 3,
+      "content": "我今天在codex里用deepseek-v4-flash后它什么东西都不知道～本地也没有使用教程然后它尝试在openai官网拉使用教程但因为没有梯子连不上然后又不知道在哪儿搜到个教程结果很多工具无法调用、主agent经常无法传递信息给子agent发消息（有时候能发还能正常回数据到主agent，有时候无法传～子agent只会返回类似于“我准备好了”等消息给主agent），然后缓存命中率86.几%"
+    },
+    {
+      "id": "6a6cd6ff000000002902d702",
+      "t": 4,
+      "content": "十进制的数存在换算问题吗[笑哭R]，国内的模型当然要满足国内的表达方式了"
+    },
+    {
+      "id": "7668966520437523234",
+      "t": 5,
+      "content": "是啊 0731的flash适配codex功能最强 效果最好 页面还优美  你全程让 cherry studio操作就可以了 大白话让他装 装完根据deepseek官网连deepseek 就行"
+    },
+    {
+      "id": "308438761809",
+      "t": 6,
+      "content": "回复 @吉言2099 :说你了？[吃瓜]"
+    },
+    {
+      "id": "7668977065848701722",
+      "t": 7,
+      "content": "知道为啥pro没发布吗？准备狙击下一个呢[捂脸]"
+    },
+    {
+      "id": "311725053232",
+      "t": 8,
+      "content": "回复 @圆滚滚的金桔 :我是从之前爆出来的内部会议中得知的，是他亲自说的，他们的目标还是 agi 不过后边是太多人要多模态了，所以才做了，不过现在也才是 web 版嘛"
+    },
+    {
+      "id": "308476707121",
+      "t": 9,
+      "content": "回复 @爱跳绳的乃龙 : 同求！"
+    },
+    {
+      "id": "311832755520",
+      "t": 8,
+      "content": "前提是家里在高考后入大学前能买一台电脑给你用，否则根本就不适合。"
+    },
+    {
+      "id": "308485994001",
+      "t": 10,
+      "content": "回复 @jiasdmingzu_x :不一定，我看了下，Go套餐里面，Flash是60刀额度，Pro只有15刀，这里又增加了4倍差价"
+    },
+    {
+      "id": "6a6e06f4000000002a03352e",
+      "t": 4,
+      "content": "绝了[偷笑R]"
+    },
+    {
+      "id": "311724363808",
+      "t": 8,
+      "content": "牛的，张口就来"
+    },
+    {
+      "id": "311681949696",
+      "t": 11,
+      "content": "https://opencode.ai/go?ref=XJ4Y6BDX77 一起获得$5使用额度吧"
+    },
+    {
+      "id": "7668698770679120699",
+      "t": 12,
+      "content": "还是不能读取图片吗"
+    },
+    {
+      "id": "311828690944",
+      "t": 13,
+      "content": "论性价比，现在还得是luna，先不说ds高峰双倍价格以及gpt那么多重置，现在稳定两三个月用的中转站的价格更夸张，2分钱1M的luna，我当主力模型在用的"
+    },
+    {
+      "id": "p0u3slb",
+      "t": 14,
+      "content": "DeepSeek the peoples champ."
+    },
+    {
+      "id": "308462177345",
+      "t": 15,
+      "content": "回复 @舞忠 :chatbox有点坑，他那个识图orc是他自带的，每天限额10000点，基本一张图都认不了就用完了，我直接删了"
+    },
+    {
+      "id": "308571239441",
+      "t": 16,
+      "content": "话说不知道题目啊？不过up有没有考虑让粉丝投稿一下题目[doge][doge][doge]"
+    },
+    {
+      "id": "311663531824",
+      "t": 15,
+      "content": "回复 @遗失的壹只猫 :[doge]qwen刷分的，你真正用过就知道小模型就是骗人的"
+    },
+    {
+      "id": "311763578544",
+      "t": 17,
+      "content": "回复 @红烧冰棍 :可以了解的太多了，否则要AI干嘛[吃瓜]"
+    },
+    {
+      "id": "311672957280",
+      "t": 18,
+      "content": "哦之前已经生成过的（没有今天更新的）api地址，选用的是您之前教的pro版，那意思是我现在把pro版切成flash就能体验到了v4正式版对吗？"
+    },
+    {
+      "id": "308396828257",
+      "t": 19,
+      "content": "是不是你用的agent的缘故"
+    },
+    {
+      "id": "7668920084250198822",
+      "t": 7,
+      "content": "主要是中国股民承担了，亏太多了"
+    },
+    {
+      "id": "7668684581558879019",
+      "t": 20,
+      "content": "V4 挤牙膏，预览版、正式版、升级版、旗舰版[看][看][看]"
+    },
+    {
+      "id": "308467268289",
+      "t": 6,
+      "content": "回复 @猪头三个半偶 :完成相同任务的话，cc目前用量还是最少的，上下文管理最智能，其他两家都是满了才管"
+    },
+    {
+      "id": "311731130480",
+      "t": 21,
+      "content": "这价格差和分数差，glm不成小丑了？"
+    },
+    {
+      "id": "311733137328",
+      "t": 8,
+      "content": "对 Pro 抱有太大希望？哥们，你要不要看看你在说什么？"
+    },
+    {
+      "id": "311871381536",
+      "t": 0,
+      "content": "视频里不就是有对比吗？性价比的话luna应该比v4flash便宜了，特别是你用订阅的情况下"
+    },
+    {
+      "id": "311770506320",
+      "t": 15,
+      "content": "就是不支持多模态，审美能力太差了"
+    },
+    {
+      "id": "308456040241",
+      "t": 1,
+      "content": "为啥提示Failed to deserialize the JSON body into the target type: messages【117】: unknown variant `image_url`, expected `text` at line 1 column 415940"
+    },
+    {
+      "id": "p10fz7t",
+      "t": 14,
+      "content": "Meaningless points on a magic number scale."
+    },
+    {
+      "id": "p0x6nn7",
+      "t": 22,
+      "content": "it's really bad."
+    },
+    {
+      "id": "308442311265",
+      "t": 18,
+      "content": "可是我真的不知道应该怎么弄[委屈]只有up主这样一步步教的我才会"
+    },
+    {
+      "id": "311700791024",
+      "t": 23,
+      "content": "UP，那个字是搭积木的搭，魔搭社区，不是魔塔"
+    },
+    {
+      "id": "311660177760",
+      "t": 11,
+      "content": "瓦，还有恩情文ヽ(°▽°)ノ"
+    },
+    {
+      "id": "6a6e4b8500000000150016f9",
+      "t": 24,
+      "content": "他们亏他们的，只有他制造的ai免费就可以[加油R]，散户的命不值钱"
+    },
+    {
+      "id": "308417865137",
+      "t": 15,
+      "content": "回复 @魔王大人3 :工作时段3x倍率，夜间2x倍率[doge_金箍]plan经常需要等待，API用不起"
+    },
+    {
+      "id": "311702684016",
+      "t": 1,
+      "content": "看一下说明也就会了，今天试了一下，还能回撤。还没跑一下看看"
+    }
+  ]
+}

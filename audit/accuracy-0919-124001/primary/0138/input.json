@@ -1,0 +1,232 @@
+{
+  "topics": [
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "GPT Luna 降价 80%，DeepSeek v4 flash 更加夸张",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "Deepseek v4 flash 0731",
+    "你的梁子来了，DeepSeek V4 Flash正式发布",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "被DeepSeek V4 Flash正式版惊到了！",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 Flash 正式版深度实测 #DeepSeek #DeepSeekV4 #大模型 #AI新星计划  #国产大模型",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DeepSeek-V4-Flash-0731 is a good model. \n\nHave you tried it yet? https://t.co/zjCVTtkVc3",
+    "Smaller DeepSeek-V4-Flash-0731 Unsloth GGUFs are out now!",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "deepseek v4 flash正式版制作《带上她的眼睛》改编舞台剧，仿佛看到核弹爆炸！（片尾有彩蛋）",
+    "Deepseek v4 flash 0731 real experience. It is definitely shocking the world, But do they have enough capacity?",
+    "Deepseek V4 Flash 0731 llama.cpp tips?",
+    "⚠️ Note\n\n🔷 DeepSeek-V4-Flash-0731 keeps the exact same model architecture and size as the preview version.\n🔷 Today's upgrade applies ONLY to the DeepSeek-V4-Flash API. The DeepSeek-V4-Pro API and Ap",
+    "DeepSeek V4 Flash 正式版发布 - 白菜价！超高性价比的编程模型",
+    "DeepSeek V4 Flash 0731 out now!"
+  ],
+  "comments": [
+    {
+      "id": "311684774704",
+      "t": 0,
+      "content": "大赢鲸还没来[doge]现在是小赢鲸[doge][doge]"
+    },
+    {
+      "id": "6a6dfb96000000002903481a",
+      "t": 1,
+      "content": "为什么要信思维链[捂脸R][捂脸R][捂脸R]天啊，怎么看版本最简单的不就是看内部灌输知识吗，到底谁传的思维链能判断"
+    },
+    {
+      "id": "p126pqt",
+      "t": 2,
+      "content": "New benchmark: how fast a model makes you buy more RAM"
+    },
+    {
+      "id": "311909598608",
+      "t": 3,
+      "content": "回复 @普通大新 :你先去找 dsv4 接入 claude code 的教程。然后想想自己有什么想实现的简单的需求，然后直接在配置好的 cc 里去和 llm 聊需求聊实现。一步到位做出个项目还制作精良的教程都是得花大钱的，自己多实践烧点 token 比什么教程都强 ，不实践看再多教程都是白搭"
+    },
+    {
+      "id": "311714711648",
+      "t": 4,
+      "content": "Deepseek适配codex是什么意思，我用cc switch接入chatgpt应用然后选codex模式就能享受到吗，chatgpt work呢？"
+    },
+    {
+      "id": "311803756384",
+      "t": 5,
+      "content": "抽我[打call]"
+    },
+    {
+      "id": "308430597345",
+      "t": 4,
+      "content": "回复 @时间就是金钱交易 :它自己似乎换了两三次不太行，又加上网上到处宣传deep seek的灰度测试的时候有相当大的素材资源，可以one shot大部分任务，加上它自己也提示可以让我选这个我才这样用的"
+    },
+    {
+      "id": "6a6e11fb0000000005017a04",
+      "t": 6,
+      "content": "换成opencode吧，cc对ds支持不好"
+    },
+    {
+      "id": "6a6ddfa2000000000b03b7b0",
+      "t": 7,
+      "content": "开着性价比大运和神秘空单无脑撞飞所有人[doge]别忘了梁圣叔叔之前干嘛的[doge]"
+    },
+    {
+      "id": "311874952352",
+      "t": 5,
+      "content": "可以的，私我个邮箱，太长了发不出来"
+    },
+    {
+      "id": "308387079137",
+      "t": 8,
+      "content": "回复 @十里琅珰BGM :今天自它上线开始到现在已经蹬了8亿了，这玩意速度真的快啊，token如流水"
+    },
+    {
+      "id": "6a6f04bc000000002b001927",
+      "t": 9,
+      "content": "可以是最新的一些书，发挥一下想象，不一定是书，播客，文章，垂直行业资料等一切高价值的内容都可以"
+    },
+    {
+      "id": "308433327489",
+      "t": 10,
+      "content": "[妙啊]理工科思维"
+    },
+    {
+      "id": "7668667245384647461",
+      "t": 11,
+      "content": "flash居然比glm5.2还强，更加期待v4pro正式版了"
+    },
+    {
+      "id": "311622608672",
+      "t": 12,
+      "content": "参数量小的很，只有pro的[doge]5分之一"
+    },
+    {
+      "id": "7668699708043543331",
+      "t": 13,
+      "content": "trae  可以88了"
+    },
+    {
+      "id": "2083314922621219030",
+      "t": 14,
+      "content": "@deepseek_ai https://t.co/5apcEpNc8z"
+    },
+    {
+      "id": "308466160753",
+      "t": 15,
+      "content": "回复 @Token就是词元 :fable5 这么干，测一次不得一套房扔下去了"
+    },
+    {
+      "id": "2083089306483142917",
+      "t": 14,
+      "content": "@deepseek_ai If the trend continues DeepSeek Pro V4 is going to murder everyone holy"
+    },
+    {
+      "id": "7668858576652747569",
+      "t": 13,
+      "content": "官方pro正式版都没发布，你第三方平台咋可能会有"
+    },
+    {
+      "id": "311791268736",
+      "t": 4,
+      "content": "[doge_金箍]看见数学家声称GPT-5.6 Sol 找到麦克斯韦猜想反例的我，掏出了我的实测对账，又是让数学家破防的一天，我的实测15分钟左右"
+    },
+    {
+      "id": "6a6f0a4c0000000004039f38",
+      "t": 16,
+      "content": "好事啊，我不炒股"
+    },
+    {
+      "id": "2083891853989208378",
+      "t": 17,
+      "content": "@Mayhem4Markets my DeepSeek-V4-Flash run dropped half my JSON keys on a standard parsing task right after I spun it up"
+    },
+    {
+      "id": "p175r01",
+      "t": 18,
+      "content": "how do i enable dspark mtp on these ggufs?"
+    },
+    {
+      "id": "7669071057298719537",
+      "t": 19,
+      "content": "那还说啥了，直接来我账户转就是了"
+    },
+    {
+      "id": "7668976967648232229",
+      "t": 19,
+      "content": "[捂脸]缓存命中率99.5，3亿七块多"
+    },
+    {
+      "id": "7668932485120000795",
+      "t": 19,
+      "content": "你活在梦里吗？还一周都来了"
+    },
+    {
+      "id": "308579185153",
+      "t": 20,
+      "content": "回复 @黑曜石NOCRY :用别人的agent这么多限制，你自己写一个不就好了🤭，我在用openclaw做agent[doge]"
+    },
+    {
+      "id": "308417797265",
+      "t": 0,
+      "content": "之前是preview 预览版"
+    },
+    {
+      "id": "311740285600",
+      "t": 10,
+      "content": "也就那样，除了便宜外"
+    },
+    {
+      "id": "p11hwum",
+      "t": 21,
+      "content": "Which plan?"
+    },
+    {
+      "id": "6a6eb3420000000015016b37",
+      "t": 1,
+      "content": "4pro写个文档都写不明白"
+    },
+    {
+      "id": "2083200645826215978",
+      "t": 14,
+      "content": "@deepseek_ai If this gets as good as Fabel locally… game changer"
+    },
+    {
+      "id": "308544075393",
+      "t": 8,
+      "content": "回复 @叶先生00 :以前是claudecode，现在都可以，你爱用哪个用哪个"
+    },
+    {
+      "id": "308430368561",
+      "t": 10,
+      "content": "1.17 亿 0.75 块你笑了没🤣🤣🤣🤣"
+    },
+    {
+      "id": "p11zs2d",
+      "t": 22,
+      "content": "Seems about right for the hardware? Actually quite bit better prefill than I'd expect with the RAM offloading. I'd assume this is just short prompt preprocessing?"
+    },
+    {
+      "id": "7668852834184299327",
+      "t": 13,
+      "content": "对之前是preview"
+    },
+    {
+      "id": "2083175690137223237",
+      "t": 23,
+      "content": "@deepseek_ai I can’t wait for it to be released."
+    },
+    {
+      "id": "311719106768",
+      "t": 24,
+      "content": "梁圣伟大！[doge]"
+    },
+    {
+      "id": "p0wtkk3",
+      "t": 25,
+      "content": "Pretty crazy that home computer users could run IQ3\\_S if they have a 128 GB Macbook. Sadly its not multimodal though.\n\nIQ3\\_S should be pretty great at that size."
+    }
+  ]
+}

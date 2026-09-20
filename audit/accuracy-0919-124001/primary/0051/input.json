@@ -1,0 +1,229 @@
+{
+  "topics": [
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "为什么DeepSeek-V4-Flash-0731的后训练如此有效？",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "部署deepseek v4 flash最省钱方案 - 数萌AI 6卡 v100 32G，单并发25token/s, 3并发15, openclaw 大模型部署",
+    "160项测试只为一个答案：DeepSeek V4 flash正式版到底多强，能打GLM5.2？",
+    "Deepseek V4 Flash正式版测评！终于支持Codex了！",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+    "OpenCode Go x DeepSeek V4 Flash https://t.co/twsCTkk7Cf",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "deepseek v4flash正式版在手机上本地运行",
+    "DeepSeek你是一只猫娘！！（V4 flash正式版出来了，那我这形象就是flash版本吧，后面再做个pro版本的）",
+    "要被外网的一些评论笑死了😂😂😂",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？"
+  ],
+  "comments": [
+    {
+      "id": "311739304960",
+      "t": 0,
+      "content": "回复 @Blanc_X :[笑哭]那个我真没绷住，昨天晚上试了一下flash，不客观说，和我现在在用的qwen3.7-max体感上存在点差距，但稍微多跑一两轮也能满足我的要求，价格还便宜"
+    },
+    {
+      "id": "308628341265",
+      "t": 1,
+      "content": "目前阶段重要的不是最智能，而是够用且廉价的智能[无限暖暖_毛线汪汪]"
+    },
+    {
+      "id": "311867404672",
+      "t": 2,
+      "content": "还是不行啊，得保存图片，上传URL"
+    },
+    {
+      "id": "311851827664",
+      "t": 3,
+      "content": "废话，现在各家厂商都是这样，要融资的。而且确实迭代速度快。"
+    },
+    {
+      "id": "2083087677705035822",
+      "t": 4,
+      "content": "@deepseek_ai 牛啊，没有食言，今天还处于农历的中旬，哈哈"
+    },
+    {
+      "id": "7669027412333085499",
+      "t": 5,
+      "content": "而且k3太贵了"
+    },
+    {
+      "id": "7669004623605629733",
+      "t": 6,
+      "content": "实际上并不存在工业大模型[微笑]"
+    },
+    {
+      "id": "311923574160",
+      "t": 7,
+      "content": "回复 @萋云子 : 会有人不知道吗?"
+    },
+    {
+      "id": "308624895953",
+      "t": 8,
+      "content": "同期待，网上压根没几个真正控制变量的agent测评，总是把模型能力固定作为agent的一环"
+    },
+    {
+      "id": "308547366353",
+      "t": 9,
+      "content": "这个是deepseekv4flash 284b吗？"
+    },
+    {
+      "id": "311873603744",
+      "t": 10,
+      "content": "如果要订阅Go套餐的话，帮我个忙，使用我的链接 https://opencode.ai/go?ref=TEGGP44SS0 订阅，双方各得5美元，更便宜。"
+    },
+    {
+      "id": "311676211344",
+      "t": 11,
+      "content": "能教教不 mcp"
+    },
+    {
+      "id": "311706610768",
+      "t": 12,
+      "content": "回复 @wayeer581 :reasonix，实测约 1 毛钱两百万 token"
+    },
+    {
+      "id": "311770414048",
+      "t": 13,
+      "content": "claudecode有必要升级到最新的吗"
+    },
+    {
+      "id": "311928411040",
+      "t": 14,
+      "content": "回复 @山邱HillQiu : 我记得aa还是arena说这代token效率提高了13%（"
+    },
+    {
+      "id": "2083700662638948438",
+      "t": 15,
+      "content": "@FabianoFirmo The $0.13 figure is wild, but the interesting part is the tradeoff hiding behind cheaper tokens. Throughput, latency and task quality all belong in the comparison if we want the Opus claim to hold up. https://t.co/lwoFv23GEf 👀 https://t.co/MBZA20P6N8"
+    },
+    {
+      "id": "308351951009",
+      "t": 16,
+      "content": "铁蛋Kate，你是几点开始测的，下午有段时间官方说了把模型性能故意降低了，说用的人太多了[吃瓜][吃瓜][吃瓜]"
+    },
+    {
+      "id": "308342300065",
+      "t": 17,
+      "content": "回复 @雷封山 :肯定得支持啊，都跌到190了，再不支持怕不是得跌到300了？"
+    },
+    {
+      "id": "7668916491395842816",
+      "t": 5,
+      "content": "怎么没人感受到这个视频的处处幽默感，我一直在笑[捂脸]"
+    },
+    {
+      "id": "308371717905",
+      "t": 13,
+      "content": "回复 @wowaka-arukuremu : 还没怎么用，但是这玩意没有视觉模型，前端只能靠拟合了"
+    },
+    {
+      "id": "311745833552",
+      "t": 3,
+      "content": "这简单，js除了写操作系统之外无所不能[吃瓜]"
+    },
+    {
+      "id": "308440601249",
+      "t": 3,
+      "content": "等编程超越opus4.8，达到k3级别的v4pro+配套harness发布后再考虑把评价上调为梁圣了，小模型还是太处处掣肘了"
+    },
+    {
+      "id": "308497604577",
+      "t": 12,
+      "content": "回复 @长江六号zero :不可能不做多模态"
+    },
+    {
+      "id": "7668976000734642979",
+      "t": 5,
+      "content": "它参数量大的模型也没有gpt厉害啊"
+    },
+    {
+      "id": "308387232545",
+      "t": 18,
+      "content": "目前看评测最适配v4f的工具是reasonix，ClaudeCode适配度似乎不高，但比OpenCode强"
+    },
+    {
+      "id": "311885623120",
+      "t": 19,
+      "content": "模型大小up在评论区说是167G。命令在视频里不是有么，termux窗口里有完整的，adb shell的top界面也能看到命令的前半截[doge]"
+    },
+    {
+      "id": "7669073815796220713",
+      "t": 5,
+      "content": "视频太长了[捂脸] 咋不说重点"
+    },
+    {
+      "id": "311763907760",
+      "t": 3,
+      "content": "还是蛮贵的啊，主要编程任务，缓存率 95"
+    },
+    {
+      "id": "311770343600",
+      "t": 20,
+      "content": "@自閉人0Rz"
+    },
+    {
+      "id": "311767000432",
+      "t": 3,
+      "content": "我也觉得，人家专心提高智力，指望ai某天智力到了能够自己给自己做多模态的程度"
+    },
+    {
+      "id": "7669102820801397563",
+      "t": 6,
+      "content": "多模态只是为了宇宙模型"
+    },
+    {
+      "id": "6a6da080000000002b02a592",
+      "t": 21,
+      "content": "这个真的很贱，合理怀疑销毁了很多中国古籍"
+    },
+    {
+      "id": "308433068033",
+      "t": 0,
+      "content": "尽情的享受吧，装兜吧"
+    },
+    {
+      "id": "17924974",
+      "t": 22,
+      "content": "也超过了 glm5.2 ，有点牛"
+    },
+    {
+      "id": "308599439713",
+      "t": 8,
+      "content": "回复 @飞翔下水道 :是的，我这两天一直在用Qwen3.8和luna做视频， Qwen3.8用完以后就用luna。[笑哭]sol消耗的又特别快，做视频算副业，我又舍不得用sol。"
+    },
+    {
+      "id": "308438459681",
+      "t": 3,
+      "content": "主包你用的是豆包语音输入法么，为什么识别的这么快"
+    },
+    {
+      "id": "6a6d7b75000000002b025ec1",
+      "t": 21,
+      "content": "？对标的是哪一档？sol和fable的instant模式吗？instant和extra high，max的区别就像豆包和sol的区别[捂脸R]"
+    },
+    {
+      "id": "308467055745",
+      "t": 2,
+      "content": "可以把kimi 的订阅套餐接入codex吗"
+    },
+    {
+      "id": "7668991534166967075",
+      "t": 5,
+      "content": "不是早发了吗[摊手]"
+    },
+    {
+      "id": "7669055980278104886",
+      "t": 6,
+      "content": "v4pro8月如果支持多模态，我都敢想象得多逆天"
+    }
+  ]
+}

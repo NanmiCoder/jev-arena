@@ -1,0 +1,233 @@
+{
+  "topics": [
+    "DeepSeek-V4-Flash-0731 正式上线",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "1块钱，半小时，deepseek-v4flash正式版实测",
+    "DeepSeek V4 现已官方支持接入 Codex",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "DeepSeek V4 Flash API is 18x cheaper on input, 28x cheaper on output, and matches Opus 4.8. Time for Claude to atleast reduce sonnet pricing",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "Deepseek V4 flash正式版可以直接接入Codex",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "⚠️ Note\n\n🔷 DeepSeek-V4-Flash-0731 keeps the exact same model architecture and size as the preview version.\n🔷 Today's upgrade applies ONLY to the DeepSeek-V4-Flash API. The DeepSeek-V4-Pro API and Ap",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "Deepseek V4 flash 正式版，新旧实测对比！【B站AI创造公开赛】",
+    "What speeds are everyone getting with deepseek v4 flash 0731?",
+    "DeepSeek V4 Flash 接入 Codex 教程（可识图）",
+    "I don't think Anthropic and OpenAI will survive",
+    "DeepSeek-V4-Flash-0731 UD-IQ3_XXS about 11t/s on 1x 7900 XTX 24GB + 3x MI60 32GB + 128GB DDR4",
+    "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
+    "DeepSeek V4 Flash 正式版来了！ Codex 接入教程＋真实编程实测 \nDeepSeek V4 Flash 正式版 API 开始公测了。官方表示，它的 Agent 能力大幅增强，基准测试表现也超过了此前的 DeepSeek V4 Pro Preview，并原生支持 Responses API 格式，针对 Codex 做了适配。 \n这期视频里，我会先演示如何在 Mac 上把 Deep",
+    "要被外网的一些评论笑死了😂😂😂",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "Deepseek v4 flash正式版卡车压扁汽车案例",
+    "【实测】DeepSeekV4正式版双机DGX真香",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "【分享】DGXspark和DeepSeekV4正式版相关问题",
+    "DeepSeek V4 Flash正式版实测！Deepseek+codex=王炸！能装skill还能调用插件！这波Deepseek简直神了【B站AI创造公开赛】",
+    "如何使用满血DeepSeek v4 flash正式版 (教材00:28开始)"
+  ],
+  "comments": [
+    {
+      "id": "6a6e2dd5000000000b039002",
+      "t": 0,
+      "content": "散户那边怎么说[捂脸R]"
+    },
+    {
+      "id": "311643297104",
+      "t": 1,
+      "content": "[doge]termux+proot已经吃上了，opencode里面还特意标了new。不介意数据和200k上下文也有free能用。"
+    },
+    {
+      "id": "311679095344",
+      "t": 2,
+      "content": "没多模态其实这种一句话生成3d游戏不会特别强的，希望harness上了以后能有官方的跑分吧"
+    },
+    {
+      "id": "308408980513",
+      "t": 3,
+      "content": "你让ai自己处理啊"
+    },
+    {
+      "id": "308430074049",
+      "t": 4,
+      "content": "回复 @下楼买水z :[嗑瓜子]上来就盯着食物看？"
+    },
+    {
+      "id": "311751130816",
+      "t": 5,
+      "content": "这个pro V4跟flash不是出来好多周了吗？ 个人感觉挺不错的，使用感受比Gemini pro/flash强好多。比起codex差一些，claude是坑货[妙啊]"
+    },
+    {
+      "id": "p105vek",
+      "t": 6,
+      "content": "Matches?! Ha! I used to use it in a project. No way it even matches OpenAI Terra"
+    },
+    {
+      "id": "311739658912",
+      "t": 7,
+      "content": "pro思考时间久，更厉害 flash回答快速。不过现在是flash强于pro，因为flash现在是正式版"
+    },
+    {
+      "id": "311732234320",
+      "t": 5,
+      "content": "回复 @JackySmile : 后端有这感觉了，代码一次过，几乎无bug，之前用gpt5.5都得返厂两三次"
+    },
+    {
+      "id": "6a6eff7f000000000403bdcc",
+      "t": 8,
+      "content": "可以让ds 4 flash作为codex的子agent被sol调用嘛？"
+    },
+    {
+      "id": "7669038629913838371",
+      "t": 9,
+      "content": "人家考上了北大清华，没选择而已，懂？人家是状元"
+    },
+    {
+      "id": "308491895937",
+      "t": 5,
+      "content": "确实上完写程序时思考过程就有说不支持识图，但紧接着就是调用其他工具去验证，最后效果还是达到了"
+    },
+    {
+      "id": "2083136161485119501",
+      "t": 10,
+      "content": "@deepseek_ai I wish you would change the namings, instead of the preview, if it is like 4.1, 4.2, if we follow the developments and models better."
+    },
+    {
+      "id": "7668929283793355557",
+      "t": 11,
+      "content": "是接到啥agent里面了"
+    },
+    {
+      "id": "308589847713",
+      "t": 12,
+      "content": "依旧鲸震恩🖐️😭🖐️"
+    },
+    {
+      "id": "p0zzicl",
+      "t": 13,
+      "content": "I'm getting pp \\~350tps, tg \\~35tps at around 5000 token depth.\n\n6x3090 machine power limited to 200w. UD-Q3\\_K\\_XL quant.\n\nI hope we get tensor parallel, and MTP supported, then this would just buzz with speed."
+    },
+    {
+      "id": "311764006256",
+      "t": 3,
+      "content": "回复 @Ruin_C791 : 请问怎么评价表现啊，看缓存命中吗？[思考]"
+    },
+    {
+      "id": "308502345009",
+      "t": 14,
+      "content": "我是直接把deepseek官网的API文档链接和我的API KEY发给workbuddy，告诉它帮我把本机上的codex连接上deepseek，就搞定了。（注意提前卸载CC swith)"
+    },
+    {
+      "id": "308398420657",
+      "t": 4,
+      "content": "回复 @AI编程_阿万 :差不多，我今天2.2e 8.7块"
+    },
+    {
+      "id": "7669289070887535419",
+      "t": 9,
+      "content": "当然做啊glm 5.2就是后训练出来的"
+    },
+    {
+      "id": "p14bbpf",
+      "t": 15,
+      "content": "Their current business models will never in a million years become profitable - unless they cut their costs by 90% or something like that lolz"
+    },
+    {
+      "id": "p17p8pa",
+      "t": 16,
+      "content": "I'm getting 10t/s for the full 162GB model whether it's fully in VRAM or partially offloaded to RAM on two separate machines, one with 8x P40s on two E5-2699v4 and the other 6x Mi50s on two 8260 ES. This is up from ~7.5 when support was first merged.\n\nIt's not optimized still. For comparison, Minimax 2.x Q4_K_XL which has similar number of active parameters runs at ~30t/s fully in VRAM and ~15t/s with RAM offload on the Mi50s."
+    },
+    {
+      "id": "311718786448",
+      "t": 5,
+      "content": "你这套定型文是什么时候的了[笑哭]我总感觉老早之前就看到过"
+    },
+    {
+      "id": "p0wlepd",
+      "t": 17,
+      "content": "Deep seek didn't cause any marker crash, two things happened consecutively, that doesn't mean one cause the other"
+    },
+    {
+      "id": "7668710216267842346",
+      "t": 18,
+      "content": "不能识图就不太好用[躺平]"
+    },
+    {
+      "id": "6a6ee3e7000000000802d107",
+      "t": 19,
+      "content": "网页端还没更新，然后就是中转站喜欢卖国外 API 套皮 ds 网页端[偷笑R]"
+    },
+    {
+      "id": "p10gbaz",
+      "t": 13,
+      "content": "2x rtx pro 6000 getting 150-210tok/s with vllm. Was getting 55 with llama cpp before switching."
+    },
+    {
+      "id": "308468681489",
+      "t": 7,
+      "content": "mark比luna强一些"
+    },
+    {
+      "id": "2083122332735021289",
+      "t": 10,
+      "content": "@deepseek_ai Visually it improved a lot. Initially for same diagram there used to be a lot of overlapping text over the image, this svg is good. @teortaxesTex This can be easily daily driver (replacing Sonnet 5), more test will report soon. https://t.co/hKZKnMOkNh"
+    },
+    {
+      "id": "311631262832",
+      "t": 20,
+      "content": "回复 @铭峰__ :对，我说的是v4pro正式版"
+    },
+    {
+      "id": "311639577072",
+      "t": 21,
+      "content": "回复 @久了就旧了-_ :可以"
+    },
+    {
+      "id": "308411209537",
+      "t": 22,
+      "content": "同问速度有多少"
+    },
+    {
+      "id": "311667342544",
+      "t": 23,
+      "content": "正式版玩酒馆效果怎么样[25年度表情包_一][25年度表情包_猫]"
+    },
+    {
+      "id": "308566022929",
+      "t": 24,
+      "content": "先把之前开源的模型保存下来，这是种子。以后有条件了随时可以跑。\n然后，如果不追求速度，ssd+内存+cpu应该也是可以跑起来的"
+    },
+    {
+      "id": "311666612512",
+      "t": 23,
+      "content": "api已经可以用了吗？"
+    },
+    {
+      "id": "311867391600",
+      "t": 25,
+      "content": "感觉现在ai都要高低搭配来用了，高智商ai用来规划，搭建，评价，智商不那么高，但执行能力强，遵循能力高的，用来实际执行。很多人都反映过旗舰模型包干容易陷入局部最优，过度执行，卡在边缘分支出不来，ds的flash和pro应该就是为这种高低搭配准备的，这次flash主要就是朝着agent能力去的，pro可能就是另一个进化方向"
+    },
+    {
+      "id": "6a6d8479000000002b0021bb",
+      "t": 19,
+      "content": "Deepseek 现在的形象就是拿着鞭子的牧羊人壬跑不过我的，晚上统统宰了，[扯脸H]"
+    },
+    {
+      "id": "311674661808",
+      "t": 4,
+      "content": "斩杀线来了[笑哭]快跑啊美国ai"
+    },
+    {
+      "id": "p11jirm",
+      "t": 6,
+      "content": "How come ? \n\nOn one side Anthropic/OpenAI are subsidizing AI. They have better chips than chinese and way more money.\n\nYet, chinese models are cheaper.\n\nShouldnt Anthropic be very profitable ?  They sell 18x more and their chips are between 3x and 5x more powerful."
+    },
+    {
+      "id": "311715266848",
+      "t": 26,
+      "content": "回复 @NZNZ99999 :趁V4pro还没修猛猛用"
+    }
+  ]
+}

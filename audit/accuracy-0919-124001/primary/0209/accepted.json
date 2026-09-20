@@ -1,0 +1,795 @@
+{
+  "items": [
+    {
+      "id": "311733238848",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "service",
+        "trust"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.8,
+      "reason": "粗口批评中转站擅自更换模型，表达不满。"
+    },
+    {
+      "id": "6a6dc422000000000b0381f2",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "以川普感调侃未知对象，是否指模型无法确定。"
+    },
+    {
+      "id": "311736280528",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "惊喜"
+      ],
+      "score": 0.4,
+      "reason": "询问DS回答变快的原因，带惊讶及轻度肯定。"
+    },
+    {
+      "id": "308601063313",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "complaint",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality",
+        "price",
+        "service",
+        "comparison"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.5,
+      "reason": "批评MiniMax质量落后，同时认可便宜且尚能使用。"
+    },
+    {
+      "id": "311766453504",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": -0.3,
+      "reason": "表达不喜欢Codex并等待官方框架，未说明具体缺点。"
+    },
+    {
+      "id": "7668650371925066533",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "mixed"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃",
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "用梁圣称谓变化玩梗，结尾转回认可但整体略有歧义。"
+    },
+    {
+      "id": "6a6eca65000000000802dfa7",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability",
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述显存限制，并肯定当前模型胜过其他已部署模型。"
+    },
+    {
+      "id": "311636666240",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问正式版相较以前的变化，无明显褒贬。"
+    },
+    {
+      "id": "308525536657",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0.1,
+      "reason": "辩护DS多模态研发能力，同时抱怨缺少视觉输入。"
+    },
+    {
+      "id": "6a6d4138000000000901675e",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.1,
+      "reason": "猜测他人加班情况，表情略消极但未讨论AI。"
+    },
+    {
+      "id": "308609395073",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "嘲讽对方急哭，缺少任何AI相关实质内容。"
+    },
+    {
+      "id": "311786558400",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.1,
+      "reason": "借贝多芬玩梗讨论DS无视听能力却创作音乐。"
+    },
+    {
+      "id": "7668992533125645115",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.6,
+      "reason": "称其为人民的AI，带调侃式认可。"
+    },
+    {
+      "id": "311721154976",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0.3,
+      "reason": "报告在WSL2 Codex使用无问题的经验。"
+    },
+    {
+      "id": "6a6dd4bd000000000802e6b5",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "把图片联想到影视人物耳语，未讨论AI。"
+    },
+    {
+      "id": "311723385120",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": -0.7,
+      "reason": "附和对他人的贬损并称早已拉黑，未涉及AI。"
+    },
+    {
+      "id": "311905230528",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "担忧"
+      ],
+      "score": 0,
+      "reason": "询问直接提供API密钥的风险，表达安全顾虑。"
+    },
+    {
+      "id": "308515144433",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "分享AI编程流程、费用及完成软件开发的经验。"
+    },
+    {
+      "id": "311747438736",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否因同一会话上下文过长而出现问题。"
+    },
+    {
+      "id": "7668711043837166385",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "agreement"
+      ],
+      "a": [
+        "content"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "赞同版本识别观点，并指出视频展示的是旧版。"
+    },
+    {
+      "id": "308398046641",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "感叹来得早并带玩梗表情，没有评价AI。"
+    },
+    {
+      "id": "308370083505",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "纠正未考虑缓存的计价说法，补充价格与缓存率。"
+    },
+    {
+      "id": "308593595041",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "service"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "抱怨写模组消耗半数额度却未完成任务。"
+    },
+    {
+      "id": "308361941361",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测正式版后训练重点是Agent循环工程。"
+    },
+    {
+      "id": "2083895313849369063",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "other"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "仅艾特他人并表示大笑，无法补全评价对象。"
+    },
+    {
+      "id": "311920604528",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "comparison",
+        "price",
+        "capability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "按任务大小推荐模型，并贬低月亮相对免费豆包的价值。"
+    },
+    {
+      "id": "311688627088",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问max深度模式表现，未表达褒贬。"
+    },
+    {
+      "id": "6a6ca44f000000000403ad79",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement",
+        "correction"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "认可",
+        "调侃"
+      ],
+      "score": 0.5,
+      "reason": "反问并强调Luna即便开max也很快。"
+    },
+    {
+      "id": "311720856496",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "求助DS更新后Codex及ccswitch是否需要重新配置。"
+    },
+    {
+      "id": "p0w6n0b",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问现有显卡与内存能否运行该模型。"
+    },
+    {
+      "id": "311671489456",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "认为仅接近4.8低档，并玩笑质疑击败满血版的说法。"
+    },
+    {
+      "id": "7669324986259637026",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [
+        "期待"
+      ],
+      "score": 0.2,
+      "reason": "表示等待Pro版，期待明确但未直接评价Flash好坏。"
+    },
+    {
+      "id": "p0xks1z",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "称DS新版是OpenCode Go的新王，强烈赞赏。"
+    },
+    {
+      "id": "7668879124810875707",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "确认是VSCode插件，标题提示AI但具体插件指代缺失。"
+    },
+    {
+      "id": "308509690257",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "赞同分多步执行更好，可能指AI操作但缺父评论。"
+    },
+    {
+      "id": "308596183969",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.6,
+      "reason": "揣测梁的个人动机并批评社会权势关系，未评价AI。"
+    },
+    {
+      "id": "7668900891499742001",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability",
+        "capability"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "建议要求模型提供源码，并称会得到响应。"
+    },
+    {
+      "id": "311886295408",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合模型标题询问低价使用方法，语气惊讶但未明确赞赏。"
+    },
+    {
+      "id": "311898523376",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "转述数据中心建设传闻，并乐观推测算力将充足。"
+    },
+    {
+      "id": "308463381969",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "推测Pro仍无多模态，并猜测未来Ultra可能支持。"
+    }
+  ]
+}

@@ -1,0 +1,783 @@
+{
+  "items": [
+    {
+      "id": "311757791072",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "question",
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.2,
+      "reason": "认可消息但表示不会使用，兼有隐含求助意图。"
+    },
+    {
+      "id": "311763422368",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other",
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "贴出自制AI阅读器链接，可能是广告，也可能指示实例。"
+    },
+    {
+      "id": "p15pjfg",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问两种模型及量化配置的对比。"
+    },
+    {
+      "id": "7669032556439978811",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question",
+        "complaint"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "担忧"
+      ],
+      "score": -0.6,
+      "reason": "质疑存在数据安全争议的CC为何仍被使用。"
+    },
+    {
+      "id": "308578022017",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "建议创建小号，但缺失上文，无法确定具体用途。"
+    },
+    {
+      "id": "p13p9ol",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "content",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.7,
+      "reason": "批评降价解释缺少技术依据，称其为阴谋论。"
+    },
+    {
+      "id": "308343453137",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望",
+        "期待"
+      ],
+      "score": -0.5,
+      "reason": "实测案例效果不佳，并期待官方harness改善。"
+    },
+    {
+      "id": "6a6d90fb000000001403807e",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.8,
+      "reason": "以夸张语气称赞300B模型效果及Agent用途。"
+    },
+    {
+      "id": "7669291047083983653",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅谈个人圈子与人生，未明确涉及AI。"
+    },
+    {
+      "id": "p0ylo1w",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "反驳他人并明确称其为最高效的模型。"
+    },
+    {
+      "id": "7669042543434220325",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint",
+        "joke"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.5,
+      "reason": "贬为老旧QQ空间换皮，是否指AI产出仍有歧义。"
+    },
+    {
+      "id": "7668859353516360484",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.1,
+      "reason": "调侃对梁的称呼变化，未直接评价模型。"
+    },
+    {
+      "id": "308344155953",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "认为所讨论模型远逊于竞品，尤其Luna。"
+    },
+    {
+      "id": "308377300641",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "寻求现成推荐，缺失上文使具体对象不明。"
+    },
+    {
+      "id": "308448462977",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "指导取消已有设置并通过官方渠道使用Codex。"
+    },
+    {
+      "id": "p12qzjd",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability",
+        "usability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "报告LM Studio显存使用异常及替代工具解决经验。"
+    },
+    {
+      "id": "308459522225",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "quality",
+        "price",
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "反对忽略质量与成本的评价，认可Flash实用价值。"
+    },
+    {
+      "id": "308592413921",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "转述对多模态研究方向的看法，未明确表态赞贬。"
+    },
+    {
+      "id": "311737367904",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正对多模态概念的归类。"
+    },
+    {
+      "id": "7669052229324456753",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "陈述专注AGI的路线，“走到黑”可能略带批评。"
+    },
+    {
+      "id": "308579707329",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问长上下文达到800k时的实际效果。"
+    },
+    {
+      "id": "p0x9boe",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问媲美云端的模型能否在128G笔记本部署。"
+    },
+    {
+      "id": "308549403633",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问全内存部署的生成速度。"
+    },
+    {
+      "id": "308342636961",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问模型接入所使用的harness。"
+    },
+    {
+      "id": "311754684464",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "主要是称呼谐音梗，与模型评价的关联不明确。"
+    },
+    {
+      "id": "311660991616",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问Kimi K3在相同对比中的花费。"
+    },
+    {
+      "id": "308575345873",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问DeepSeek是否已经支持识图。"
+    },
+    {
+      "id": "308563871265",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "陈述官方推荐使用Codex，未表达个人评价。"
+    },
+    {
+      "id": "6a6cbf070000000015000b7c",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "price",
+        "usability",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "称赞Flash便宜好用，且无需购买阶梯会员。"
+    },
+    {
+      "id": "7668685736854995749",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "指出Token消耗增加，同时肯定能力提升和低成本。"
+    },
+    {
+      "id": "308513611249",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "质疑",
+        "愤怒"
+      ],
+      "score": -0.7,
+      "reason": "反对忽略实际用量的模型批判，并攻击评论者地域。"
+    },
+    {
+      "id": "311634920288",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "求助Cherry Studio的Agent用法并询问方案比较。"
+    },
+    {
+      "id": "308416705825",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅询问网站名称，无法确定网站是否为AI产品。"
+    },
+    {
+      "id": "308461411713",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问与千问的能力差异，并转述其表现一般的说法。"
+    },
+    {
+      "id": "7668820559991702308",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明软件和网页端可用，但具体可做何事不明。"
+    },
+    {
+      "id": "6a6e6cb5000000001403a5da",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "presentation"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议视频添加字幕，未讨论AI产品本身。"
+    },
+    {
+      "id": "311781984416",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议接入商汤，说明其免费且支持多模态。"
+    },
+    {
+      "id": "308619882113",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "price",
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "建议为控制成本混用模型，并针对任务微调小模型。"
+    },
+    {
+      "id": "308487669873",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "认为应开启max，质疑当前测评结果的真实性。"
+    },
+    {
+      "id": "6a6ebd24000000002a02fd85",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "暗示发帖收钱，主要质疑发布动机而非明确评价AI。"
+    }
+  ]
+}

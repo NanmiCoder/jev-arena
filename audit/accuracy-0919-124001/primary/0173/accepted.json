@@ -1,0 +1,805 @@
+{
+  "items": [
+    {
+      "id": "p105lgk",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "usability",
+        "comparison",
+        "service"
+      ],
+      "e": [],
+      "score": 0.1,
+      "reason": "分析用户更重产品体验，建议DeepSeek提供完整产品。"
+    },
+    {
+      "id": "311927889696",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "称同台竞技已经赢了，强烈肯定模型竞争力。"
+    },
+    {
+      "id": "308433538609",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "纠正Codex开源及公司归属相关说法。"
+    },
+    {
+      "id": "308417603313",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "quality"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.7,
+      "reason": "建议生成spinalhdl，并肯定可读性与仿真准确率。"
+    },
+    {
+      "id": "311678218352",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "reliability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "分享缓存命中率稳定且省钱的使用体验。"
+    },
+    {
+      "id": "p17voao",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion",
+        "information"
+      ],
+      "a": [
+        "price",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "说明缓存失效难察觉，建议检查计费输入Token。"
+    },
+    {
+      "id": "6a6e17fc000000001403affd",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "quality"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.7,
+      "reason": "以“是的”赞同观点，批评Claude负优化。"
+    },
+    {
+      "id": "308479066609",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "agreement",
+        "praise"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.6,
+      "reason": "赞同并明确表示目前使用体验不错。"
+    },
+    {
+      "id": "311798978144",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke",
+        "question"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "疑似复述鲸鱼相关称呼玩梗，具体指代不明。"
+    },
+    {
+      "id": "308427705665",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问“玩酒馆”含义，可能指AI酒馆但未明确。"
+    },
+    {
+      "id": "308512518593",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "price",
+        "performance"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问流畅运行全量模型所需硬件成本。"
+    },
+    {
+      "id": "7668999503732015921",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0.2,
+      "reason": "报告workbuddy命中率，未明确命中对象或评价。"
+    },
+    {
+      "id": "7669361595814576896",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question",
+        "disagreement"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "反问配微笑可能有讽意，但对象与前文缺失。"
+    },
+    {
+      "id": "311707536416",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other",
+        "information"
+      ],
+      "a": [],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "感谢提醒并说明已删除，未明确讨论AI使用。"
+    },
+    {
+      "id": "6a6eb3f700000000150011d7",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "question",
+        "complaint"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "质疑封禁及针对性，但被封对象未明确。"
+    },
+    {
+      "id": "7668948174825374513",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "建议自行看文档，是否指AI文档无法确定。"
+    },
+    {
+      "id": "311776690752",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "production"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.8,
+      "reason": "借粉丝少的反问称赞视频质量，与模型评价无关。"
+    },
+    {
+      "id": "311865878064",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问部署模型的精度规格，无明显褒贬。"
+    },
+    {
+      "id": "6a6d93d20000000005016e7a",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "agreement",
+        "joke"
+      ],
+      "a": [],
+      "e": [],
+      "score": null,
+      "reason": "口语式保证或附和，缺少前文无法确定对象。"
+    },
+    {
+      "id": "311894388352",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "说明手机没有某物，但“这个”指代缺失。"
+    },
+    {
+      "id": "7668718388793213733",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "质疑讲述者可信度，切水果是否涉及AI不明确。"
+    },
+    {
+      "id": "311695921584",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "将原因归于Codex系统提示词，未表达褒贬。"
+    },
+    {
+      "id": "311910229024",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "对“鲸震恩”称呼发笑，未评价AI产品或使用。"
+    },
+    {
+      "id": "311824605856",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.4,
+      "reason": "表达等待梁文峰旗下Agent产品的期待。"
+    },
+    {
+      "id": "6a6d6286000000002b02a84e",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "comparison",
+        "capability"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.5,
+      "reason": "认为国产仅k3可看，反问贬低hy3比较价值。"
+    },
+    {
+      "id": "7668991149973078822",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "失望"
+      ],
+      "score": -0.4,
+      "reason": "指出缺少多模态这一缺陷，未明确称赞其他方面。"
+    },
+    {
+      "id": "p16pfvr",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "content",
+        "capability"
+      ],
+      "e": [],
+      "score": -0.4,
+      "reason": "厌倦游戏案例，建议测试企业计划和财务任务。"
+    },
+    {
+      "id": "308533173409",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "暗示当前说法已不合时宜，具体争论对象缺失。"
+    },
+    {
+      "id": "308596366929",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "complaint",
+        "question"
+      ],
+      "a": [
+        "usability",
+        "reliability"
+      ],
+      "e": [],
+      "score": -0.3,
+      "reason": "报告第二次使用遭沙箱拦截，隐含求助。"
+    },
+    {
+      "id": "311862402752",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供图片消息类型解析错误并询问解决办法。"
+    },
+    {
+      "id": "311894935056",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "质疑接入Codex的意义，并询问为何不用reasonix。"
+    },
+    {
+      "id": "308486675217",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "reliability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "分享GLM官方接口搭配CC CLI较稳定的体验。"
+    },
+    {
+      "id": "6a6de8bf000000002902ebba",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise",
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "price",
+        "performance"
+      ],
+      "e": [
+        "认可",
+        "惊喜"
+      ],
+      "score": 0.9,
+      "reason": "赞赏DS能力大幅提升、价格低且速度更快。"
+    },
+    {
+      "id": "6a6e0fd4000000002b0017b3",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "performance"
+      ],
+      "e": [],
+      "score": 0.2,
+      "reason": "分享内置与官方接口测试，认为可替代且速度接近。"
+    },
+    {
+      "id": "311655614560",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "performance",
+        "price"
+      ],
+      "e": [
+        "认可",
+        "失望"
+      ],
+      "score": 0.2,
+      "reason": "肯定修Bug能力，同时批评过度思考、慢且耗Token。"
+    },
+    {
+      "id": "p0tx83q",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "content",
+        "other"
+      ],
+      "e": [
+        "愤怒",
+        "质疑"
+      ],
+      "score": -0.8,
+      "reason": "反对DeepSeek引发股灾预测，斥责重复炒作帖。"
+    },
+    {
+      "id": "7669245173188739859",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "强调其能力和低价压制竞品，亦感叹行业竞争。"
+    },
+    {
+      "id": "7669226305024312121",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "用散户和重复表情玩梗，未讨论AI产品。"
+    },
+    {
+      "id": "7669086912075186981",
+      "r": [
+        false
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "愤怒"
+      ],
+      "score": -0.7,
+      "reason": "抱怨美股交易环境和手段，与AI使用无关。"
+    },
+    {
+      "id": "308390207521",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "询问复制代码丢失缩进的解决方法，主要为求助。"
+    }
+  ]
+}

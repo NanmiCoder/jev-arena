@@ -1,0 +1,814 @@
+{
+  "items": [
+    {
+      "id": "311870752640",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [],
+      "e": [
+        "调侃"
+      ],
+      "score": 0,
+      "reason": "提醒正式版仅发布两天，带轻微调侃。"
+    },
+    {
+      "id": "7668900646506218277",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "agreement"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "阐述推理能力尚不足及暂缓多模态的理由。"
+    },
+    {
+      "id": "7669036022311027493",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "肯定低价有利于增加使用量。"
+    },
+    {
+      "id": "311722136064",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "trust"
+      ],
+      "e": [
+        "质疑",
+        "担忧",
+        "调侃"
+      ],
+      "score": -0.8,
+      "reason": "强烈质疑中转模型真实性与安全性。"
+    },
+    {
+      "id": "7669307383941186319",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "suggestion"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "结合部署标题，提供服务器硬件配置建议。"
+    },
+    {
+      "id": "311835725600",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "service"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "称赞订阅性价比，同时指出国内封号缺点。"
+    },
+    {
+      "id": "6a6d804f000000002b001400",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral",
+        "negative"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "描述自媒体猜测与官方沉默，或含轻微不满。"
+    },
+    {
+      "id": "308416314337",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "agreement"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "service"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.1,
+      "reason": "赞同前述观点，并陈述等待Pro及订阅成本经验。"
+    },
+    {
+      "id": "311922263184",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "correction"
+      ],
+      "a": [
+        "usability",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "澄清订阅不绑定客户端并说明接入方式。"
+    },
+    {
+      "id": "7668750301369828148",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "complaint"
+      ],
+      "a": [
+        "capability",
+        "reliability",
+        "comparison"
+      ],
+      "e": [
+        "失望",
+        "调侃"
+      ],
+      "score": -0.7,
+      "reason": "以好用反讽改坏简单功能，需另一模型补救。"
+    },
+    {
+      "id": "2083695226389246118",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0.3,
+      "reason": "告知阿里云已可使用新版，并表示想尝试。"
+    },
+    {
+      "id": "311700109504",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "仅提网络墙阻隔，是否指模型访问存在歧义。"
+    },
+    {
+      "id": "308431448961",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.5,
+      "reason": "认可模型能力提升及简单工具减少提示词需求。"
+    },
+    {
+      "id": "308466117201",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement"
+      ],
+      "a": [
+        "trust",
+        "content"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.4,
+      "reason": "反对重复任务测法，质疑缓存并建议多样测试。"
+    },
+    {
+      "id": "6a6da3ec000000002a02417d",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price",
+        "comparison",
+        "other"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "强调模型省钱优势，并推测禁用与企业应对。"
+    },
+    {
+      "id": "311785347600",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "joke"
+      ],
+      "a": [
+        "comparison"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.2,
+      "reason": "用哈基米及语言模型话术作调侃比较。"
+    },
+    {
+      "id": "308353412225",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "判断能力接近Opus4.8，未明确表达褒贬。"
+    },
+    {
+      "id": "2083583105961718155",
+      "r": [
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "price",
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "提供免费测试引流链接，属于纯推广。"
+    },
+    {
+      "id": "7669079246401061672",
+      "r": [
+        true
+      ],
+      "s": [
+        "mixed"
+      ],
+      "i": [
+        "information",
+        "praise"
+      ],
+      "a": [
+        "price",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "赞叹DeepSeek便宜，同时抱怨Claude贵到不敢用。"
+    },
+    {
+      "id": "7668931990904767269",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "price"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "强调企业成本优先，或泛论经营而非模型使用。"
+    },
+    {
+      "id": "2083678909649019007",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question",
+        "suggestion"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [
+        "期待"
+      ],
+      "score": 0,
+      "reason": "询问平台何时支持指定模型，亦有催上线意味。"
+    },
+    {
+      "id": "7669070948976870163",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.1,
+      "reason": "询问本地部署相对官网效果，措辞略带怀疑。"
+    },
+    {
+      "id": "308538872305",
+      "r": [
+        false
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [
+        "price",
+        "service",
+        "reliability",
+        "trust"
+      ],
+      "e": [],
+      "score": 0.6,
+      "reason": "以低价稳定和赠额度宣传中转站，属于纯广告。"
+    },
+    {
+      "id": "308468889537",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问识图是否通过调用千问实现双模型协作。"
+    },
+    {
+      "id": "7669078429011002175",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "joke",
+        "disagreement"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "调侃",
+        "质疑"
+      ],
+      "score": -0.6,
+      "reason": "以租房身份嘲讽他人使用AI的资格。"
+    },
+    {
+      "id": "311923862912",
+      "r": [
+        false,
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "other"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "仅惊呼鲸鲸，可能指DeepSeek但未明确评价。"
+    },
+    {
+      "id": "308538910257",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative",
+        "neutral"
+      ],
+      "i": [
+        "correction",
+        "question"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [
+        "质疑"
+      ],
+      "score": -0.2,
+      "reason": "以200B反问，疑在纠正小模型说法。"
+    },
+    {
+      "id": "7668962852527899434",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问是否采用Chatbox一类桌面客户端。"
+    },
+    {
+      "id": "311683192384",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问CCSwitch接入VSCode时是否需修改模型。"
+    },
+    {
+      "id": "308432360177",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "usability",
+        "comparison"
+      ],
+      "e": [],
+      "score": -0.1,
+      "reason": "求助工具选择与模型切换，并提切换不便。"
+    },
+    {
+      "id": "311713232432",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "capability",
+        "comparison",
+        "usability"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.3,
+      "reason": "报告体验差距不明显且切换顺畅。"
+    },
+    {
+      "id": "308514736929",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "praise"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.9,
+      "reason": "称后训练为最强，并盛赞正式版大幅提升。"
+    },
+    {
+      "id": "311788726672",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "service"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问换用OpenCode Go是否足够使用。"
+    },
+    {
+      "id": "6a6dda9a000000002902faa5",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [],
+      "e": [],
+      "score": 0,
+      "reason": "或指模型原地升级，但缺少父评论难定对象。"
+    },
+    {
+      "id": "311928513872",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive",
+        "neutral"
+      ],
+      "i": [
+        "information",
+        "joke"
+      ],
+      "a": [
+        "capability"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": 0.2,
+      "reason": "称还能提升并附玩梗表情，具体态度略有歧义。"
+    },
+    {
+      "id": "308394384241",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "usability"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问教程软件登录与否是否影响使用。"
+    },
+    {
+      "id": "2083875783538319730",
+      "r": [
+        true
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "question"
+      ],
+      "a": [
+        "capability",
+        "comparison"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "询问DeepSeek与Qwen的表现对比。"
+    },
+    {
+      "id": "308345138433",
+      "r": [
+        true
+      ],
+      "s": [
+        "positive"
+      ],
+      "i": [
+        "information"
+      ],
+      "a": [
+        "service",
+        "usability",
+        "trust",
+        "comparison"
+      ],
+      "e": [
+        "认可"
+      ],
+      "score": 0.4,
+      "reason": "比较API与套餐限制，认可API便捷与安全。"
+    },
+    {
+      "id": "6a6d8c4a0000000015014d96",
+      "r": [
+        true
+      ],
+      "s": [
+        "negative"
+      ],
+      "i": [
+        "disagreement",
+        "joke"
+      ],
+      "a": [
+        "trust",
+        "service"
+      ],
+      "e": [
+        "调侃"
+      ],
+      "score": -0.6,
+      "reason": "以购买智谱无法退款揣测对方动机并嘲讽。"
+    },
+    {
+      "id": "311837339088",
+      "r": [
+        true,
+        false
+      ],
+      "s": [
+        "neutral"
+      ],
+      "i": [
+        "disagreement",
+        "information"
+      ],
+      "a": [
+        "other"
+      ],
+      "e": [],
+      "score": 0,
+      "reason": "或反对按产地评模型，也可能泛论计算机。"
+    }
+  ]
+}

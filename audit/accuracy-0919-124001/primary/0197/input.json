@@ -1,0 +1,237 @@
+{
+  "topics": [
+    "DeepSeek-V4-Flash 正式版来了！",
+    "【实测】DeepSeekV4正式版双机DGX真香 DeepSeek V4 Flash 正式版实测来了！模型体积、结构与预览版基本一致，原有部署方案不用改，直接换模型文件就能用，解码和预填充速度也完全不变。但模型能力大幅增强，处理相同任务消耗的 Token 直接减半，实测同样任务从 300 多秒缩到 120 秒，耗时降了近 2/3！1M 上下文能连续处理的任务量翻倍还不止，等于变相提速，省时省力还省",
+    "Woc，正式版的 DeepSeek v4 Flash 太快了，还能干一定的活，Proma 已经开始思考如何为这种新的特性开发功能了\n\t\n#deepseek[话题]# #agents[话题]# #开源[话题]# #proma[话题]# #速度[话题]# #成本[话题]# #llm[话题]#",
+    "DeepSeek-V4-Flash-0731实力强悍！",
+    "DeepSeek V4 Flash 0731 Open Model has arrived!",
+    "你的梁子来了，DeepSeek V4 Flash正式发布",
+    "塞入满血DeepSeek V4 Flash：无限Token！两台英伟达电脑“交火”，有多强？",
+    "DeepSeek-V4-Flash 正式版 API 上线公测，模型权重已发布【AI 早报 2026-08-01】",
+    "屎山论剑｜DeepSeekV4Flash：下一位！",
+    "DeepSeek V4 Flash正式版斩杀了70%的大模型",
+    "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta!\n\n🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive perf",
+    "梁圣无敌！deepseek v4-flash正式版来了",
+    "DS牛 梁圣牛呀",
+    "TRAE 中国版支持 DeepSeek-V4-Flash 正式版",
+    "1.6亿Token只花9块！ DeepSeek V4 Flash实测：梁圣，还是梁子？#ai新星计划 #vibecoding大赏#Deepseekv4 #实测 #梁文峰",
+    "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+    "Deepseek V4Flash有多强？这两句才是真正重点！ Deepseek V4正式版发布了，但是真正的重点在于这两句，已经不敢想V4pro会有多强了。#deepseek #AI #人工智能 #大模型 #科普",
+    "DeepSeek V4 Flash 正式版来了！Codex 接入教程＋真实编程实测",
+    "🚀DeepSeek V4 Flash全面实测：Claude Code接入后连续开发7个项目，真的已经接近Claude Opus 4.8了吗？最便宜的国产模型！",
+    "实测DeepSeek V4 Flash 全新版本太强了！已经超越了美国大部分智能体，中国已经用极低的成本弯道超车！",
+    "DeepSeek V4 Flash 正式版深度实测",
+    "1.6亿Token只花9块！DeepSeek V4 Flash实测：梁圣，还是梁子？",
+    "要被外网的一些评论笑死了😂😂😂",
+    "What speeds are everyone getting with deepseek v4 flash 0731?",
+    "既'又快又快'后，向我们走来的是'又便宜又便宜'，DeepSeek V4 Flash 0731全面测评报告",
+    "最新的 deepseek-v4-flash 正式版真的有这么强吗？",
+    "DeepSeek V4 Flash正式版发布！ DeepSeek V4 Flash 正式版本 刚刚发布 \n他们两个 都是 AI 编程圈很火的性价比模型：DeepSeek V4 Flash 0731 和 GPT-5.6 Luna。  \n这次不跑小游戏，直接上两个真实 Agent 项目：\n• 图片生成 Agent：完整认证、OAuth、后端 API、用户隔离\n• Skills Agent：CLI 改成",
+    "DeepSeek时刻2.0：V4 Flash正式版强在哪？",
+    "GPT5.6 三模型内战！DeepseekV4 Flash正式版临时加入比赛！",
+    "突发！DeepSeek V4 Flash正式版API上线公测",
+    "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！"
+  ],
+  "comments": [
+    {
+      "id": "6a6cc9b7000000002300ec93",
+      "t": 0,
+      "content": "是不是在cc-switch里把实际请求模型从pro都换成flash就可以了？"
+    },
+    {
+      "id": "7669306361343296256",
+      "t": 1,
+      "content": "可以，显存够就行速度不同而已。"
+    },
+    {
+      "id": "6a6c8d0b000000001501225c",
+      "t": 2,
+      "content": "飞书旁边的是 codex 吗？"
+    },
+    {
+      "id": "6a6c5c5a000000002901bc3b",
+      "t": 3,
+      "content": "有多模态吗？"
+    },
+    {
+      "id": "p0v9elg",
+      "t": 4,
+      "content": "I'm fairly new to this. Whats the use case for flash models for an average user compared to other big name models or the pro on max effort for deepseek. I do have the deepseek api enabled and have created some platforms prior to this which I still run by either Opus or Sol. \n\nI mean, I'm trying to gauge what can be done on here besides pricing and capability and how versatile can this be?"
+    },
+    {
+      "id": "6a6e581d00000000290347ea",
+      "t": 5,
+      "content": "这就是所谓说的，十步杀一人，千里不修行。事了拂衣去，深藏身与名。"
+    },
+    {
+      "id": "311932136080",
+      "t": 6,
+      "content": "回复 @熱心的攤主 :细索[doge]"
+    },
+    {
+      "id": "311768235344",
+      "t": 7,
+      "content": "唔哦哦齁哦哦！齁噫咿咕哦哦～～～❤️❤️❤️"
+    },
+    {
+      "id": "308574043345",
+      "t": 8,
+      "content": "这下彻底进斩杀线咯，ds和kimi都比它强又比它便宜[笑哭]"
+    },
+    {
+      "id": "6a6ed4820000000009015557",
+      "t": 9,
+      "content": "用codex接入flash正式版感觉效果怎么样？有没有opencode和cc好用？？"
+    },
+    {
+      "id": "2083177176183046560",
+      "t": 10,
+      "content": "@deepseek_ai how is this even a \"flash\"?"
+    },
+    {
+      "id": "6a6e0635000000002902ceaa",
+      "t": 11,
+      "content": "ds老板炒股出身的，噶了无数韭菜战绩可查，七年本金从一万到一亿"
+    },
+    {
+      "id": "6a6c6793000000002902d509",
+      "t": 12,
+      "content": "白菜价呀 效果怎么样"
+    },
+    {
+      "id": "6a6e3080000000002902f93c",
+      "t": 13,
+      "content": "不用排队，处理速度比他内置的快多了"
+    },
+    {
+      "id": "7669265973443117861",
+      "t": 14,
+      "content": "你应该问世界的散户怎么办，大A只是你梁子的一个战场[捂脸]"
+    },
+    {
+      "id": "308467441201",
+      "t": 15,
+      "content": "回复 @dagan3200 :k3是fable5级别的，别闹"
+    },
+    {
+      "id": "7668950627455664911",
+      "t": 16,
+      "content": "用claude code 的话cli界面不友好 桌面版不能直连，还得装ccswitch，每次运行还得先运行ccswitch 我感觉还是codex直连效果好，"
+    },
+    {
+      "id": "308350760801",
+      "t": 17,
+      "content": "正式版的甲要比之前的要厚点，玩的没有之前尽兴了，还是说我没有找到正确的破限词。  我现在用的破限很简单，就一句话，之前的长篇大论反而用不了了。"
+    },
+    {
+      "id": "7668989566002447141",
+      "t": 16,
+      "content": "千问不可能活不下去的，ai这个板块阿里不可能抛，而背靠阿里也注定千问不会活不下去"
+    },
+    {
+      "id": "308453150385",
+      "t": 18,
+      "content": "请问大佬用的是codex吗？短信验证是什么过的？"
+    },
+    {
+      "id": "308495176545",
+      "t": 19,
+      "content": "跑分特化模型一群人吹[星星眼]"
+    },
+    {
+      "id": "311638877376",
+      "t": 20,
+      "content": "回复 @梅鲁m :我是作为辅助编程用的，下午花了2块钱左右"
+    },
+    {
+      "id": "311889287456",
+      "t": 21,
+      "content": "回复 @沐云better :人类即便教授专家都不超过顶级的大模型水平。人类学东西太慢了，ai 学东西指数级成长"
+    },
+    {
+      "id": "6a6d68cf000000000d028400",
+      "t": 22,
+      "content": "这个确实 没得黑"
+    },
+    {
+      "id": "311912206848",
+      "t": 6,
+      "content": "可以用来打游戏，就是浪费而已"
+    },
+    {
+      "id": "p11elb6",
+      "t": 23,
+      "content": "17t/s UD-Q8\\_K\\_XL tensor split on rtx pro 5000 and rtx 5090 and 192gb RAM. I want to make it fasterrrrr"
+    },
+    {
+      "id": "308603930177",
+      "t": 18,
+      "content": "我这有 50 一个月的"
+    },
+    {
+      "id": "311886198992",
+      "t": 24,
+      "content": "没绷住，小南梁的大赢鲸"
+    },
+    {
+      "id": "6a6dd009000000002a031529",
+      "t": 22,
+      "content": "叫a/是因为它做了很多逆天的事，别的公司没有，犯不上[汗颜R] 很多人玩梗都忘了本意了，竟然还看到有人因为glm涨价就叫z/，真是哄抬/价"
+    },
+    {
+      "id": "17925050",
+      "t": 25,
+      "content": "@jxl594 不仅便宜，而且还快"
+    },
+    {
+      "id": "7668876133953995569",
+      "t": 26,
+      "content": "luna是用的max强度吗？其他强度都是低智商吧"
+    },
+    {
+      "id": "308402698753",
+      "t": 27,
+      "content": "回复 @恰个瓜子儿 :铁被pro抽，放心吧[doge]"
+    },
+    {
+      "id": "311708043632",
+      "t": 18,
+      "content": "回复 @KawaYiLab : 加了视觉好歹做出来自己能review，一些不合理的地方应该会好不少"
+    },
+    {
+      "id": "308433900193",
+      "t": 21,
+      "content": "回复 @FY屑鸽子 :怎么可能只有一毛"
+    },
+    {
+      "id": "311723521040",
+      "t": 21,
+      "content": "回复 @11月的霄帮 :伪需求都来了"
+    },
+    {
+      "id": "308393454113",
+      "t": 27,
+      "content": "是三伏天的中旬[doge]"
+    },
+    {
+      "id": "308452548129",
+      "t": 28,
+      "content": "三连了老板[吃瓜][吃瓜][吃瓜]@Likely7Ai"
+    },
+    {
+      "id": "6a6c7453000000002a026696",
+      "t": 29,
+      "content": "我说无水印de[doge]"
+    },
+    {
+      "id": "311784169632",
+      "t": 30,
+      "content": "回复 @次世代牛马 :是的是的，经过我目前一天多一点的测试，现在主流Agent工具里，Z Code是跟v4 Flash相性最好的。"
+    },
+    {
+      "id": "311782811824",
+      "t": 30,
+      "content": "go 套餐的 Flash 不是满血的，官网直连的 API 才行"
+    }
+  ]
+}
