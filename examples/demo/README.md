@@ -14,6 +14,7 @@
 | [labels.jev.jsonl](0919-124001/labels.jev.jsonl) / [labels.deepseek.jsonl](0919-124001/labels.deepseek.jsonl) | 两侧各 10,000 条逐条标签，可通过 comment_id 关联原文 |
 | [report.jev.view.json](0919-124001/report.jev.view.json) / [report.deepseek.view.json](0919-124001/report.deepseek.view.json) | 完整报告的结构化视图、叙述与证据 |
 | [manifest.json](0919-124001/manifest.json) | 模型、并发参数、时间与数据指纹 |
+| [全量准确率报告](../../audit/accuracy-0919-124001/report.md) / [逐条核查表](../../audit/accuracy-0919-124001/逐条核查.csv) | GPT-6 Astra 独立复核全部 10,000 条，另随机 400 条复标；AI 参考结果，非人工金标准 |
 
 运行 `npm ci && npm start` 后，可直接打开 [本地完整报告](http://localhost:5173/report?runId=0919-124001)，顶部切换两侧。GitHub 不会直接执行 HTML，网页阅读请用本地服务或下载 HTML 文件。
 

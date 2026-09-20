@@ -1,6 +1,6 @@
 Audience: 看过演示视频、想用自己的评论复现的开发者与创作者。
 One-sentence value: 同一批评论输入两侧模型，比较结构化标签、速度与费用，并保存可回放结果。
-Primary proof: 本地应用截图；20 条合成数据和模拟端到端测试。
+Primary proof: 一万条历史运行的原速回放、速度与费用记录，以及 GPT-6 Astra 全量独立准确率复核。
 First successful action: npm ci && npm start，填写两侧设置后跑 20 条。
 Visual theme: 双侧赛道，共用输入，事件录像。
 Palette: #11151c / #f0f2f6 / #91e0bf / #a4c5ff / #a6adba
